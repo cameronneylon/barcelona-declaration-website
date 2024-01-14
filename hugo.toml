@@ -1,1 +1,5 @@
+baseURL = 'https://barcelona-declaration.org'
+languageCode = 'en-us'
+title = 'Barcelona Declaration'
+contentDir = 'content'
 theme = 'beautifulhugo'

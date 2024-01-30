@@ -16,6 +16,12 @@ body {
     color: white;
   }
 }
+
+.well {
+    background-color: #FFF8EA;
+    text-align: left;
+}
+
 .container[role=main] {
   margin-bottom:50px;
   flex: 1 0 auto;

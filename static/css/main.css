@@ -3,13 +3,14 @@
 body {
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
-  color: #494066;
+  color: #404040;
+  font-weight: 300;
   position: relative;
   background: #FBFAFA;
   display: flex;
   flex-flow: column;
   height: 100vh;
-  font-weight: 400;
+  
 }
 @media (prefers-color-scheme: dark) {
   body {

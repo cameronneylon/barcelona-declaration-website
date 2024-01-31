@@ -1,7 +1,7 @@
 /* --- General --- */
 
 body {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
   color: #494066;
   position: relative;
@@ -9,6 +9,7 @@ body {
   display: flex;
   flex-flow: column;
   height: 100vh;
+  font-weight: 400;
 }
 @media (prefers-color-scheme: dark) {
   body {
@@ -46,8 +47,8 @@ p a {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 500;
   color: #494066;
 }
 a {
@@ -92,7 +93,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -101,8 +102,8 @@ hr.small {
 }
 
 div.panel-body a.list-group-item {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
   border-radius: 0;
   border: none;
   font-size: 16px;
@@ -115,7 +116,7 @@ div.panel-group .panel+.panel {
 }
 
 div.panel-body a.list-group-item.view-all {
-  font-weight: 600;
+  font-weight: 700;
 }
 
 ::-moz-selection, ::selection {
@@ -159,7 +160,7 @@ figure:not(.dark) img, img.white {
 .navbar-custom {
   background: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 @media (prefers-color-scheme: dark) {
   .navbar-custom {
@@ -176,7 +177,7 @@ figure:not(.dark) img, img.white {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  font-weight: 700;
   color: #404040;
 }
 
@@ -368,7 +369,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
 }
@@ -387,7 +388,7 @@ footer div.disclaimer {
   background-color: #fdf5d4;
   border-left-color: #f1c40f;
   border-right-color: #f1c40f;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
 }
 
@@ -472,7 +473,7 @@ footer div.disclaimer {
   text-decoration: none;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -498,7 +499,7 @@ footer div.disclaimer {
   width: 192px;
 }
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: 700;
   float: right;
 }
 
@@ -511,7 +512,7 @@ footer div.disclaimer {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #999;
   font-size: 15px;
   margin-bottom: 30px;
@@ -548,7 +549,7 @@ footer div.disclaimer {
   }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 700px) {
   .post-image, .post-image img {
     height: 100px;
     width: 100px;
@@ -616,8 +617,8 @@ footer div.disclaimer {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400;
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
@@ -641,7 +642,7 @@ footer div.disclaimer {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -717,10 +718,10 @@ footer div.disclaimer {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: 1px;
   padding: 10px 5px;
   background: #FFF;
@@ -851,10 +852,10 @@ div.splitbox div.right {
 
 /* Delayed Disqus */
 .disqus-comments button {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: 1px;
   padding: 10px 5px;
   background: #FFF;

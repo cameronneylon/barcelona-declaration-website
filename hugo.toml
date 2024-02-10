@@ -1,4 +1,4 @@
-baseURL = "https://barcelona-declaration.org"
+baseURL = "https://dev.barcelona-declaration.org"
 languageCode = "en-us"
 title = "BARCELONA DECLARATION"
 contentdir = "content"

@@ -1,5 +1,36 @@
 baseURL = "https://dev.barcelona-declaration.org"
 languageCode = "en-us"
-title = "BARCELONA DECLARATION-DEV"
+title = "BARCELONA DECLARATION ON OPEN RESEARCH INFORMATION"
 contentdir = "content"
 theme = "beautifulhugo"
+
+[[menu.main]]
+    name = "Preamble"
+    url = "preamble/"
+    weight = 1
+
+[[menu.main]]
+    name = "Commitments"
+    url = "commitments/"
+    weight = 2
+
+[[menu.main]]
+    name = "Background and Context"
+    url = "background_and_context/"
+    weight = 3
+
+[[menu.main]]
+    name = "Definitions"
+    url = "definitions/"
+    weight = 4
+
+[[menu.main]]
+    name = "Signatories"
+    url = "signatories/"
+    weight = 5
+
+[[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 6
+

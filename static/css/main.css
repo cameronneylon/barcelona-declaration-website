@@ -57,7 +57,10 @@ h1,h2,h3,h4,h5,h6 {
   font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #494066;
+  text-align: left;
+  text-transform: uppercase;
 }
+
 a {
   color: #9792c1;
 }
@@ -165,7 +168,7 @@ figure:not(.dark) img, img.white {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
+  background: #fecf65;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -669,6 +672,9 @@ footer div.disclaimer {
   .intro-header .tags-heading h1,
   .intro-header .categories-heading h1 {
     font-size: 80px;
+    background: -webkit-linear-gradient(#9792c1, #494066);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;

@@ -4,10 +4,16 @@ title = "BARCELONA DECLARATION ON OPEN RESEARCH INFORMATION"
 contentdir = "content"
 theme = "beautifulhugo"
 
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
 [[menu.main]]
     name = "Preamble"
     url = "preamble/"
-    weight = 1
+    weight = 1.1
 
 [[menu.main]]
     name = "Commitments"

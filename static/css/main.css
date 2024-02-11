@@ -204,7 +204,7 @@ figure:not(.dark) img, img.white {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: white;
 }
 
 .navbar-custom .navbar-brand:hover,

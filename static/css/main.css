@@ -87,10 +87,10 @@ blockquote p:first-child {
 }
 hr.small {
   max-width: 100px;
-  margin: 15px auto;
   border-width: 4px;
   border-color: #FECF65;
   border-radius: 3px;
+  margin: 15px auto 15px 0;
 }
 
 .main-content {

@@ -8,3 +8,5 @@ comments = false
 # Commitments
 
 ipsum bacon blockusm jetsam
+
+![An icon representing openness via an open padlock](/images/icon_openness.png)

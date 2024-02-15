@@ -675,7 +675,7 @@ footer div.disclaimer {
   .intro-header .tags-heading h1,
   .intro-header .categories-heading h1 {
     font-size: 80px;
-    background: -webkit-linear-gradient(#AAA6BF, #494066);
+    background: -webkit-linear-gradient(#AAA6BF, #756e91, #494066, #494066);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }

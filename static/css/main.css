@@ -10,6 +10,7 @@ body {
   display: flex;
   flex-flow: column;
   height: 100vh;
+  padding-top: 50px /*prevent navbar overlaying body text for most screenwidhts (BK) */
   
 }
 @media (prefers-color-scheme: dark) {

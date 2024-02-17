@@ -10,7 +10,7 @@ body {
   display: flex;
   flex-flow: column;
   height: 100vh;
-  padding-top: 60px /*prevent navbar overlaying body text for most screenwidths (BK) */
+  /*padding-top: 60px */ /*prevent navbar overlaying body text for most screenwidths (BK) */
   
 }
 @media (prefers-color-scheme: dark) {
@@ -622,7 +622,7 @@ footer div.disclaimer {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 0 0 20px;
+  margin: 51px 0 20px;
   position: relative;
   background-color: #fbfafa;
 }
@@ -664,7 +664,7 @@ footer div.disclaimer {
 .intro-header .tags-heading h1,
 .intro-header .categories-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 65px; 
   background: -webkit-linear-gradient(#AAA6BF, #756e91, #494066, #494066);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -711,7 +711,7 @@ footer div.disclaimer {
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
-    margin-top: 78px;
+    margin-top: 71px;
   }
   .intro-header.big-img {
     margin-top: 0px;  /* Full navbar is small navbar + 20px padding on each side when expanded */

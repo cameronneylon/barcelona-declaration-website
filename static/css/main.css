@@ -10,6 +10,7 @@ body {
   display: flex;
   flex-flow: column;
   height: 100vh;
+  padding-top: 50px /*prevent navbar overlaying body text for most screenwidths (BK) */
   
 }
 @media (prefers-color-scheme: dark) {
@@ -20,7 +21,7 @@ body {
 }
 
 .well {
-    background-color: #F3F3F3;
+    background-color: #e8e6e4;
     text-align: left;
 }
 

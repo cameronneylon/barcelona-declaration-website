@@ -10,7 +10,7 @@ body {
   display: flex;
   flex-flow: column;
   height: 100vh;
-  padding-top: 50px /*prevent navbar overlaying body text for most screenwidths (BK) */
+  padding-top: 60px /*prevent navbar overlaying body text for most screenwidths (BK) */
   
 }
 @media (prefers-color-scheme: dark) {
@@ -366,7 +366,8 @@ figure:not(.dark) img, img.white {
 source: https://stackoverflow.com/questions/19827605/how-to-change-bootstrap-navbar-collapse-breakpoint
 */
 
-@media (max-width: 1081px) {
+/*@media (min-width: 768px) and (max-width: 1081px) { */
+@media (max-width: 1081px) {  
   .navbar-header {
       float: none;
   }

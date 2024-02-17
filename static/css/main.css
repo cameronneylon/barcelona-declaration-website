@@ -714,7 +714,7 @@ footer div.disclaimer {
     margin-top: 71px;
   }
   .intro-header.big-img {
-    margin-top: 0px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
+    margin-top: 71px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
@@ -740,6 +740,16 @@ footer div.disclaimer {
   padding: 20px 0;
   box-shadow: 0 0 5px #AAA;
 }
+
+@media only screen and (max-width: 600px) {
+  .intro-header .page-heading h1,
+  .intro-header .tags-heading h1,
+  .intro-header .categories-heading h1 {
+    font-size: 55px;
+  }
+}
+
+
 /* Many phones are 320 or 360px, so make sure images are a proper aspect ratio in those cases */
 .header-section.has-img .intro-header.no-img {
   display: none;

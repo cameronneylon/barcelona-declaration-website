@@ -748,9 +748,33 @@ footer div.disclaimer {
     font-size: 55px;
   }
   
-  .intro-header .post-heading h1 {
-    font-size: 25px; /* still to test (if relevant) */
+  /*.intro-header .post-heading h1 {
+    font-size: 35px;
+  } */ /* still to test (if using posts) */
   }
+  
+@media only screen and (max-width: 524px) {
+  .intro-header .page-heading h1,
+  .intro-header .tags-heading h1,
+  .intro-header .categories-heading h1 {
+    font-size: 45px;
+  }
+  
+  /*.intro-header .post-heading h1 {
+    font-size: 35px;
+  } */ /* still to test (if using posts) */
+}
+
+@media only screen and (max-width: 428px) {
+  .intro-header .page-heading h1,
+  .intro-header .tags-heading h1,
+  .intro-header .categories-heading h1 {
+    font-size: 35px;
+  }
+  
+  /*.intro-header .post-heading h1 {
+    font-size: 35px;
+  } */ /* still to test (if using posts) */
 }
 
 

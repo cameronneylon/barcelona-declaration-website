@@ -1,5 +1,5 @@
 baseURL = "https://barcelona-declaration.org"
 languageCode = "en-us"
-title = "BARCELONA DECLARATION"
+title = "Barcelona Declaration on Open Research Information"
 contentdir = "content"
 theme = "beautifulhugo"

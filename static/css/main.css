@@ -6,10 +6,11 @@ body {
   color: #404040;
   font-weight: 100;
   position: relative;
-  background: #FBFAFA;
+  background: #FFFFFF;
   display: flex;
   flex-flow: column;
   height: 100vh;
+  /*padding-top: 60px */ /*prevent navbar overlaying body text for most screenwidths (BK) */
   
 }
 @media (prefers-color-scheme: dark) {
@@ -20,7 +21,7 @@ body {
 }
 
 .well {
-    background-color: #F3F3F3;
+    background-color: #e8e6e4;
     text-align: left;
 }
 
@@ -57,7 +58,10 @@ h1,h2,h3,h4,h5,h6 {
   font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #494066;
+  text-align: left;
+  text-transform: uppercase;
 }
+
 a {
   color: #9792c1;
 }
@@ -84,10 +88,10 @@ blockquote p:first-child {
 }
 hr.small {
   max-width: 100px;
-  margin: 15px auto;
   border-width: 4px;
   border-color: #FECF65;
   border-radius: 3px;
+  margin: 15px auto 15px 0;
 }
 
 .main-content {
@@ -165,7 +169,7 @@ figure:not(.dark) img, img.white {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
+  background: #fecf65;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -186,6 +190,8 @@ figure:not(.dark) img, img.white {
 .navbar-custom .nav li a {
   font-weight: 700;
   color: #404040;
+  text-transform: uppercase;
+  font-size: 12px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -199,7 +205,7 @@ figure:not(.dark) img, img.white {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: white;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -232,7 +238,7 @@ figure:not(.dark) img, img.white {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 20px 0;
+    padding: 10px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -356,6 +362,50 @@ figure:not(.dark) img, img.white {
   }
 }
 
+/* add to try and collapse navbar earlier (BK)
+source: https://stackoverflow.com/questions/19827605/how-to-change-bootstrap-navbar-collapse-breakpoint
+*/
+
+/*@media (min-width: 768px) and (max-width: 1081px) { */
+@media (max-width: 1081px) {  
+  .navbar-header {
+      float: none;
+  }
+  .navbar-left,.navbar-right {
+      float: none !important;
+  }
+  .navbar-toggle {
+      display: block;
+  }
+  .navbar-collapse {
+      border-top: 1px solid transparent;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+  }
+  .navbar-fixed-top {
+      top: 0;
+      border-width: 0 0 1px;
+  }
+  .navbar-collapse.collapse {
+      display: none!important;
+  }
+  .navbar-nav {
+      float: none!important;
+      margin-top: 7.5px;
+  }
+  .navbar-nav>li {
+      float: none;
+  }
+  .navbar-nav>li>a {
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+  .collapse.in{
+      display:block !important;
+  }
+}
+
+
+
 /* --- Footer --- */
 
 footer {
@@ -401,7 +451,7 @@ footer div.disclaimer {
 
 @media only screen and (min-width: 768px) {
   footer {
-    padding: 50px 0;
+    padding: 20px 0;
   }
   footer .footer-links {
     font-size: 18px;
@@ -572,8 +622,10 @@ footer div.disclaimer {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 80px 0 20px;
+  margin: 51px 0 20px;
+  padding: 5% 0;
   position: relative;
+  background-color: #fbfafa;
 }
 .intro-header.big-img {
   background: no-repeat center center;
@@ -613,8 +665,12 @@ footer div.disclaimer {
 .intro-header .tags-heading h1,
 .intro-header .categories-heading h1 {
   margin-top: 0;
-  font-size: 50px;
-}
+  font-size: 65px; 
+  background: -webkit-linear-gradient(#AAA6BF, #756e91, #494066, #494066);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  }
+  
 .intro-header .post-heading h1 {
   margin-top: 0;
   font-size: 35px;
@@ -656,10 +712,10 @@ footer div.disclaimer {
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
-    margin-top: 130px;
+    margin-top: 71px;
   }
   .intro-header.big-img {
-    margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
+    margin-top: 71px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
@@ -668,7 +724,7 @@ footer div.disclaimer {
   .intro-header .page-heading h1,
   .intro-header .tags-heading h1,
   .intro-header .categories-heading h1 {
-    font-size: 80px;
+    font-size: 70px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
@@ -680,11 +736,49 @@ footer div.disclaimer {
 
 .header-section.has-img .no-img {
   margin-top: 0;
-  background: #FCFCFC;
+  background: #ffffff;
   margin: 0 0 40px;
   padding: 20px 0;
   box-shadow: 0 0 5px #AAA;
 }
+
+@media only screen and (max-width: 600px) {
+  .intro-header .page-heading h1,
+  .intro-header .tags-heading h1,
+  .intro-header .categories-heading h1 {
+    font-size: 55px;
+  }
+  
+  /*.intro-header .post-heading h1 {
+    font-size: 35px;
+  } */ /* still to test (if using posts) */
+  }
+  
+@media only screen and (max-width: 524px) {
+  .intro-header .page-heading h1,
+  .intro-header .tags-heading h1,
+  .intro-header .categories-heading h1 {
+    font-size: 45px;
+  }
+  
+  /*.intro-header .post-heading h1 {
+    font-size: 35px;
+  } */ /* still to test (if using posts) */
+}
+
+@media only screen and (max-width: 428px) {
+  .intro-header .page-heading h1,
+  .intro-header .tags-heading h1,
+  .intro-header .categories-heading h1 {
+    font-size: 35px;
+  }
+  
+  /*.intro-header .post-heading h1 {
+    font-size: 35px;
+  } */ /* still to test (if using posts) */
+}
+
+
 /* Many phones are 320 or 360px, so make sure images are a proper aspect ratio in those cases */
 .header-section.has-img .intro-header.no-img {
   display: none;

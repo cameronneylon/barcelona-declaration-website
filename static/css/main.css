@@ -54,7 +54,7 @@ p a {
   }
 }
 
-h1 {
+h1,h2,h3,h4,h5,h6 {
   font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #494066;
@@ -66,77 +66,34 @@ h1 {
 /* testing out defining classes for H1 */
 
 h1.weight_100 {
+  font-family:  'Roboto';
   font-weight: 100;
 }
 
 h1.weight_300 {
+  font-family:  'Roboto';
   font-weight: 300;
 }
 
 h1.weight_400 {
+  font-family:  'Roboto';
   font-weight: 400;
 }
 
 h1.weight_500 {
+  font-family:  'Roboto';
   font-weight: 500;
 }
 
 h1.weight_700 {
+  font-family:  'Roboto';
   font-weight: 700;
 }
 
 h1.weight_900 {
+  font-family:  'Roboto';
   font-weight: 900;
 }
-
-
-
-/* testing out different font-weights by applying to h2-h6 */
-h2 {
-  font-family:  'Roboto';
-  font-size: 36px;
-  font-weight: 100;
-  color: #494066;
-  text-align: left;
-  text-transform: uppercase;
-}
-
-h3 {
-  font-family:  'Roboto';
-  font-size: 36px;
-  font-weight: 300;
-  color: #494066;
-  text-align: left;
-  text-transform: uppercase;
-}
-
-h4 {
-  font-family:  'Roboto';
-   font-size: 36px;
-  font-weight: 400;
-  color: #494066;
-  text-align: left;
-  text-transform: uppercase;
-}
-
-h5 {
-  font-family:  'Roboto';
-   font-size: 36px;
-  font-weight: 500;
-  color: #494066;
-  text-align: left;
-  text-transform: uppercase;
-}
-
-h6 {
-  font-family:  'Roboto';
-   font-size: 36px;
-  font-weight: 700;
-  color: #494066;
-  text-align: left;
-  text-transform: uppercase;
-}
-/* end of testing */
 
 
 a {

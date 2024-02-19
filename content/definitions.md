@@ -10,42 +10,34 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-default
+h1 - default (500)
 {{< rawhtml >}}
-<h1> Barcelona Declaration</h1>
+<h1> Barcelona Declaration </h1>
 {{< /rawhtml >}}
 
-100
+h2 - 100
 {{< rawhtml >}}
-<h1 class="100"> Barcelona Declaration</h1>
+<h2> Barcelona Declaration </h2>
 {{< /rawhtml >}}
 
-100
+h3 - 300
 {{< rawhtml >}}
-<h1 class="100"> Barcelona Declaration</h1>
+<h3> Barcelona Declaration </h3>
 {{< /rawhtml >}}
 
-300
+h4 - 400
 {{< rawhtml >}}
-<h1 class="300"> Barcelona Declaration</h1>
+<h4> Barcelona Declaration </h4>
 {{< /rawhtml >}}
 
-400
+h5 - 500
 {{< rawhtml >}}
-<h1 class="400"> Barcelona Declaration</h1>
+<h5> Barcelona Declaration </h5>
 {{< /rawhtml >}}
 
-500
+h6 - 700
 {{< rawhtml >}}
-<h1 class="500"> Barcelona Declaration</h1>
+<h6> Barcelona Declaration</h6>
 {{< /rawhtml >}}
 
-700
-{{< rawhtml >}}
-<h1 class="700"> Barcelona Declaration</h1>
-{{< /rawhtml >}}
 
-900
-{{< rawhtml >}}
-<h1 class="900"> Barcelona Declaration</h1>
-{{< /rawhtml >}}

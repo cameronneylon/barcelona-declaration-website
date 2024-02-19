@@ -54,7 +54,7 @@ p a {
   }
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1 {
   font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #494066;
@@ -62,32 +62,47 @@ h1,h2,h3,h4,h5,h6 {
   text-transform: uppercase;
 }
 
-/* weight testing */
-h1.100 {
+h2 {
+  font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 100;
+  color: #494066;
+  text-align: left;
+  text-transform: uppercase;
 }
 
-h1.300 {
+h3 {
+  font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
+  color: #494066;
+  text-align: left;
+  text-transform: uppercase;
 }
 
-h1.400 {
+h4 {
+  font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 400;
+  color: #494066;
+  text-align: left;
+  text-transform: uppercase;
 }
 
-h1.500 {
+h5 {
+  font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 500;
+  color: #494066;
+  text-align: left;
+  text-transform: uppercase;
 }
 
-h1.700 {
+h6 {
+  font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
+  color: #494066;
+  text-align: left;
+  text-transform: uppercase;
 }
 
-h1.900 {
-  font-weight: 900;
-}
 
-/*end testing */
 
 a {
   color: #9792c1;

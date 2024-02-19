@@ -3,3 +3,6 @@ languageCode = "en-us"
 title = "Barcelona Declaration on Open Research Information"
 contentdir = "content"
 theme = "beautifulhugo"
+
+[Params]
+  selfHosted = true

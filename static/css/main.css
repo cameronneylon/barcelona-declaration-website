@@ -62,8 +62,38 @@ h1 {
   text-transform: uppercase;
 }
 
+
+/* testing out defining classes for H1 */
+
+h1.weight_100 {
+  font-weight: 100;
+}
+
+h1.weight_300 {
+  font-weight: 300;
+}
+
+h1.weight_400 {
+  font-weight: 400;
+}
+
+h1.weight_500 {
+  font-weight: 500;
+}
+
+h1.weight_700 {
+  font-weight: 700;
+}
+
+h1.weight_900 {
+  font-weight: 900;
+}
+
+
+
+/* testing out different font-weights by applying to h2-h6 */
 h2 {
-  font-family:  'Roboto';
+  font-family:  'Open Sans';
   font-size: 36px;
   font-weight: 100;
   color: #494066;
@@ -72,7 +102,7 @@ h2 {
 }
 
 h3 {
-  font-family:  'Roboto';
+  font-family:  'Open Sans';
   font-size: 36px;
   font-weight: 300;
   color: #494066;
@@ -81,7 +111,7 @@ h3 {
 }
 
 h4 {
-  font-family:  'Roboto';
+  font-family:  'Open Sans';
    font-size: 36px;
   font-weight: 400;
   color: #494066;
@@ -90,7 +120,7 @@ h4 {
 }
 
 h5 {
-  font-family:  'Roboto';
+  font-family:  'Open Sans';
    font-size: 36px;
   font-weight: 500;
   color: #494066;
@@ -99,14 +129,14 @@ h5 {
 }
 
 h6 {
-  font-family:  'Roboto';
+  font-family:  'Open Sans';
    font-size: 36px;
   font-weight: 700;
   color: #494066;
   text-align: left;
   text-transform: uppercase;
 }
-
+/* end of testing */
 
 
 a {

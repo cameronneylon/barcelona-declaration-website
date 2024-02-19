@@ -93,7 +93,7 @@ h1.weight_900 {
 
 /* testing out different font-weights by applying to h2-h6 */
 h2 {
-  font-family:  'Open Sans';
+  font-family:  'Roboto';
   font-size: 36px;
   font-weight: 100;
   color: #494066;
@@ -102,7 +102,7 @@ h2 {
 }
 
 h3 {
-  font-family:  'Open Sans';
+  font-family:  'Roboto';
   font-size: 36px;
   font-weight: 300;
   color: #494066;
@@ -111,7 +111,7 @@ h3 {
 }
 
 h4 {
-  font-family:  'Open Sans';
+  font-family:  'Roboto';
    font-size: 36px;
   font-weight: 400;
   color: #494066;
@@ -120,7 +120,7 @@ h4 {
 }
 
 h5 {
-  font-family:  'Open Sans';
+  font-family:  'Roboto';
    font-size: 36px;
   font-weight: 500;
   color: #494066;
@@ -129,7 +129,7 @@ h5 {
 }
 
 h6 {
-  font-family:  'Open Sans';
+  font-family:  'Roboto';
    font-size: 36px;
   font-weight: 700;
   color: #494066;

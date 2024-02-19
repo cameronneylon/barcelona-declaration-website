@@ -62,6 +62,33 @@ h1,h2,h3,h4,h5,h6 {
   text-transform: uppercase;
 }
 
+/* weight testing */
+h1.100 {
+  font-weight: 100;
+}
+
+h1.300 {
+  font-weight: 300;
+}
+
+h1.400 {
+  font-weight: 400;
+}
+
+h1.500 {
+  font-weight: 500;
+}
+
+h1.700 {
+  font-weight: 700;
+}
+
+h1.900 {
+  font-weight: 900;
+}
+
+/*end testing */
+
 a {
   color: #9792c1;
 }

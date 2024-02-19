@@ -6,5 +6,8 @@ comments = false
 +++
 
 # Definitions
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
 
 ipsum bacon blockusm jetsam

@@ -13,7 +13,7 @@ comments = false
 {{< columns >}}
 **Font: default (Roboto prioritized)** 
 
-h1 - default (500)
+h1 - default (400)
 {{< rawhtml >}}
 <h1> Barcelona</h1>
 {{< /rawhtml >}}
@@ -51,7 +51,7 @@ h1 - default (500)
 {{< column >}}
 **Font: Roboto (priority 1)** 
 
-h1 - default (500)
+h1 - default (400)
 {{< rawhtml >}}
 <h1> Barcelona</h1>
 {{< /rawhtml >}}
@@ -93,7 +93,7 @@ h1 - default (500)
 {{< /rawhtml >}}
 **Font: Open Sans (priority 2)** 
 
-h1 - default (500)
+h1 - default (400)
 {{< rawhtml >}}
 <h1> Barcelona</h1>
 {{< /rawhtml >}}
@@ -134,7 +134,7 @@ h1 - default (500)
 {{< /rawhtml >}}
 **Font: Helvetica Neue (priority 3)** 
 
-h1 - default (500)
+h1 - default (400)
 {{< rawhtml >}}
 <h1> Barcelona</h1>
 {{< /rawhtml >}}
@@ -176,7 +176,7 @@ h1 - default (500)
 {{< /rawhtml >}}
 **Font: Helvetica (priority 4)** 
 
-h1 - default (500)
+h1 - default (400)
 {{< rawhtml >}}
 <h1> Barcelona</h1>
 {{< /rawhtml >}}
@@ -217,7 +217,7 @@ h1 - default (500)
 {{< /rawhtml >}}
 **Font: Arial (priority 5)** 
 
-h1 - default (500)
+h1 - default (400)
 {{< rawhtml >}}
 <h1> Barcelona</h1>
 {{< /rawhtml >}}
@@ -259,7 +259,7 @@ h1 - default (500)
 {{< /rawhtml >}}
 **Font: sans-serif (priority 6)** 
 
-h1 - default (500)
+h1 - default (400)
 {{< rawhtml >}}
 <h1> Barcelona</h1>
 {{< /rawhtml >}}

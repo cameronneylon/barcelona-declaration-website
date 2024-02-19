@@ -54,13 +54,60 @@ p a {
   }
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1 {
   font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #494066;
   text-align: left;
   text-transform: uppercase;
 }
+
+h2 {
+  font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 36px;
+  font-weight: 100;
+  color: #494066;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  color: #494066;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+h4 {
+  font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-size: 36px;
+  font-weight: 400;
+  color: #494066;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+h5 {
+  font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-size: 36px;
+  font-weight: 500;
+  color: #494066;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+h6 {
+  font-family:  'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-size: 36px;
+  font-weight: 700;
+  color: #494066;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+
 
 a {
   color: #9792c1;

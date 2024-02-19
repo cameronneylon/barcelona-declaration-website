@@ -6,5 +6,8 @@ comments = false
 +++
 
 # Preamble
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
 
 ipsum bacon blockusm jetsam

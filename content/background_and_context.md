@@ -6,5 +6,8 @@ comments = false
 +++
 
 # Background and context
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
 
 ipsum bacon blockusm jetsam

@@ -584,7 +584,7 @@ figure:not(.dark) img, img.white {
 source: https://stackoverflow.com/questions/19827605/how-to-change-bootstrap-navbar-collapse-breakpoint
 */
 
-/*@media (min-width: 768px) and (max-width: 1081px) { */
+/*@media (min-width: 768px) and (max-width: 1096px) { */
 @media (max-width: 1096px) {  
   .navbar-header {
       float: none;

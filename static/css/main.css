@@ -183,7 +183,7 @@ figure:not(.dark) img, img.white {
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 13px; /*12px*/
   letter-spacing: 1px;
 }
 
@@ -192,7 +192,7 @@ figure:not(.dark) img, img.white {
   font-weight: 700;
   color: #404040;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 13px; /*12px*/
 }
 
 @media (prefers-color-scheme: dark) {

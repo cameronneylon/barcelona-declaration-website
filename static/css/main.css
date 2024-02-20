@@ -997,6 +997,13 @@ footer div.disclaimer {
   } */ /* still to test (if using posts) */
 }
 
+/* freeze padding after navbar collapse point */
+/* position after font size adjustments */
+@media (min-width: 1096px) { 
+  .intro-header {
+  padding: 53px 0;
+}
+
 
 /* Many phones are 320 or 360px, so make sure images are a proper aspect ratio in those cases */
 .header-section.has-img .intro-header.no-img {

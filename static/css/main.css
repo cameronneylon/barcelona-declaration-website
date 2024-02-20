@@ -400,7 +400,7 @@ figure:not(.dark) img, img.white {
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 13px; /*12px*/
   letter-spacing: 1px;
 }
 
@@ -409,7 +409,7 @@ figure:not(.dark) img, img.white {
   font-weight: 700;
   color: #404040;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 13px; /*12px*/
 }
 
 @media (prefers-color-scheme: dark) {
@@ -585,7 +585,7 @@ source: https://stackoverflow.com/questions/19827605/how-to-change-bootstrap-nav
 */
 
 /*@media (min-width: 768px) and (max-width: 1081px) { */
-@media (max-width: 1081px) {  
+@media (max-width: 1096px) {  
   .navbar-header {
       float: none;
   }
@@ -928,6 +928,15 @@ footer div.disclaimer {
   bottom: 0;
   display: none;
 }
+
+.header-section.has-img .no-img {
+  margin-top: 0;
+  background: #ffffff;
+  margin: 0 0 40px;
+  padding: 20px 0;
+  box-shadow: 0 0 5px #AAA;
+}
+
 @media only screen and (min-width: 768px) {
   .intro-header {
     margin-top: 71px;
@@ -950,14 +959,6 @@ footer div.disclaimer {
   .intro-header.big-img .img-desc {
     font-size: 14px;
   }
-}
-
-.header-section.has-img .no-img {
-  margin-top: 0;
-  background: #ffffff;
-  margin: 0 0 40px;
-  padding: 20px 0;
-  box-shadow: 0 0 5px #AAA;
 }
 
 @media only screen and (max-width: 600px) {

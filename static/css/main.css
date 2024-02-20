@@ -364,9 +364,11 @@ figure:not(.dark) img, img.white {
 }
 
 /* add to try and collapse navbar earlier (BK)
-source: https://stackoverflow.com/questions/19827605/how-to-change-bootstrap-navbar-collapse-breakpoint
+source: https://stackoverflow.com/questions/19827605/how-to-change-bootstrap-navbar-collapse-breakpoint */ 
+/* hide until menu elements added */ 
 
 /*@media (min-width: 768px) and (max-width: 1096px) { */
+/*
 @media (max-width: 1096px) {  
   .navbar-header {
       float: none;
@@ -403,7 +405,6 @@ source: https://stackoverflow.com/questions/19827605/how-to-change-bootstrap-nav
       display:block !important;
   }
 }
-
 */
 
 /* --- Footer --- */

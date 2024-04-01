@@ -3,13 +3,14 @@
 body {
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
-  color: #404040;
+  color: #3c3c3b;
   font-weight: 300;
   position: relative;
   background: #FFFFFF;
   display: flex;
   flex-flow: column;
   height: 100vh;
+  /* line height is set below in p{} */
   /*padding-top: 60px */ /*prevent navbar overlaying body text for most screenwidths (BK) */
   
 }
@@ -43,7 +44,7 @@ body {
 }
 
 p {
-  line-height: 1.8;
+  line-height: 1.8; /* this is where line height is set */
   margin: 6px 0;
 }
 p + p {

@@ -27,12 +27,6 @@ body {
     text-align: left;
 }
 
-.well_secondary {
-    background-color: #FECF65;
-    text-align: left;
-    padding: 5%;
-}
-
 .container[role=main] {
   margin-bottom:50px;
   flex: 1 0 auto;

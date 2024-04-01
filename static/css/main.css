@@ -25,6 +25,11 @@ body {
     text-align: left;
 }
 
+.well2 {
+    background-color: #FECF65;
+    text-align: left;
+}
+
 .container[role=main] {
   margin-bottom:50px;
   flex: 1 0 auto;

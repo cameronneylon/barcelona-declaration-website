@@ -10,7 +10,7 @@ body {
   display: flex;
   flex-flow: column;
   height: 100vh;
-  line-height: 180%;
+  /* line height is set below in p{} */
   /*padding-top: 60px */ /*prevent navbar overlaying body text for most screenwidths (BK) */
   
 }
@@ -44,7 +44,7 @@ body {
 }
 
 p {
-  line-height: 1.8;
+  line-height: 1.8; /* this is where line height is set */
   margin: 6px 0;
 }
 p + p {

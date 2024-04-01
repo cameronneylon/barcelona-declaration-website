@@ -10,289 +10,38 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-{{< columns >}}
-**Font: default (Roboto prioritized)** 
+### Research Information
 
-h1 - default (400)
-{{< rawhtml >}}
-<h1> Barcelona</h1>
-{{< /rawhtml >}}
+By *research information* we mean information (sometimes referred to as metadata) relating to the conduct and communication of research. This includes, but is not limited to, (1) bibliographic metadata such as titles, abstracts, references, author data, affiliation data, and data on publication venues, (2) metadata on research software, research data, samples, and instruments, (3) information on funding and grants, and (4) information on organizations and research contributors. Research information is located in systems such as bibliographic databases, software archives, data repositories, and current research information systems.
 
-100
-{{< rawhtml >}}
-<h1 class="weight_100"> Barcelona</h1>
-{{< /rawhtml >}}
+### Open research information
 
-300
-{{< rawhtml >}}
-<h1 class="weight_300"> Barcelona </h1>
-{{< /rawhtml >}}
+By *open research information* we mean research information that is free to access and free of restrictions on reuse. Openness of research information is a spectrum, not an absolute. Just like research data should ideally adhere to the [FAIR principles for Findability, Accessibility, Interoperability, and Reusability](https://doi.org/10.1038/sdata.2016.18 "https://doi.org/10.1038/sdata.2016.18"), open research information should ideally also follow these principles. If the highest levels of Findability, Accessibility, Interoperability, and Reusability are realized, research information is both open and FAIR. This for instance requires:
 
-400
-{{< rawhtml >}}
-<h1 class="weight_400"> Barcelona </h1>
-{{< /rawhtml >}}
+* The use of standardized protocols and persistent identifiers to support high levels of Findability and Interoperability;
 
-500
-{{< rawhtml >}}
-<h1 class="weight_500"> Barcelona </h1>
-{{< /rawhtml >}}
+* Lodging of metadata in widely used repositories and transfer systems to support Findability and Accessibility;
 
-700
-{{< rawhtml >}}
-<h1 class="weight_700"> Barcelona </h1>
-{{< /rawhtml >}}
+* The application of a Creative Commons CC0 waiver or public domain dedication as appropriate to support Interoperability and Reusability;
 
-900
-{{< rawhtml >}}
-<h1 class="weight_900"> Barcelona </h1>
-{{< /rawhtml >}}
+* Transparency of processing and provenance to support Interoperability and Reusability;
 
-{{< column >}}
-**Font: Roboto (priority 1)** 
+* The use of infrastructures that provide standard and open interfaces
 
-h1 - default (400)
-{{< rawhtml >}}
-<h1> Barcelona</h1>
-{{< /rawhtml >}}
+Research information that cannot be ethically shared, including information that has privacy implications, should not be made open. In some cases, aggregated forms of privacy implicating research information can be made open. However, this should be assessed on a case by case basis in the context of relevant regulations and legal requirements.
 
-100
-{{< rawhtml >}}
-<h1 class="weight_100_roboto"> Barcelona</h1>
-{{< /rawhtml >}}
 
-300
-{{< rawhtml >}}
-<h1 class="weight_300_roboto"> Barcelona </h1>
-{{< /rawhtml >}}
+### Publishing
 
-400
-{{< rawhtml >}}
-<h1 class="weight_400_roboto"> Barcelona </h1>
-{{< /rawhtml >}}
+By *publishing* we mean the act of making the outputs of research generally available for consumption, use, and critique. This includes, but is not limited to, the formal publication of textual outputs such as journal articles or scholarly books, the posting of reports and other non-peer-reviewed outputs, and the sharing of research data and research software through appropriate repositories. It may also include the release of creative works, including sculpture, visual art, film or video, or other artifacts, where they are intended to represent or communicate the results of a research process.
 
-500
-{{< rawhtml >}}
-<h1 class="weight_500_roboto"> Barcelona </h1>
-{{< /rawhtml >}}
+It is intended that the meaning of *publishing* includes cases where the audience is limited, for instance where access is limited to subscribers, but does not include private and confidential reports or other documents that are not intended for general circulation. Publishing is separate to *archival*, where the intent is long term preservation. Some, but not all, publishing platforms also support archival through the publishing process.
 
-700
-{{< rawhtml >}}
-<h1 class="weight_700_roboto"> Barcelona </h1>
-{{< /rawhtml >}}
+### Scholarly infrastructures
 
-900
-{{< rawhtml >}}
-<h1 class="weight_900_roboto"> Barcelona </h1>
-{{< /rawhtml >}}
-{{< endcolumns >}}
+By *scholarly infrastructures* we mean infrastructures through which research information is shared. A precise definition of infrastructures is challenging. A key characteristic of infrastructures is that they are foundational. For instance, they are used by a diversity of actors for differing purposes, other systems depend on them, and they are built to be shared by a community of users. Another characteristic of infrastructures is that they are not visible to end users of services, with dependencies only becoming clear when infrastructures fail.
 
-{{< columns >}}
-{{< rawhtml >}}
-<hr class="small">
-{{< /rawhtml >}}
-**Font: Open Sans (priority 2)** 
 
-h1 - default (400)
-{{< rawhtml >}}
-<h1> Barcelona</h1>
-{{< /rawhtml >}}
+### Open scholarly infrastructures
 
-100
-{{< rawhtml >}}
-<h1 class="weight_100_open_sans"> Barcelona</h1>
-{{< /rawhtml >}}
-
-300
-{{< rawhtml >}}
-<h1 class="weight_300_open_sans"> Barcelona </h1>
-{{< /rawhtml >}}
-
-400
-{{< rawhtml >}}
-<h1 class="weight_400_open_sans"> Barcelona </h1>
-{{< /rawhtml >}}
-
-500
-{{< rawhtml >}}
-<h1 class="weight_500_open_sans"> Barcelona </h1>
-{{< /rawhtml >}}
-
-700
-{{< rawhtml >}}
-<h1 class="weight_700_open_sans"> Barcelona </h1>
-{{< /rawhtml >}}
-
-900
-{{< rawhtml >}}
-<h1 class="weight_900_open_sans"> Barcelona </h1>
-{{< /rawhtml >}}
-
-{{< column >}}
-{{< rawhtml >}}
-<hr class="small">
-{{< /rawhtml >}}
-**Font: Helvetica Neue (priority 3)** 
-
-h1 - default (400)
-{{< rawhtml >}}
-<h1> Barcelona</h1>
-{{< /rawhtml >}}
-
-100
-{{< rawhtml >}}
-<h1 class="weight_100_helvetica_neue"> Barcelona</h1>
-{{< /rawhtml >}}
-
-300
-{{< rawhtml >}}
-<h1 class="weight_300_helvetica_neue"> Barcelona </h1>
-{{< /rawhtml >}}
-
-400
-{{< rawhtml >}}
-<h1 class="weight_400_helvetica_neue"> Barcelona </h1>
-{{< /rawhtml >}}
-
-500
-{{< rawhtml >}}
-<h1 class="weight_500_helvetica_neue"> Barcelona </h1>
-{{< /rawhtml >}}
-
-700
-{{< rawhtml >}}
-<h1 class="weight_700_helvetica_neue"> Barcelona </h1>
-{{< /rawhtml >}}
-
-900
-{{< rawhtml >}}
-<h1 class="weight_900_helvetica_neue"> Barcelona </h1>
-{{< /rawhtml >}}
-{{< endcolumns >}}
-
-{{< columns >}}
-{{< rawhtml >}}
-<hr class="small">
-{{< /rawhtml >}}
-**Font: Helvetica (priority 4)** 
-
-h1 - default (400)
-{{< rawhtml >}}
-<h1> Barcelona</h1>
-{{< /rawhtml >}}
-
-100
-{{< rawhtml >}}
-<h1 class="weight_100_helvetica"> Barcelona</h1>
-{{< /rawhtml >}}
-
-300
-{{< rawhtml >}}
-<h1 class="weight_300_helvetica"> Barcelona </h1>
-{{< /rawhtml >}}
-
-400
-{{< rawhtml >}}
-<h1 class="weight_400_helvetica"> Barcelona </h1>
-{{< /rawhtml >}}
-
-500
-{{< rawhtml >}}
-<h1 class="weight_500_helvetica"> Barcelona </h1>
-{{< /rawhtml >}}
-
-700
-{{< rawhtml >}}
-<h1 class="weight_700_helvetica"> Barcelona </h1>
-{{< /rawhtml >}}
-
-900
-{{< rawhtml >}}
-<h1 class="weight_900_helvetica"> Barcelona </h1>
-{{< /rawhtml >}}
-
-{{< column >}}
-{{< rawhtml >}}
-<hr class="small">
-{{< /rawhtml >}}
-**Font: Arial (priority 5)** 
-
-h1 - default (400)
-{{< rawhtml >}}
-<h1> Barcelona</h1>
-{{< /rawhtml >}}
-
-100
-{{< rawhtml >}}
-<h1 class="weight_100_arial"> Barcelona</h1>
-{{< /rawhtml >}}
-
-300
-{{< rawhtml >}}
-<h1 class="weight_300_arial"> Barcelona </h1>
-{{< /rawhtml >}}
-
-400
-{{< rawhtml >}}
-<h1 class="weight_400_arial"> Barcelona </h1>
-{{< /rawhtml >}}
-
-500
-{{< rawhtml >}}
-<h1 class="weight_500_arial"> Barcelona </h1>
-{{< /rawhtml >}}
-
-700
-{{< rawhtml >}}
-<h1 class="weight_700_arial"> Barcelona </h1>
-{{< /rawhtml >}}
-
-900
-{{< rawhtml >}}
-<h1 class="weight_900_arial"> Barcelona </h1>
-{{< /rawhtml >}}
-{{< endcolumns >}}
-
-{{< columns >}}
-{{< rawhtml >}}
-<hr class="small">
-{{< /rawhtml >}}
-**Font: sans-serif (priority 6)** 
-
-h1 - default (400)
-{{< rawhtml >}}
-<h1> Barcelona</h1>
-{{< /rawhtml >}}
-
-100
-{{< rawhtml >}}
-<h1 class="weight_100_sans_serif"> Barcelona</h1>
-{{< /rawhtml >}}
-
-300
-{{< rawhtml >}}
-<h1 class="weight_300_sans_serif"> Barcelona </h1>
-{{< /rawhtml >}}
-
-400
-{{< rawhtml >}}
-<h1 class="weight_400_sans_serif"> Barcelona </h1>
-{{< /rawhtml >}}
-
-500
-{{< rawhtml >}}
-<h1 class="weight_500_sans_serif"> Barcelona </h1>
-{{< /rawhtml >}}
-
-700
-{{< rawhtml >}}
-<h1 class="weight_700_sans_serif"> Barcelona </h1>
-{{< /rawhtml >}}
-
-900
-{{< rawhtml >}}
-<h1 class="weight_900_sans_serif"> Barcelona </h1>
-{{< /rawhtml >}}
-
-{{< column >}}
-{{< endcolumns >}}
+By *open scholarly infrastructures* we mean scholarly infrastructures that provide trustworthy assurances of openness, community accountability, stability, transparency, and reliability. A commitment to adhere to the [Principles of Open Scholarly Infrastructure (POSI)](https://openscholarlyinfrastructure.org/), with regular updates on performance and improvements, provides a means by which a scholarly infrastructure can provide assurances to the community that it qualifies for the level of trust accorded to an open scholarly infrastructure.

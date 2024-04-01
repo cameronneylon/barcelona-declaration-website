@@ -24,12 +24,12 @@ body {
 
 .well {
     background-color: #e8e6e4;
-    text-align: justify;
+    text-align: left;
 }
 
 .well_secondary {
     background-color: #FECF65;
-    text-align: justify;
+    text-align: left;
     padding: 5%;
 }
 

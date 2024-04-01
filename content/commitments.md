@@ -19,6 +19,10 @@ we use and produce**
 
 * Openness will be the norm for the research information we produce, for instance information about our activities and outputs, with an exception for information for which openness would be inappropriate ('as open as possible, as closed as necessary').
 
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
+
 ## 2
 **We will work with services and systems that support
 and enable open research information**
@@ -27,6 +31,9 @@ and enable open research information**
 
 * For systems and platforms for the internal management of research information (e.g., current research information systems), we will require that all relevant research information can be exported and made open, using standard protocols and identifiers where available.
 
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
 
 ## 3
 **We will support the sustainability of infrastructures
@@ -36,6 +43,9 @@ for open research information**
 
 * We expect the infrastructures that we support to implement good practices for community governance and sustainability (e.g., Principles of Open Scholarly Infrastructure).
 
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
 
 ## 4
 **We will support collective action to accelerate the transition

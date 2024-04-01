@@ -48,7 +48,7 @@ p {
   margin: 6px 0;
 }
 p + p {
-    margin: 24px 0 6px 0;
+    margin: 32px 0 6px 0;
 }
 p a {
   /* text-decoration: underline */
@@ -71,6 +71,7 @@ h1 {
   text-transform: uppercase;
 }
 
+}
 a {
   color: #9792c1;
 }

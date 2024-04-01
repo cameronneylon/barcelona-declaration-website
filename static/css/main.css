@@ -10,6 +10,7 @@ body {
   display: flex;
   flex-flow: column;
   height: 100vh;
+  line-height: 180%;
   /*padding-top: 60px */ /*prevent navbar overlaying body text for most screenwidths (BK) */
   
 }

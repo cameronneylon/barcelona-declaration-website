@@ -9,7 +9,7 @@ Organizations that wish to sign the Declaration are welcome to reach out to [con
 
 
 {{< columns >}}
-## Signatories
+# Signatories
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
@@ -19,7 +19,7 @@ Organizations that wish to sign the Declaration are welcome to reach out to [con
 * Organization 2
 
 {{< column >}}
-## Supporters
+# Supporters
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}

@@ -8,7 +8,6 @@ enableRobotsTXT = true
 [Params]
   selfHosted = true
 
-
 [[menu.main]]
     name = "Home"
     url = "/"
@@ -40,7 +39,43 @@ enableRobotsTXT = true
     weight = 5
 
 [[menu.main]]
+    identifier = "translations"
+    name = "Translations"
+    url = "translations/"
+    weight = 6
+
+[[menu.main]]
+    name = "Translation"
+    url = "translations/"
+    parent = "translations"
+    weight = 1
+
+[[menu.main]]
+    name = "汉语"
+    url = "translations/汉语"
+    parent = "translations"
+    weight = 2
+
+[[menu.main]]
+    name = "Deutsch"
+    url = "translations/deutsch.pdf"
+    parent = "translations"
+    weight = 3
+
+[[menu.main]]
+    name = "Español"
+    url = "translations/español"
+    parent = "translations"
+    weight = 4
+
+[[menu.main]]
+    name = "Français"
+    url = "translations/français"
+    parent = "translations"
+    weight = 5
+
+[[menu.main]]
     name = "About"
     url = "about/"
-    weight = 6
+    weight = 7
 

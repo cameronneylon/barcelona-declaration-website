@@ -5,7 +5,7 @@ comments = false
 +++
 
 {{< rawhtml >}}
-<div class="well">
+<div class="well home">
 <h1>Launching April 16 2024</h1>
 <p>
 The preparation of the Declaration is being coordinated by Bianca Kramer (Sesame Open Science), Cameron Neylon (Curtin Open Knowledge Initiative, Curtin University), and Ludo Waltman (Centre for Science and Technology Studies, Leiden University). Organizations that would like to know more about the Declaration or that wish to sign the Declaration are welcome to reach out to <a href="mailto:contact@barcelona-declaration.org" title="contact@barcelona-declaration.org">contact@barcelona-declaration.org</a>.

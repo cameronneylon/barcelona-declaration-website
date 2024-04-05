@@ -22,15 +22,26 @@ body {
   }
 }
 
-.well {
+.well.about {
+    background-color: #FECF65;
+    text-align: left;
+}
+
+@media (prefers-color-scheme: dark) {
+.well.about {
+    background-color: #494066;
+} 
+}
+
+.well.home {
     background-color: #e8e6e4;
     text-align: left;
 }
 
 @media (prefers-color-scheme: dark) {
-.well {
+.well.home {
     background-color: #494066;
-} 
+}
 }
 
 .container[role=main] {
@@ -1073,9 +1084,6 @@ h4.see-also {
   }
   pre code {
     color: #ccc;
-  }
-  .well {
-    background-color: #444;
   }
   .panel {
     background-color: #222;

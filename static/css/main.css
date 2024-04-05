@@ -17,7 +17,7 @@ body {
 }
 @media (prefers-color-scheme: dark) {
   body {
-    background: black;
+    background: #2d2d2c;
     color: white;
   }
 }
@@ -25,6 +25,12 @@ body {
 .well {
     background-color: #e8e6e4;
     text-align: left;
+}
+
+@media (prefers-color-scheme: dark) {
+.well {
+    background-color: #494066;
+} 
 }
 
 .container[role=main] {
@@ -61,6 +67,12 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 400;
   color: #494066;
   text-align: left;
+}
+
+@media (prefers-color-scheme: dark) {
+h1,h2,h3,h4,h5,h6 {
+  color: white;
+}
 }
 
 h1 {
@@ -181,8 +193,8 @@ figure:not(.dark) img, img.white {
 }
 @media (prefers-color-scheme: dark) {
   .navbar-custom {
-    background: #505050;
-    border-bottom: 1px solid #AAA;
+    background: #494066;
+    border-bottom: 1px solid #494066;
   }
 }
 
@@ -203,7 +215,7 @@ figure:not(.dark) img, img.white {
 @media (prefers-color-scheme: dark) {
   .navbar-custom .navbar-brand,
   .navbar-custom .nav li a {
-    color: #b0b0b0;
+    color: white;
   }
 }
 
@@ -219,7 +231,7 @@ figure:not(.dark) img, img.white {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   @media (prefers-color-scheme: dark) {
-    color: #b0e0ff;
+    color: #fdca50;
   }
 }
 
@@ -422,10 +434,24 @@ footer {
   font-size: 14px;
 }
 
+@media (prefers-color-scheme: dark) {
+  footer {
+    background: #1b1b1a;
+    border-top: 1px #1b1b1a solid;
+    color: #ff007f; /*this is a test color */
+  }
+}
+
 footer a {
   color: #404040;
+  }
 
+@media (prefers-color-scheme: dark) {
+  footer a {
+    color: white;
+  }
 }
+
 
 footer .list-inline {
   margin: 0;
@@ -467,15 +493,6 @@ footer div.disclaimer {
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  footer {
-    background: #444;
-    border-top: 1px #AAA solid;
-  }
-  footer a {
-    color: #AAA;
-  }
-}
 
 /* --- Post preview --- */
 
@@ -633,6 +650,13 @@ footer div.disclaimer {
   position: relative;
   background-color: #fbfafa;
 }
+
+@media (prefers-color-scheme: dark) {
+.intro-header {
+  background-color: #574e73;
+}
+}
+
 .intro-header.big-img {
   background: no-repeat center center;
   -webkit-background-size: cover;
@@ -676,6 +700,16 @@ footer div.disclaimer {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   }
+
+@media (prefers-color-scheme: dark) {
+.intro-header .page-heading h1,
+.intro-header .tags-heading h1,
+.intro-header .categories-heading h1 {
+  background: -webkit-linear-gradient(#aaa6bf, #bdbacf, #ffffff, #ffffff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  }  
+}  
   
 .intro-header .post-heading h1 {
   margin-top: 0;

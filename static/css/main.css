@@ -457,12 +457,15 @@ footer a {
   color: #404040;
   }
 
+/* Dark theme */
 @media (prefers-color-scheme: dark) {
   footer a {
     color: white;
   }
+  footer .list-inline {
+    color: #ff007f;
+  }
 }
-
 
 footer .list-inline {
   margin: 0;
@@ -490,6 +493,19 @@ footer div.disclaimer {
   border-right-color: #f1c40f;
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
+}
+
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
+  footer a {
+    color: #e3e3e3;
+  }
+  footer .copyright {
+    color: darkgrey;
+  }
+  footer .theme-by {
+    color: darkgrey;
+  }
 }
 
 @media only screen and (min-width: 768px) {

@@ -449,7 +449,6 @@ footer {
   footer {
     background: #1b1b1a;
     border-top: 1px #1b1b1a solid;
-    color: #ff007f; /*this is a test color */
   }
 }
 
@@ -457,15 +456,6 @@ footer a {
   color: #404040;
   }
 
-/* Dark theme */
-@media (prefers-color-scheme: dark) {
-  footer a {
-    color: white;
-  }
-  footer .list-inline {
-    color: #ff007f;
-  }
-}
 
 footer .list-inline {
   margin: 0;

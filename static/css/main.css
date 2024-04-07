@@ -456,13 +456,6 @@ footer a {
   color: #404040;
   }
 
-/* Dark theme */
-@media (prefers-color-scheme: dark) {
-  footer a {
-    color: white;
-  }
-}
-
 footer .list-inline {
   margin: 0;
   padding: 0;

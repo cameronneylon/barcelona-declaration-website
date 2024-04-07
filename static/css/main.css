@@ -22,26 +22,15 @@ body {
   }
 }
 
-.well.about {
-    background-color: #FECF65;
-    text-align: left;
-}
-
-@media (prefers-color-scheme: dark) {
-.well.about {
-    background-color: #494066;
-} 
-}
-
-.well.home {
+.well {
     background-color: #e8e6e4;
     text-align: left;
 }
 
 @media (prefers-color-scheme: dark) {
-.well.home {
+.well {
     background-color: #494066;
-}
+} 
 }
 
 .container[role=main] {
@@ -449,12 +438,19 @@ footer {
   footer {
     background: #1b1b1a;
     border-top: 1px #1b1b1a solid;
+    color: #ff007f; /*this is a test color */
   }
 }
 
 footer a {
   color: #404040;
   }
+
+@media (prefers-color-scheme: dark) {
+  footer a {
+    color: white;
+  }
+}
 
 
 footer .list-inline {
@@ -483,19 +479,6 @@ footer div.disclaimer {
   border-right-color: #f1c40f;
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
-}
-
-/* Dark theme */
-@media (prefers-color-scheme: dark) {
-  footer a {
-    color: #e3e3e3;
-  }
-  footer .copyright {
-    color: darkgrey;
-  }
-  footer .theme-by {
-    color: darkgrey;
-  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -1090,6 +1073,9 @@ h4.see-also {
   }
   pre code {
     color: #ccc;
+  }
+  .well {
+    background-color: #444;
   }
   .panel {
     background-color: #222;

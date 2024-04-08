@@ -30,6 +30,7 @@ body {
 @media (prefers-color-scheme: dark) {
 .well.about {
     background-color: #494066;
+    border:1px solid #494066;
 } 
 }
 
@@ -41,6 +42,7 @@ body {
 @media (prefers-color-scheme: dark) {
 .well.home {
     background-color: #494066;
+    border:1px solid #494066;
 }
 }
 

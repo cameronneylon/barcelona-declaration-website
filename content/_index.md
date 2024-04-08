@@ -20,6 +20,12 @@ The signatories to the Barcelona Declaration on Open Research Information believ
 # Commitments
 {{< rawhtml >}}
 <hr class="small">
+</br></br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<img style="width:40px;float:left" src="/images/icon_openness.png"/>
+</br></br>
 {{< /rawhtml >}}
 
 ## 1
@@ -29,6 +35,12 @@ we use and produce
 
 {{< rawhtml >}}
 <hr class="small">
+</br></br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<img style="width:80px;float:left" src="/images/icon_systems.png"/>
+</br></br>
 {{< /rawhtml >}}
 
 ## 2
@@ -37,6 +49,12 @@ and enable open research information
 
 {{< rawhtml >}}
 <hr class="small">
+</br></br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<img style="width:60px;float:left" src="/images/icon_infrastructures.png"/>
+</br></br>
 {{< /rawhtml >}}
 
 ## 3
@@ -45,6 +63,12 @@ for open research information
 
 {{< rawhtml >}}
 <hr class="small">
+</br></br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<img style="width:80px;float:left" src="/images/icon_collectiveaction.png"/>
+</br>
 {{< /rawhtml >}}
 
 ## 4

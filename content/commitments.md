@@ -8,6 +8,12 @@ comments = false
 # Commitments
 {{< rawhtml >}}
 <hr class="small">
+</br></br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<img style="width:40px;float:left" src="/images/icon_openness.png"/>
+</br></br>
 {{< /rawhtml >}}
 
 ## 1
@@ -20,7 +26,14 @@ we use and produce**
 * Openness will be the norm for the research information we produce, for instance information about our activities and outputs, with an exception for information for which openness would be inappropriate ('as open as possible, as closed as necessary').
 
 {{< rawhtml >}}
+</br>
 <hr class="small">
+</br></br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<img style="width:80px;float:left" src="/images/icon_systems.png"/>
+</br></br>
 {{< /rawhtml >}}
 
 ## 2
@@ -31,11 +44,13 @@ and enable open research information**
 
 * For systems and platforms for the internal management of research information (e.g., current research information systems), we will require that all relevant research information can be exported and made open, using standard protocols and identifiers where available.
 
-{{< rawhtml >}}
-<hr class="small">
-{{< /rawhtml >}}
-
 ![A photo of Paolo Galimberti, Director of the Open Science Policy Division at the University of Milan with accompanying quote "We want research information that is easy to understand, handle, and analyse, while ensuring our analyses maintain transparency and reproducibility. Thankfully, we now have the necessary tools, processes, and determination to turn this vision into reality."](/images/quote_galimberti.jpg)
+
+{{< rawhtml >}}
+</br></br>
+<img style="width:60px;float:left" src="/images/icon_infrastructures.png"/>
+</br></br>
+{{< /rawhtml >}}
 
 ## 3
 **We will support the sustainability of infrastructures
@@ -46,7 +61,14 @@ for open research information**
 * We expect the infrastructures that we support to implement good practices for community governance and sustainability (e.g., Principles of Open Scholarly Infrastructure).
 
 {{< rawhtml >}}
+</br>
 <hr class="small">
+</br></br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<img style="width:80px;float:left" src="/images/icon_collectiveaction.png"/>
+</br>
 {{< /rawhtml >}}
 
 ## 4

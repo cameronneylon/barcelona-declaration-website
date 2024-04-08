@@ -50,3 +50,5 @@ for open research information
 ## 4
 We will support collective action to accelerate the transition
 to openness of research information
+
+![A photo of Nathalie Drach-Temam, University President of Sorbonne University with an accompanying quote "Sorbonne University has strongly supported the move toward open science for many years and the implementation of open research practices and principles in all their dimensions within its community. Beyond its benefits for researchers and research institutions, this next step towards open research information is also a civic engagement for a more open, responsible and trustworthy university."](/images/quote_drachtemam.jpg)

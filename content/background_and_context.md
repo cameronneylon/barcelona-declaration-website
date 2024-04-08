@@ -19,6 +19,9 @@ There are many closed research information infrastructures. Well-known examples 
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
+
+![A photo of Karina Batthayany, Executive Director of CLACSO with an accompanying quote "CLACSO-FOLEC firmly advocates for research assessment methodologies that take advantage of the diversity of formats, languages and distribution channels for the dissemination of scientific knowledge. To this end, we support the use of data that reflect both the production disseminated in international repositories and that contained in regional and local databases."](/images/quote_batthayany.jpg)
+
 ### Transparent high-quality decision making requires open research information
 
 At a time when decision making in science is increasingly guided by indicators and analytics, addressing the problems of closed research information must be a top priority. Decisions should be informed by open research information: information that is free to access, without restrictions on how it can be used and reused. To enable linking of information from different sources, open research information should make use of persistent identifiers such as DOIs (Digital Object Identifiers), ORCIDs (Open Researcher and Contributor IDs), and ROR (Research Organization Registry) IDs to reference research outputs, researchers, research organizations, and other entities. Infrastructures for open research information should be governed by relevant stakeholders in the academic community.

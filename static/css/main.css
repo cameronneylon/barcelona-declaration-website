@@ -30,6 +30,7 @@ body {
 @media (prefers-color-scheme: dark) {
 .well.about {
     background-color: #494066;
+    border:1px solid #494066;
 } 
 }
 
@@ -41,6 +42,7 @@ body {
 @media (prefers-color-scheme: dark) {
 .well.home {
     background-color: #494066;
+    border:1px solid #494066;
 }
 }
 
@@ -449,23 +451,12 @@ footer {
   footer {
     background: #1b1b1a;
     border-top: 1px #1b1b1a solid;
-    color: #ff007f; /*this is a test color */
   }
 }
 
 footer a {
   color: #404040;
   }
-
-/* Dark theme */
-@media (prefers-color-scheme: dark) {
-  footer a {
-    color: white;
-  }
-  footer .list-inline {
-    color: #ff007f;
-  }
-}
 
 footer .list-inline {
   margin: 0;

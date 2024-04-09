@@ -16,11 +16,11 @@ Too often, decision making in science is based on closed research information. I
 
 There are many closed research information infrastructures. Well-known examples are the Web of Science and Scopus databases, which play an important role in research assessment and resource allocation in many countries. These databases provide metadata for scientific publications (e.g., title, abstract, journal, authors, author affiliations, funders, etc.), but they impose severe restrictions on the use of this metadata and make the metadata available only to organizations that pay hefty subscription fees. Indicators and analytics based on these databases (e.g., publication and citation statistics, journal impact factors, university rankings, etc.) lack transparency and reproducibility.
 
+{{<picture "/images/quote_batthayany.jpg" "/images/quote_batthayany_darkmode.jpg" "A photo of Karina Batthayany, Executive Director of CLACSO with an accompanying quote: CLACSO-FOLEC firmly advocates for research assessment methodologies that take advantage of the diversity of formats, languages and distribution channels for the dissemination of scientific knowledge. To this end, we support the use of data that reflect both the production disseminated in international repositories and that contained in regional and local databases." >}}
+
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
-
-![A photo of Karina Batthayany, Executive Director of CLACSO with an accompanying quote "CLACSO-FOLEC firmly advocates for research assessment methodologies that take advantage of the diversity of formats, languages and distribution channels for the dissemination of scientific knowledge. To this end, we support the use of data that reflect both the production disseminated in international repositories and that contained in regional and local databases."](/images/quote_batthayany.jpg)
 
 ### Transparent high-quality decision making requires open research information
 

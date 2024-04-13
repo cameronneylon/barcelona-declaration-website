@@ -8,7 +8,7 @@ comments = false
 # Definitions
 {{< rawhtml >}}
 <hr class="small">
-{{< /rawhtml >}}
+{{< /rawhtml >}} {#def-research-information}
 
 ### Research Information
 

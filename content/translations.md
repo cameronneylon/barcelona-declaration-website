@@ -16,5 +16,6 @@ The Barcelona Declaration has been translated in the following languages. The fo
 * [Français](français.pdf)
 * [汉语](汉语.pdf)
 * [Deutsch](/downloads/deutsch.pdf)
+* [українська мова](/downloads/українська_мова.pdf)
 
 If you are interested in contributing a translation, please contact us as [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org)

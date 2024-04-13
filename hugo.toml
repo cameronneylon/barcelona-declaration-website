@@ -42,6 +42,12 @@ enableRobotsTXT = true
     url = "definitions/"
     parent = "declaration"
     weight = 4
+    
+[[menu.main]]
+    name = "Infographic"
+    url = "infographic/"
+    parent = "declaration"
+    weight = 5
 
 [[menu.main]]
     name = "Signatories"

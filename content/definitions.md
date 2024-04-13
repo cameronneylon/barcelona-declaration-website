@@ -33,6 +33,8 @@ By *open research information* we mean research information that is free to acce
 
 Research information that cannot be ethically shared, including information that has privacy implications, should not be made open. In some cases, aggregated forms of privacy implicating research information can be made open. However, this should be assessed on a case by case basis in the context of relevant regulations and legal requirements.
 
+{{<picture "/images/open_research_information_infographic.jpg" "/images/open_research_information_infographic_darkmode.png" "An infographic explaining the scope, characteristics and benefits of open research information [description required]." >}}
+
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}

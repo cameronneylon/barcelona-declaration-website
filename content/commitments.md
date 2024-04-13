@@ -79,3 +79,12 @@ to openness of research information**
 
 * To facilitate this, we support establishing a Coalition for Open Research Information and strengthening collaboration with other related initiatives and organizations.
 
+{{< rawhtml >}}
+<div class="sectionblockleft">
+<a href="/premable">Preamble</a>
+</div>
+
+<div class="sectionblockright">
+<a href="/background_and_context">Background and Context</a>
+</div>
+{{< /rawhtml >}}

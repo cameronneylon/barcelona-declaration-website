@@ -57,3 +57,9 @@ By *scholarly infrastructures* we mean infrastructures through which research in
 ### Open scholarly infrastructures
 
 By *open scholarly infrastructures* we mean scholarly infrastructures that provide trustworthy assurances of openness, community accountability, stability, transparency, and reliability. A commitment to adhere to the [Principles of Open Scholarly Infrastructure (POSI)](https://openscholarlyinfrastructure.org/), with regular updates on performance and improvements, provides a means by which a scholarly infrastructure can provide assurances to the community that it qualifies for the level of trust accorded to an open scholarly infrastructure.
+
+{{< rawhtml >}}
+
+<button style="float:left" onclick="document.location='/definitions'">Definitions</button> 
+
+{{< /rawhtml >}}

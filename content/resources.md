@@ -122,7 +122,7 @@ Images to be adopted including some of the reasons for adoption of the Barcelona
 
 ### We signed...
 
-Images for adapation for signatories of the Barcelona Declaration
+Images for adapation by signatories of the Barcelona Declaration
 
 {{< rawhtml >}}
 <table>
@@ -150,7 +150,7 @@ Images for adapation for signatories of the Barcelona Declaration
 
 ### We support
 
-Images for adapation for supporters of the Barcelona Declaration
+Images for adapation by supporters of the Barcelona Declaration
 
 {{< rawhtml >}}
 <table>

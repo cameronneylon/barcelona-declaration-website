@@ -13,13 +13,32 @@ body {
   text-align: left;
   /* line height is set below in p{} */
   /*padding-top: 60px */ /*prevent navbar overlaying body text for most screenwidths (BK) */
-  
+
 }
+
+
+
 @media (prefers-color-scheme: dark) {
   body {
     background: #2d2d2c;
     color: white;
   }
+}
+
+button {
+  background-color:white;
+  border: 1px solid black;
+}
+
+@media (prefers-color-scheme: dark) {
+  button {
+    background-color: #2d2d2c;
+    border: 1px solid white;
+  }
+}
+
+button:hover {
+  opacity: 0.8;
 }
 
 .sectionblockright {

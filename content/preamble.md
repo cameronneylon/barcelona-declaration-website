@@ -17,3 +17,9 @@ However, a large share of all [research information]({{< ref "definitions.md#res
 {{<picture "/images/quote_sandfaer.jpg" "/images/quote_sandfaer_darkmode.jpg" "A photo of Mogens Sandfaer, Head of National Open Research Analytics, Denmark with accompanying quotation: With Open Research Information we may review and access Open Science contributions in an open way. Indeed, we may make all our research assessment transparent and FAIR - Findable, Accessible, Interoperable, and Reusable – with Open Access and without any restrictions on how the Open Research Information is used and shared." >}}
 
 The signatories to the Barcelona Declaration on Open Research Information believe that the research information landscape requires fundamental change. We commit to taking a lead in reforming the landscape and transforming our practices. To this end, we commit to (1) making openness of research information the default, (2) working with services and systems that support and enable [open research information]({{< ref "definitions.md#open-research-information" >}} "/definitions/open-research-information"), (3) supporting the sustainability of infrastructures for open research information, and (4) working together to realize the transition from closed to open research information.
+
+{{< rawhtml >}}
+
+<button style="float:right" onclick="document.location='/commitments'">The Commitments</button> 
+
+{{< /rawhtml >}}

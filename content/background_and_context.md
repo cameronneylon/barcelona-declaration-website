@@ -45,3 +45,10 @@ and Reusability) principles](https://doi.org/10.1038/sdata.2016.18 "https://doi.
 Supported by the above developments, research information is increasingly made openly available. A number of open research information infrastructures for instance offer alternatives to closed databases. In addition to infrastructures provided by organizations such as Crossref, DataCite, and ORCID, this also includes ‘aggregator’ infrastructures such as OpenAlex, OpenCitations, and OpenAIRE, as well as discipline-specific infrastructures such as PubMed and Europe PMC, and local and national infrastructures such as La Referencia, SciELO, and Redalyc.
 
 We are getting close to a tipping point in the transition from closed to open research information. But to reach this tipping point, more concerted action is needed. We therefore call on all organizations that carry out, fund, and evaluate research to support the transition to open research information and to sign the Barcelona Declaration on Open Research Information.
+
+{{< rawhtml >}}
+
+<button style="float:left" onclick="document.location='/commitments'">The Commitments</button> 
+<button style="float:right" onclick="document.location='/definitions'">Definitions</button> 
+
+{{< /rawhtml >}}

@@ -68,3 +68,8 @@ enableRobotsTXT = true
 #    name = "Media"
 #    url = "media/"
 #    weight = 6
+
+[[menu.main]]
+    name = "Resources"
+    url = "resources/"
+    weight = 7

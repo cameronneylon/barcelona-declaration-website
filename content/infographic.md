@@ -8,7 +8,7 @@ comments = false
 # Infographic
 {{< rawhtml >}}
 <hr class="small">
-{{< /rawhtml >}} {#def-research-information}
+{{< /rawhtml >}}
 
 {{<picture "/images/open_research_information_infographic.jpg" "/images/open_research_information_infographic_darkmode.png" "An infographic explaining the scope, characteristics and benefits of open research information [description required]." >}}
 

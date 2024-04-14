@@ -47,7 +47,6 @@ and enable open research information**
 {{<picture "/images/quote_galimberti.jpg" "/images/quote_galimberti_darkmode.jpg" "A photo of Paolo Galimberti, Director of the Open Science Policy Division at the University of Milan with accompanying quote: We want research information that is easy to understand, handle, and analyse, while ensuring our analyses maintain transparency and reproducibility. Thankfully, we now have the necessary tools, processes, and determination to turn this vision into reality." >}}
 
 {{< rawhtml >}}
-</br></br>
 <img style="width:60px;float:left" src="/images/icon_infrastructures.png"/>
 </br></br>
 {{< /rawhtml >}}
@@ -79,3 +78,12 @@ to openness of research information**
 
 * To facilitate this, we support establishing a Coalition for Open Research Information and strengthening collaboration with other related initiatives and organizations.
 
+{{< rawhtml >}}
+<div class="sectionblockleft">
+<a href="/premable">Preamble</a>
+</div>
+
+<div class="sectionblockright">
+<a href="/background_and_context">Background and Context</a>
+</div>
+{{< /rawhtml >}}

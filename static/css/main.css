@@ -242,10 +242,14 @@ figure:not(.dark) img, img.white {
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
 @media (prefers-color-scheme: dark) {
   .navbar-custom {
-    background: #494066;
-    border-bottom: 1px solid #494066;
+    background: #404040;
+    border-bottom: 1px solid #404040;
+    
+    /*background: #494066;
+    border-bottom: 1px solid #494066;*/
   }
 }
 
@@ -269,6 +273,7 @@ figure:not(.dark) img, img.white {
     color: white;
   }
 }
+
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,

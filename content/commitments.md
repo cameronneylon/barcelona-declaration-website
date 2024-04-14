@@ -80,8 +80,8 @@ to openness of research information**
 
 {{< rawhtml >}}
 
-<button style="float:left" onclick="document.location='/preamble'">Preamble</button> 
+<button style="float:left" onclick="document.location='/preamble'">&larr; Preamble</button> 
 
-<button style="float:right" onclick="document.location='/background_and_context'">Background and Context</button> 
+<button style="float:right" onclick="document.location='/background_and_context'">Background and Context &rarr;</button> 
 
 {{< /rawhtml >}}

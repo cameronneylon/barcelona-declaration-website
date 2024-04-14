@@ -29,6 +29,7 @@ button {
   background-color: inherit;
   /*background-color:white;*/
   border: 1px solid black;
+  margin-top:20px;
 }
 
 @media (prefers-color-scheme: dark) {

@@ -19,3 +19,11 @@ The Barcelona Declaration has been translated in the following languages. The fo
 * [українська мова](/downloads/українська_мова.pdf)
 
 If you are interested in contributing a translation, please contact us as [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org)
+
+{{< rawhtml >}}
+
+<button style="float:left" onclick="document.location='/infographic'">Infographic</button> 
+
+<button style="float:right" onclick="document.location='/about'">About &rarr;</button> 
+
+{{< /rawhtml >}}

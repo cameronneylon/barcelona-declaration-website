@@ -15,11 +15,11 @@ The preparation of the Declaration is being coordinated by Bianca Kramer (Sesame
 
 
 
-The research information landscape requires fundamental change. The signatories of the Barcelona Declaration on Open Research Information commit to taking a lead in transforming the way research information is used and produced. Openness of information about the conduct and communication of research must be the new norm.
+The research information landscape requires fundamental change. The signatories of the Barcelona Declaration on Open Research Information commit to taking a lead in transforming the way [research information]({{< ref "definitions.md#research-information" >}} "/definitions/research-information") is used and produced. Openness of information about the conduct and communication of research must be the new norm.
 
 Open research information enables science policy decisions to be made based on transparent evidence and inclusive data. It enables information used in research evaluations to be accessible and auditable by those being assessed. And it enables the global movement toward open science to be supported by information that is fully open and transparent.
 
-To this end, we, as organizations that carry out, fund and evaluate research, commmit to the following:
+To this end, we, as organizations that carry out, fund and evaluate research, commit to the following:
 
 # Commitments
 {{< rawhtml >}}

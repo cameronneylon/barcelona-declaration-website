@@ -60,6 +60,6 @@ By *open scholarly infrastructures* we mean scholarly infrastructures that provi
 
 {{< rawhtml >}}
 
-<button style="float:left" onclick="document.location='/definitions'">Definitions</button> 
+<button style="float:left" onclick="document.location='/background_and_context'">Background and Context</button> 
 
 {{< /rawhtml >}}

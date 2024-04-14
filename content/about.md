@@ -21,3 +21,11 @@ Organizations that would like to know more about the Declaration or that wish to
 </p>
 </div>
 {{< /rawhtml >}}
+
+{{< rawhtml >}}
+
+<button style="float:left" onclick="document.location='/translations'">&larr; Translations</button> 
+
+<button style="float:right" onclick="document.location='/resources'">Resources &rarr;</button> 
+
+{{< /rawhtml >}}

@@ -22,7 +22,7 @@ If you are interested in contributing a translation, please contact us as [conta
 
 {{< rawhtml >}}
 
-<button style="float:left" onclick="document.location='/infographic'">Infographic</button> 
+<button style="float:left" onclick="document.location='/signatories'">&larr; Signatories</button> 
 
 <button style="float:right" onclick="document.location='/about'">About &rarr;</button> 
 

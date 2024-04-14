@@ -174,3 +174,10 @@ Images for adapation by supporters of the Barcelona Declaration
 </table>
 
 {{< /rawhtml >}} 
+
+{{< rawhtml >}}
+
+<button style="float:left" onclick="document.location='/translations'">&larr; About</button> 
+
+
+{{< /rawhtml >}}

@@ -30,3 +30,11 @@ Organizations that wish to sign the Declaration are welcome to reach out to [con
 
 
 {{< endcolumns >}}
+
+{{< rawhtml >}}
+
+<button style="float:left" onclick="document.location='/infographic'">&larr; Infographic</button> 
+
+<button style="float:right" onclick="document.location='/translations'">Translations &rarr;</button> 
+
+{{< /rawhtml >}}

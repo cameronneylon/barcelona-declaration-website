@@ -14,8 +14,8 @@ comments = false
 
 {{< rawhtml >}}
 
-<button style="float:left" onclick="document.location='/definitions'">Definitions</button> 
+<button style="float:left" onclick="document.location='/definitions'">&larr; Definitions</button> 
 
-<button style="float:right" onclick="document.location='/translations'">Translations &rarr;</button> 
+<button style="float:right" onclick="document.location='/signatories'">Signatories &rarr;</button> 
 
 {{< /rawhtml >}}

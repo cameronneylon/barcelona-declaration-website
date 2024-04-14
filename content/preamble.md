@@ -22,6 +22,6 @@ The signatories to the Barcelona Declaration on Open Research Information believ
 
 <button style="float:left" onclick="document.location='/_index'">&larr; Home</button> 
 
-<button style="float:right" onclick="document.location='/commitments'">The Commitments &rarr;</button> 
+<button style="float:right" onclick="document.location='/commitments'">Commitments &rarr;</button> 
 
 {{< /rawhtml >}}

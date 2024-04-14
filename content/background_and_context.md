@@ -48,8 +48,8 @@ We are getting close to a tipping point in the transition from closed to open re
 
 {{< rawhtml >}}
 
-<button style="float:left" onclick="document.location='/commitments'">The Commitments</button> 
+<button style="float:left" onclick="document.location='/commitments'">&larr; Commitments</button> 
 
-<button style="float:right" onclick="document.location='/definitions'">Definitions</button> 
+<button style="float:right" onclick="document.location='/definitions'">Definitions &rarr;</button> 
 
 {{< /rawhtml >}}

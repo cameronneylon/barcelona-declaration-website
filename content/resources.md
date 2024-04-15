@@ -120,7 +120,7 @@ Images to be adopted including some of the reasons for adoption of the Barcelona
 <hr class="small">
 {{< /rawhtml >}} 
 
-### We signed...
+### We signed
 
 Images for adapation by signatories of the Barcelona Declaration
 

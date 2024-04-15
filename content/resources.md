@@ -61,7 +61,7 @@ Quotes from signatories on the reasons for signing the Barcelona Declaration
         </td>
         <td>
             <a href="/images/quote_dacos.jpg" target="_blank">
-            <img src="/images/quote_dacos.jpg" alt="A photo of Marin Dacos, French Coordinator for Open Science with an accompanying quote: The delcaration is fully aligned with the 20201 European Council Conclusions which were released under French Presidency. The Council conclusions indeed state that data and bibliographic databases used for research assessment should, in principle, be openly accessible and that tools and technical systems should enable transparency. It is also very well algined with the 2016 French Law that is commonly referred to as Digital Republic Law">
+            <img src="/images/quote_dacos.jpg" alt="A photo of Marin Dacos, French Coordinator for Open Science with an accompanying quote: The declaration is fully aligned with the 20201 European Council Conclusions which were released under French Presidency. The Council conclusions indeed state that data and bibliographic databases used for research assessment should, in principle, be openly accessible and that tools and technical systems should enable transparency. It is also very well aligned with the 2016 French Law that is commonly referred to as Digital Republic Law">
             </a>
         </td>
         <td>
@@ -78,7 +78,7 @@ Quotes from signatories on the reasons for signing the Barcelona Declaration
         </td>
         <td>
             <a href="/images/quote_munafo.jpg" target="_blank">
-            <img src="/images/quote_munafo.jpg" alt="A photo of Marcus Munafo, Chari of the UK Reproducibility Network Supervisory Board with an accompanying quote: Transparency and rigour are core to UKRN's mission. This is as important for research information as it is for research, and so we will actively support he aims of the Barcelona Declaration.">
+            <img src="/images/quote_munafo.jpg" alt="A photo of Marcus Munafo, Chari of the UK Reproducibility Network Supervisory Board with an accompanying quote: Transparency and rigour are core to UKRN's mission. This is as important for research information as it is for research, and so we will actively support the aims of the Barcelona Declaration.">
             </a>
         </td>
         <td>

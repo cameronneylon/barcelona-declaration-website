@@ -21,7 +21,7 @@ Coming soon:
 * 汉语
 
 
-If you are interested in contributing a translation, please contact us as [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org)
+If you are interested in contributing a translation, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
 
 
 {{< rawhtml >}}

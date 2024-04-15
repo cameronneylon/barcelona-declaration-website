@@ -5,6 +5,11 @@ contentdir = "content"
 theme = "beautifulhugo"
 enableRobotsTXT = true
 
+[author]
+    mastodon = "mastodon.social/@BarcelonaDORI"
+    twitter = "BarcelonaDORI"
+    linkedin = "barcelona-declaration/"
+
 [Params]
   selfHosted = true
 

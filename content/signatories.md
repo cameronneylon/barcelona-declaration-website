@@ -53,9 +53,9 @@ Organizations performing, funding or evaluating research
 **Research funding organizations and governments**
 * Bill & Melinda Gates Foundation (US)
 * Catalan Foundation for Research and Innovation - FCRI (Spain)
-* Dutch Research Council NWO (Netherlands)
+* Dutch Research Council - NWO (Netherlands)
+* French National Research Agency - ANR (France)
 * French Open Science Committee (France)
-* French National Research Agency – ANR (France)
 * Fundació Internacional Josep Carreras (Spain)
 * Région Normandie (France)
 * Regione Toscana (Italy)
@@ -66,14 +66,14 @@ Organizations performing, funding or evaluating research
 <hr class="small">
 {{< /rawhtml >}}
 **Other organizations**
-* Consorci de Serveis Universitaris de Catalunya – CSUC (Spain)
+* Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
 * EOSC Association (international)
-* Instituto Brasileiro de Informação em Ciência e Tecnologia – Ibict (Brazil)
-* Latin American Council of Social Sciences – CLACSO (international)
+* Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
+* Latin American Council of Social Sciences - CLACSO (international)
 * National Open Research Analytics, Technical University of Denmark (Denmark)
 * State Scientific and Technical Library of Ukraine (Ukraine)
-* TIB – Leibniz Information Centre for Science and Technology and University Library (Germany)
-* UK Reproducibility Network – UKRN (UK)
+* TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
+* UK Reproducibility Network - UKRN (UK)
 
 
 
@@ -97,8 +97,8 @@ Organizations providing data, services and infrastructure
 * Europe PMC
 * Liberate Science GmbH
 * OAPEN Foundation
-* OpenCitations
 * OpenAIRE
+* OpenCitations
 * OurResearch
 * Redalyc
 * Research Organization Registry (ROR)

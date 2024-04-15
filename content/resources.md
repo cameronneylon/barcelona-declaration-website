@@ -61,7 +61,7 @@ Quotes from signatories on the reasons for signing the Barcelona Declaration
         </td>
         <td>
             <a href="/images/quote_dacos.jpg" target="_blank">
-            <img src="/images/quote_dacos.jpg">
+            <img src="/images/quote_dacos.jpg" alt="A photo of Marin Dacos, French Coordinator for Open Science with an accompanying quote: The delcaration is fully aligned with the 20201 European Council Conclusions which were released under French Presidency. The Council conclusions indeed state that data and bibliographic databases used for research assessment should, in principle, be openly accessible and that tools and technical systems should enable transparency. It is also very well algined with the 2016 French Law that is commonly referred to as Digital Republic Law">
             </a>
         </td>
         <td>
@@ -78,7 +78,7 @@ Quotes from signatories on the reasons for signing the Barcelona Declaration
         </td>
         <td>
             <a href="/images/quote_munafo.jpg" target="_blank">
-            <img src="/images/quote_munafo.jpg">
+            <img src="/images/quote_munafo.jpg" alt="A photo of Marcus Munafo, Chari of the UK Reproducibility Network Supervisory Board with an accompanying quote: Transparency and rigour are core to UKRN's mission. This is as important for research information as it is for research, and so we will actively support he aims of the Barcelona Declaration.">
             </a>
         </td>
         <td>
@@ -101,17 +101,17 @@ Images to be adopted including some of the reasons for adoption of the Barcelona
     <tr>
         <td>
             <a href="/images/resources/whys/BarcelonaDeclaration_Why1.jpg" target="_blank">
-            <img src="/images/resources/whys/BarcelonaDeclaration_Why1.jpg">
+            <img src="/images/resources/whys/BarcelonaDeclaration_Why1.jpg" alt="An image containing the text Fair assessment requires full transparency">
             </a>
         </td>
         <td>
             <a href="/images/resources/whys/BarcelonaDeclaration_Why2.jpg" target="_blank">
-            <img src="/images/resources/whys/BarcelonaDeclaration_Why2.jpg">
+            <img src="/images/resources/whys/BarcelonaDeclaration_Why2.jpg" alt="An image containing the text Equitable decision-making requires inclusive data">
             </a>
         </td>
         <td>
             <a href="/images/resources/whys/BarcelonaDeclaration_Why3.jpg" target="_blank">
-            <img src="/images/resources/whys/BarcelonaDeclaration_Why3.jpg">
+            <img src="/images/resources/whys/BarcelonaDeclaration_Why3.jpg" alt="An image containing the text Open science requires open research information">
             </a>
         </td>
     </tr>
@@ -129,17 +129,17 @@ Images for adapation by signatories of the Barcelona Declaration
     <tr>
         <td>
             <a href="/images/resources/we_signed/BarcelonaDeclaration_WeSigned1.jpg" target="_blank">
-            <img src="/images/resources/we_signed/BarcelonaDeclaration_WeSigned1.jpg">
+            <img src="/images/resources/we_signed/BarcelonaDeclaration_WeSigned1.jpg" alt="An image containing the notation that We Signed the declaration Because Fair Assessment of researchers and institutions requires full transparency">
             </a>
         </td>
         <td>
             <a href="/images/resources/we_signed/BarcelonaDeclaration_WeSigned2.jpg" target="_blank">
-            <img src="/images/resources/we_signed/BarcelonaDeclaration_WeSigned2.jpg">
+            <img src="/images/resources/we_signed/BarcelonaDeclaration_WeSigned2.jpg" alt="An image containing the notation that We Signed the declaration Because Equitable decision-making requires inclusive data">
             </a>
         </td>
         <td>
             <a href="/images/resources/we_signed/BarcelonaDeclaration_WeSigned3.jpg" target="_blank">
-            <img src="/images/resources/we_signed/BarcelonaDeclaration_WeSigned3.jpg">
+            <img src="/images/resources/we_signed/BarcelonaDeclaration_WeSigned3.jpg" alt="An image containing the notation that We Signed the declaration Because Open Science requires open research information">
             </a>
         </td>
     </tr>
@@ -157,17 +157,17 @@ Images for adapation by supporters of the Barcelona Declaration
     <tr>
         <td>
             <a href="/images/resources/we_support/BarcelonaDeclaration_WeSupport_1.jpg" target="_blank">
-            <img src="/images/resources/we_support/BarcelonaDeclaration_WeSupport_1.jpg">
+            <img src="/images/resources/we_support/BarcelonaDeclaration_WeSupport_1.jpg" alt="An image containing the notation that We Support the declaration Because Fair Assessment of researchers and institutions requires full transparency">
             </a>
         </td>
         <td>
             <a href="/images/resources/we_support/BarcelonaDeclaration_WeSupport_2.jpg" target="_blank">
-            <img src="/images/resources/we_support/BarcelonaDeclaration_WeSupport_2.jpg">
+            <img src="/images/resources/we_support/BarcelonaDeclaration_WeSupport_2.jpg" alt="An image containing the notation that We Support the declaration Because Equitable decision-making requires inclusive data">
             </a>
         </td>
         <td>
             <a href="/images/resources/we_support/BarcelonaDeclaration_WeSupport_3.jpg" target="_blank">
-            <img src="/images/resources/we_support/BarcelonaDeclaration_WeSupport_3.jpg">
+            <img src="/images/resources/we_support/BarcelonaDeclaration_WeSupport_3.jpg" alt="An image containing the notation that We Support the declaration Because Open Science requires open research information">
             </a>
         </td>
     </tr>

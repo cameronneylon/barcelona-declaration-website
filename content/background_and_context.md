@@ -19,6 +19,7 @@ There are many closed research information infrastructures. Well-known examples 
 {{<picture "/images/quote_batthayany.jpg" "/images/quote_batthayany_darkmode.jpg" "A photo of Karina Batthayany, Executive Director of CLACSO with an accompanying quote: CLACSO-FOLEC firmly advocates for research assessment methodologies that take advantage of the diversity of formats, languages and distribution channels for the dissemination of scientific knowledge. To this end, we support the use of data that reflect both the production disseminated in international repositories and that contained in regional and local databases." >}}
 
 {{< rawhtml >}}
+<br>
 <hr class="small">
 {{< /rawhtml >}}
 
@@ -29,6 +30,7 @@ At a time when decision making in science is increasingly guided by indicators a
 Openness of research information ensures that all stakeholders have full access to information that is of relevance to them. This is vital for high-quality decision making in science. It also enables information from different sources to be linked and integrated, so that decision making can take full advantage of all available information and can be based on a diversity of perspectives and an inclusive understanding of the issues at stake. In addition, when researchers or research organizations perform additional data curation, the enriched information resulting from this can again be shared openly, enabling everyone to benefit from it. In a research assessment context, openness of research information guarantees that not only those performing an assessment but also those being assessed have access to all ‘evidence’ considered in the assessment, offering the transparency and accountability that are crucial to foster responsible assessment practices.
  
 {{< rawhtml >}}
+<br>
 <hr class="small">
 {{< /rawhtml >}} 
 ### Support for open research information is rapidly increasing

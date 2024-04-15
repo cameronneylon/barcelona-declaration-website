@@ -13,11 +13,11 @@ comments = false
 The Barcelona Declaration has been translated in the following languages. The formal text of the declaration is the version in [English](/downloads/BarcelonaDeclaration.pdf).
 
 * {{< translation "/downloads/espanõl.pdf" "Español" >}}
+* {{< translation "/downloads/français.pdf"  Français >}}
 * {{< translation "/downloads/українська_мова.pdf" "українська мова" >}}
 
-coming soon:
+Coming soon:
 * Deutsch
-* Français
 * 汉语
 
 

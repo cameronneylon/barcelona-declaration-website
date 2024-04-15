@@ -6,30 +6,105 @@ comments = false
 +++
 
 Organizations that wish to sign the Declaration are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org"). 
-
-
-{{< columns >}}
+{{< rawhtml >}}
+<br>
+<hr class="small">
+{{< /rawhtml >}}
 # Signatories
+Organizations performing, funding or evaluating research
 {{< rawhtml >}}
+<br>
 <hr class="small">
 {{< /rawhtml >}}
-**Organizations performing, funding or evaluating research**
+**Universities and other research performing organizations**
+* Athena Research Center (Greece)
+* Charles University (Czech Republic)
+* Coimbra Group (international)
+* Hamburg University of Technology (Germany)
+* I-CERCA - Centres de Recerca de Catalunya (Spain)
+* Leiden University (Netherlands)
+* Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
+* Otto-Friedrich-Universität Bamberg (Germany)
+* Sorbonne Université (France)
+* Spanish National Research Council - CSIC (Spain)
+* Udice - French Research Universities (France)
+* UnilLaSalle (France)
+* Universidad de Antioquia (Colombia)
+* Università di Bologna (Italy)
+* Universitat de Barcelona (Spain)
+* Universitat Politècnica de Catalunya (Spain)
+* Université Grenoble Alpes (France)
+* Université Le Havre Normandie (France)
+* Université Paris Saclay (France)
+* University of Coimbra (Portugal)
+* University of Groningen (Netherlands)
+* University of Maribor (Slovenia)
+* University of Milan (Italy)
+* University of Poitiers (France)
+* University of the Azores (Portugal)
+* University of the Balearic Islands (Spain)
+* University of Turku (Finland)
+* Vrije Universiteit Amsterdam (Netherlands)
 
-* Organization 1
-* Organization 2
+{{< rawhtml >}}
+<br>
+<hr class="small">
+{{< /rawhtml >}}
+**Research funding organizations and governments**
+* Bill & Melinda Gates Foundation (US)
+* Catalan Foundation for Research and Innovation - FCRI (Spain)
+* Dutch Research Council NWO (Netherlands)
+* French Open Science Committee (France)
+* French National Research Agency – ANR (France)
+* Fundació Internacional Josep Carreras (Spain)
+* Région Normandie (France)
+* Regione Toscana (Italy)
+* ZonMw (Netherlands)
 
-{{< column >}}
+{{< rawhtml >}}
+<br>
+<hr class="small">
+{{< /rawhtml >}}
+**Other organizations**
+* Consorci de Serveis Universitaris de Catalunya – CSUC (Spain)
+* EOSC Association (international)
+* Instituto Brasileiro de Informação em Ciência e Tecnologia – Ibict (Brazil)
+* Latin American Council of Social Sciences – CLACSO (international)
+* National Open Research Analytics, Technical University of Denmark (Denmark)
+* State Scientific and Technical Library of Ukraine (Ukraine)
+* TIB – Leibniz Information Centre for Science and Technology and University Library (Germany)
+* UK Reproducibility Network – UKRN (UK)
+
+
+
+{{< rawhtml >}}
+<br>
+<hr class="small">
+{{< /rawhtml >}}
 # Supporters
+Organizations providing data, services and infrastructure
 {{< rawhtml >}}
+<br>
 <hr class="small">
 {{< /rawhtml >}}
-**Organizations providing data, services and infrastructure**
 
-* Organization 1
-* Organization 2
+* AmeliCA Ciencia Abierta
+* Crossref 
+* Curtin Open Knowledge Initiative - COKI
+* DataCite
+* DOAB (Directory of Open Access Books)
+* DOAJ (Directory of Open Access Journals)
+* Europe PMC
+* Liberate Science GmbH
+* OAPEN Foundation
+* OpenCitations
+* OpenAIRE
+* OurResearch
+* Redalyc
+* Research Organization Registry (ROR)
 
 
-{{< endcolumns >}}
+
 
 {{< rawhtml >}}
 

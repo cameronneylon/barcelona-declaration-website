@@ -27,10 +27,8 @@ To this end, we, as organizations that carry out, fund and evaluate research, co
 </br></br>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<img style="width:40px;float:left" src="/images/icon_openness.png"/>
-</br></br>
-{{< /rawhtml >}}
+
+{{< icon_open >}}
 
 ## 1
 
@@ -42,10 +40,7 @@ we use and produce
 </br></br>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<img style="width:80px;float:left" src="/images/icon_systems.png"/>
-</br></br>
-{{< /rawhtml >}}
+{{< icon_systems >}}
 
 ## 2
 We will work with services and systems that support
@@ -56,10 +51,7 @@ and enable open research information
 </br></br>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<img style="width:60px;float:left" src="/images/icon_infrastructures.png"/>
-</br></br>
-{{< /rawhtml >}}
+{{< icon_infrastructures >}}
 
 ## 3
 We will support the sustainability of infrastructures
@@ -70,10 +62,7 @@ for open research information
 </br></br>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<img style="width:80px;float:left" src="/images/icon_collectiveaction.png"/>
-</br>
-{{< /rawhtml >}}
+{{< icon_collectiveaction >}}
 
 ## 4
 We will support collective action to accelerate the transition

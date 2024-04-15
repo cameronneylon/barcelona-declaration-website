@@ -92,8 +92,8 @@ Organizations providing data, services and infrastructure
 * Crossref 
 * Curtin Open Knowledge Initiative - COKI
 * DataCite
-* DOAB (Directory of Open Access Books)
-* DOAJ (Directory of Open Access Journals)
+* Directory of Open Access Books - DOAB
+* Directory of Open Access Journals - DOAJ
 * Europe PMC
 * Liberate Science GmbH
 * OAPEN Foundation
@@ -101,7 +101,7 @@ Organizations providing data, services and infrastructure
 * OpenCitations
 * OurResearch
 * Redalyc
-* Research Organization Registry (ROR)
+* Research Organization Registry - ROR
 
 
 

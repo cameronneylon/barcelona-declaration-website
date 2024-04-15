@@ -33,7 +33,8 @@ By *open research information* we mean research information that is free to acce
 
 Research information that cannot be ethically shared, including information that has privacy implications, should not be made open. In some cases, aggregated forms of privacy implicating research information can be made open. However, this should be assessed on a case by case basis in the context of relevant regulations and legal requirements.
 
-{{<picture "/images/open_research_information_infographic.jpg" "/images/open_research_information_infographic_darkmode.png" "An infographic explaining the scope, characteristics and benefits of open research information [description required]." >}}
+{{<picture "/images/open_research_information_infographic.jpg" "/images/open_research_information_infographic_darkmode.png" 
+"An infographic explaining the scope, characteristics and benefits of open research information. On the left a closed circle represents research information. Two arrows point to the right labelled Free to Use and Free from restrictions on reuse. They point to an open circle labelled Open Research Information. Below, Research Information is explained as including bibliographic metadata, metadata on research, software, research data, samples and instruments, information on funding and grants, and information on research organisations and contributors. Open Research Information is motivated by a desire to move towards full transparency in assessments, towards inclusive data for equitable decision making, and towards monitoring and incentivising open science using open data." >}}
 
 {{< rawhtml >}}
 <hr class="small">

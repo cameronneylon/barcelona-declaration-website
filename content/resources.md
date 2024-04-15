@@ -21,24 +21,24 @@ Images containing the commitments
     <tr>
         <td>
             <a href="/images/resources/commitments/BarcelonaDeclaration_Commitment1.jpg" target="_blank">
-            <img src="/images/resources/commitments/BarcelonaDeclaration_Commitment1.jpg">
+            <img src="/images/resources/commitments/BarcelonaDeclaration_Commitment1.jpg" alt="An image containing commitment one: We will make openness the default for the research information we use and produce">
             </a>
         </td>
         <td>
             <a href="/images/resources/commitments/BarcelonaDeclaration_Commitment2.jpg" target="_blank">
-            <img src="/images/resources/commitments/BarcelonaDeclaration_Commitment2.jpg">
+            <img src="/images/resources/commitments/BarcelonaDeclaration_Commitment2.jpg" alt="An image containing commitment two: We will work with services and systems that support and enable open research information">
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="/images/resources/commitments/BarcelonaDeclaration_Commitment3.jpg" target="_blank">
-            <img src="/images/resources/commitments/BarcelonaDeclaration_Commitment3.jpg">
+            <img src="/images/resources/commitments/BarcelonaDeclaration_Commitment3.jpg" alt="An image containing commitment three: We will support the sustainability of infrastructures for open research information">
             </a>
         </td>
         <td>
             <a href="/images/resources/commitments/BarcelonaDeclaration_Commitment4.jpg" target="_blank">
-            <img src="/images/resources/commitments/BarcelonaDeclaration_Commitment4.jpg">
+            <img src="/images/resources/commitments/BarcelonaDeclaration_Commitment4.jpg" alt="An image containing commitment four: We will support collective action to accelerate the transition to openness of research information">
             </a>
         </td>
     </tr>
@@ -56,7 +56,7 @@ Quotes from signatories on the reasons for signing the Barcelona Declaration
     <tr>
         <td>
             <a href="/images/quote_batthayany.jpg" target="_blank">
-            <img src="/images/quote_batthayany.jpg">
+            <img src="/images/quote_batthayany.jpg" alt="A photo of Karina Batthayany, Executive Director of CLACSO with an accompanying quote: CLACSO-FOLEC firmly advocates for research assessment methodologies that take advantage of the diversity of formats, languages and distribution channels for the dissemination of scientific knowledge. To this end, we support the use of data that reflect both the production disseminated in international repositories and that contained in regional and local databases.">
             </a>
         </td>
         <td>
@@ -66,14 +66,14 @@ Quotes from signatories on the reasons for signing the Barcelona Declaration
         </td>
         <td>
             <a href="/images/quote_drachtemam.jpg" target="_blank">
-            <img src="/images/quote_drachtemam.jpg">
+            <img src="/images/quote_drachtemam.jpg" alt="A photo of Nathalie Drach-Temam, University President of Sorbonne University with an accompanying quote: Sorbonne University has strongly supported the move toward open science for many years and the implementation of open research practices and principles in all their dimensions within its community. Beyond its benefits for researchers and research institutions, this next step towards open research information is also a civic engagement for a more open, responsible and trustworthy university.">
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="/images/quote_galimberti.jpg" target="_blank">
-            <img src="/images/quote_galimberti.jpg">
+            <img src="/images/quote_galimberti.jpg" alt="A photo of Paolo Galimberti, Director of the Open Science Policy Division at the University of Milan with accompanying quote: We want research information that is easy to understand, handle, and analyse, while ensuring our analyses maintain transparency and reproducibility. Thankfully, we now have the necessary tools, processes, and determination to turn this vision into reality.">
             </a>
         </td>
         <td>
@@ -83,7 +83,7 @@ Quotes from signatories on the reasons for signing the Barcelona Declaration
         </td>
         <td>
             <a href="/images/quote_sandfaer.jpg" target="_blank">
-            <img src="/images/quote_sandfaer.jpg">
+            <img src="/images/quote_sandfaer.jpg" alt="A photo of Mogens Sandfaer, Head of National Open Research Analytics, Denmark with accompanying quotation: With Open Research Information we may review and access Open Science contributions in an open way. Indeed, we may make all our research assessment transparent and FAIR - Findable, Accessible, Interoperable, and Reusable – with Open Access and without any restrictions on how the Open Research Information is used and shared.">
             </a>
         </td>
     </tr>

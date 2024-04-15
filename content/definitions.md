@@ -15,6 +15,7 @@ comments = false
 By *research information* we mean information (sometimes referred to as metadata) relating to the conduct and communication of research. This includes, but is not limited to, (1) bibliographic metadata such as titles, abstracts, references, author data, affiliation data, and data on publication venues, (2) metadata on research software, research data, samples, and instruments, (3) information on funding and grants, and (4) information on organizations and research contributors. Research information is located in systems such as bibliographic databases, software archives, data repositories, and current research information systems.
 
 {{< rawhtml >}}
+<br>
 <hr class="small">
 {{< /rawhtml >}}
 ### Open research information
@@ -37,6 +38,7 @@ Research information that cannot be ethically shared, including information that
 "An infographic explaining the scope, characteristics and benefits of open research information. On the left a closed circle represents research information. Two arrows point to the right labelled Free to Use and Free from restrictions on reuse. They point to an open circle labelled Open Research Information. Below, Research Information is explained as including bibliographic metadata, metadata on research, software, research data, samples and instruments, information on funding and grants, and information on research organisations and contributors. Open Research Information is motivated by a desire to move towards full transparency in assessments, towards inclusive data for equitable decision making, and towards monitoring and incentivising open science using open data." >}}
 
 {{< rawhtml >}}
+<br>
 <hr class="small">
 {{< /rawhtml >}}
 ### Publishing
@@ -46,6 +48,7 @@ By *publishing* we mean the act of making the outputs of research generally avai
 It is intended that the meaning of *publishing* includes cases where the audience is limited, for instance where access is limited to subscribers, but does not include private and confidential reports or other documents that are not intended for general circulation. Publishing is separate to *archival*, where the intent is long term preservation. Some, but not all, publishing platforms also support archival through the publishing process.
 
 {{< rawhtml >}}
+<br>
 <hr class="small">
 {{< /rawhtml >}}
 ### Scholarly infrastructures
@@ -53,6 +56,7 @@ It is intended that the meaning of *publishing* includes cases where the audienc
 By *scholarly infrastructures* we mean infrastructures through which research information is shared. A precise definition of infrastructures is challenging. A key characteristic of infrastructures is that they are foundational. For instance, they are used by a diversity of actors for differing purposes, other systems depend on them, and they are built to be shared by a community of users. Another characteristic of infrastructures is that they are not visible to end users of services, with dependencies only becoming clear when infrastructures fail.
 
 {{< rawhtml >}}
+<br>
 <hr class="small">
 {{< /rawhtml >}}
 ### Open scholarly infrastructures

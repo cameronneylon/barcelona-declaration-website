@@ -33,6 +33,8 @@ Signatory releases and other supporter comments will be collated here as they be
 * [Barcelona Declaration: important step for VU towards open research information](https://vu.nl/en/news/2024/barcelona-declaration-important-step-for-vu-towards-open-research-information)
 * [University of Groningen signs Barcelona Declaration on Open Research Information](https://www.rug.nl/about-ug/latest-news/news/archief2024/nieuwsberichten/0416-barcelona-declaration)
 * [TIB signs the Barcelona Declaration on Open Research Information](https://blog.tib.eu/2024/04/16/tib-signs-the-barcelona-declaration-on-open-research-information/) - [In German](https://blog.tib.eu/2024/04/16/die-tib-unterzeichnet-die-barcelona-declaration-on-open-research-information/)
+* [The University of Turku commits to the Barcelona Declaration as the first Finnish university](https://www.utu.fi/en/news/news/the-university-of-turku-commits-to-the-barcelona-declaration-as-the-first-finnish)
+* [EOSC-A signs Barcelona Declaration on Open Research Information](https://eosc.eu/news/2024/04/eosc-a-signs-barcelona-declaration-on-open-research-information/)
 
 If we missed any media coverage or any commentary regarding the Barcelona Declaration, please contact us as [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
 

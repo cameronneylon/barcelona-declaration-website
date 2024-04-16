@@ -44,6 +44,7 @@ Signatory releases and other supporter comments will be collated here as they be
 * [Più trasparenza nella gestione delle informazioni sulla ricerca: l’Alma Mater sottoscrive la ‘Barcelona Declaration’](https://magazine.unibo.it/archivio/2024/04/16/piu-trasparenza-nella-gestione-delle-informazioni-sulla-ricerca-l2019alma-mater-sottoscrive-la-barcelona-declaration)
 * [Barcelona Declaration on open research information: verso dati sulla ricerca aperti e trasparenti](https://www.roars.it/barcelona-declaration-on-open-research-information-verso-dati-sulla-ricerca-aperti-e-trasparenti/)
 * [Barcelona Declaration: open research information must be the new norm](https://council.science/current/blog/barcelona-declaration-open-research-information-must-be-the-new-norm/)
+* [Barcelona Declaration Pushes for Open Default to Research Information](https://sparcopen.org/news/2024/barcelona-declaration-pushes-for-open-default-to-research-information/)
 
 If we missed any media coverage or any commentary regarding the Barcelona Declaration, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
 

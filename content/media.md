@@ -37,6 +37,7 @@ Signatory releases and other supporter comments will be collated here as they be
 * [Sorbonne Université signe la Déclaration de Barcelone](https://www.sorbonne-universite.fr/presse/sorbonne-universite-signe-la-declaration-de-barcelone)
 * [Barcelona Declaration: important step for VU towards open research information](https://vu.nl/en/news/2024/barcelona-declaration-important-step-for-vu-towards-open-research-information)
 * [University of Groningen signs Barcelona Declaration on Open Research Information](https://www.rug.nl/about-ug/latest-news/news/archief2024/nieuwsberichten/0416-barcelona-declaration)
+* [Open principles reaffirm Digital Science’s commitment to open research](https://www.digital-science.com/news/open-principles-reaffirm-digital-science-commitment-to-open-research/?utm_source=twitter&utm_medium=social&utm_term=digisci&utm_campaign=research-transformation)
 * [TIB signs the Barcelona Declaration on Open Research Information](https://blog.tib.eu/2024/04/16/tib-signs-the-barcelona-declaration-on-open-research-information/) - [In German](https://blog.tib.eu/2024/04/16/die-tib-unterzeichnet-die-barcelona-declaration-on-open-research-information/)
 * [The University of Turku commits to the Barcelona Declaration as the first Finnish university](https://www.utu.fi/en/news/news/the-university-of-turku-commits-to-the-barcelona-declaration-as-the-first-finnish)
 * [EOSC-A signs Barcelona Declaration on Open Research Information](https://eosc.eu/news/2024/04/eosc-a-signs-barcelona-declaration-on-open-research-information/)

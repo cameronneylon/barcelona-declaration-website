@@ -12,6 +12,7 @@ enableRobotsTXT = true
 
 [Params]
   selfHosted = true
+  favicon = "/favicon.jpg"
 
 [[menu.main]]
     name = "Home"

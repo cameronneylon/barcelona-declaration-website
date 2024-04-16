@@ -22,6 +22,9 @@ Signatory releases and other supporter comments will be collated here as they be
 * [Coimbra Group signs the Barcelona Declaration on Open Research Information](https://www.coimbra-group.eu/coimbra-group-signs-the-barcelona-declaration-on-open-research-information/)
 * [cOAlition S welcomes the Barcelona Declaration on Open Research Information](https://www.coalition-s.org/coalition-s-welcomes-the-barcelona-declaration-on-open-research-information/)
 * [Science Europe welcomes the Barcelona Declaration on Open Research Information](https://scienceeurope.org/news/barcelona-declaration-on-open-research-information/)
+* [DOAJ Announces Support for the Barcelona Declaration on Open Research Information](https://blog.doaj.org/2024/04/16/doaj-announces-support-for-the-barcelona-declaration-on-open-research-information/)
+* [OpenCitations supports the Barcelona Declaration on Open Research Information for a fundamental transformation in the research information landscape](https://opencitations.hypotheses.org/3557)
+* [Leiden University: Calling on universities and funders: make research information open](https://www.universiteitleiden.nl/en/news/2024/04/calling-on-universities-and-funders-make-research-information-open)
 
 If we missed any media coverage or any commentary regarding the Barcelona Declaration, please contact us as [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
 

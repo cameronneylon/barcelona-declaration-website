@@ -45,7 +45,7 @@ Signatory releases and other supporter comments will be collated here as they be
 * [Barcelona Declaration on open research information: verso dati sulla ricerca aperti e trasparenti](https://www.roars.it/barcelona-declaration-on-open-research-information-verso-dati-sulla-ricerca-aperti-e-trasparenti/)
 * [Barcelona Declaration: open research information must be the new norm](https://council.science/current/blog/barcelona-declaration-open-research-information-must-be-the-new-norm/)
 
-If we missed any media coverage or any commentary regarding the Barcelona Declaration, please contact us as [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
+If we missed any media coverage or any commentary regarding the Barcelona Declaration, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
 
 
 {{< rawhtml >}}

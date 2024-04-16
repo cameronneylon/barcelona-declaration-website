@@ -45,7 +45,7 @@ By *publishing* we mean the act of making the outputs of research generally avai
 
 It is intended that the meaning of *publishing* includes cases where the audience is limited, for instance where access is limited to subscribers, but does not include private and confidential reports or other documents that are not intended for general circulation. Publishing is separate to *archival*, where the intent is long term preservation. Some, but not all, publishing platforms also support archival through the publishing process.
 
-{{<picture "/images/quote_munafo.jpg" "/images/quote_munafo_darkmode.jpg" "A photo of Marcus Munafo, Chari of the UK Reproducibility Network Supervisory Board with an accompanying quote: Transparency and rigour are core to UKRN's mission. This is as important for research information as it is for research, and so we will actively support the aims of the Barcelona Declaration." >}}
+{{<picture "/images/quote_munafo.jpg" "/images/quote_munafo_darkmode.jpg" "A photo of Marcus Munafo, Chair of the UK Reproducibility Network Supervisory Board with an accompanying quote: Transparency and rigour are core to UKRN's mission. This is as important for research information as it is for research, and so we will actively support the aims of the Barcelona Declaration." >}}
 
 {{< rawhtml >}}
 <br>

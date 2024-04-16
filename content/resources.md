@@ -185,7 +185,7 @@ The infographic describing Open Research Information.
 
 {{< rawhtml >}}
 
-<button style="float:left" onclick="document.location='/translations'">&larr; About</button> 
+<button style="float:left" onclick="document.location='/media'">&larr; Media and commentary</button> 
 
 
 {{< /rawhtml >}}

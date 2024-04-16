@@ -26,6 +26,6 @@ Organizations that would like to know more about the Declaration or that wish to
 
 <button style="float:left" onclick="document.location='/translations'">&larr; Translations</button> 
 
-<button style="float:right" onclick="document.location='/resources'">Resources &rarr;</button> 
+<button style="float:right" onclick="document.location='/media'">Media and commentary &rarr;</button> 
 
 {{< /rawhtml >}}

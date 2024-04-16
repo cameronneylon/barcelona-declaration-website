@@ -13,7 +13,10 @@ comments = false
 
 ### Media coverage
 
-Media coverage of the Declaration will be collated here.
+Media coverage of the Declaration.
+
+* [NewsTank: Science ouverte - pourquoi Sorbonne Université adhère à la Déclaration de Barcelone (N. Drach-Temam)](https://education.newstank.fr/article/view/317446/science-ouverte-pourquoi-sorbonne-universite-adhere-declaration-barcelone.html?t=a&d=25&c=1&a=2119887&p=16194) (paywall)
+* [Science: Researchers need ‘open’ bibliographic databases, new declaration says](https://www.science.org/content/article/researchers-need-open-bibliographic-databases-new-declaration-says)
 
 ### Commentary
 

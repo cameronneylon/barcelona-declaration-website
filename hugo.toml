@@ -66,13 +66,13 @@ enableRobotsTXT = true
     weight = 4    
 
 [[menu.main]]
-    name = "About"
-    url = "about/"
+    name = "Media"
+    url = "media/"
     weight = 5
 
 [[menu.main]]
-    name = "Media"
-    url = "media/"
+    name = "About"
+    url = "about/"
     weight = 6
 
 [[menu.main]]

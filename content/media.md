@@ -18,7 +18,7 @@ Media coverage of the Declaration.
 * [NewsTank: Science ouverte - pourquoi Sorbonne Université adhère à la Déclaration de Barcelone (N. Drach-Temam)](https://education.newstank.fr/article/view/317446/science-ouverte-pourquoi-sorbonne-universite-adhere-declaration-barcelone.html?t=a&d=25&c=1&a=2119887&p=16194) (paywall)
 * [Science: Researchers need ‘open’ bibliographic databases, new declaration says](https://www.science.org/content/article/researchers-need-open-bibliographic-databases-new-declaration-says)
 * [El Pais: El CSIC y medio centenar de organizaciones rechazan las bases de datos privadas que condicionan la ciencia mundial](https://elpais.com/ciencia/2024-04-16/el-csic-y-medio-centenar-de-organizaciones-rechazan-las-bases-de-datos-privadas-que-condicionan-la-ciencia-mundial.html)
-* [Newstank: Une 'Déclaration de Barcelone' pour faire de l’ouverture des informations sur la recherche la norme](https://education.newstank.fr/article/view/321065/declaration-barcelone-faire-ouverture-informations-recherche-norme.html) (paywall)
+* [Newstank: Une ‘Déclaration de Barcelone’ pour faire de l’ouverture des informations sur la recherche la norme](https://education.newstank.fr/article/view/321065/declaration-barcelone-faire-ouverture-informations-recherche-norme.html) (paywall)
 * [Newstank: Déclaration de Barcelone sur la recherche : la vision et la stratégie des trois coordinateurs](https://education.newstank.fr/article/view/307599/declaration-barcelone-recherche-vision-strategie-trois-coordinateurs.html
 ) (paywall)
 
@@ -41,7 +41,7 @@ Signatory releases and other supporter comments will be collated here as they be
 * [TIB signs the Barcelona Declaration on Open Research Information](https://blog.tib.eu/2024/04/16/tib-signs-the-barcelona-declaration-on-open-research-information/) - [In German](https://blog.tib.eu/2024/04/16/die-tib-unterzeichnet-die-barcelona-declaration-on-open-research-information/)
 * [The University of Turku commits to the Barcelona Declaration as the first Finnish university](https://www.utu.fi/en/news/news/the-university-of-turku-commits-to-the-barcelona-declaration-as-the-first-finnish)
 * [EOSC-A signs Barcelona Declaration on Open Research Information](https://eosc.eu/news/2024/04/eosc-a-signs-barcelona-declaration-on-open-research-information/)
-* [Più trasparenza nella gestione delle informazioni sulla ricerca: l’Alma Mater sottoscrive la "Barcelona Declaration"](https://magazine.unibo.it/archivio/2024/04/16/piu-trasparenza-nella-gestione-delle-informazioni-sulla-ricerca-l2019alma-mater-sottoscrive-la-barcelona-declaration)
+* [Più trasparenza nella gestione delle informazioni sulla ricerca: l’Alma Mater sottoscrive la ‘Barcelona Declaration’](https://magazine.unibo.it/archivio/2024/04/16/piu-trasparenza-nella-gestione-delle-informazioni-sulla-ricerca-l2019alma-mater-sottoscrive-la-barcelona-declaration)
 * [Barcelona Declaration on open research information: verso dati sulla ricerca aperti e trasparenti](https://www.roars.it/barcelona-declaration-on-open-research-information-verso-dati-sulla-ricerca-aperti-e-trasparenti/)
 * [Barcelona Declaration: open research information must be the new norm](https://council.science/current/blog/barcelona-declaration-open-research-information-must-be-the-new-norm/)
 

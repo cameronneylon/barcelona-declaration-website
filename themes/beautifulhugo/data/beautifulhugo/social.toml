@@ -1,4 +1,11 @@
 [[social_icons]]
+id = "mastodon"
+url = "https://%s"
+title = "Mastodon"
+icon = "fab fa-mastodon"
+
+
+[[social_icons]]
 id = "email"
 url = "mailto:%s"
 title = "Email me"
@@ -48,7 +55,7 @@ icon = "fab fa-reddit-alien"
 
 [[social_icons]]
 id = "linkedin"
-url = "https://linkedin.com/in/%s"
+url = "https://linkedin.com/company/%s"
 title = "LinkedIn"
 icon = "fab fa-linkedin"
 
@@ -148,12 +155,9 @@ url = "https://www.kaggle.com/%s"
 title = "kaggle"
 icon = "fab fa-kaggle"
 
-[[social_icons]]
-id = "mastodon"
-url = "https://%s"
-title = "Mastodon"
-icon = "fab fa-mastodon"
-rel = "me"
+
+
+
 
 [[social_icons]]
 id = "weibo"

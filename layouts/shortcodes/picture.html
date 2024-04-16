@@ -1,0 +1,11 @@
+{{- $normal := .Get 0 }}
+{{- $dark := .Get 1 }}
+{{- $alt := .Get 2 }}
+{{- $normalPath := $normal }}
+{{- $darkPath :=  $dark }}
+<div style="padding-top:20px;padding-bottom:20px">
+<picture >
+  <source srcset = "{{ $darkPath }}" media="(prefers-color-scheme: dark)">
+  <img src = "{{ $normalPath }}" alt = "{{ $alt }}">
+</picture>
+</div>

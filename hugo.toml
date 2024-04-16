@@ -1,8 +1,80 @@
-baseURL = "https://barcelona-declaration.org"
+baseURL = "https://dev.barcelona-declaration.org"
 languageCode = "en-us"
 title = "Barcelona Declaration on Open Research Information"
 contentdir = "content"
 theme = "beautifulhugo"
+enableRobotsTXT = true
+
+[author]
+    mastodon = "mastodon.social/@BarcelonaDORI"
+    twitter = "BarcelonaDORI"
+    linkedin = "barcelona-declaration/"
 
 [Params]
   selfHosted = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "declaration"   
+    name = "The Declaration"
+    url = "declaration/"
+    weight = 2    
+
+[[menu.main]]
+    name = "Preamble"
+    url = "preamble/"
+    parent = "declaration"
+    weight = 1
+
+[[menu.main]]
+    name = "Commitments"
+    url = "commitments/"
+    parent = "declaration"
+    weight = 2
+
+[[menu.main]]
+    name = "Background and Context"
+    url = "background_and_context/"
+    parent = "declaration"
+    weight = 3
+
+[[menu.main]]
+    name = "Definitions"
+    url = "definitions/"
+    parent = "declaration"
+    weight = 4
+    
+[[menu.main]]
+    name = "Infographic"
+    url = "infographic/"
+    parent = "declaration"
+    weight = 5
+
+[[menu.main]]
+    name = "Signatories"
+    url = "signatories/"
+    weight = 3
+
+[[menu.main]]
+    name = "Translations"
+    url = "translations/"
+    weight = 4    
+
+[[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 5
+
+# [[menu.main]]
+#    name = "Media"
+#    url = "media/"
+#    weight = 6
+
+[[menu.main]]
+    name = "Resources"
+    url = "resources/"
+    weight = 7

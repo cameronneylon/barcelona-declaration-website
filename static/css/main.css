@@ -3,26 +3,85 @@
 body {
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
-  color: #404040;
+  color: #3c3c3b;
   font-weight: 300;
   position: relative;
   background: #FFFFFF;
   display: flex;
   flex-flow: column;
   height: 100vh;
+  text-align: left;
+  /* line height is set below in p{} */
   /*padding-top: 60px */ /*prevent navbar overlaying body text for most screenwidths (BK) */
-  
+
 }
+
+
+
 @media (prefers-color-scheme: dark) {
   body {
-    background: black;
+    background: #2d2d2c;
     color: white;
   }
 }
 
-.well {
+button {
+  background-color: inherit;
+  /*background-color:white;*/
+  border: 1px solid black;
+  margin-top:20px;
+}
+
+@media (prefers-color-scheme: dark) {
+  button {
+    background-color: inherit;
+    /*background-color: #2d2d2c;*/
+    border: 1px solid white;
+  }
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.sectionblockright {
+  position: absolute;
+  border-style: solid;
+  right: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.sectionblockleft {
+  position: absolute;
+  border-style: solid;
+  left: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.well.about {
+    background-color: #FECF65;
+    text-align: left;
+}
+
+@media (prefers-color-scheme: dark) {
+.well.about {
+    background-color: #494066;
+    border:1px solid #494066;
+} 
+}
+
+.well.home {
     background-color: #e8e6e4;
     text-align: left;
+}
+
+@media (prefers-color-scheme: dark) {
+.well.home {
+    background-color: #494066;
+    border:1px solid #494066;
+}
 }
 
 .container[role=main] {
@@ -38,11 +97,11 @@ body {
 }
 
 p {
-  line-height: 1.8;
+  line-height: 1.8; /* this is where line height is set */
   margin: 6px 0;
 }
 p + p {
-    margin: 24px 0 6px 0;
+    margin: 32px 0 6px 0;
 }
 p a {
   /* text-decoration: underline */
@@ -59,10 +118,19 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 400;
   color: #494066;
   text-align: left;
+}
+
+@media (prefers-color-scheme: dark) {
+h1,h2,h3,h4,h5,h6 {
+  color: white;
+}
+}
+
+h1 {
   text-transform: uppercase;
 }
 
-
+}
 a {
   color: #9792c1;
 }
@@ -174,10 +242,14 @@ figure:not(.dark) img, img.white {
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
 @media (prefers-color-scheme: dark) {
   .navbar-custom {
-    background: #505050;
-    border-bottom: 1px solid #AAA;
+    background: #404040;
+    border-bottom: 1px solid #404040;
+    
+    /*background: #494066;
+    border-bottom: 1px solid #494066;*/
   }
 }
 
@@ -198,9 +270,10 @@ figure:not(.dark) img, img.white {
 @media (prefers-color-scheme: dark) {
   .navbar-custom .navbar-brand,
   .navbar-custom .nav li a {
-    color: #b0b0b0;
+    color: white;
   }
 }
+
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
@@ -214,7 +287,7 @@ figure:not(.dark) img, img.white {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   @media (prefers-color-scheme: dark) {
-    color: #b0e0ff;
+    color: #fdca50;
   }
 }
 
@@ -364,11 +437,10 @@ figure:not(.dark) img, img.white {
 }
 
 /* add to try and collapse navbar earlier (BK)
-source: https://stackoverflow.com/questions/19827605/how-to-change-bootstrap-navbar-collapse-breakpoint */ 
-/* hide until menu elements added */ 
+source: https://stackoverflow.com/questions/19827605/how-to-change-bootstrap-navbar-collapse-breakpoint
+*/
 
 /*@media (min-width: 768px) and (max-width: 1096px) { */
-/*
 @media (max-width: 1096px) {  
   .navbar-header {
       float: none;
@@ -405,7 +477,8 @@ source: https://stackoverflow.com/questions/19827605/how-to-change-bootstrap-nav
       display:block !important;
   }
 }
-*/
+
+
 
 /* --- Footer --- */
 
@@ -417,10 +490,16 @@ footer {
   font-size: 14px;
 }
 
+@media (prefers-color-scheme: dark) {
+  footer {
+    background: #1b1b1a;
+    border-top: 1px #1b1b1a solid;
+  }
+}
+
 footer a {
   color: #404040;
-
-}
+  }
 
 footer .list-inline {
   margin: 0;
@@ -450,6 +529,19 @@ footer div.disclaimer {
   text-align: center;
 }
 
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
+  footer a {
+    color: #e3e3e3;
+  }
+  footer .copyright {
+    color: darkgrey;
+  }
+  footer .theme-by {
+    color: darkgrey;
+  }
+}
+
 @media only screen and (min-width: 768px) {
   footer {
     padding: 20px 0;
@@ -462,15 +554,6 @@ footer div.disclaimer {
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  footer {
-    background: #444;
-    border-top: 1px #AAA solid;
-  }
-  footer a {
-    color: #AAA;
-  }
-}
 
 /* --- Post preview --- */
 
@@ -628,6 +711,13 @@ footer div.disclaimer {
   position: relative;
   background-color: #fbfafa;
 }
+
+@media (prefers-color-scheme: dark) {
+.intro-header {
+  background-color: #574e73;
+}
+}
+
 .intro-header.big-img {
   background: no-repeat center center;
   -webkit-background-size: cover;
@@ -671,6 +761,16 @@ footer div.disclaimer {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   }
+
+@media (prefers-color-scheme: dark) {
+.intro-header .page-heading h1,
+.intro-header .tags-heading h1,
+.intro-header .categories-heading h1 {
+  background: -webkit-linear-gradient(#aaa6bf, #bdbacf, #ffffff, #ffffff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  }  
+}  
   
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -711,6 +811,15 @@ footer div.disclaimer {
   bottom: 0;
   display: none;
 }
+
+.header-section.has-img .no-img {
+  margin-top: 0;
+  background: #ffffff;
+  margin: 0 0 40px;
+  padding: 20px 0;
+  box-shadow: 0 0 5px #AAA;
+}
+
 @media only screen and (min-width: 768px) {
   .intro-header {
     margin-top: 71px;
@@ -733,14 +842,6 @@ footer div.disclaimer {
   .intro-header.big-img .img-desc {
     font-size: 14px;
   }
-}
-
-.header-section.has-img .no-img {
-  margin-top: 0;
-  background: #ffffff;
-  margin: 0 0 40px;
-  padding: 20px 0;
-  box-shadow: 0 0 5px #AAA;
 }
 
 @media only screen and (max-width: 600px) {
@@ -785,6 +886,7 @@ footer div.disclaimer {
   .intro-header {
   padding: 53px 0;
 }
+
 
 /* Many phones are 320 or 360px, so make sure images are a proper aspect ratio in those cases */
 .header-section.has-img .intro-header.no-img {
@@ -1032,9 +1134,6 @@ h4.see-also {
   }
   pre code {
     color: #ccc;
-  }
-  .well {
-    background-color: #444;
   }
   .panel {
     background-color: #222;

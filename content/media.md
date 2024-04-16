@@ -11,7 +11,7 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-### Media Coverage
+### Media coverage
 
 Media coverage of the Declaration will be collated here.
 
@@ -19,4 +19,4 @@ Media coverage of the Declaration will be collated here.
 
 Signatory releases and other comments will be collated here as they become available.
 
-If you would like more information or to comment on the Barcelona Declaration please contact us as [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org)
+If we missed any media coverage or any commentary regarding the Barcelona Declaration, please contact us as [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).

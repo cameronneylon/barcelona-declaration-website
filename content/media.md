@@ -34,8 +34,8 @@ If we missed any media coverage or any commentary regarding the Barcelona Declar
 
 {{< rawhtml >}}
 
-<button style="float:left" onclick="document.location='/about'">&larr; About</button> 
+<button style="float:left" onclick="document.location='/translations'">&larr; Translations</button> 
 
-<button style="float:right" onclick="document.location='/resources'">Resources &rarr;</button> 
+<button style="float:right" onclick="document.location='/about'">About &rarr;</button> 
 
 {{< /rawhtml >}}

@@ -28,6 +28,6 @@ If you are interested in contributing a translation, please contact us at [conta
 
 <button style="float:left" onclick="document.location='/signatories'">&larr; Signatories</button> 
 
-<button style="float:right" onclick="document.location='/about'">About &rarr;</button> 
+<button style="float:right" onclick="document.location='/media'">Media and commentary &rarr;</button> 
 
 {{< /rawhtml >}}

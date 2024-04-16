@@ -10,7 +10,7 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-### Research Information
+### Research information
 
 By *research information* we mean information (sometimes referred to as metadata) relating to the conduct and communication of research. This includes, but is not limited to, (1) bibliographic metadata such as titles, abstracts, references, author data, affiliation data, and data on publication venues, (2) metadata on research software, research data, samples, and instruments, (3) information on funding and grants, and (4) information on organizations and research contributors. Research information is located in systems such as bibliographic databases, software archives, data repositories, and current research information systems.
 

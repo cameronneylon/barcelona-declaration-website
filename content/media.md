@@ -17,7 +17,7 @@ Media coverage of the Declaration.
 
 * [NewsTank: Science ouverte - pourquoi Sorbonne Université adhère à la Déclaration de Barcelone (N. Drach-Temam)](https://education.newstank.fr/article/view/317446/science-ouverte-pourquoi-sorbonne-universite-adhere-declaration-barcelone.html?t=a&d=25&c=1&a=2119887&p=16194) (paywall)
 * [Science: Researchers need ‘open’ bibliographic databases, new declaration says](https://www.science.org/content/article/researchers-need-open-bibliographic-databases-new-declaration-says)
-* [El CSIC y medio centenar de organizaciones rechazan las bases de datos privadas que condicionan la ciencia mundial](https://elpais.com/ciencia/2024-04-16/el-csic-y-medio-centenar-de-organizaciones-rechazan-las-bases-de-datos-privadas-que-condicionan-la-ciencia-mundial.html)
+* [El Pais: El CSIC y medio centenar de organizaciones rechazan las bases de datos privadas que condicionan la ciencia mundial](https://elpais.com/ciencia/2024-04-16/el-csic-y-medio-centenar-de-organizaciones-rechazan-las-bases-de-datos-privadas-que-condicionan-la-ciencia-mundial.html)
 
 ### Commentary
 

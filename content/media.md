@@ -11,12 +11,12 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-### Commentary
-
-Signatory releases and other comments will be collated here as they become available.
-
 ### Media Coverage
 
 Media coverage of the Declaration will be collated here.
 
-If you would like more information or comment on the Barcelona Declaration please contact us as [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org)
+### Commentary
+
+Signatory releases and other comments will be collated here as they become available.
+
+If you would like more information or to comment on the Barcelona Declaration please contact us as [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org)

@@ -6,16 +6,20 @@ comments = false
 +++
 
 Organizations that wish to sign the Declaration are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org"). 
+
 {{< rawhtml >}}
-<br>
+</br>
 <hr class="small">
 {{< /rawhtml >}}
 # Signatories
+
 Organizations performing, funding or evaluating research
+
 {{< rawhtml >}}
-<br>
+</br>
 <hr class="small">
 {{< /rawhtml >}}
+
 **Universities and other research performing organizations**
 * Athena Research Center (Greece)
 * Charles University (Czech Republic)
@@ -49,6 +53,7 @@ Organizations performing, funding or evaluating research
 {{< rawhtml >}}
 <br>
 <hr class="small">
+
 {{< /rawhtml >}}
 **Research funding organizations and governments**
 * Bill & Melinda Gates Foundation (US)
@@ -83,6 +88,7 @@ Organizations performing, funding or evaluating research
 {{< /rawhtml >}}
 # Supporters
 Organizations providing data, services and infrastructure
+
 {{< rawhtml >}}
 <br>
 <hr class="small">

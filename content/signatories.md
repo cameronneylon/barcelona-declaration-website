@@ -107,6 +107,7 @@ Organizations providing data, services and infrastructure
 * OurResearch
 * Redalyc
 * Research Organization Registry - ROR
+* Thoth Open Metadata
 
 
 

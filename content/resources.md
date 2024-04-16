@@ -173,6 +173,12 @@ Images for supporters of the Barcelona Declaration
     </tr>
 </table>
 
+### Infographic
+
+The infographic describing Open Research Information.
+
+{{< picture_click >}}
+
 {{< /rawhtml >}} 
 
 {{< rawhtml >}}

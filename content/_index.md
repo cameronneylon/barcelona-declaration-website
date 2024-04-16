@@ -10,7 +10,12 @@ Open research information enables science policy decisions to be made based on t
 
 To this end, we, as organizations that carry out, fund and evaluate research, commit to the following:
 
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
 # Commitments
+
 {{< rawhtml >}}
 <hr class="small">
 </br></br>

@@ -80,12 +80,11 @@ Organizations performing, funding or evaluating research
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (UK)
 
-
-
 {{< rawhtml >}}
 <br>
 <hr class="small">
 {{< /rawhtml >}}
+
 # Supporters
 Organizations providing data, services and infrastructure
 

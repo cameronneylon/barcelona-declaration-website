@@ -21,11 +21,13 @@ Organizations performing, funding or evaluating research
 {{< /rawhtml >}}
 
 **Universities and other research performing organizations**
+* Aix-Marseille Université (France)
 * Athena Research Center (Greece)
 * Charles University (Czech Republic)
 * Coimbra Group (international)
 * Hamburg University of Technology (Germany)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)
+* Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
 * Leiden University (Netherlands)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
 * Otto-Friedrich-Universität Bamberg (Germany)
@@ -34,6 +36,7 @@ Organizations performing, funding or evaluating research
 * Udice - French Research Universities (France)
 * UnilLaSalle (France)
 * Universidad de Antioquia (Colombia)
+* Universidade do Minho (Port)
 * Università di Bologna (Italy)
 * Universitat de Barcelona (Spain)
 * Universitat Politècnica de Catalunya (Spain)

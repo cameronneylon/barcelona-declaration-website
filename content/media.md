@@ -21,6 +21,7 @@ Media coverage of the Declaration.
 * [Newstank: Une ‘Déclaration de Barcelone’ pour faire de l’ouverture des informations sur la recherche la norme](https://education.newstank.fr/article/view/321065/declaration-barcelone-faire-ouverture-informations-recherche-norme.html) (paywall)
 * [Newstank: Déclaration de Barcelone sur la recherche : la vision et la stratégie des trois coordinateurs](https://education.newstank.fr/article/view/307599/declaration-barcelone-recherche-vision-strategie-trois-coordinateurs.html
 ) (paywall)
+* [The Australian: New call for open research evaluation](https://www.theaustralian.com.au/higher-education/barcelona-declaration-calls-for-open-research-evaluation/news-story/3814cffeda0ef7eadafac705c2745c0a) (paywall) - [see also](https://readnow.isentia.com/Temp/155117-1069909869/2060945953_20250417.pdf)
 
 
 ### Commentary

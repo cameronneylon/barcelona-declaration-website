@@ -25,19 +25,21 @@ Media coverage of the Declaration.
 
 ### Commentary
 
-Signatory releases and other supporter comments will be collated here as they become available.
-
-* [Coimbra Group signs the Barcelona Declaration on Open Research Information](https://www.coimbra-group.eu/coimbra-group-signs-the-barcelona-declaration-on-open-research-information/)
+* [International Science Council: Barcelona Declaration - open research information must be the new norm](https://council.science/current/blog/barcelona-declaration-open-research-information-must-be-the-new-norm/)
+* [SPARC: Barcelona Declaration Pushes for Open Default to Research Information](https://sparcopen.org/news/2024/barcelona-declaration-pushes-for-open-default-to-research-information/)
 * [cOAlition S welcomes the Barcelona Declaration on Open Research Information](https://www.coalition-s.org/coalition-s-welcomes-the-barcelona-declaration-on-open-research-information/)
 * [Science Europe welcomes the Barcelona Declaration on Open Research Information](https://scienceeurope.org/news/barcelona-declaration-on-open-research-information/)
-* [DOAJ Announces Support for the Barcelona Declaration on Open Research Information](https://blog.doaj.org/2024/04/16/doaj-announces-support-for-the-barcelona-declaration-on-open-research-information/)
-* [OpenCitations supports the Barcelona Declaration on Open Research Information for a fundamental transformation in the research information landscape](https://opencitations.hypotheses.org/3557)
+* [Open principles reaffirm Digital Science’s commitment to open research](https://www.digital-science.com/news/open-principles-reaffirm-digital-science-commitment-to-open-research/)
+* [Barcelona Declaration on open research information: verso dati sulla ricerca aperti e trasparenti](https://www.roars.it/barcelona-declaration-on-open-research-information-verso-dati-sulla-ricerca-aperti-e-trasparenti/)
+
+### Posts and releases from signatories
+
+* [Coimbra Group signs the Barcelona Declaration on Open Research Information](https://www.coimbra-group.eu/coimbra-group-signs-the-barcelona-declaration-on-open-research-information/)
 * [Leiden University: Calling on universities and funders: make research information open](https://www.universiteitleiden.nl/en/news/2024/04/calling-on-universities-and-funders-make-research-information-open)
 * [NWO and ZonMw sign declaration to promote open research information](https://www.nwo.nl/en/news/nwo-and-zonmw-sign-declaration-to-promote-open-research-information)
 * [Sorbonne Université signe la Déclaration de Barcelone](https://www.sorbonne-universite.fr/presse/sorbonne-universite-signe-la-declaration-de-barcelone)
 * [Barcelona Declaration: important step for VU towards open research information](https://vu.nl/en/news/2024/barcelona-declaration-important-step-for-vu-towards-open-research-information)
 * [University of Groningen signs Barcelona Declaration on Open Research Information](https://www.rug.nl/about-ug/latest-news/news/archief2024/nieuwsberichten/0416-barcelona-declaration)
-* [Open principles reaffirm Digital Science’s commitment to open research](https://www.digital-science.com/news/open-principles-reaffirm-digital-science-commitment-to-open-research/?utm_source=twitter&utm_medium=social&utm_term=digisci&utm_campaign=research-transformation)
 * [TIB signs the Barcelona Declaration on Open Research Information](https://blog.tib.eu/2024/04/16/tib-signs-the-barcelona-declaration-on-open-research-information/) - [In German](https://blog.tib.eu/2024/04/16/die-tib-unterzeichnet-die-barcelona-declaration-on-open-research-information/)
 * [The University of Turku commits to the Barcelona Declaration as the first Finnish university](https://www.utu.fi/en/news/news/the-university-of-turku-commits-to-the-barcelona-declaration-as-the-first-finnish)
 * [EOSC-A signs Barcelona Declaration on Open Research Information](https://eosc.eu/news/2024/04/eosc-a-signs-barcelona-declaration-on-open-research-information/)
@@ -45,8 +47,15 @@ Signatory releases and other supporter comments will be collated here as they be
 * [Barcelona Declaration on open research information: verso dati sulla ricerca aperti e trasparenti](https://www.roars.it/barcelona-declaration-on-open-research-information-verso-dati-sulla-ricerca-aperti-e-trasparenti/)
 * [Barcelona Declaration: open research information must be the new norm](https://council.science/current/blog/barcelona-declaration-open-research-information-must-be-the-new-norm/)
 * [Barcelona Declaration Pushes for Open Default to Research Information](https://sparcopen.org/news/2024/barcelona-declaration-pushes-for-open-default-to-research-information/)
+* [Forschungsinformationen für alle! Universität Bamberg ist Erstunterzeichnerin der Barcelona Declaration on Open Research Information](https://blog.uni-bamberg.de/campus/2024/barcelona-declaration/)
+* [Offener Zugang zu Forschungsinformationen gewünscht TU Hamburg gehört zu Erstunterzeichnenden der ‘Barcelona Declaration‘](https://www.tuhh.de/tuhh/tu-hamburg/newsroom/barcelona-declaration)
 
-If we missed any media coverage or any commentary regarding the Barcelona Declaration, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
+### Posts and releases from supporters
+
+* [DOAJ Announces Support for the Barcelona Declaration on Open Research Information](https://blog.doaj.org/2024/04/16/doaj-announces-support-for-the-barcelona-declaration-on-open-research-information/)
+* [OpenCitations supports the Barcelona Declaration on Open Research Information for a fundamental transformation in the research information landscape](https://opencitations.hypotheses.org/3557)
+
+If we missed any media coverage, posts or commentary regarding the Barcelona Declaration, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
 
 
 {{< rawhtml >}}

@@ -44,6 +44,9 @@ Media coverage of the Declaration.
 * [The University of Turku commits to the Barcelona Declaration as the first Finnish university](https://www.utu.fi/en/news/news/the-university-of-turku-commits-to-the-barcelona-declaration-as-the-first-finnish)
 * [EOSC-A signs Barcelona Declaration on Open Research Information](https://eosc.eu/news/2024/04/eosc-a-signs-barcelona-declaration-on-open-research-information/)
 * [Più trasparenza nella gestione delle informazioni sulla ricerca: l’Alma Mater sottoscrive la ‘Barcelona Declaration’](https://magazine.unibo.it/archivio/2024/04/16/piu-trasparenza-nella-gestione-delle-informazioni-sulla-ricerca-l2019alma-mater-sottoscrive-la-barcelona-declaration)
+* [Barcelona Declaration on open research information: verso dati sulla ricerca aperti e trasparenti](https://www.roars.it/barcelona-declaration-on-open-research-information-verso-dati-sulla-ricerca-aperti-e-trasparenti/)
+* [Barcelona Declaration: open research information must be the new norm](https://council.science/current/blog/barcelona-declaration-open-research-information-must-be-the-new-norm/)
+* [Barcelona Declaration Pushes for Open Default to Research Information](https://sparcopen.org/news/2024/barcelona-declaration-pushes-for-open-default-to-research-information/)
 * [Forschungsinformationen für alle! Universität Bamberg ist Erstunterzeichnerin der Barcelona Declaration on Open Research Information](https://blog.uni-bamberg.de/campus/2024/barcelona-declaration/)
 * [Offener Zugang zu Forschungsinformationen gewünscht TU Hamburg gehört zu Erstunterzeichnenden der ‘Barcelona Declaration‘](https://www.tuhh.de/tuhh/tu-hamburg/newsroom/barcelona-declaration)
 

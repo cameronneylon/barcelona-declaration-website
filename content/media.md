@@ -24,6 +24,7 @@ Media coverage of the Declaration.
 * [The Australian: New call for open research evaluation](https://www.theaustralian.com.au/higher-education/barcelona-declaration-calls-for-open-research-evaluation/news-story/3814cffeda0ef7eadafac705c2745c0a) (paywall) - [see also](https://readnow.isentia.com/Temp/155117-1069909869/2060945953_20250417.pdf)
 * [Table: Barcelona Declaration - Internationale Initiative will offene Forschungsinformation als neue Norm](https://table.media/research/analyse/barcelona-declaration-internationale-initiative-will-offene-forschungsinformation-als-neue-norm/)
 * [Future Campus: New Euro demand for open information on research performance](https://futurecampus.com.au/2024/04/16/new-euro-demand-for-open-information-on-research-performance/)
+* [Research Professional: Funders and universities pledge to use open research information](https://www.researchprofessionalnews.com/rr-news-europe-infrastructure-2024-4-funders-and-universities-pledge-to-use-open-research-information/) (paywall)
 
 ### Commentary
 
@@ -33,7 +34,7 @@ Media coverage of the Declaration.
 * [Science Europe welcomes the Barcelona Declaration on Open Research Information](https://scienceeurope.org/news/barcelona-declaration-on-open-research-information/)
 * [Open principles reaffirm Digital Science’s commitment to open research](https://www.digital-science.com/news/open-principles-reaffirm-digital-science-commitment-to-open-research/)
 * [Barcelona Declaration on open research information: verso dati sulla ricerca aperti e trasparenti](https://www.roars.it/barcelona-declaration-on-open-research-information-verso-dati-sulla-ricerca-aperti-e-trasparenti/)
-* [Research Professional: Funders and universities pledge to use open research information](https://www.researchprofessionalnews.com/rr-news-europe-infrastructure-2024-4-funders-and-universities-pledge-to-use-open-research-information/) (paywall)
+* [OPUS Project: Barcelona Declaration on Open Research Information](https://opusproject.eu/openscience-news/barcelona-declaration-on-open-research-information/)
 
 ### Posts and releases from signatories
 

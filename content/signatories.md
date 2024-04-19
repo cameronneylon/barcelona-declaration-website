@@ -67,6 +67,7 @@ Organizations performing, funding or evaluating research
 * French National Research Agency - ANR (France)
 * French Open Science Committee (France)
 * Fundació Internacional Josep Carreras (Spain)
+* Fundación MenteClara Internacional (Argentina)
 * Région Normandie (France)
 * Regione Toscana (Italy)
 * ZonMw (Netherlands)

@@ -1,6 +1,6 @@
 {{- $alt := .Get 0 }}
 <div style="padding-top:20px;padding-bottom:20px">
-  <a onclick="return doClick();" target="_blank">
+  <a onclick="return doClick();">
 <picture >
   <source srcset = "/images/open_research_information_infographic_darkmode_click.png" media="(prefers-color-scheme: dark)">
   <img src = "/images/open-research_information_infographic_click.jpg" alt = "{{ $alt }}">
@@ -11,8 +11,9 @@
 <script>
 function doClick() {
    if(window.matchMedia && window.matchMedia("(prefers-color-scheme:dark)").matches)
-       window.location.href = "/images/open_research_information_infographic_darkmode.png";
+       window.open("/images/open_research_information_infographic_darkmode.png");
    else
-       window.location.href = "/images/open_research_information_infographic.jpg"
+      window.open("/images/open_research_information_infographic.jpg");
+       
 }
 </script>

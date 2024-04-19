@@ -41,6 +41,7 @@ Organizations performing, funding or evaluating research
 * Università di Bologna (Italy)
 * Universitat de Barcelona (Spain)
 * Universitat Politècnica de Catalunya (Spain)
+* Universitat de Vic-Universitat Central de Catalunya (Spain)
 * Université Grenoble Alpes (France)
 * Université Le Havre Normandie (France)
 * Université Paris Saclay (France)

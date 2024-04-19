@@ -17,8 +17,9 @@ The official text of the Barcelona Declaration is in {{< translation "/downloads
 * {{< translation "/downloads/barcelonadeclaration_українська_мова.pdf" "українська мова" >}}
 
 Coming soon:
-* Deutsch
 * 汉语
+* Deutsch
+* Portuguese
 
 
 If you are interested in contributing a translation, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).

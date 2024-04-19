@@ -35,14 +35,15 @@ Media coverage of the Declaration.
 * [Open principles reaffirm Digital Science’s commitment to open research](https://www.digital-science.com/news/open-principles-reaffirm-digital-science-commitment-to-open-research/)
 * [Barcelona Declaration on open research information: verso dati sulla ricerca aperti e trasparenti](https://www.roars.it/barcelona-declaration-on-open-research-information-verso-dati-sulla-ricerca-aperti-e-trasparenti/)
 * [OPUS Project: Barcelona Declaration on Open Research Information](https://opusproject.eu/openscience-news/barcelona-declaration-on-open-research-information/)
+* [CWTS: Barcelona Declaration promotes openness of research information](https://www.cwts.nl/news?article=n-t2q294)
 
 ### Posts and releases from signatories
 
 * [Coimbra Group signs the Barcelona Declaration on Open Research Information](https://www.coimbra-group.eu/coimbra-group-signs-the-barcelona-declaration-on-open-research-information/)
 * [Leiden University: Calling on universities and funders: make research information open](https://www.universiteitleiden.nl/en/news/2024/04/calling-on-universities-and-funders-make-research-information-open)
-* [NWO and ZonMw sign declaration to promote open research information](https://www.nwo.nl/en/news/nwo-and-zonmw-sign-declaration-to-promote-open-research-information)
+* [NWO and ZonMw sign declaration to promote open research information](https://www.nwo.nl/en/news/nwo-and-zonmw-sign-declaration-to-promote-open-research-information) - see also [ZonMw site](https://www.zonmw.nl/en/news/nwo-and-zonmw-sign-declaration-promote-open-research-information)
 * [Sorbonne Université signe la Déclaration de Barcelone](https://www.sorbonne-universite.fr/presse/sorbonne-universite-signe-la-declaration-de-barcelone)
-* [Barcelona Declaration: important step for VU towards open research information](https://vu.nl/en/news/2024/barcelona-declaration-important-step-for-vu-towards-open-research-information)
+* [Barcelona Declaration: important step for VU towards open research information](https://vu.nl/en/news/2024/barcelona-declaration-important-step-for-vu-towards-open-research-information) - [in Dutch](https://vu.nl/nl/nieuws/2024/met-barcelona-verklaring-zet-vu-belangrijke-stap-naar-open-onderzoeksinformatie)
 * [University of Groningen signs Barcelona Declaration on Open Research Information](https://www.rug.nl/about-ug/latest-news/news/archief2024/nieuwsberichten/0416-barcelona-declaration)
 * [TIB signs the Barcelona Declaration on Open Research Information](https://blog.tib.eu/2024/04/16/tib-signs-the-barcelona-declaration-on-open-research-information/) - [In German](https://blog.tib.eu/2024/04/16/die-tib-unterzeichnet-die-barcelona-declaration-on-open-research-information/)
 * [The University of Turku commits to the Barcelona Declaration as the first Finnish university](https://www.utu.fi/en/news/news/the-university-of-turku-commits-to-the-barcelona-declaration-as-the-first-finnish)
@@ -51,7 +52,7 @@ Media coverage of the Declaration.
 * [Barcelona Declaration on open research information: verso dati sulla ricerca aperti e trasparenti](https://www.roars.it/barcelona-declaration-on-open-research-information-verso-dati-sulla-ricerca-aperti-e-trasparenti/)
 * [Forschungsinformationen für alle! Universität Bamberg ist Erstunterzeichnerin der Barcelona Declaration on Open Research Information](https://blog.uni-bamberg.de/campus/2024/barcelona-declaration/)
 * [Offener Zugang zu Forschungsinformationen gewünscht TU Hamburg gehört zu Erstunterzeichnenden der ‘Barcelona Declaration‘](https://www.tuhh.de/tuhh/tu-hamburg/newsroom/barcelona-declaration)
-* [Museo Galileo joins the Barcelona Declaration on Open Research Information](https://www.museogalileo.it/en/events-and-news/2678-il-museo-galileo-aderisce-alla-barcelona-declaration-on-open-research-information-eng.html)
+* [Museo Galileo joins the Barcelona Declaration on Open Research Information](https://www.museogalileo.it/en/events-and-news/2678-il-museo-galileo-aderisce-alla-barcelona-declaration-on-open-research-information-eng.html) - [in Italian](https://www.museogalileo.it/it/eventi-e-news/2677-il-museo-galileo-aderisce-alla-barcelona-declaration-on-open-research-information.html)
 * [Athena a founding signatory of the Barcelona Declaration on Open Research Information](https://www.athenarc.gr/en/news/athena-founding-signatory-barcelona-declaration-open-research-information)
 * [UKRN is a founding signatory of the Barcelona Declaration on Open Research Information](https://www.ukrn.org/2024/04/16/ukrn-is-a-founding-signatory-of-the-barcelona-declaration-on-open-research-information/)
 

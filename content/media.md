@@ -47,6 +47,7 @@ Media coverage of the Declaration.
 * [Più trasparenza nella gestione delle informazioni sulla ricerca: l’Alma Mater sottoscrive la ‘Barcelona Declaration’](https://magazine.unibo.it/archivio/2024/04/16/piu-trasparenza-nella-gestione-delle-informazioni-sulla-ricerca-l2019alma-mater-sottoscrive-la-barcelona-declaration)
 * [Forschungsinformationen für alle! Universität Bamberg ist Erstunterzeichnerin der Barcelona Declaration on Open Research Information](https://blog.uni-bamberg.de/campus/2024/barcelona-declaration/)
 * [Offener Zugang zu Forschungsinformationen gewünscht TU Hamburg gehört zu Erstunterzeichnenden der ‘Barcelona Declaration‘](https://www.tuhh.de/tuhh/tu-hamburg/newsroom/barcelona-declaration)
+* [Open science: la Statale aderisce alla Dichiarazione di Barcellona](https://lastatalenews.unimi.it/open-science-statale-aderisce-dichiarazione-barcellona)
 
 ### Posts and releases from supporters
 

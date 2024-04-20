@@ -55,6 +55,7 @@ Media coverage of the Declaration.
 * [Museo Galileo joins the Barcelona Declaration on Open Research Information](https://www.museogalileo.it/en/events-and-news/2678-il-museo-galileo-aderisce-alla-barcelona-declaration-on-open-research-information-eng.html) - also available [in Italian](https://www.museogalileo.it/it/eventi-e-news/2677-il-museo-galileo-aderisce-alla-barcelona-declaration-on-open-research-information.html)
 * [Athena a founding signatory of the Barcelona Declaration on Open Research Information](https://www.athenarc.gr/en/news/athena-founding-signatory-barcelona-declaration-open-research-information)
 * [UKRN is a founding signatory of the Barcelona Declaration on Open Research Information](https://www.ukrn.org/2024/04/16/ukrn-is-a-founding-signatory-of-the-barcelona-declaration-on-open-research-information/)
+* [Open science: la Statale aderisce alla Dichiarazione di Barcellona](https://lastatalenews.unimi.it/open-science-statale-aderisce-dichiarazione-barcellona)
 
 ### Posts and releases from supporters
 

@@ -99,6 +99,7 @@ Organizations providing data, services and infrastructure
 <hr class="small">
 {{< /rawhtml >}}
 
+* Africa PID Alliance
 * AmeliCA Ciencia Abierta
 * Crossref 
 * Curtin Open Knowledge Initiative - COKI
@@ -113,6 +114,7 @@ Organizations providing data, services and infrastructure
 * OurResearch
 * Redalyc
 * Research Organization Registry - ROR
+* Reviewer Credits
 * Thoth Open Metadata
 
 

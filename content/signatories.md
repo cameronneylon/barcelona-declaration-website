@@ -37,7 +37,7 @@ Organizations performing, funding or evaluating research
 * Udice - French Research Universities (France)
 * UnilLaSalle (France)
 * Universidad de Antioquia (Colombia)
-* Universidade do Minho (Port)
+* Universidade do Minho (Portugal)
 * Università di Bologna (Italy)
 * Universitat de Barcelona (Spain)
 * Universitat Politècnica de Catalunya (Spain)

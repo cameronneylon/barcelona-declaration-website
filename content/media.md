@@ -25,6 +25,7 @@ Media coverage of the Declaration.
 * [Table: Barcelona Declaration - Internationale Initiative will offene Forschungsinformation als neue Norm](https://table.media/research/analyse/barcelona-declaration-internationale-initiative-will-offene-forschungsinformation-als-neue-norm/)
 * [Future Campus: New Euro demand for open information on research performance](https://futurecampus.com.au/2024/04/16/new-euro-demand-for-open-information-on-research-performance/)
 * [Research Professional: Funders and universities pledge to use open research information](https://www.researchprofessionalnews.com/rr-news-europe-infrastructure-2024-4-funders-and-universities-pledge-to-use-open-research-information/) (paywall)
+* [Die Neue Wiesentbote: Universität Bamberg ist Erstunterzeichnerin der Barcelona Declaration on Open Research Information](https://www.wiesentbote.de/2024/04/20/universitaet-bamberg-ist-erstunterzeichnerin-der-barcelona-declaration-on-open-research-information/)
 
 ### Commentary
 
@@ -36,6 +37,9 @@ Media coverage of the Declaration.
 * [Barcelona Declaration on open research information: verso dati sulla ricerca aperti e trasparenti](https://www.roars.it/barcelona-declaration-on-open-research-information-verso-dati-sulla-ricerca-aperti-e-trasparenti/)
 * [OPUS Project: Barcelona Declaration on Open Research Information](https://opusproject.eu/openscience-news/barcelona-declaration-on-open-research-information/)
 * [CWTS: Barcelona Declaration promotes openness of research information](https://www.cwts.nl/news?article=n-t2q294)
+* [TU Delft Library: What can libraries do in response to the Barcelona Declaration on Open Research Information](https://library4research.tudl.tudelft.nl/2024/04/19/what-can-libraries-do-in-response-to-the-barcelona-declaration-on-open-research-information/)
+* [NISO: Barcelona Declaration on Open Research Information Now Released](https://www.niso.org/niso-io/2024/04/barcelona-declaration-open-research-information-now-released)
+
 
 ### Posts and releases from signatories
 
@@ -56,6 +60,9 @@ Media coverage of the Declaration.
 * [Athena a founding signatory of the Barcelona Declaration on Open Research Information](https://www.athenarc.gr/en/news/athena-founding-signatory-barcelona-declaration-open-research-information)
 * [UKRN is a founding signatory of the Barcelona Declaration on Open Research Information](https://www.ukrn.org/2024/04/16/ukrn-is-a-founding-signatory-of-the-barcelona-declaration-on-open-research-information/)
 * [Open science: la Statale aderisce alla Dichiarazione di Barcellona](https://lastatalenews.unimi.it/open-science-statale-aderisce-dichiarazione-barcellona)
+* [Le Comité pour la science ouverte est signataire de la déclaration de Barcelone sur l’ouverture des informations sur la recherche](https://www.ouvrirlascience.fr/le-comite-pour-la-science-ouverte-est-signataire-de-la-declaration-de-barcelone-sur-louverture-des-informations-sur-la-recherche/)
+* [Advancing Open Science: Knowmad Institut Joins the Barcelona Declaration!](https://knowmadinstitut.org/2024/04/advancing-open-science-knowmad-institut-joins-the-barcelona-declaration/)
+* [l’Université Le Havre Normandie signataire de la Déclaration de Barcelone sur l’information de recherche ouverte](https://www.univ-lehavre.fr/fr/actualites/flash-actualites/luniversite-signataire-de-la-declaration-de-barcelone-sur-linformation-de-recherche-ouverte/)
 
 ### Posts and releases from supporters
 

@@ -35,7 +35,7 @@ Organizations performing, funding or evaluating research
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)
 * Udice - French Research Universities (France)
-* UnilLaSalle (France)
+* UniLaSalle (France)
 * Universidad de Antioquia (Colombia)
 * Universidade do Minho (Portugal)
 * Università di Bologna (Italy)

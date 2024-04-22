@@ -26,7 +26,7 @@ Media coverage of the Declaration.
 * [Future Campus: New Euro demand for open information on research performance](https://futurecampus.com.au/2024/04/16/new-euro-demand-for-open-information-on-research-performance/)
 * [Research Professional: Funders and universities pledge to use open research information](https://www.researchprofessionalnews.com/rr-news-europe-infrastructure-2024-4-funders-and-universities-pledge-to-use-open-research-information/) (paywall)
 * [Die Neue Wiesentbote: Universität Bamberg ist Erstunterzeichnerin der Barcelona Declaration on Open Research Information](https://www.wiesentbote.de/2024/04/20/universitaet-bamberg-ist-erstunterzeichnerin-der-barcelona-declaration-on-open-research-information/)
-* ['Barcelona-Deklaration' für Transparenz von Forschungsdaten](https://www.forschung-und-lehre.de/forschung/barcelona-deklaration-fuer-transparenz-von-forschungsdaten-6372)
+* [Forschung & Lehre: 'Barcelona-Deklaration' für Transparenz von Forschungsdaten](https://www.forschung-und-lehre.de/forschung/barcelona-deklaration-fuer-transparenz-von-forschungsdaten-6372)
 
 ### Commentary
 

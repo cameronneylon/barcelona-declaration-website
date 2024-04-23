@@ -34,6 +34,7 @@ Organizations performing, funding or evaluating research
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)
+* Stockholm University (Sweden)
 * Udice - French Research Universities (France)
 * UniLaSalle (France)
 * Universidad de Antioquia (Colombia)

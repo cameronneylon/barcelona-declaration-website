@@ -62,7 +62,13 @@ To this end, we, as organizations that carry out, fund and evaluate research, co
 ### We will support collective action to accelerate the transition to openness of research information
 
 {{< rawhtml >}}
-</br>
+<hr class="small">
+</br></br>
+{{< /rawhtml >}}
+Organizations that wish to sign the Declaration are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org"). 
+
+{{< rawhtml >}}
+</br></br>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}

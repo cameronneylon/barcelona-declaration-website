@@ -25,6 +25,7 @@ Organizations performing, funding or evaluating research
 * Athena Research Center (Greece)
 * Charles University (Czech Republic)
 * Coimbra Group (international)
+* Delft University of Technology (Netherlands)
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)

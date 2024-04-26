@@ -120,6 +120,7 @@ Organizations providing data, services and infrastructure
 * Research Organization Registry - ROR
 * Reviewer Credits
 * Thoth Open Metadata
+* Ubiquity
 
 
 

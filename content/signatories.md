@@ -29,6 +29,7 @@ Organizations performing, funding or evaluating research
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)
+* Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
 * Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
 * Leiden University (Netherlands)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)

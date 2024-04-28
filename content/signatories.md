@@ -110,6 +110,8 @@ Organizations providing data, services and infrastructure
 * Directory of Open Access Books - DOAB
 * Directory of Open Access Journals - DOAJ
 * Europe PMC
+* International Interactive Computing Collaboration - 2i2c
+* Latindex
 * Liberate Science GmbH
 * OAPEN Foundation
 * OpenAIRE

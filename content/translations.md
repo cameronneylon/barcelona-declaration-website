@@ -21,6 +21,7 @@ Coming soon:
 * Croatian
 * Deutsch
 * Italian
+* Polish
 * Portuguese
 
 

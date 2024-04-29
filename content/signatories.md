@@ -25,6 +25,7 @@ Organizations performing, funding or evaluating research
 * Athena Research Center (Greece)
 * Charles University (Czech Republic)
 * Coimbra Group (international)
+* Delft University of Technology (Netherlands)
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)
@@ -34,6 +35,7 @@ Organizations performing, funding or evaluating research
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)
+* Stockholm University (Sweden)
 * Udice - French Research Universities (France)
 * UniLaSalle (France)
 * Universidad de Antioquia (Colombia)
@@ -79,6 +81,7 @@ Organizations performing, funding or evaluating research
 **Other organizations**
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
 * EOSC Association (international)
+* Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
 * Latin American Council of Social Sciences - CLACSO (international)
 * National Open Research Analytics, Technical University of Denmark (Denmark)
@@ -107,6 +110,8 @@ Organizations providing data, services and infrastructure
 * Directory of Open Access Books - DOAB
 * Directory of Open Access Journals - DOAJ
 * Europe PMC
+* International Interactive Computing Collaboration - 2i2c
+* Latindex
 * Liberate Science GmbH
 * OAPEN Foundation
 * OpenAIRE
@@ -117,6 +122,7 @@ Organizations providing data, services and infrastructure
 * Research Organization Registry - ROR
 * Reviewer Credits
 * Thoth Open Metadata
+* Ubiquity
 
 
 

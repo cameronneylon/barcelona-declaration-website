@@ -29,6 +29,7 @@ Organizations performing, funding or evaluating research
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)
+* Izmir Institute of Technology (Turkey)
 * Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
 * Leiden University (Netherlands)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
@@ -39,12 +40,14 @@ Organizations performing, funding or evaluating research
 * Udice - French Research Universities (France)
 * UniLaSalle (France)
 * Universidad de Antioquia (Colombia)
+* Universidad de Cádiz (Spain)
 * Universidade do Minho (Portugal)
 * Università di Bologna (Italy)
 * Universitat de Barcelona (Spain)
 * Universitat Politècnica de Catalunya (Spain)
 * Universitat Pompeu Fabra Barcelona (Spain)
 * Universitat de Vic-Universitat Central de Catalunya (Spain)
+* Université de Reims Champagne-Ardenne (France)
 * Université Grenoble Alpes (France)
 * Université Le Havre Normandie (France)
 * Université Paris Saclay (France)
@@ -82,11 +85,12 @@ Organizations performing, funding or evaluating research
 **Other organizations**
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
 * EOSC Association (international)
-* GO FAIR Brazil Health
+* GO FAIR Brazil Health (Brazil)
 * Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
 * Latin American Council of Social Sciences - CLACSO (international)
 * National Open Research Analytics, Technical University of Denmark (Denmark)
+* Sage Bionetworks (US)
 * State Scientific and Technical Library of Ukraine (Ukraine)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (UK)
@@ -119,6 +123,7 @@ Organizations providing data, services and infrastructure
 * OpenAIRE
 * OpenCitations
 * OurResearch
+* PLOS (Public Library of Science)
 * PREreview
 * Redalyc
 * Research Organization Registry - ROR

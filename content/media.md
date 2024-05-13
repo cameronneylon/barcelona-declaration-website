@@ -26,6 +26,8 @@ Media coverage of the Declaration.
 * [Future Campus: New Euro demand for open information on research performance](https://futurecampus.com.au/2024/04/16/new-euro-demand-for-open-information-on-research-performance/)
 * [Research Professional: Funders and universities pledge to use open research information](https://www.researchprofessionalnews.com/rr-news-europe-infrastructure-2024-4-funders-and-universities-pledge-to-use-open-research-information/) (paywall)
 * [Die Neue Wiesentbote: Universität Bamberg ist Erstunterzeichnerin der Barcelona Declaration on Open Research Information](https://www.wiesentbote.de/2024/04/20/universitaet-bamberg-ist-erstunterzeichnerin-der-barcelona-declaration-on-open-research-information/)
+* [Forschung und Lehre: ‘Barcelona-Deklaration‘ für Transparenz von Forschungsdaten](https://www.forschung-und-lehre.de/forschung/barcelona-deklaration-fuer-transparenz-von-forschungsdaten-6372)
+* [Research Professional: Data firms back open research declaration](https://www.researchprofessionalnews.com/rr-news-europe-infrastructure-2024-4-data-firms-back-open-research-declaration/) (paywall)
 
 ### Commentary
 
@@ -39,7 +41,7 @@ Media coverage of the Declaration.
 * [CWTS: Barcelona Declaration promotes openness of research information](https://www.cwts.nl/news?article=n-t2q294)
 * [TU Delft Library: What can libraries do in response to the Barcelona Declaration on Open Research Information](https://library4research.tudl.tudelft.nl/2024/04/19/what-can-libraries-do-in-response-to-the-barcelona-declaration-on-open-research-information/)
 * [NISO: Barcelona Declaration on Open Research Information Now Released](https://www.niso.org/niso-io/2024/04/barcelona-declaration-open-research-information-now-released)
-
+* [MDPI: What is the Barcelona Declaration on Open Research Information?](https://blog.mdpi.com/2024/04/24/barcelona-declaration/)
 
 ### Posts and releases from signatories
 
@@ -63,6 +65,7 @@ Media coverage of the Declaration.
 * [Le Comité pour la science ouverte est signataire de la déclaration de Barcelone sur l’ouverture des informations sur la recherche](https://www.ouvrirlascience.fr/le-comite-pour-la-science-ouverte-est-signataire-de-la-declaration-de-barcelone-sur-louverture-des-informations-sur-la-recherche/)
 * [Advancing Open Science: Knowmad Institut Joins the Barcelona Declaration!](https://knowmadinstitut.org/2024/04/advancing-open-science-knowmad-institut-joins-the-barcelona-declaration/)
 * [l’Université Le Havre Normandie signataire de la Déclaration de Barcelone sur l’information de recherche ouverte](https://www.univ-lehavre.fr/fr/actualites/flash-actualites/luniversite-signataire-de-la-declaration-de-barcelone-sur-linformation-de-recherche-ouverte/)
+* [OpenAIRE signs Barcelona Declaration: A Catalyst for Change in Open Research Information](https://www.openaire.eu/openaire-signs-barcelona-declaration-a-catalyst-for-change-in-open-research-information)
 
 ### Posts and releases from supporters
 

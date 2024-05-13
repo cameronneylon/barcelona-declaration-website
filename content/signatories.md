@@ -25,24 +25,30 @@ Organizations performing, funding or evaluating research
 * Athena Research Center (Greece)
 * Charles University (Czech Republic)
 * Coimbra Group (international)
+* Delft University of Technology (Netherlands)
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)
 * Hugo Grotius gGmbH (Germany)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)
+* Izmir Institute of Technology (Turkey)
 * Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
 * Leiden University (Netherlands)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)
+* Stockholm University (Sweden)
 * Udice - French Research Universities (France)
 * UniLaSalle (France)
 * Universidad de Antioquia (Colombia)
+* Universidad de Cádiz (Spain)
 * Universidade do Minho (Portugal)
 * Università di Bologna (Italy)
 * Universitat de Barcelona (Spain)
 * Universitat Politècnica de Catalunya (Spain)
+* Universitat Pompeu Fabra Barcelona (Spain)
 * Universitat de Vic-Universitat Central de Catalunya (Spain)
+* Université de Reims Champagne-Ardenne (France)
 * Université Grenoble Alpes (France)
 * Université Le Havre Normandie (France)
 * Université Paris Saclay (France)
@@ -62,6 +68,7 @@ Organizations performing, funding or evaluating research
 
 {{< /rawhtml >}}
 **Research funding organizations and governments**
+* Austrian Science Fund - FWF (Austria)
 * Bill & Melinda Gates Foundation (US)
 * Catalan Foundation for Research and Innovation - FCRI (Spain)
 * Dutch Research Council - NWO (Netherlands)
@@ -80,9 +87,12 @@ Organizations performing, funding or evaluating research
 **Other organizations**
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
 * EOSC Association (international)
+* GO FAIR Brazil Health (Brazil)
+* Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
 * Latin American Council of Social Sciences - CLACSO (international)
 * National Open Research Analytics, Technical University of Denmark (Denmark)
+* Sage Bionetworks (US)
 * State Scientific and Technical Library of Ukraine (Ukraine)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (UK)
@@ -108,15 +118,20 @@ Organizations providing data, services and infrastructure
 * Directory of Open Access Books - DOAB
 * Directory of Open Access Journals - DOAJ
 * Europe PMC
+* International Interactive Computing Collaboration - 2i2c
+* Latindex
 * Liberate Science GmbH
 * OAPEN Foundation
 * OpenAIRE
 * OpenCitations
 * OurResearch
+* PLOS (Public Library of Science)
+* PREreview
 * Redalyc
 * Research Organization Registry - ROR
 * Reviewer Credits
 * Thoth Open Metadata
+* Ubiquity
 
 
 

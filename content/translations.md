@@ -12,14 +12,18 @@ comments = false
 {{< /rawhtml >}}
 The official text of the Barcelona Declaration is in {{< translation "/downloads/BarcelonaDeclaration.pdf" "English" >}}, but the Declaration has also been translated in the following languages:'.
 
+* {{< translation "/downloads/barcelonadeclaration_chinese.pdf" "中文" >}}
 * {{< translation "/downloads/barcelonadeclaration_espanõl.pdf" "Español" >}}
 * {{< translation "/downloads/barcelonadeclaration_français.pdf"  Français >}}
 * {{< translation "/downloads/barcelonadeclaration_українська_мова.pdf" "українська мова" >}}
 
 Coming soon:
-* 汉语
+* Croatian
 * Deutsch
+* Italian
+* Polish
 * Portuguese
+* Swedish
 
 
 If you are interested in contributing a translation, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).

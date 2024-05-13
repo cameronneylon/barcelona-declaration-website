@@ -27,6 +27,7 @@ Organizations performing, funding or evaluating research
 * Coimbra Group (international)
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)
+* Hugo Grotius gGmbH (Germany)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)
 * Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
 * Leiden University (Netherlands)

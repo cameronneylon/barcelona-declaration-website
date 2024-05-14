@@ -42,6 +42,7 @@ Media coverage of the Declaration.
 * [TU Delft Library: What can libraries do in response to the Barcelona Declaration on Open Research Information](https://library4research.tudl.tudelft.nl/2024/04/19/what-can-libraries-do-in-response-to-the-barcelona-declaration-on-open-research-information/)
 * [NISO: Barcelona Declaration on Open Research Information Now Released](https://www.niso.org/niso-io/2024/04/barcelona-declaration-open-research-information-now-released)
 * [MDPI: What is the Barcelona Declaration on Open Research Information?](https://blog.mdpi.com/2024/04/24/barcelona-declaration/)
+* [Asian Council of Science Editors Stands in Support of the Barcelona Declaration on Open Research Information](https://editorscafe.org/details.php?id=30)
 
 ### Posts and releases from signatories
 

@@ -60,6 +60,7 @@ Organizations performing, funding or evaluating research
 * University of the Azores (Portugal)
 * University of the Balearic Islands (Spain)
 * University of Turku (Finland)
+* Utrecht University (Netherlands)
 * Vrije Universiteit Amsterdam (Netherlands)
 
 {{< rawhtml >}}
@@ -118,7 +119,8 @@ Organizations providing data, services and infrastructure
 * Directory of Open Access Books - DOAB
 * Directory of Open Access Journals - DOAJ
 * Europe PMC
-* eLife 
+* eLife
+* Érudit
 * International Interactive Computing Collaboration - 2i2c
 * Latindex
 * Liberate Science GmbH

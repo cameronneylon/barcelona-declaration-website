@@ -42,6 +42,7 @@ Media coverage of the Declaration.
 * [TU Delft Library: What can libraries do in response to the Barcelona Declaration on Open Research Information](https://library4research.tudl.tudelft.nl/2024/04/19/what-can-libraries-do-in-response-to-the-barcelona-declaration-on-open-research-information/)
 * [NISO: Barcelona Declaration on Open Research Information Now Released](https://www.niso.org/niso-io/2024/04/barcelona-declaration-open-research-information-now-released)
 * [MDPI: What is the Barcelona Declaration on Open Research Information?](https://blog.mdpi.com/2024/04/24/barcelona-declaration/)
+* [International Science Council Open Science Roundup: Join the transition toward openness of research information](https://council.science/current/blog/open-science-round-up-april-2024/)
 
 ### Posts and releases from signatories
 
@@ -66,6 +67,7 @@ Media coverage of the Declaration.
 * [Advancing Open Science: Knowmad Institut Joins the Barcelona Declaration!](https://knowmadinstitut.org/2024/04/advancing-open-science-knowmad-institut-joins-the-barcelona-declaration/)
 * [l’Université Le Havre Normandie signataire de la Déclaration de Barcelone sur l’information de recherche ouverte](https://www.univ-lehavre.fr/fr/actualites/flash-actualites/luniversite-signataire-de-la-declaration-de-barcelone-sur-linformation-de-recherche-ouverte/)
 * [OpenAIRE signs Barcelona Declaration: A Catalyst for Change in Open Research Information](https://www.openaire.eu/openaire-signs-barcelona-declaration-a-catalyst-for-change-in-open-research-information)
+* [FWF Signs Barcelona Declaration on Open Research Information](https://www.fwf.ac.at/en/news/detail/fwf-signs-barcelona-declaration-on-open-research-information)
 
 ### Posts and releases from supporters
 

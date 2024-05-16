@@ -69,6 +69,7 @@ Media coverage of the Declaration.
 * [l’Université Le Havre Normandie signataire de la Déclaration de Barcelone sur l’information de recherche ouverte](https://www.univ-lehavre.fr/fr/actualites/flash-actualites/luniversite-signataire-de-la-declaration-de-barcelone-sur-linformation-de-recherche-ouverte/)
 * [OpenAIRE signs Barcelona Declaration: A Catalyst for Change in Open Research Information](https://www.openaire.eu/openaire-signs-barcelona-declaration-a-catalyst-for-change-in-open-research-information)
 * [FWF Signs Barcelona Declaration on Open Research Information](https://www.fwf.ac.at/en/news/detail/fwf-signs-barcelona-declaration-on-open-research-information)
+* [La Universitat Politécnia de Catalunya s’adhereix a la Declaració de Barcelona per promoure l’accés obert a les dades de recerca](https://www.upc.edu/ca/sala-de-premsa/noticies/la-upc-sadhereix-a-la-declaracio-de-barcelona-acces-obert-recerca)
 
 ### Posts and releases from supporters
 

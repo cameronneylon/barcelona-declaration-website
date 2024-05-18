@@ -75,6 +75,7 @@ Media coverage of the Declaration.
 
 * [DOAJ Announces Support for the Barcelona Declaration on Open Research Information](https://blog.doaj.org/2024/04/16/doaj-announces-support-for-the-barcelona-declaration-on-open-research-information/)
 * [OpenCitations supports the Barcelona Declaration on Open Research Information for a fundamental transformation in the research information landscape](https://opencitations.hypotheses.org/3557)
+* [OpenAIRE signs Barcelona Declaration: A Catalyst for Change in Open Research Information](https://www.openaire.eu/openaire-signs-barcelona-declaration-a-catalyst-for-change-in-open-research-information)
 
 If we missed any media coverage, posts or commentary regarding the Barcelona Declaration, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
 

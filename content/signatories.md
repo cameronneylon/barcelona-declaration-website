@@ -30,6 +30,7 @@ Organizations performing, funding or evaluating research
 * Hamburg University of Technology (Germany)
 * Hugo Grotius gGmbH (Germany)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)
+* Institut Català d'Arqueologia Clàssica - ICAC-CERCA (Spain)
 * Izmir Institute of Technology (Turkey)
 * Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
 * Leiden University (Netherlands)
@@ -42,11 +43,13 @@ Organizations performing, funding or evaluating research
 * UniLaSalle (France)
 * Universidad de Antioquia (Colombia)
 * Universidad de Cádiz (Spain)
+* Universidad Distrital Francisco José de Caldas (Colombia)
 * Universidade do Minho (Portugal)
 * Università di Bologna (Italy)
 * Universitat de Barcelona (Spain)
 * Universitat Politècnica de Catalunya (Spain)
 * Universitat Pompeu Fabra Barcelona (Spain)
+* Universitat Ramon Llull (Spain)
 * Universitat de Vic-Universitat Central de Catalunya (Spain)
 * Université de Reims Champagne-Ardenne (France)
 * Université Grenoble Alpes (France)
@@ -88,6 +91,7 @@ Organizations performing, funding or evaluating research
 **Other organizations**
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
 * EOSC Association (international)
+* Federation of Finnish Learned Societies (Finland)
 * GO FAIR Brazil Health (Brazil)
 * Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
@@ -111,6 +115,7 @@ Organizations providing data, services and infrastructure
 <hr class="small">
 {{< /rawhtml >}}
 
+* Academy of Science of South Africa (ASSAf)
 * Africa PID Alliance
 * AmeliCA Ciencia Abierta
 * Crossref 
@@ -127,6 +132,7 @@ Organizations providing data, services and infrastructure
 * OAPEN Foundation
 * OpenAIRE
 * OpenCitations
+* Openventio Publishers
 * OurResearch
 * PLOS (Public Library of Science)
 * PREreview

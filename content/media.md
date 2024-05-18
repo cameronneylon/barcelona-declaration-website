@@ -41,6 +41,7 @@ Media coverage of the Declaration.
 * [CWTS: Barcelona Declaration promotes openness of research information](https://www.cwts.nl/news?article=n-t2q294)
 * [TU Delft Library: What can libraries do in response to the Barcelona Declaration on Open Research Information](https://library4research.tudl.tudelft.nl/2024/04/19/what-can-libraries-do-in-response-to-the-barcelona-declaration-on-open-research-information/)
 * [NISO: Barcelona Declaration on Open Research Information Now Released](https://www.niso.org/niso-io/2024/04/barcelona-declaration-open-research-information-now-released)
+* [CWTS: Not only Open, but also Diverse and Inclusive: Towards Decentralised and Federated Research Information Sources](https://www.leidenmadtrics.nl/articles/not-only-open-but-also-diverse-and-inclusive-towards-decentralised-and-federated-research-information-sources)
 * [MDPI: What is the Barcelona Declaration on Open Research Information?](https://blog.mdpi.com/2024/04/24/barcelona-declaration/)
 * [Asian Council of Science Editors Stands in Support of the Barcelona Declaration on Open Research Information](https://editorscafe.org/details.php?id=30)
 * [International Science Council Open Science Roundup: Join the transition toward openness of research information](https://council.science/current/blog/open-science-round-up-april-2024/)

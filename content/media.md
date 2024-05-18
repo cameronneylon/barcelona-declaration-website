@@ -45,6 +45,7 @@ Media coverage of the Declaration.
 * [MDPI: What is the Barcelona Declaration on Open Research Information?](https://blog.mdpi.com/2024/04/24/barcelona-declaration/)
 * [Asian Council of Science Editors Stands in Support of the Barcelona Declaration on Open Research Information](https://editorscafe.org/details.php?id=30)
 * [International Science Council Open Science Roundup: Join the transition toward openness of research information](https://council.science/current/blog/open-science-round-up-april-2024/)
+* [Digital Science: Barcelona - A beautiful horizon](https://www.digital-science.com/tldr/article/barcelona-a-beautiful-horizon/)
 
 ### Posts and releases from signatories
 

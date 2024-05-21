@@ -28,7 +28,10 @@ Organizations performing, funding or evaluating research
 * Delft University of Technology (Netherlands)
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)
+* Hugo Grotius gGmbH (Germany)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)
+* Institut Català d'Arqueologia Clàssica - ICAC-CERCA (Spain)
+* Izmir Institute of Technology (Turkey)
 * Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
 * Leiden University (Netherlands)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
@@ -39,12 +42,16 @@ Organizations performing, funding or evaluating research
 * Udice - French Research Universities (France)
 * UniLaSalle (France)
 * Universidad de Antioquia (Colombia)
+* Universidad de Cádiz (Spain)
+* Universidad Distrital Francisco José de Caldas (Colombia)
 * Universidade do Minho (Portugal)
 * Università di Bologna (Italy)
 * Universitat de Barcelona (Spain)
 * Universitat Politècnica de Catalunya (Spain)
 * Universitat Pompeu Fabra Barcelona (Spain)
+* Universitat Ramon Llull (Spain)
 * Universitat de Vic-Universitat Central de Catalunya (Spain)
+* Université de Reims Champagne-Ardenne (France)
 * Université Grenoble Alpes (France)
 * Université Le Havre Normandie (France)
 * Université Paris Saclay (France)
@@ -56,6 +63,7 @@ Organizations performing, funding or evaluating research
 * University of the Azores (Portugal)
 * University of the Balearic Islands (Spain)
 * University of Turku (Finland)
+* Utrecht University (Netherlands)
 * Vrije Universiteit Amsterdam (Netherlands)
 
 {{< rawhtml >}}
@@ -64,6 +72,7 @@ Organizations performing, funding or evaluating research
 
 {{< /rawhtml >}}
 **Research funding organizations and governments**
+* Austrian Science Fund - FWF (Austria)
 * Bill & Melinda Gates Foundation (US)
 * Catalan Foundation for Research and Innovation - FCRI (Spain)
 * Dutch Research Council - NWO (Netherlands)
@@ -82,11 +91,13 @@ Organizations performing, funding or evaluating research
 **Other organizations**
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
 * EOSC Association (international)
-* GO FAIR Brazil Health
+* Federation of Finnish Learned Societies (Finland)
+* GO FAIR Brazil Health (Brazil)
 * Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
 * Latin American Council of Social Sciences - CLACSO (international)
 * National Open Research Analytics, Technical University of Denmark (Denmark)
+* Sage Bionetworks (US)
 * State Scientific and Technical Library of Ukraine (Ukraine)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (UK)
@@ -104,6 +115,7 @@ Organizations providing data, services and infrastructure
 <hr class="small">
 {{< /rawhtml >}}
 
+* Academy of Science of South Africa (ASSAf)
 * Africa PID Alliance
 * AmeliCA Ciencia Abierta
 * Crossref 
@@ -112,13 +124,17 @@ Organizations providing data, services and infrastructure
 * Directory of Open Access Books - DOAB
 * Directory of Open Access Journals - DOAJ
 * Europe PMC
+* eLife
+* Érudit
 * International Interactive Computing Collaboration - 2i2c
 * Latindex
 * Liberate Science GmbH
 * OAPEN Foundation
 * OpenAIRE
 * OpenCitations
+* Openventio Publishers
 * OurResearch
+* PLOS (Public Library of Science)
 * PREreview
 * Redalyc
 * Research Organization Registry - ROR

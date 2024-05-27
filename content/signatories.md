@@ -47,6 +47,7 @@ Organizations performing, funding or evaluating research
 * Universidade do Minho (Portugal)
 * Università di Bologna (Italy)
 * Universitat de Barcelona (Spain)
+* Universitat de Girona (Spain)
 * Universitat Politècnica de Catalunya (Spain)
 * Universitat Pompeu Fabra Barcelona (Spain)
 * Universitat Ramon Llull (Spain)
@@ -101,6 +102,7 @@ Organizations performing, funding or evaluating research
 * State Scientific and Technical Library of Ukraine (Ukraine)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (UK)
+* West and Central African Research and Education Network - WACREN (International)
 
 {{< rawhtml >}}
 <br>
@@ -142,9 +144,6 @@ Organizations providing data, services and infrastructure
 * Reviewer Credits
 * Thoth Open Metadata
 * Ubiquity
-
-
-
 
 {{< rawhtml >}}
 

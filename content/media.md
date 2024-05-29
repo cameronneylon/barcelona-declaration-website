@@ -47,6 +47,7 @@ Media coverage of the Declaration.
 * [Asian Council of Science Editors Stands in Support of the Barcelona Declaration on Open Research Information](https://editorscafe.org/details.php?id=30)
 * [International Science Council Open Science Roundup: Join the transition toward openness of research information](https://council.science/current/blog/open-science-round-up-april-2024/)
 * [Digital Science: Barcelona - A beautiful horizon](https://www.digital-science.com/tldr/article/barcelona-a-beautiful-horizon/)
+* [Matemáticas y sus fronteras: La Declaración de Barcelona](https://www.madrimasd.org/blogs/matematicas/2024/05/13/150531)
 
 ### Posts and releases from signatories
 

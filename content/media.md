@@ -28,6 +28,7 @@ Media coverage of the Declaration.
 * [Die Neue Wiesentbote: Universität Bamberg ist Erstunterzeichnerin der Barcelona Declaration on Open Research Information](https://www.wiesentbote.de/2024/04/20/universitaet-bamberg-ist-erstunterzeichnerin-der-barcelona-declaration-on-open-research-information/)
 * [Forschung und Lehre: ‘Barcelona-Deklaration‘ für Transparenz von Forschungsdaten](https://www.forschung-und-lehre.de/forschung/barcelona-deklaration-fuer-transparenz-von-forschungsdaten-6372)
 * [Research Professional: Data firms back open research declaration](https://www.researchprofessionalnews.com/rr-news-europe-infrastructure-2024-4-data-firms-back-open-research-declaration/) (paywall)
+* [Labor Journal: Schub für Transparenz und Offenheit](https://www.laborjournal.de/editorials/3000.php)
 
 ### Commentary
 
@@ -46,6 +47,7 @@ Media coverage of the Declaration.
 * [Asian Council of Science Editors Stands in Support of the Barcelona Declaration on Open Research Information](https://editorscafe.org/details.php?id=30)
 * [International Science Council Open Science Roundup: Join the transition toward openness of research information](https://council.science/current/blog/open-science-round-up-april-2024/)
 * [Digital Science: Barcelona - A beautiful horizon](https://www.digital-science.com/tldr/article/barcelona-a-beautiful-horizon/)
+* [Matemáticas y sus fronteras: La Declaración de Barcelona](https://www.madrimasd.org/blogs/matematicas/2024/05/13/150531)
 
 ### Posts and releases from signatories
 
@@ -78,6 +80,7 @@ Media coverage of the Declaration.
 * [DOAJ Announces Support for the Barcelona Declaration on Open Research Information](https://blog.doaj.org/2024/04/16/doaj-announces-support-for-the-barcelona-declaration-on-open-research-information/)
 * [OpenCitations supports the Barcelona Declaration on Open Research Information for a fundamental transformation in the research information landscape](https://opencitations.hypotheses.org/3557)
 * [OpenAIRE signs Barcelona Declaration: A Catalyst for Change in Open Research Information](https://www.openaire.eu/openaire-signs-barcelona-declaration-a-catalyst-for-change-in-open-research-information)
+* [Barcelona Declaration – OPERAS Announcement](https://operas.hypotheses.org/7243)
 
 If we missed any media coverage, posts or commentary regarding the Barcelona Declaration, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
 

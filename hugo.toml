@@ -63,19 +63,24 @@ enableRobotsTXT = true
 [[menu.main]]
     name = "Translations"
     url = "translations/"
-    weight = 4    
+    weight = 4  
+    
+[[menu.main]]
+    name = "Conference"
+    url = "conference/"
+    weight = 5   
 
 [[menu.main]]
     name = "Media"
     url = "media/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "About"
     url = "about/"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     name = "Resources"
     url = "resources/"
-    weight = 7
+    weight = 8

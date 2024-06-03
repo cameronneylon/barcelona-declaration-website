@@ -94,6 +94,7 @@ Organizations performing, funding or evaluating research
 * EOSC Association (international)
 * Federation of Finnish Learned Societies (Finland)
 * GO FAIR Brazil Health (Brazil)
+* Good Clinical Practice Alliance - GCPA (international)
 * Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
 * Latin American Council of Social Sciences - CLACSO (international)

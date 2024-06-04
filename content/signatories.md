@@ -128,6 +128,7 @@ Organizations providing data, services and infrastructure
 * Europe PMC
 * eLife
 * Érudit
+* euroCRIS
 * International Interactive Computing Collaboration - 2i2c
 * Latindex
 * Liberate Science GmbH
@@ -142,6 +143,7 @@ Organizations providing data, services and infrastructure
 * Redalyc
 * Research Organization Registry - ROR
 * Reviewer Credits
+* The Public Knowledge Project - PKP
 * Thoth Open Metadata
 * Ubiquity
 

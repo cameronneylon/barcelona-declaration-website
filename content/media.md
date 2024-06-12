@@ -48,6 +48,7 @@ Media coverage of the Declaration.
 * [International Science Council Open Science Roundup: Join the transition toward openness of research information](https://council.science/current/blog/open-science-round-up-april-2024/)
 * [Digital Science: Barcelona - A beautiful horizon](https://www.digital-science.com/tldr/article/barcelona-a-beautiful-horizon/)
 * [Matemáticas y sus fronteras: La Declaración de Barcelona](https://www.madrimasd.org/blogs/matematicas/2024/05/13/150531)
+* [HELIOS Open Advisory Council Applauds Barcelona Declaration on Research Information](https://www.heliosopen.org/news/helios-open-advisory-council-applauds-barcelona-declaration-on-research-information)
 
 ### Posts and releases from signatories
 
@@ -81,6 +82,7 @@ Media coverage of the Declaration.
 * [OpenCitations supports the Barcelona Declaration on Open Research Information for a fundamental transformation in the research information landscape](https://opencitations.hypotheses.org/3557)
 * [OpenAIRE signs Barcelona Declaration: A Catalyst for Change in Open Research Information](https://www.openaire.eu/openaire-signs-barcelona-declaration-a-catalyst-for-change-in-open-research-information)
 * [Barcelona Declaration – OPERAS Announcement](https://operas.hypotheses.org/7243)
+* [Érudit - Barcelona Declaration Signing](https://apropos.erudit.org/barcelona-declaration/?lang=en) - in English, [en Français](https://apropos.erudit.org/declaration-barcelone/)
 
 If we missed any media coverage, posts or commentary regarding the Barcelona Declaration, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
 

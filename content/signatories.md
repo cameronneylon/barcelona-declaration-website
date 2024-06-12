@@ -124,6 +124,7 @@ Organizations providing data, services and infrastructure
 * Crossref 
 * Curtin Open Knowledge Initiative - COKI
 * DataCite
+* DeSci Labs
 * Directory of Open Access Books - DOAB
 * Directory of Open Access Journals - DOAJ
 * Europe PMC
@@ -147,6 +148,7 @@ Organizations providing data, services and infrastructure
 * The Public Knowledge Project - PKP
 * Thoth Open Metadata
 * Ubiquity
+* VIVO
 
 {{< rawhtml >}}
 

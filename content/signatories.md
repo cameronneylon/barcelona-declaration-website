@@ -132,6 +132,7 @@ Organizations providing data, services and infrastructure
 * Érudit
 * euroCRIS
 * International Interactive Computing Collaboration - 2i2c
+* Knowlegde E
 * Latindex
 * Liberate Science GmbH
 * OAPEN Foundation

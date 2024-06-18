@@ -26,7 +26,6 @@ Coming soon:
 * Greek
 * Polish
 * Portuguese
-* "русский"
 * Swedish
 
 

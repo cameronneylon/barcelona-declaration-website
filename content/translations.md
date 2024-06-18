@@ -14,7 +14,7 @@ The official text of the Barcelona Declaration is in {{< translation "/downloads
 
 * {{< translation "/downloads/barcelonadeclaration_català.pdf" "Català" >}}
 * {{< translation "/downloads/barcelonadeclaration_chinese_simplified.pdf" "中文 (简体)" >}}
-* {{< translation "/downloads/barcelonadeclaration_chinese_traditional.pdf" 中文 (繁体) >}}
+* {{< translation "/downloads/barcelonadeclaration_chinese_traditional.pdf" "中文 (繁体)" >}}
 * {{< translation "/downloads/barcelonadeclaration_espanõl.pdf" "Español" >}}
 * {{< translation "/downloads/barcelonadeclaration_français.pdf"  Français >}}
 * {{< translation "/downloads/barcelonadeclaration_italiano.pdf" Italiano >}}
@@ -26,7 +26,7 @@ Coming soon:
 * Greek
 * Polish
 * Portuguese
-* русский
+* "русский"
 * Swedish
 
 

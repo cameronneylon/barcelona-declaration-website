@@ -33,6 +33,7 @@ Organizations performing, funding or evaluating research
 * Institut Català d'Arqueologia Clàssica - ICAC-CERCA (Spain)
 * Izmir Institute of Technology (Turkey)
 * Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
+* Leibniz Association (Germany)
 * Leiden University (Netherlands)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
 * Otto-Friedrich-Universität Bamberg (Germany)

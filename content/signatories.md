@@ -132,6 +132,7 @@ Organizations providing data, services and infrastructure
 * eLife
 * Érudit
 * euroCRIS
+* 4Science
 * International Interactive Computing Collaboration - 2i2c
 * Knowlegde E
 * Latindex

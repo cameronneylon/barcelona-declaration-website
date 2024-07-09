@@ -67,6 +67,7 @@ Organizations performing, funding or evaluating research
 * University of Turku (Finland)
 * Utrecht University (Netherlands)
 * Vrije Universiteit Amsterdam (Netherlands)
+* Young European Research Universities' Network - YERUN (international)
 
 {{< rawhtml >}}
 <br>

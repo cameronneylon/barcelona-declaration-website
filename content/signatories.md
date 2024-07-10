@@ -143,6 +143,7 @@ Organizations providing data, services and infrastructure
 * OpenAIRE
 * OpenCitations
 * Openventio Publishers
+* Open Book Collective
 * Open Research Knowledge Graph - ORKG
 * OPERAS
 * OurResearch

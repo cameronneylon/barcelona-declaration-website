@@ -42,6 +42,7 @@ Organizations performing, funding or evaluating research
 * Stockholm University (Sweden)
 * Udice - French Research Universities (France)
 * UniLaSalle (France)
+* Universidad Autónoma Metropolitana (Mexico)
 * Universidad de Antioquia (Colombia)
 * Universidad de Cádiz (Spain)
 * Universidad Distrital Francisco José de Caldas (Colombia)
@@ -142,14 +143,17 @@ Organizations providing data, services and infrastructure
 * OpenAIRE
 * OpenCitations
 * Openventio Publishers
+* Open Book Collective
+* Open Research Knowledge Graph - ORKG
 * OPERAS
 * OurResearch
 * PLOS (Public Library of Science)
 * PREreview
+* Public Knowledge Project - PKP
 * Redalyc
 * Research Organization Registry - ROR
 * Reviewer Credits
-* The Public Knowledge Project - PKP
+* The Association of Lithuanian Serials
 * Thoth Open Metadata
 * Ubiquity
 * VIVO

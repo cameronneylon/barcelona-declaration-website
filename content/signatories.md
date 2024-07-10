@@ -148,10 +148,11 @@ Organizations providing data, services and infrastructure
 * OurResearch
 * PLOS (Public Library of Science)
 * PREreview
+* Public Knowledge Project - PKP
 * Redalyc
 * Research Organization Registry - ROR
 * Reviewer Credits
-* The Public Knowledge Project - PKP
+* The Association of Lithuanian Serials
 * Thoth Open Metadata
 * Ubiquity
 * VIVO

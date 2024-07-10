@@ -42,6 +42,7 @@ Organizations performing, funding or evaluating research
 * Stockholm University (Sweden)
 * Udice - French Research Universities (France)
 * UniLaSalle (France)
+* Universidad Autónoma Metropolitana (Mexico)
 * Universidad de Antioquia (Colombia)
 * Universidad de Cádiz (Spain)
 * Universidad Distrital Francisco José de Caldas (Colombia)

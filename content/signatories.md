@@ -55,6 +55,7 @@ Organizations performing, funding or evaluating research
 * Universitat Ramon Llull (Spain)
 * Universitat de Vic-Universitat Central de Catalunya (Spain)
 * Université de Reims Champagne-Ardenne (France)
+* Université de Strasbourg (France)
 * Université Grenoble Alpes (France)
 * Université Le Havre Normandie (France)
 * Université Paris Saclay (France)

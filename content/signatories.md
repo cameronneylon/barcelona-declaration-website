@@ -124,7 +124,7 @@ Organizations providing data, services and infrastructure
 <hr class="small">
 {{< /rawhtml >}}
 
-* Academy of Science of South Africa (ASSAf)
+* Academy of Science of South Africa - ASSAf
 * Africa PID Alliance
 * AmeliCA Ciencia Abierta
 * Crossref 

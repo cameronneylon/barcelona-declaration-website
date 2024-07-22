@@ -30,8 +30,10 @@ Organizations performing, funding or evaluating research
 * Hamburg University of Technology (Germany)
 * Hugo Grotius gGmbH (Germany)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)
+* Institut Català d'Arqueologia Clàssica - ICAC-CERCA (Spain)
 * Izmir Institute of Technology (Turkey)
 * Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
+* Leibniz Association (Germany)
 * Leiden University (Netherlands)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
 * Otto-Friedrich-Universität Bamberg (Germany)
@@ -40,18 +42,24 @@ Organizations performing, funding or evaluating research
 * Stockholm University (Sweden)
 * Udice - French Research Universities (France)
 * UniLaSalle (France)
+* Universidad Autónoma Metropolitana (Mexico)
 * Universidad de Antioquia (Colombia)
 * Universidad de Cádiz (Spain)
+* Universidad Distrital Francisco José de Caldas (Colombia)
 * Universidade do Minho (Portugal)
 * Università di Bologna (Italy)
 * Universitat de Barcelona (Spain)
+* Universitat de Girona (Spain)
 * Universitat Politècnica de Catalunya (Spain)
 * Universitat Pompeu Fabra Barcelona (Spain)
+* Universitat Ramon Llull (Spain)
 * Universitat de Vic-Universitat Central de Catalunya (Spain)
 * Université de Reims Champagne-Ardenne (France)
+* Université de Strasbourg (France)
 * Université Grenoble Alpes (France)
 * Université Le Havre Normandie (France)
 * Université Paris Saclay (France)
+* Universities of the Netherlands - UNL (Netherlands)
 * University of Coimbra (Portugal)
 * University of Groningen (Netherlands)
 * University of Maribor (Slovenia)
@@ -60,8 +68,10 @@ Organizations performing, funding or evaluating research
 * University of the Azores (Portugal)
 * University of the Balearic Islands (Spain)
 * University of Turku (Finland)
+* University "St. Kliment Ohridski" (North Macedonia)
 * Utrecht University (Netherlands)
 * Vrije Universiteit Amsterdam (Netherlands)
+* Young European Research Universities' Network - YERUN (international)
 
 {{< rawhtml >}}
 <br>
@@ -88,7 +98,9 @@ Organizations performing, funding or evaluating research
 **Other organizations**
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
 * EOSC Association (international)
+* Federation of Finnish Learned Societies (Finland)
 * GO FAIR Brazil Health (Brazil)
+* Good Clinical Practice Alliance - GCPA (international)
 * Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
 * Latin American Council of Social Sciences - CLACSO (international)
@@ -97,7 +109,7 @@ Organizations performing, funding or evaluating research
 * State Scientific and Technical Library of Ukraine (Ukraine)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (UK)
-* Young European Research Universities Network - YERUN (Europe)
+* West and Central African Research and Education Network - WACREN (International)
 
 {{< rawhtml >}}
 <br>
@@ -112,33 +124,42 @@ Organizations providing data, services and infrastructure
 <hr class="small">
 {{< /rawhtml >}}
 
+* Academy of Science of South Africa - ASSAf
 * Africa PID Alliance
 * AmeliCA Ciencia Abierta
 * Crossref 
 * Curtin Open Knowledge Initiative - COKI
 * DataCite
+* DeSci Labs
 * Directory of Open Access Books - DOAB
 * Directory of Open Access Journals - DOAJ
 * Europe PMC
 * eLife
 * Érudit
+* euroCRIS
+* 4Science
 * International Interactive Computing Collaboration - 2i2c
+* Knowlegde E
 * Latindex
 * Liberate Science GmbH
 * OAPEN Foundation
 * OpenAIRE
 * OpenCitations
+* Openventio Publishers
+* Open Book Collective
+* Open Research Knowledge Graph - ORKG
+* OPERAS
 * OurResearch
 * PLOS (Public Library of Science)
 * PREreview
+* Public Knowledge Project - PKP
 * Redalyc
 * Research Organization Registry - ROR
 * Reviewer Credits
+* The Association of Lithuanian Serials
 * Thoth Open Metadata
 * Ubiquity
-
-
-
+* VIVO
 
 {{< rawhtml >}}
 

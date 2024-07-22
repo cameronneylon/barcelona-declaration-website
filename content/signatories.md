@@ -97,6 +97,7 @@ Organizations performing, funding or evaluating research
 * State Scientific and Technical Library of Ukraine (Ukraine)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (UK)
+* Young European Research Universities Network - YERUN (Europe)
 
 {{< rawhtml >}}
 <br>

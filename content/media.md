@@ -49,6 +49,8 @@ Media coverage of the Declaration.
 * [Digital Science: Barcelona - A beautiful horizon](https://www.digital-science.com/tldr/article/barcelona-a-beautiful-horizon/)
 * [Matemáticas y sus fronteras: La Declaración de Barcelona](https://www.madrimasd.org/blogs/matematicas/2024/05/13/150531)
 * [HELIOS Open Advisory Council Applauds Barcelona Declaration on Research Information](https://www.heliosopen.org/news/helios-open-advisory-council-applauds-barcelona-declaration-on-research-information)
+* [EUA welcomes the Barcelona Declaration on Open Research Information](https://www.eua.eu/news/eua-news/eua-welcomes-the-barcelona-declaration-on-open-research-information.html)
+* [Digital Science: The Barcelona Declaration… exploring our responsibilities as metadata consumers](https://www.digital-science.com/tldr/article/the-barcelona-declaration-exploring-our-responsibilities-as-metadata-consumers/)
 
 ### Posts and releases from signatories
 
@@ -75,6 +77,7 @@ Media coverage of the Declaration.
 * [OpenAIRE signs Barcelona Declaration: A Catalyst for Change in Open Research Information](https://www.openaire.eu/openaire-signs-barcelona-declaration-a-catalyst-for-change-in-open-research-information)
 * [FWF Signs Barcelona Declaration on Open Research Information](https://www.fwf.ac.at/en/news/detail/fwf-signs-barcelona-declaration-on-open-research-information)
 * [La Universitat Politécnia de Catalunya s’adhereix a la Declaració de Barcelona per promoure l’accés obert a les dades de recerca](https://www.upc.edu/ca/sala-de-premsa/noticies/la-upc-sadhereix-a-la-declaracio-de-barcelona-acces-obert-recerca)
+* [YERUN statement on the Barcelona Declaration: A step in the right direction](https://yerun.eu/2024/07/yerun-statement-on-the-barcelona-declaration-a-step-in-the-right-direction/)
 
 ### Posts and releases from supporters
 

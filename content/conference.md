@@ -62,6 +62,7 @@ The Paris Conference on Open Research Information will be hosted by Sorbonne Uni
 <hr class="small">
 {{< /rawhtml >}}
 
+**Update - registration is now closed**
 Use [this form](https://lime3-app3.sorbonne-universite.fr/index.php/428114?lang=en) to register for the Paris Conference on Open Research Information, either for on-site or for online participation. Registration is open for staff members of organizations that are signatories or supporters of the Barcelona Declaration. Because of space constraints at the conference venue, we are able to welcome at most two people per organization for on-site participation.
 
 The conference has space for a limited number of participants affiliated with organizations that have not yet signed the Barcelona Declaration but that are considering signing it. If you would like to attend the conference but your organization has not yet signed the Declaration, we invite you to provide a brief motivation in the registration form explaining how you expect your participation in the conference will help promote open research information in your organization. By July 15 we will inform you whether we are able to welcome you at the conference.

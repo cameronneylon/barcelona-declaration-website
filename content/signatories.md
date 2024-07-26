@@ -37,6 +37,7 @@ Organizations performing, funding or evaluating research
 * Leiden University (Netherlands)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
 * Otto-Friedrich-Universität Bamberg (Germany)
+* Pattern Institute (Portugal)
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)
 * Stockholm University (Sweden)

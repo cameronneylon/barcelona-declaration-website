@@ -154,6 +154,7 @@ Organizations providing data, services and infrastructure
 * PLOS (Public Library of Science)
 * PREreview
 * Public Knowledge Project - PKP
+* Research Data Alliance - RDA
 * Research Data Alliance Association - RDA Europe 
 * Redalyc
 * Research Organization Registry - ROR

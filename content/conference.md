@@ -62,7 +62,7 @@ The Paris Conference on Open Research Information will be hosted by Sorbonne Uni
 <hr class="small">
 {{< /rawhtml >}}
 
-**Update - registration is now closed. Please check your spam folder if you registered but have not received a message about acceptance of your registration**  
+**Update - registration is now closed. Please check your spam folder if you registered but have not received a message about acceptance of your registration.**  
 
 Registration is open for staff members of organizations that are signatories or supporters of the Barcelona Declaration. Because of space constraints at the conference venue, we are able to welcome at most two people per organization for on-site participation.
 
@@ -78,9 +78,14 @@ Registration is free or charge thanks to generous support by Sorbonne University
 <hr class="small">
 {{< /rawhtml >}}
 
-If you are interested in contributing a talk on the first day of the Paris Conference on Open Research Information, we invite you to send a short abstract of your proposed talk (about 250 words) to [conference@barcelona-declaration.org](mailto:conference@barcelona-declaration.org) (deadline: July 10). In your abstract, please explain how your talk will help signatories of the Barcelona Declaration to fulfill their commitment to open research information.
+**Update - we have informed all applicants whether we are able to include their proposed talk in the conference program. Please check your spam folder if you have not received this notification.** 
 
-Your talk should take at most 15 minutes. It will be followed by 10 minutes for questions and discussion. Both on-site and online talks will be facilitated. By August 1 we will inform you whether we are able to include your proposed talk in the conference program.
+The first day of the conference will feature a series of talks from signatories and supporters, featuring experiences and best practices around open research information.
+
+We received a large number of submissions for presentations - it is great to see  the interest of the community in this conference! 
+
+We will share the full conference programme here in the next couple of weeks. 
+
 
 {{< rawhtml >}}
 </br>

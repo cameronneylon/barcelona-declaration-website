@@ -51,6 +51,7 @@ Media coverage of the Declaration.
 * [HELIOS Open Advisory Council Applauds Barcelona Declaration on Research Information](https://www.heliosopen.org/news/helios-open-advisory-council-applauds-barcelona-declaration-on-research-information)
 * [EUA welcomes the Barcelona Declaration on Open Research Information](https://www.eua.eu/news/eua-news/eua-welcomes-the-barcelona-declaration-on-open-research-information.html)
 * [Digital Science: The Barcelona Declaration… exploring our responsibilities as metadata consumers](https://www.digital-science.com/tldr/article/the-barcelona-declaration-exploring-our-responsibilities-as-metadata-consumers/)
+* [Barcelona Declaration on Open Research Information: A significant milestone for the development of open science](https://doi.org/10.24069/SEP-24-07) - in Russian
 
 ### Posts and releases from signatories
 

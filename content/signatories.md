@@ -142,6 +142,7 @@ Organizations providing data, services and infrastructure
 * euroCRIS
 * 4Science
 * International Interactive Computing Collaboration - 2i2c
+* Invest in Open Infrastructure - IOI
 * Knowlegde E
 * Latindex
 * Liberate Science GmbH

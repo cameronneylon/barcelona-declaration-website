@@ -106,6 +106,7 @@ Organizations performing, funding or evaluating research
 * Good Clinical Practice Alliance - GCPA (international)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
 * Latin American Council of Social Sciences - CLACSO (international)
+* Leibniz Institute for Psychology - ZPID (Germany)
 * National Open Research Analytics, Technical University of Denmark (Denmark)
 * Sage Bionetworks (US)
 * State Scientific and Technical Library of Ukraine (Ukraine)

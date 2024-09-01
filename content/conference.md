@@ -51,7 +51,7 @@ The first day of the conference will feature in person and online talks about op
 #### Session 1: Universities - policies 
 
 {{< rawhtml >}}
-<font size="2">
+<font size="-1">
 <table>
     <tr>
         <td>
@@ -84,7 +84,7 @@ The first day of the conference will feature in person and online talks about op
 #### Session 2: Universities - data and practical implementations
 
 {{< rawhtml >}}
-<font size="2">
+<font size="-1">
 <table>
     <tr>
         <td>
@@ -126,7 +126,7 @@ The first day of the conference will feature in person and online talks about op
 #### Session 3: Funders/national/governments
 
 {{< rawhtml >}}
-<font size="2">
+<font size="-1">
 <table>
     <tr>
         <td>
@@ -167,7 +167,7 @@ The first day of the conference will feature in person and online talks about op
 
 #### Session 4: International collaborations
 {{< rawhtml >}}
-<font size="2">
+<font size="-1">
 <table>
     <tr>
         <td>
@@ -200,7 +200,7 @@ The first day of the conference will feature in person and online talks about op
 
 #### Session 5: Infrastructures I
 {{< rawhtml >}}
-<font size="2">
+<font size="-1">
 <table>
     <tr>
         <td>
@@ -242,7 +242,7 @@ The first day of the conference will feature in person and online talks about op
 
 #### Session 6: Infrastructures II
 {{< rawhtml >}}
-<font size="2">
+<font size="-1">
 <table>
     <tr>
         <td>
@@ -282,6 +282,10 @@ The first day of the conference will feature in person and online talks about op
 
 
 ### Day 2
+
+{{< rawhtml >}}
+<font size ="4">
+{{< /rawhtml >}}
 
 The second day of the conference will be used to develop a joint roadmap for open research information. More information about the development of this roadmap will be shared with the conference participants prior to the conference.
 

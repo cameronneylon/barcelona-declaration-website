@@ -40,7 +40,248 @@ To support signatories of the Barcelona Declaration in fulfilling their commitme
 
 The Paris Conference on Open Research Information will take place on September 23-24, 2024.
 
-The first day of the conference will feature talks about open research information by signatories and supporters of the Barcelona Declaration. The organizers of the Declaration will also provide updates on the most recent developments related to the Declaration.
+### Day 1
+
+The first day of the conference will feature in person and online talks about open research information by signatories and supporters of the Barcelona Declaration. Below you can find an overview of these presentations. The organizers of the Declaration will also provide updates on the most recent developments related to the Declaration.  
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
+#### Session 1: Universities - policies 
+
+{{< rawhtml >}}
+<font size="2">
+<table>
+    <tr>
+        <td>
+        Flaminio Squazzoni (University of Milan)  
+        </td>
+        <td>
+        Research Information for Inclusiveness 
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Ana Ranitovic (University of Groningen)   
+        </td>
+        <td>
+        Engaging the Research Community to Drive the Transition to Open Research Information
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Anne-Catherine Fritzinger (Sorbonne University)     
+        </td>
+        <td>
+        title to be announced
+        </td>
+    </tr>
+</table>` 
+{{< /rawhtml >}}
+
+
+#### Session 2: Universities - data and practical implementations
+
+{{< rawhtml >}}
+<font size="2">
+<table>
+    <tr>
+        <td>
+        Silvio Peroni (University of Bologna)
+        </td>
+        <td>
+        The UNIBO path: how we comply with the Declaration's Committments
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Fabian Franke (University of Bamberg)
+        </td>
+        <td>
+        Promoting the Openness of Research Information at the University of Bamberg In the Spirit of the Barcelona Declaration
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Mathijs de Zwaan (VU Amsterdam)
+        </td>
+        <td>
+        Using open research information for research assessment in the Netherlands - Open enough to get a foot in the door
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Ignasi Labastida (University of Barcelona)
+        </td>
+        <td>
+        title to be announced
+        </td>
+    </tr>
+</table>
+</font>` 
+{{< /rawhtml >}}
+
+
+#### Session 3: Funders/national/governments
+
+{{< rawhtml >}}
+<font size="2">
+<table>
+    <tr>
+        <td>
+        Katharina Rieck (Austrian Science Fund - FWF)
+        </td>
+        <td>
+        The FWF’s approach to Open Research Information
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Lorenzo Bacci (Regione Toscana)
+        </td>
+        <td>
+        Learning how to use open research information to inform regional policies: the case of Tuscany Region
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Sophia Zherebchuk (State Scientific and Technical Library of Ukraine)
+        </td>
+        <td>
+        Enhancing Open Research Information: The State Scientific and Technical Library of Ukraine’s Contribution to Advancing Global Open Access Initiatives
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Isabelle Blanc / Nicolas Fressengeas (Ministry for Higher Education, Research and Innovation, France)
+        </td>
+        <td>
+        French research simplification policy through PIDs : research information openness as a consequence
+        </td>
+    </tr>
+</table>` 
+</font>
+{{< /rawhtml >}}
+
+
+#### Session 4: International collaborations
+{{< rawhtml >}}
+<font size="2">
+<table>
+    <tr>
+        <td>
+        Angeliki Tzouganatou / Thanasis Vergoulis (CoARA Working Group “Towards Open Infrastructures for Responsible Research Assessment")
+        </td>
+        <td>
+        Harmonizing the Barcelona Declaration and CoARA Efforts: Advancing Open Infrastructures for Responsible Research Assessment
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Ludovic Thilly (Coimbra Group) 
+        </td>
+        <td>
+        Accelerating the uptake of the Barcelona Declaration’s principles: the catalyst role of networks in the emergence of change and influencing policy agenda setting
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Judith Naidorf (CLACSO)
+        </td>
+        <td>
+        Towards Building a Roadmap for the Barcelona Declaration: Contributions from Latin America (FOLEC-CLACSO) / Hacia la construcción de una hoja de ruta de la Declaración de Barcelona: aportes desde América Latina (FOLEC-CLACSO)
+        </td>
+    </tr>
+</table>`
+</font>
+{{< /rawhtml >}}
+
+
+#### Session 5: Infrastructures I
+{{< rawhtml >}}
+<font size="2">
+<table>
+    <tr>
+        <td>
+        Simon Willemin (TOBI project - ETH Zurich)
+        </td>
+        <td>
+        Tools to curate open scholarly metadata datasets
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Rupert Gatti (Thoth)
+        </td>
+        <td>
+        Leveraging the power of open research information to foster open collaboration towards an equitable not-for-profit ecosystem for Open Access books
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Matt Buys (DataCite)
+        </td>
+        <td>
+        Open Metadata, Open Minds: Driving Research Impact through Collaboration and Innovation
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Ginny Hendricks (Crossref)
+        </td>
+        <td>
+        No open science without open metadata
+        </td>
+    </tr>
+</table>
+</font>` 
+{{< /rawhtml >}}
+
+
+
+#### Session 6: Infrastructures II
+{{< rawhtml >}}
+<font size="2">
+<table>
+    <tr>
+        <td>
+        Arianna Becerril-Garcia / Saray Córdoba (Redalyc, AmeliCA and CLACSO)
+        </td>
+        <td>
+        Building Digital Public Goods of Open Research Information for Inclusiveness and Sustainability of Scientific Communication: The Latin American use case
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Kathleen Shearer (COAR)
+        </td>
+        <td>
+        A vision for repositories in support of the Barcelona Declaration
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Christian Hauschke (TIB) / Kyle Demes (OpenAlex)
+        </td>
+        <td>
+        Towards an Open Research Information Ecosystem: Synergies with Open Software and Open Metadata Providers
+        </td>
+    </tr>
+    <tr>
+        <td>
+        Juan Pablo Alperin (PKP)
+        </td>
+        <td>
+        Addressing structural inequalities in research information
+        </td>
+    </tr>
+</table>` 
+</font>
+{{< /rawhtml >}}
+
+
+### Day 2
 
 The second day of the conference will be used to develop a joint roadmap for open research information. More information about the development of this roadmap will be shared with the conference participants prior to the conference.
 
@@ -52,7 +293,7 @@ The second day of the conference will be used to develop a joint roadmap for ope
 <hr class="small">
 {{< /rawhtml >}}
 
-The Paris Conference on Open Research Information will be hosted by Sorbonne University, one of the initial signatories of the Barcelona Declaration. The conference will take place on the [Pierre and Marie Curie Campus](https://maps.app.goo.gl/pHiBfZG28G5T4x6h7) in Paris’ 5th arrondissement. Online participation will be facilitated for all plenary sessions.
+The Paris Conference on Open Research Information will be hosted by Sorbonne University, one of the initial signatories of the Barcelona Declaration. The conference will take place on the [Pierre and Marie Curie Campus](https://maps.app.goo.gl/pHiBfZG28G5T4x6h7) in Paris’ 5th arrondissement. Online participation will be facilitated for all plenary sessions and breakout sessions. 
 
 {{< rawhtml >}}
 </br>
@@ -62,29 +303,8 @@ The Paris Conference on Open Research Information will be hosted by Sorbonne Uni
 <hr class="small">
 {{< /rawhtml >}}
 
-**Update - registration is now closed. Please check your spam folder if you registered but have not received a message about acceptance of your registration.**  
+**Registration is now closed.** Please check your spam folder if you registered but have not received a message about acceptance of your registration.
 
-Registration is open for staff members of organizations that are signatories or supporters of the Barcelona Declaration. Because of space constraints at the conference venue, we are able to welcome at most two people per organization for on-site participation.
-
-The conference has space for a limited number of participants affiliated with organizations that have not yet signed the Barcelona Declaration but that are considering signing it. 
-
-Registration is free or charge thanks to generous support by Sorbonne University. 
-
-{{< rawhtml >}}
-</br>
-{{< /rawhtml >}}
-## Contributing a talk
-{{< rawhtml >}}
-<hr class="small">
-{{< /rawhtml >}}
-
-**Update - we have informed all applicants whether we are able to include their proposed talk in the conference program. Please check your spam folder if you have not received this notification.** 
-
-The first day of the conference will feature a series of talks from signatories and supporters, featuring experiences and best practices around open research information.
-
-We received a large number of submissions for presentations - it is great to see  the interest of the community in this conference! 
-
-We will share the full conference programme here in the next couple of weeks. 
 
 
 {{< rawhtml >}}

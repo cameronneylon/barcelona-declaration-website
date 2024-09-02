@@ -207,7 +207,7 @@ The first day of the conference will feature in person and online talks about op
         Simon Willemin (TOBI project - ETH Zurich)
         </td>
         <td>
-        Tools to curate open scholarly metadata datasets
+        How to curate open scholarly metadata databases?
         </td>
     </tr>
     <tr>

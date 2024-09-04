@@ -101,7 +101,7 @@ Organizations performing, funding or evaluating research
 **Other organizations**
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
 * EOSC Association (international)
-* Federation of Finnish Learned Societies (Finland)
+* Federation of Finnish Learned Societies  - TSV (Finland)
 * GO FAIR Brazil Health (Brazil)
 * Good Clinical Practice Alliance - GCPA (international)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)

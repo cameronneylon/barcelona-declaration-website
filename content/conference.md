@@ -142,7 +142,7 @@ The first day of the conference will feature in person and online talks about op
         Lorenzo Bacci (Regione Toscana)
         </td>
         <td>
-        Learning how to use open research information to inform regional policies: the case of Tuscany Region
+        Open research information to inform regional policies: the case of Tuscany Region
         </td>
     </tr>
     <tr>

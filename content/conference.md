@@ -72,10 +72,10 @@ The first day of the conference will feature in person and online talks about op
     </tr>
     <tr>
         <td>
-        Anne-Catherine Fritzinger (Sorbonne University)     
+        Anne-Catherine Fritzinger / Amélie Church (Sorbonne University)     
         </td>
         <td>
-        title to be announced
+        Challenging established policies and practices : why Sorbonne University decided to use and promote Open Research Information
         </td>
     </tr>
 </table>` 

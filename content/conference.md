@@ -38,9 +38,10 @@ To support signatories of the Barcelona Declaration in fulfilling their commitme
 <hr class="small">
 {{< /rawhtml >}}
 
-The Paris Conference on Open Research Information will take place on September 23-24, 2024.
+The Paris Conference on Open Research Information will take place on September 23-24, 2024 at Sorbonne University, Paris. 
 
-### Day 1
+### Day 1 
+**10:00-17:30 CEST**
 
 The first day of the conference will feature in person and online talks about open research information by signatories and supporters of the Barcelona Declaration. Below you can find an overview of these presentations. The organizers of the Declaration will also provide updates on the most recent developments related to the Declaration.  
 
@@ -286,6 +287,7 @@ The first day of the conference will feature in person and online talks about op
 {{< rawhtml >}}
 <font size ="4">
 {{< /rawhtml >}}
+**9:00-16:00 CEST**
 
 The second day of the conference will be used to develop a joint roadmap for open research information. More information about the development of this roadmap will be shared with the conference participants prior to the conference.
 

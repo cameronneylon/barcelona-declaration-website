@@ -52,6 +52,8 @@ Media coverage of the Declaration.
 * [EUA welcomes the Barcelona Declaration on Open Research Information](https://www.eua.eu/news/eua-news/eua-welcomes-the-barcelona-declaration-on-open-research-information.html)
 * [Digital Science: The Barcelona Declaration… exploring our responsibilities as metadata consumers](https://www.digital-science.com/tldr/article/the-barcelona-declaration-exploring-our-responsibilities-as-metadata-consumers/)
 * [Barcelona Declaration on Open Research Information: A significant milestone for the development of open science](https://doi.org/10.24069/SEP-24-07) - in Russian
+* [CRAFT-OA welcomes the Barcelona Declaration](https://www.craft-oa.eu/craft-oa-welcomes-barcelona-declaration/)
+
 
 ### Posts and releases from signatories
 
@@ -79,6 +81,7 @@ Media coverage of the Declaration.
 * [FWF Signs Barcelona Declaration on Open Research Information](https://www.fwf.ac.at/en/news/detail/fwf-signs-barcelona-declaration-on-open-research-information)
 * [La Universitat Politécnia de Catalunya s’adhereix a la Declaració de Barcelona per promoure l’accés obert a les dades de recerca](https://www.upc.edu/ca/sala-de-premsa/noticies/la-upc-sadhereix-a-la-declaracio-de-barcelona-acces-obert-recerca)
 * [YERUN statement on the Barcelona Declaration: A step in the right direction](https://yerun.eu/2024/07/yerun-statement-on-the-barcelona-declaration-a-step-in-the-right-direction/)
+* [TSV signed the Barcelona declaration of open research information](https://tsv.fi/en/news/tsv-signed-barcelona-declaration-open-research-information)
 
 ### Posts and releases from supporters
 

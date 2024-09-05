@@ -111,14 +111,6 @@ The first day of the conference will feature in person and online talks about op
         Using open research information for research assessment in the Netherlands - Open enough to get a foot in the door
         </td>
     </tr>
-    <tr>
-        <td>
-        Ignasi Labastida (University of Barcelona)
-        </td>
-        <td>
-        title to be announced
-        </td>
-    </tr>
 </table>
 </font>` 
 {{< /rawhtml >}}

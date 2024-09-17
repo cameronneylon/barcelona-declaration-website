@@ -139,6 +139,7 @@ Organizations providing data, services and infrastructure
 * DeSci Labs
 * Directory of Open Access Books - DOAB
 * Directory of Open Access Journals - DOAJ
+* Dryad
 * Europe PMC
 * eLife
 * Érudit

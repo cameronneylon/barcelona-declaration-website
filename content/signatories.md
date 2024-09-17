@@ -100,6 +100,7 @@ Organizations performing, funding or evaluating research
 {{< /rawhtml >}}
 **Other organizations**
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
+* Dutch Reproducibility Network - NLRN (Netherlands)
 * EOSC Association (international)
 * Federation of Finnish Learned Societies  - TSV (Finland)
 * GO FAIR Brazil Health (Brazil)

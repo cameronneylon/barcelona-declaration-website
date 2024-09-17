@@ -53,6 +53,7 @@ Media coverage of the Declaration.
 * [Digital Science: The Barcelona Declaration… exploring our responsibilities as metadata consumers](https://www.digital-science.com/tldr/article/the-barcelona-declaration-exploring-our-responsibilities-as-metadata-consumers/)
 * [Barcelona Declaration on Open Research Information: A significant milestone for the development of open science](https://doi.org/10.24069/SEP-24-07) - in Russian
 * [CRAFT-OA welcomes the Barcelona Declaration](https://www.craft-oa.eu/craft-oa-welcomes-barcelona-declaration/)
+* [Citation indexes make research more unequal](https://blogs.lse.ac.uk/impactofsocialsciences/2024/09/09/citation-indexes-make-research-more-unequal/)
 
 
 ### Posts and releases from signatories

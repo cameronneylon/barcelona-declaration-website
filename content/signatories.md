@@ -62,6 +62,7 @@ Organizations performing, funding or evaluating research
 * Université Le Havre Normandie (France)
 * Université Paris Saclay (France)
 * Universities of the Netherlands - UNL (Netherlands)
+* University of Bristol (UK)
 * University of Coimbra (Portugal)
 * University of Groningen (Netherlands)
 * University of Maribor (Slovenia)

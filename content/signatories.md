@@ -47,6 +47,7 @@ Organizations performing, funding or evaluating research
 * Universidad Autónoma Metropolitana (Mexico)
 * Universidad de Antioquia (Colombia)
 * Universidad de Cádiz (Spain)
+* Universidad de Granada (Spain)
 * Universidad Distrital Francisco José de Caldas (Colombia)
 * Universidade do Minho (Portugal)
 * Università di Bologna (Italy)

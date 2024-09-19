@@ -255,7 +255,7 @@ The first day of the conference will feature in person and online talks about op
     </tr>
     <tr>
         <td>
-        Christian Hauschke (TIB) / Kyle Demes (OpenAlex)
+        Christian Hauschke (TIB) / Kyle Demes (OpenAlex) / Michele Mennielli (Lyrasis)
         </td>
         <td>
         Towards an Open Research Information Ecosystem: Synergies with Open Software and Open Metadata Providers

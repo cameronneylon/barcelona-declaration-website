@@ -27,6 +27,7 @@ The official text of the Barcelona Declaration is in {{< translation "/downloads
 
 Coming soon:
 * Croatian
+* Irish
 * Portuguese
 * Slovak
 * Swedish

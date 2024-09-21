@@ -164,10 +164,12 @@ The first day of the conference will feature in person and online talks about op
 <table>
     <tr>
         <td>
-        Angeliki Tzouganatou / Thanasis Vergoulis (CoARA Working Group “Towards Open Infrastructures for Responsible Research Assessment")
+        Angeliki Tzouganatou (OpenAIRE) / Thanasis Vergoulis (Athena Research Center)
         </td>
         <td>
         Harmonizing the Barcelona Declaration and CoARA Efforts: Advancing Open Infrastructures for Responsible Research Assessment
+        
+        (CoARA Working Group “Towards Open Infrastructures for Responsible Research Assessment")
         </td>
     </tr>
     <tr>

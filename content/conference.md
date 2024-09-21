@@ -95,7 +95,7 @@ The first day of the conference will feature in person and online talks about op
         Silvio Peroni (University of Bologna)
         </td>
         <td>
-        The UNIBO path: how we comply with the Declaration's Committments
+        The UNIBO path: how we comply with the Declaration's Commitments
         </td>
     </tr>
     <tr>

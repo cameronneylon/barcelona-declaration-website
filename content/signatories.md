@@ -166,6 +166,7 @@ Organizations providing data, services and infrastructure
 * Research Data Alliance Association - RDA Europe 
 * Redalyc
 * Research Organization Registry - ROR
+* SPARC Europe
 * Reviewer Credits
 * The Association of Lithuanian Serials
 * Thoth Open Metadata

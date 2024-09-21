@@ -12,17 +12,17 @@ comments = false
 {{< /rawhtml >}}
 The official text of the Barcelona Declaration is in {{< translation "/downloads/BarcelonaDeclaration.pdf" "English" >}}, but the Declaration has also been translated in the following languages:'.
 
-* {{< translation "/downloads/barcelonadeclaration_català.pdf" "Català" >}}
-* {{< translation "/downloads/barcelonadeclaration_chinese_simplified.pdf" "中文 (简体)" >}}
-* {{< translation "/downloads/barcelonadeclaration_chinese_traditional.pdf" "中文 (繁体)" >}}
-* {{< translation "/downloads/barcelonadeclaration_deutsch.pdf" "Deutsch" >}}
-* {{< translation "/downloads/barcelonadeclaration_espanõl.pdf" "Español" >}}
-* {{< translation "/downloads/barcelonadeclaration_français.pdf"  Français >}}
-* {{< translation "/downloads/barcelonadeclaration_greek.pdf"  "Ελληνικά" >}}
-* {{< translation "/downloads/barcelonadeclaration_italiano.pdf" Italiano >}}
-* {{< translation "/downloads/barcelonadeclaration_lietuvių.pdf" "Lietuvių" >}}
-* {{< translation "/downloads/barcelonadeclaration_polska.pdf" Polska >}}
-* {{< translation "/downloads/barcelonadeclaration_українська_мова.pdf" "українська мова" >}}
+* {{< download "/downloads/barcelonadeclaration_català.pdf" "Català" >}}
+* {{< download "/downloads/barcelonadeclaration_chinese_simplified.pdf" "中文 (简体)" >}}
+* {{< download "/downloads/barcelonadeclaration_chinese_traditional.pdf" "中文 (繁体)" >}}
+* {{< download "/downloads/barcelonadeclaration_deutsch.pdf" "Deutsch" >}}
+* {{< download "/downloads/barcelonadeclaration_espanõl.pdf" "Español" >}}
+* {{< download "/downloads/barcelonadeclaration_français.pdf"  Français >}}
+* {{< download "/downloads/barcelonadeclaration_greek.pdf"  "Ελληνικά" >}}
+* {{< download "/downloads/barcelonadeclaration_italiano.pdf" Italiano >}}
+* {{< download "/downloads/barcelonadeclaration_lietuvių.pdf" "Lietuvių" >}}
+* {{< download "/downloads/barcelonadeclaration_polska.pdf" Polska >}}
+* {{< download "/downloads/barcelonadeclaration_українська_мова.pdf" "українська мова" >}}
 * {{< translation "/downloads/barcelonadeclaration_russian.pdf" "русский" >}}
 
 Coming soon:

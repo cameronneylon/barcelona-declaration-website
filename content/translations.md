@@ -10,7 +10,7 @@ comments = false
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
-The official text of the Barcelona Declaration is in {{< translation "/downloads/BarcelonaDeclaration.pdf" "English" >}}, but the Declaration has also been translated in the following languages:'.
+The official text of the Barcelona Declaration is in {{< download "/downloads/BarcelonaDeclaration.pdf" "English" >}}, but the Declaration has also been translated in the following languages:'.
 
 * {{< download "/downloads/barcelonadeclaration_català.pdf" "Català" >}}
 * {{< download "/downloads/barcelonadeclaration_chinese_simplified.pdf" "中文 (简体)" >}}

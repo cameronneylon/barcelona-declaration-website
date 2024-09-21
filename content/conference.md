@@ -40,6 +40,9 @@ To support signatories of the Barcelona Declaration in fulfilling their commitme
 
 The Paris Conference on Open Research Information will take place on September 23-24, 2024 at Sorbonne University, Paris. 
 
+The detailed {{< download "/downloads/Paris_Conference_programme _v20240921_0.pdf" "conference programme" >}}  is available for download.  
+
+
 ### Day 1 
 **10:00-17:30 CEST**
 
@@ -161,7 +164,7 @@ The first day of the conference will feature in person and online talks about op
 #### Session 4: International collaborations
 {{< rawhtml >}}
 <font size="-1">
-<table>
+<table>library*
     <tr>
         <td>
         Angeliki Tzouganatou (OpenAIRE) / Thanasis Vergoulis (Athena Research Center)

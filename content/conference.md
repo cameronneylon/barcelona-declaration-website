@@ -46,7 +46,7 @@ The detailed {{< download "/downloads/Paris_Conference_programme _v20240921_0.pd
 ### Day 1 
 **10:00-17:30 CEST**
 
-The first day of the conference will feature in person and online talks about open research information by signatories and supporters of the Barcelona Declaration. Below you can find an overview of these presentations. A list of all [abstracts](/conference_abstracts.md) is also available.  
+The first day of the conference will feature in person and online talks about open research information by signatories and supporters of the Barcelona Declaration. Below you can find an overview of these presentations. A list of all [abstracts](/conference_abstracts) is also available.  
   
 The organizers of the Declaration will also provide updates on the most recent developments related to the Declaration.  
 

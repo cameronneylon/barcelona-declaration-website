@@ -12,7 +12,7 @@ comments = false
 {{< /rawhtml >}}
 
 
-Abstracts of all presentations on Day 1 of the [Paris Conference on Open Research Information](/conference.md). Presenters are indicated with an asterisk.
+Abstracts of all presentations on Day 1 of the [Paris Conference on Open Research Information](/conference). Presenters are indicated with an asterisk.
 
 The first day of the conference will feature in person and online talks about open research information by signatories and supporters of the Barcelona Declaration.
 

@@ -42,7 +42,6 @@ The Paris Conference on Open Research Information will take place on September 2
 
 The detailed {{< download "/downloads/Paris conference - programme_v20240922_0.pdf" "conference programme" >}}  is available for download.  
 
-
 ### Day 1 
 **10:00-17:30 CEST**
 

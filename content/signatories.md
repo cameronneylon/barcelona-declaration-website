@@ -65,6 +65,7 @@ Organizations performing, funding or evaluating research
 * Universities of the Netherlands - UNL (Netherlands)
 * University of Bristol (UK)
 * University of Coimbra (Portugal)
+* University of Göttingen (Germany)
 * University of Groningen (Netherlands)
 * University of Maribor (Slovenia)
 * University of Milan (Italy)

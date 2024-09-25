@@ -106,6 +106,7 @@ Organizations performing, funding or evaluating research
 * Dutch Reproducibility Network - NLRN (Netherlands)
 * EOSC Association (international)
 * Federation of Finnish Learned Societies  - TSV (Finland)
+* FIZ Karlsruhe - Leibniz Institute for Information Infratstructure (Germany)
 * GO FAIR Brazil Health (Brazil)
 * Good Clinical Practice Alliance - GCPA (international)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)

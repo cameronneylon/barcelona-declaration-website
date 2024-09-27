@@ -150,7 +150,7 @@ Organizations providing data, services and infrastructure
 * 4Science
 * International Interactive Computing Collaboration - 2i2c
 * Invest in Open Infrastructure - IOI
-* Knowlegde E
+* Knowledge E
 * Latindex
 * Liberate Science GmbH
 * OAPEN Foundation

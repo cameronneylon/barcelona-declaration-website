@@ -81,7 +81,7 @@ enableRobotsTXT = true
     name = "Abstracts"
     url = "conference_abstracts/"
     parent = "conference"
-    weight = 1     
+    weight = 2     
 
 [[menu.main]]
     name = "Media"

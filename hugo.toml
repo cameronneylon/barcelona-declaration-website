@@ -72,8 +72,14 @@ enableRobotsTXT = true
     weight = 5 
     
 [[menu.main]]
-    name = "Programme"
+    name = "OVerview"
     url = "conference/"
+    parent = "conference"
+    weight = 1  
+
+[[menu.main]]
+    name = "Programme"
+    url = "conference_programme/"
     parent = "conference"
     weight = 1  
 

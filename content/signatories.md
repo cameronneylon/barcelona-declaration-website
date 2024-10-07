@@ -94,6 +94,7 @@ Organizations performing, funding or evaluating research
 * Fundació Internacional Josep Carreras (Spain)
 * Fundación MenteClara Internacional (Argentina)
 * Région Normandie (France)
+* Regione Emilia-Romagna (Italy)
 * Regione Toscana (Italy)
 * ZonMw (Netherlands)
 

@@ -136,6 +136,7 @@ Organizations providing data, services and infrastructure
 * Academy of Science of South Africa - ASSAf
 * Africa PID Alliance
 * AmeliCA Ciencia Abierta
+* Capitolo italiano di Creative Commons
 * Confederation of Open Access Repositories - COAR
 * Crossref 
 * Curtin Open Knowledge Initiative - COKI

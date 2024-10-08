@@ -124,7 +124,7 @@ Angeliki Tzouganatou* (OpenAIRE) / Iryna Kuchma (EIFL) / Thanasis Vergoulis* (At
 >While this CoARA Working Group is still in progress, our aim is to present our plans and early outcomes as practical input to the discussion of realizing Open Research Information.
  
 **Accelerating the uptake of the Barcelona Declaration’s principles: the catalyst role of networks in the emergence of change and influencing policy agenda setting**  
-Ludovic Thilly*  / Emmanuelle Gardan (Coimbra Group)  
+Ludovic Thilly*  / Beatrix Busse (Coimbra Group)  
 > Coimbra Group strongly supports the movement towards open research information with the stated objective to be at the forefront of this cultural transformation. We will bring to the other signatories of the Barcelona Declaration the variety of perspectives and the expertise available in our network of leading European comprehensive universities established across 22 countries and the pioneering role played by some of them. 
 >
 >It is central for Coimbra Group to stress that transitions in how research information is provided must respect the equal importance of all disciplines, including the Social Sciences, Humanities and the Arts. This transition also contributes to advance the agenda towards more open and transparent University rankings. Coimbra Group will continue raising awareness among its members of the importance of open research information and actively promoting dialogue on this important topic. Coimbra Group shall gently nudge its communities by engaging both the management level and the academics and administrative staff active through its thematic Working Groups and by offering its trustful collaborative environment for mutual learning and exchange of experience. 

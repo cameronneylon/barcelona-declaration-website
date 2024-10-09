@@ -84,6 +84,7 @@ Media coverage of the Declaration.
 * [YERUN statement on the Barcelona Declaration: A step in the right direction](https://yerun.eu/2024/07/yerun-statement-on-the-barcelona-declaration-a-step-in-the-right-direction/)
 * [TSV signed the Barcelona declaration of open research information](https://tsv.fi/en/news/tsv-signed-barcelona-declaration-open-research-information)
 * [FIZ Karlsruhe unterzeichnet die Barcelona Erklärung zur Offenheit von Forschungsinformationen](https://www.fiz-karlsruhe.de/de/nachricht/fiz-karlsruhe-unterzeichnet-die-barcelona-erklaerung-zur-offenheit-von) - also available [in English](https://www.fiz-karlsruhe.de/en/nachricht/fiz-karlsruhe-unterzeichnet-die-barcelona-erklaerung-zur-offenheit-von)
+* [Ibict participa da Paris Conference on Open Research Information](https://www.gov.br/ibict/pt-br/central-de-conteudos/noticias/2024/setembro/ibict-participa-da-paris-conference-on-open-research-information)
 
 ### Posts and releases from supporters
 

@@ -56,7 +56,7 @@ A big thank you to the many organizations that took part, both in the room in Pa
 An overview of the [conference programme](/conference_programme) and [abstracts of all presentations](/conference_abstracts) are available on this website. The detailed {{< download "/downloads/Paris_conference_programme_v20240922_0.pdf" "conference programme" >}} is also available for download. 
 Many of the presentation slides of Day 1 are also available in a [collection on Zenodo](https://zenodo.org/communities/paris_conference_ori_2024).
 
-Further outcomes of the conference (including a prioritized list of aciion items) will be shared soon. 
+Further outcomes of the conference (including a prioritized list of action items) will be shared soon. 
 
 
 

@@ -51,6 +51,7 @@ Organizations performing, funding or evaluating research
 * Universidad Distrital Francisco José de Caldas (Colombia)
 * Universidade do Minho (Portugal)
 * Università di Bologna (Italy)
+* Universidad Rey Juan Carlos (Spain)
 * Universitat de Barcelona (Spain)
 * Universitat de Girona (Spain)
 * Universitat Politècnica de Catalunya (Spain)

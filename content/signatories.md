@@ -29,6 +29,7 @@ Organizations performing, funding or evaluating research
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)
 * Hugo Grotius gGmbH (Germany)
+* Ibn Tofaïl University (Morocco)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)
 * Institut Català d'Arqueologia Clàssica - ICAC-CERCA (Spain)
 * Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)

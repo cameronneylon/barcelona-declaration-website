@@ -28,7 +28,7 @@ Organizations performing, funding or evaluating research
 * Delft University of Technology (Netherlands)
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)
-* Hugo Grotius gGmbH (Germany)
+* Hugo Grotius GmbH (Germany)
 * Ibn Tofaïl University (Morocco)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)
 * Institut Català d'Arqueologia Clàssica - ICAC-CERCA (Spain)

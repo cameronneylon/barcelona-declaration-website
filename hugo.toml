@@ -72,20 +72,20 @@ enableRobotsTXT = true
     weight = 5 
     
 [[menu.main]]
-    name = "OVerview"
+    name = "Overview"
     url = "conference/"
     parent = "conference"
     weight = 1  
 
 [[menu.main]]
     name = "Programme"
-    url = "conference_programme/"
+    url = "conference_paris_programme/"
     parent = "conference"
     weight = 1  
 
 [[menu.main]]
     name = "Abstracts"
-    url = "conference_abstracts/"
+    url = "conference_paris_abstracts/"
     parent = "conference"
     weight = 2     
 

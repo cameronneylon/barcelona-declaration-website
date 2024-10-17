@@ -79,13 +79,13 @@ enableRobotsTXT = true
 
 [[menu.main]]
     name = "Programme"
-    url = "conference_paris_programme/"
+    url = "conference_programme/"
     parent = "conference"
     weight = 1  
 
 [[menu.main]]
     name = "Abstracts"
-    url = "conference_paris_abstracts/"
+    url = "conference_abstracts/"
     parent = "conference"
     weight = 2     
 

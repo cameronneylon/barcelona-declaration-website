@@ -115,7 +115,7 @@ Isabelle Blanc* / Nicolas Fressengeas* (Ministry for Higher Education, Research 
 
 
 **Harmonizing the Barcelona Declaration and CoARA Efforts: Advancing Open Infrastructures for Responsible Research Assessment**  
-Angeliki Tzouganatou* (OpenAIRE) / Iryna Kuchma (EIFL) / Thanasis Vergoulis* (Athena Research Center) / Clifford Tatum (CWTS)*  
+Angeliki Tzouganatou* (OpenAIRE) / Iryna Kuchma (EIFL) / Giulia Malaguarnera (OpenAIRE) / Natalia Manolo (OpenAIRE) / Thanasis Vergoulis* (Athena Research Center) / Clifford Tatum (CWTS)*  
 >Against the backdrop of our ongoing efforts in the CoARA Working Group “Towards Open Infrastructures for Responsible Research Assessment,” we continue to advance principles that align with the Barcelona Declaration. Our mission is to establish and propagate principles and practices that ensure infrastructures can foster transparency, fairness, inclusivity, trustworthiness, and accountability, thus making them suitable for Responsible Research Assessment (RRA). We have developed comprehensive principles and characteristics for Open Infrastructures (OI), focusing on promoting open, sustainable, community-governed, fair, and equitable practices.
 >
 >Our primary goal has been to underscore the motivations for transitioning to OI and to illustrate best practices designed to persuade decision-makers of their advantages. In parallel, we are in the process of finalizing an architectural reference model to demonstrate the technical, legal, and financial capacities needed for effective OI fit for RRA. This model will serve as a strategic guide for institutions building OI fit for RRA processes.

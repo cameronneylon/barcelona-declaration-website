@@ -66,9 +66,28 @@ enableRobotsTXT = true
     weight = 4  
     
 [[menu.main]]
+    identifier = "conference"  
     name = "Conference"
+    url = "conference_parent/"
+    weight = 5 
+    
+[[menu.main]]
+    name = "Overview"
     url = "conference/"
-    weight = 5   
+    parent = "conference"
+    weight = 1  
+
+[[menu.main]]
+    name = "Programme"
+    url = "conference_programme/"
+    parent = "conference"
+    weight = 1  
+
+[[menu.main]]
+    name = "Abstracts"
+    url = "conference_abstracts/"
+    parent = "conference"
+    weight = 2     
 
 [[menu.main]]
     name = "Media"

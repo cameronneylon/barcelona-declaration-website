@@ -11,8 +11,8 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+The Paris Conference on Open Research Information took place on September 23-24, 2024 at Sorbonne University, Paris. 
 
-We are delighted to announce the Paris Conference on Open Research Information, a two-day conference for signatories and supporters of the Barcelona Declaration on Open Research Information. The conference will take place on September 23-24, 2024 and will be hosted by Sorbonne University in Paris.
 
 {{< rawhtml >}}
 </br>
@@ -33,52 +33,32 @@ To support signatories of the Barcelona Declaration in fulfilling their commitme
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
-## Programme
+## Conference recap
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
 
-The Paris Conference on Open Research Information will take place on September 23-24, 2024.
 
-The first day of the conference will feature talks about open research information by signatories and supporters of the Barcelona Declaration. The organizers of the Declaration will also provide updates on the most recent developments related to the Declaration.
+Over two days in Paris and with a highly engaged group of online participants from a range of geographies we heard across multiple organizations how the Barcelona Declaration on Open Research Information is being implemented. From funders, to institutions, governments and community organizations the commitment to act was striking.
 
-The second day of the conference will be used to develop a joint roadmap for open research information. More information about the development of this roadmap will be shared with the conference participants prior to the conference.
+The first day was an exciting, and rapid update from many organizations and on the second day we moved to mapping the future. At the end of the day we had a draft roadmap with concrete actions. Some of these were ambitious and long term. Many were already in progress. And all were concrete and specific, with goals, actors and time frames specified.
 
+A big thank you to the many organizations that took part, both in the room in Paris and online. You brought a huge level of energy and enthusiasm to the challenges and opportunities that lie before us. We look forward to working together towards a future where Open Research Information is the norm!
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
-## Venue
+## Conference materials
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
 
-The Paris Conference on Open Research Information will be hosted by Sorbonne University, one of the initial signatories of the Barcelona Declaration. The conference will take place on the [Pierre and Marie Curie Campus](https://maps.app.goo.gl/pHiBfZG28G5T4x6h7) in Paris’ 5th arrondissement. Online participation will be facilitated for all plenary sessions.
 
-{{< rawhtml >}}
-</br>
-{{< /rawhtml >}}
-## Registration
-{{< rawhtml >}}
-<hr class="small">
-{{< /rawhtml >}}
+An overview of the [conference programme](/conference_programme) and [abstracts of all presentations](/conference_abstracts) are available on this website. The detailed {{< download "/downloads/Paris_conference_programme_v20240922_0.pdf" "conference programme" >}} is also available for download. 
+Many of the presentation slides of Day 1 are also available in a [collection on Zenodo](https://zenodo.org/communities/paris_conference_ori_2024).
 
-Use [this form](https://lime3-app3.sorbonne-universite.fr/index.php/428114?lang=en) to register for the Paris Conference on Open Research Information, either for on-site or for online participation. Registration is open for staff members of organizations that are signatories or supporters of the Barcelona Declaration. Because of space constraints at the conference venue, we are able to welcome at most two people per organization for on-site participation.
+Further outcomes of the conference (including a prioritized list of action items) will be shared soon. 
 
-The conference has space for a limited number of participants affiliated with organizations that have not yet signed the Barcelona Declaration but that are considering signing it. If you would like to attend the conference but your organization has not yet signed the Declaration, we invite you to provide a brief motivation in the registration form explaining how you expect your participation in the conference will help promote open research information in your organization. By July 15 we will inform you whether we are able to welcome you at the conference.
 
-Registration is free or charge thanks to generous support by Sorbonne University. We kindly request you to register by July 10 at the latest.
-
-{{< rawhtml >}}
-</br>
-{{< /rawhtml >}}
-## Contributing a talk
-{{< rawhtml >}}
-<hr class="small">
-{{< /rawhtml >}}
-
-If you are interested in contributing a talk on the first day of the Paris Conference on Open Research Information, we invite you to send a short abstract of your proposed talk (about 250 words) to [conference@barcelona-declaration.org](mailto:conference@barcelona-declaration.org) (deadline: July 10). In your abstract, please explain how your talk will help signatories of the Barcelona Declaration to fulfill their commitment to open research information.
-
-Your talk should take at most 15 minutes. It will be followed by 10 minutes for questions and discussion. Both on-site and online talks will be facilitated. By August 1 we will inform you whether we are able to include your proposed talk in the conference program.
 
 {{< rawhtml >}}
 </br>
@@ -89,6 +69,7 @@ Your talk should take at most 15 minutes. It will be followed by 10 minutes for 
 {{< /rawhtml >}}
 
 * Amélie Church (Sorbonne Universite)
+* Bernardo Rondelli (SIRIS Foundation)
 * Bianca Kramer (Sesame Open Science)
 * Cameron Neylon (Curtin Open Knowledge Institute)
 * Nees Jan van Eck (CWTS, Leiden University)

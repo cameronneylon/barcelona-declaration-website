@@ -51,6 +51,9 @@ Media coverage of the Declaration.
 * [HELIOS Open Advisory Council Applauds Barcelona Declaration on Research Information](https://www.heliosopen.org/news/helios-open-advisory-council-applauds-barcelona-declaration-on-research-information)
 * [EUA welcomes the Barcelona Declaration on Open Research Information](https://www.eua.eu/news/eua-news/eua-welcomes-the-barcelona-declaration-on-open-research-information.html)
 * [Digital Science: The Barcelona Declaration… exploring our responsibilities as metadata consumers](https://www.digital-science.com/tldr/article/the-barcelona-declaration-exploring-our-responsibilities-as-metadata-consumers/)
+* [Barcelona Declaration on Open Research Information: A significant milestone for the development of open science](https://doi.org/10.24069/SEP-24-07) - in Russian
+* [CRAFT-OA welcomes the Barcelona Declaration](https://www.craft-oa.eu/craft-oa-welcomes-barcelona-declaration/)
+* [Citation indexes make research more unequal](https://blogs.lse.ac.uk/impactofsocialsciences/2024/09/09/citation-indexes-make-research-more-unequal/)
 * [Vers une évaluation de la recherche plus ouverte et équitable : la déclaration de Barcelone](https://theconversation.com/vers-une-evaluation-de-la-recherche-plus-ouverte-et-equitable-la-declaration-de-barcelone-241537)
 * [Symplectic’s Support of the Barcelona Declaration on Open Research Information](https://www.symplectic.co.uk/symplectic-elements-support-of-the-barcelona-declaration-on-open-research-information/)
 * [Exploring Research Assessment and Open Infrastructures](https://graspos.eu/exploring-research-assessment-and-open-infrastructures-reflections)
@@ -81,6 +84,9 @@ Media coverage of the Declaration.
 * [FWF Signs Barcelona Declaration on Open Research Information](https://www.fwf.ac.at/en/news/detail/fwf-signs-barcelona-declaration-on-open-research-information)
 * [La Universitat Politécnia de Catalunya s’adhereix a la Declaració de Barcelona per promoure l’accés obert a les dades de recerca](https://www.upc.edu/ca/sala-de-premsa/noticies/la-upc-sadhereix-a-la-declaracio-de-barcelona-acces-obert-recerca)
 * [YERUN statement on the Barcelona Declaration: A step in the right direction](https://yerun.eu/2024/07/yerun-statement-on-the-barcelona-declaration-a-step-in-the-right-direction/)
+* [TSV signed the Barcelona declaration of open research information](https://tsv.fi/en/news/tsv-signed-barcelona-declaration-open-research-information)
+* [FIZ Karlsruhe unterzeichnet die Barcelona Erklärung zur Offenheit von Forschungsinformationen](https://www.fiz-karlsruhe.de/de/nachricht/fiz-karlsruhe-unterzeichnet-die-barcelona-erklaerung-zur-offenheit-von) - also available [in English](https://www.fiz-karlsruhe.de/en/nachricht/fiz-karlsruhe-unterzeichnet-die-barcelona-erklaerung-zur-offenheit-von)
+* [Ibict participa da Paris Conference on Open Research Information](https://www.gov.br/ibict/pt-br/central-de-conteudos/noticias/2024/setembro/ibict-participa-da-paris-conference-on-open-research-information)
 * [University of Göttingen supports the opening of research information](https://www.sub.uni-goettingen.de/en/news/details/the-georg-august-universitaet-goettingen-supports-the-opening-of-research-information/)
 * [LIBER Signs the Barcelona Declaration](https://libereurope.eu/article/liber-signs-the-barcelona-declaration/)
 
@@ -91,6 +97,7 @@ Media coverage of the Declaration.
 * [OpenAIRE signs Barcelona Declaration: A Catalyst for Change in Open Research Information](https://www.openaire.eu/openaire-signs-barcelona-declaration-a-catalyst-for-change-in-open-research-information)
 * [Barcelona Declaration – OPERAS Announcement](https://operas.hypotheses.org/7243)
 * [Érudit - Barcelona Declaration Signing](https://apropos.erudit.org/barcelona-declaration/?lang=en) - in English, [en Français](https://apropos.erudit.org/declaration-barcelone/)
+* [Supporting the Barcelona Declaration - Coalition Publica (Érudit and PKP)](https://www.coalition-publi.ca/news-nouvelles/2024/8/5/barcelona-declaration) - in English, [en Français](https://www.coalition-publi.ca/news-nouvelles/2024/8/5/barcelona-declaration#:~:text=En%20signant)
 
 If we missed any media coverage, posts or commentary regarding the Barcelona Declaration, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
 

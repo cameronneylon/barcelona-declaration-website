@@ -25,6 +25,7 @@ Organizations performing, funding or evaluating research
 * Athena Research Center (Greece)
 * Charles University (Czech Republic)
 * Coimbra Group (international)
+* CREAF - Centre de Recerca Ecològica i Aplicacions Forestals (Spain)
 * Delft University of Technology (Netherlands)
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)

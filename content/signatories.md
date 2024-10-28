@@ -55,6 +55,7 @@ Organizations performing, funding or evaluating research
 * Universidade Federal Fluminense (Brazil)
 * Universidad Rey Juan Carlos (Spain)
 * Università di Bologna (Italy)
+* Universitat Autònoma de Barcelona (Spain)
 * Universitat de Barcelona (Spain)
 * Universitat de Girona (Spain)
 * Universitat Politècnica de Catalunya (Spain)

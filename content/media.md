@@ -51,6 +51,9 @@ Media coverage of the Declaration.
 * [HELIOS Open Advisory Council Applauds Barcelona Declaration on Research Information](https://www.heliosopen.org/news/helios-open-advisory-council-applauds-barcelona-declaration-on-research-information)
 * [EUA welcomes the Barcelona Declaration on Open Research Information](https://www.eua.eu/news/eua-news/eua-welcomes-the-barcelona-declaration-on-open-research-information.html)
 * [Digital Science: The Barcelona Declaration… exploring our responsibilities as metadata consumers](https://www.digital-science.com/tldr/article/the-barcelona-declaration-exploring-our-responsibilities-as-metadata-consumers/)
+* [Vers une évaluation de la recherche plus ouverte et équitable : la déclaration de Barcelone](https://theconversation.com/vers-une-evaluation-de-la-recherche-plus-ouverte-et-equitable-la-declaration-de-barcelone-241537)
+* [Symplectic’s Support of the Barcelona Declaration on Open Research Information](https://www.symplectic.co.uk/symplectic-elements-support-of-the-barcelona-declaration-on-open-research-information/)
+* [Exploring Research Assessment and Open Infrastructures](https://graspos.eu/exploring-research-assessment-and-open-infrastructures-reflections)
 
 ### Posts and releases from signatories
 
@@ -78,6 +81,8 @@ Media coverage of the Declaration.
 * [FWF Signs Barcelona Declaration on Open Research Information](https://www.fwf.ac.at/en/news/detail/fwf-signs-barcelona-declaration-on-open-research-information)
 * [La Universitat Politécnia de Catalunya s’adhereix a la Declaració de Barcelona per promoure l’accés obert a les dades de recerca](https://www.upc.edu/ca/sala-de-premsa/noticies/la-upc-sadhereix-a-la-declaracio-de-barcelona-acces-obert-recerca)
 * [YERUN statement on the Barcelona Declaration: A step in the right direction](https://yerun.eu/2024/07/yerun-statement-on-the-barcelona-declaration-a-step-in-the-right-direction/)
+* [University of Göttingen supports the opening of research information](https://www.sub.uni-goettingen.de/en/news/details/the-georg-august-universitaet-goettingen-supports-the-opening-of-research-information/)
+* [LIBER Signs the Barcelona Declaration](https://libereurope.eu/article/liber-signs-the-barcelona-declaration/)
 
 ### Posts and releases from supporters
 

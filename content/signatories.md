@@ -163,6 +163,7 @@ Organizations providing data, services and infrastructure
 * Latindex
 * Liberate Science GmbH
 * OAPEN Foundation
+* OA.Works
 * OpenAIRE
 * OpenCitations
 * Openventio Publishers

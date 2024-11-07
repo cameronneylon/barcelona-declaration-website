@@ -174,6 +174,7 @@ Organizations providing data, services and infrastructure
 * OurResearch
 * PLOS (Public Library of Science)
 * PREreview
+* protocols.io
 * Public Knowledge Project - PKP
 * Research Data Alliance - RDA
 * Research Data Alliance Association - RDA Europe 

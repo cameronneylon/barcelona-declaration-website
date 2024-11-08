@@ -124,6 +124,7 @@ Organizations performing, funding or evaluating research
 * National Open Research Analytics, Technical University of Denmark (Denmark)
 * Sage Bionetworks (US)
 * State Scientific and Technical Library of Ukraine (Ukraine)
+* SURF (Netherlands)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (UK)
 * West and Central African Research and Education Network - WACREN (International)

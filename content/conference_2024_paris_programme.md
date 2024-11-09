@@ -1,5 +1,6 @@
 +++
 title = 'Barcelona Declaration on Open Research Information'
+aliases = ["/conference_programme"]
 date = 2024-06-03T10:51:15+08:00
 comments = false
 

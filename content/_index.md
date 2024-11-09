@@ -14,7 +14,7 @@ comments = false
 
 * Call for participation and coordination of working groups - [read more](/conference_2024_paris).
 
-* Announcing Workshop on Open Citations & Open Scholarly Metadata 2025 (WOOC 2025) May 28-29 in Bologna, Italy - [read more](/conference_2024_bologna).
+* Announcing Workshop on Open Citations & Open Scholarly Metadata 2025 (WOOC 2025) May 28-29 in Bologna, Italy - [read more](/conference_2025_bologna).
 
 {{< rawhtml >}}
 </br>

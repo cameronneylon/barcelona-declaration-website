@@ -17,7 +17,7 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-The [Paris Conference on Open Research Information](/conference) took place on September 23-24, 2024 at Sorbonne University, Paris. 
+The [Paris Conference on Open Research Information](/conference_paris) took place on September 23-24, 2024 at Sorbonne University, Paris. 
 
 The detailed {{< download "/downloads/Paris_conference_programme_v20240922_0.pdf" "conference programme" >}}  is available for download.  
 

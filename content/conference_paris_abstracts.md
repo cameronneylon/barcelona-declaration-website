@@ -11,8 +11,13 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+## Abstracts
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
 
-Abstracts of all presentations on Day 1 of the [Paris Conference on Open Research Information](/conference). Presenters are indicated with an asterisk.
+
+Abstracts of all presentations on Day 1 of the [Paris Conference on Open Research Information](/conference_paris). Presenters are indicated with an asterisk.
 
 The first day of the conference featured in person and online talks about open research information by signatories and supporters of the Barcelona Declaration.  
 Many of the presentation slides of Day 1 are also available in a [collection on Zenodo](https://zenodo.org/communities/paris_conference_ori_2024).

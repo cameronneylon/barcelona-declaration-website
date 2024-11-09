@@ -29,7 +29,7 @@ We invite to the Workshop Citations and Open Scholarly Metadata (WOOC) researche
 This year edition of the workshop will gravitate around the following theme:  
 ***"Open Access of Research Information"***
 
-In particular, the first day will be dedicated to the **Bologna Meeting on Open Research Information**, to encourage discussion between the signatories and supporters of the Barcelona Declaration and other interested bodies and collaboratively orient the common roadmap, thus allowing the articulation of the outcomes that have recently been discussed during the [Paris Conference on Open Research Information](/conference_paris_programme).
+In particular, the first day will be dedicated to the **Bologna Meeting on Open Research Information**, to encourage discussion between the signatories and supporters of the Barcelona Declaration and other interested bodies and collaboratively orient the common roadmap, thus allowing the articulation of the outcomes that have recently been discussed during the [Paris Conference on Open Research Information](/conference_2024_paris).
 
 The second day will be dedicated to **invited contributions, presentations and a poster session** selected among the participants in the call for contributions on the workshop theme.
 

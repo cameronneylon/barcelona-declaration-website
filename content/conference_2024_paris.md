@@ -73,7 +73,7 @@ We aim to set up a meeting with potential working group coordinators in December
 {{< /rawhtml >}}
 
 
-Next to the [conference report](https://doi.org/10.5281/zenodo.14054244), an overview of the [conference programme](/conference_paris_programme) and [abstracts of all presentations](/conference_paris_abstracts) are available on this website. The detailed {{< download "/downloads/Paris_conference_programme_v20240922_0.pdf" "conference programme" >}} can also be downloaded. 
+Next to the [conference report](https://doi.org/10.5281/zenodo.14054244), an overview of the [conference programme](/conference_2024_paris_programme) and [abstracts of all presentations](/conference_2024_paris_abstracts) are available on this website. The detailed {{< download "/downloads/Paris_conference_programme_v20240922_0.pdf" "conference programme" >}} can also be downloaded. 
 
 Many of the presentation slides of Day 1 are available in a [collection on Zenodo](https://zenodo.org/communities/paris_conference_ori_2024).
 

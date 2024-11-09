@@ -76,6 +76,12 @@ enableRobotsTXT = true
     url = "conference_paris/"
     parent = "conference"
     weight = 1 
+    
+[[menu.main]]
+    name = "Bologna - WOOC 2025 (May 2025)"
+    url = "conference_bologna/"
+    parent = "conference"
+    weight = 2 
 
 
 [[menu.main]]

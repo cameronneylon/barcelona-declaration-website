@@ -61,6 +61,7 @@ Organizations performing, funding or evaluating research
 * Universitat Politècnica de Catalunya (Spain)
 * Universitat Pompeu Fabra Barcelona (Spain)
 * Universitat Ramon Llull (Spain)
+* Universitat Rovira i Virgili (Spain)
 * Universitat de Vic-Universitat Central de Catalunya (Spain)
 * Université de Lorraine (France)
 * Université de Reims Champagne-Ardenne (France)

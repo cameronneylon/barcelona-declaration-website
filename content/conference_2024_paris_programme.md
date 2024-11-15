@@ -1,5 +1,6 @@
 +++
 title = 'Barcelona Declaration on Open Research Information'
+aliases = ["/conference_programme"]
 date = 2024-06-03T10:51:15+08:00
 comments = false
 
@@ -17,7 +18,7 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-The [Paris Conference on Open Research Information](/conference) took place on September 23-24, 2024 at Sorbonne University, Paris. 
+The [Paris Conference on Open Research Information](/conference_2024_paris) took place on September 23-24, 2024 at Sorbonne University, Paris. 
 
 The detailed {{< download "/downloads/Paris_conference_programme_v20240922_0.pdf" "conference programme" >}}  is available for download.  
 
@@ -297,9 +298,3 @@ The Paris Conference on Open Research Information was hosted by Sorbonne Univers
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
-## Contact information
-{{< rawhtml >}}
-<hr class="small">
-{{< /rawhtml >}}
-
-For more information about the Paris Conference on Open Research Information, please contact us at [conference@barcelona-declaration.org](mailto:conference@barcelona-declaration.org).

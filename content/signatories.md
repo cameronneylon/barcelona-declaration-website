@@ -25,6 +25,7 @@ Organizations performing, funding or evaluating research
 * Athena Research Center (Greece)
 * Charles University (Czech Republic)
 * Coimbra Group (international)
+* CREAF - Centre de Recerca Ecològica i Aplicacions Forestals (Spain)
 * Delft University of Technology (Netherlands)
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)
@@ -54,12 +55,15 @@ Organizations performing, funding or evaluating research
 * Universidade Federal Fluminense (Brazil)
 * Universidad Rey Juan Carlos (Spain)
 * Università di Bologna (Italy)
+* Universitat Autònoma de Barcelona (Spain)
 * Universitat de Barcelona (Spain)
 * Universitat de Girona (Spain)
 * Universitat Politècnica de Catalunya (Spain)
 * Universitat Pompeu Fabra Barcelona (Spain)
 * Universitat Ramon Llull (Spain)
+* Universitat Rovira i Virgili (Spain)
 * Universitat de Vic-Universitat Central de Catalunya (Spain)
+* Université de Lorraine (France)
 * Université de Reims Champagne-Ardenne (France)
 * Université de Strasbourg (France)
 * Université Grenoble Alpes (France)
@@ -99,6 +103,7 @@ Organizations performing, funding or evaluating research
 * Région Normandie (France)
 * Regione Emilia-Romagna (Italy)
 * Regione Toscana (Italy)
+* Taskforce for Applied Research SIA (Netherlands)
 * ZonMw (Netherlands)
 
 {{< rawhtml >}}
@@ -120,6 +125,7 @@ Organizations performing, funding or evaluating research
 * National Open Research Analytics, Technical University of Denmark (Denmark)
 * Sage Bionetworks (United States of America)
 * State Scientific and Technical Library of Ukraine (Ukraine)
+* SURF (Netherlands)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (United Kingdom)
 * West and Central African Research and Education Network - WACREN (International)
@@ -160,6 +166,7 @@ Organizations providing data, services and infrastructure
 * Latindex
 * Liberate Science GmbH
 * OAPEN Foundation
+* OA.Works
 * OpenAIRE
 * OpenCitations
 * Openventio Publishers
@@ -169,6 +176,7 @@ Organizations providing data, services and infrastructure
 * OurResearch
 * PLOS (Public Library of Science)
 * PREreview
+* protocols.io
 * Public Knowledge Project - PKP
 * Research Data Alliance - RDA
 * Research Data Alliance Association - RDA Europe 

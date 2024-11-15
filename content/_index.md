@@ -4,6 +4,27 @@ date = 2024-01-14T10:51:15+08:00
 comments = false
 +++
 
+# Latest updates
+{{< rawhtml >}}
+<hr class="small">
+</br>
+{{< /rawhtml >}}
+
+* Publication of the Paris Conference report - outlining the roadmap of collective actions - [read more](/conference_2024_paris).
+
+* Call for participation and coordination of working groups - [read more](/conference_2024_paris).
+
+* Announcing Workshop on Open Citations & Open Scholarly Metadata 2025 (WOOC 2025) May 28-29 in Bologna, Italy - [read more](/conference_2025_bologna).
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+# About the Declaration
+{{< rawhtml >}}
+<hr class="small">
+</br>
+{{< /rawhtml >}}
+
 The research information landscape requires fundamental change. The signatories of the Barcelona Declaration on Open Research Information commit to taking a lead in transforming the way [research information]({{< ref "definitions.md#research-information" >}} "/definitions/research-information") is used and produced. Openness of information about the conduct and communication of research must be the new norm.
 
 Open research information enables science policy decisions to be made based on transparent evidence and inclusive data. It enables information used in research evaluations to be accessible and auditable by those being assessed. And it enables the global movement toward open science to be supported by information that is fully open and transparent.
@@ -15,7 +36,6 @@ To this end, we, as organizations that carry out, fund and evaluate research, co
 {{< /rawhtml >}}
 
 # Commitments
-
 {{< rawhtml >}}
 <hr class="small">
 </br></br>

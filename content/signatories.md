@@ -27,7 +27,7 @@ Organizations performing, funding or evaluating research
 * Coimbra Group (international)
 * CREAF - Centre de Recerca Ecològica i Aplicacions Forestals (Spain)
 * Delft University of Technology (Netherlands)
-* European Organization for Nuclear Research (CERN)
+* European Organization for Nuclear Research - CERN (Switzerland)
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)
 * Hugo Grotius GmbH (Germany)

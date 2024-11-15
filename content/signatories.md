@@ -66,7 +66,7 @@ Organizations performing, funding or evaluating research
 * Université Le Havre Normandie (France)
 * Université Paris Saclay (France)
 * Universities of the Netherlands - UNL (Netherlands)
-* University of Bristol (UK)
+* University of Bristol (United Kingdom)
 * University of Coimbra (Portugal)
 * University of Göttingen (Germany)
 * University of Groningen (Netherlands)
@@ -89,7 +89,7 @@ Organizations performing, funding or evaluating research
 {{< /rawhtml >}}
 **Research funding organizations and governments**
 * Austrian Science Fund - FWF (Austria)
-* Bill & Melinda Gates Foundation (US)
+* Bill & Melinda Gates Foundation (United States of America)
 * Catalan Foundation for Research and Innovation - FCRI (Spain)
 * Dutch Research Council - NWO (Netherlands)
 * French National Research Agency - ANR (France)
@@ -118,10 +118,10 @@ Organizations performing, funding or evaluating research
 * Leibniz Institute for Psychology - ZPID (Germany)
 * LIBER (international)
 * National Open Research Analytics, Technical University of Denmark (Denmark)
-* Sage Bionetworks (US)
+* Sage Bionetworks (United States of America)
 * State Scientific and Technical Library of Ukraine (Ukraine)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
-* UK Reproducibility Network - UKRN (UK)
+* UK Reproducibility Network - UKRN (United Kingdom)
 * West and Central African Research and Education Network - WACREN (International)
 
 {{< rawhtml >}}

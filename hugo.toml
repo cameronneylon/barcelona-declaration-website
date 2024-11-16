@@ -63,19 +63,38 @@ enableRobotsTXT = true
 [[menu.main]]
     name = "Translations"
     url = "translations/"
-    weight = 4    
+    weight = 4  
+    
+[[menu.main]]
+    identifier = "conference"  
+    name = "Conference"
+    url = "conference_parent/"
+    weight = 5 
+    
+[[menu.main]]
+    name = "Paris Conference (Sept 2024)"
+    url = "conference_2024_paris/"
+    parent = "conference"
+    weight = 1 
+    
+[[menu.main]]
+    name = "Bologna - WOOC 2025 (May 2025)"
+    url = "conference_2025_bologna/"
+    parent = "conference"
+    weight = 2 
+
 
 [[menu.main]]
     name = "Media"
     url = "media/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "About"
     url = "about/"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     name = "Resources"
     url = "resources/"
-    weight = 7
+    weight = 8

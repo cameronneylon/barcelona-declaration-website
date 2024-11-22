@@ -70,6 +70,7 @@ Organizations performing, funding or evaluating research
 * Université Grenoble Alpes (France)
 * Université Le Havre Normandie (France)
 * Université Paris Saclay (France)
+* Université Toulouse 3 Paul Sabatier (France)
 * Universities of the Netherlands - UNL (Netherlands)
 * University of Bristol (United Kingdom)
 * University of Coimbra (Portugal)

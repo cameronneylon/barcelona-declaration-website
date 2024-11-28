@@ -59,6 +59,7 @@ Organizations performing, funding or evaluating research
 * Universitat Autònoma de Barcelona (Spain)
 * Universitat de Barcelona (Spain)
 * Universitat de Girona (Spain)
+* Universitat Internacional de Catalunya (Spain)
 * Universitat Politècnica de Catalunya (Spain)
 * Universitat Pompeu Fabra Barcelona (Spain)
 * Universitat Ramon Llull (Spain)

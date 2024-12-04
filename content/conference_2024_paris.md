@@ -63,7 +63,10 @@ The [conference report](https://doi.org/10.5281/zenodo.14054244) describing the 
 
 If your organization is interested in participating in one or more working groups, or, as a signatory organization, in coordinating one of the working groups, please fill out [this form](https://tinyurl.com/Barcelona-Declaration-WGs) by November 30. 
 
-We aim to set up a meeting with potential working group coordinators in December 2024, and have working groups populated and starting active work in early 2025.
+Update: We have received over 100 expression of interest for working groups - it is great to see the involvement of the community on the topic of open research information! 
+
+We aim to set up a meeting with potential working group coordinators, and have working groups populated and starting active work in early 2025.
+
 
 {{< rawhtml >}}
 </br>

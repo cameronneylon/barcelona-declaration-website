@@ -131,7 +131,7 @@ Organizations performing, funding or evaluating research
 * SURF (Netherlands)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (United Kingdom)
-* West and Central African Research and Education Network - WACREN (International)
+* West and Central African Research and Education Network - WACREN (international)
 
 {{< rawhtml >}}
 <br>

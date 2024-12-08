@@ -40,6 +40,7 @@ Organizations performing, funding or evaluating research
 * Leibniz Association (Germany)
 * Leiden University (Netherlands)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
+* Museu de Ciències Naturals de Barcelona (Spain)
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Pattern Institute (Portugal)
 * Sorbonne Université (France)

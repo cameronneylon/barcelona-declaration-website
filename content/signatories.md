@@ -43,6 +43,7 @@ Organizations performing, funding or evaluating research
 * Museu de Ciències Naturals de Barcelona (Spain)
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Pattern Institute (Portugal)
+* Scholarly Communications Lab (Canada)
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)
 * Stockholm University (Sweden)

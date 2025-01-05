@@ -44,6 +44,7 @@ Organizations performing, funding or evaluating research
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Pattern Institute (Portugal)
 * Scholarly Communications Lab (Canada)
+* Simon Fraser University (Canada)
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)
 * Stockholm University (Sweden)

@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 [author]
     mastodon = "mastodon.social/@BarcelonaDORI"
-    twitter = "BarcelonaDORI"
+    bluesky = "barcelonadori.bsky.social"
     linkedin = "barcelona-declaration/"
 
 [Params]

@@ -10,11 +10,10 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* Publication of the Paris Conference report - outlining the roadmap of collective actions - [read more](/conference_2024_paris).
+* Call for participation and contributions to the 5th Workshop on Open Citations & Open Scholarly Metadata (Bologna, 28-29 May 2025) is now open - [read more](/conference_2025_bologna)
 
 * Call for participation and coordination of working groups - [read more](/conference_2024_paris).
 
-* Announcing Workshop on Open Citations & Open Scholarly Metadata 2025 (WOOC 2025) May 28-29 in Bologna, Italy - [read more](/conference_2025_bologna).
 
 {{< rawhtml >}}
 </br>

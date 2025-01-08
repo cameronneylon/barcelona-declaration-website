@@ -2,7 +2,7 @@
 id = "bluesky"
 url = "https://bsky.app/profile/%s"
 title = "BlueSky"
-icon = "fab fa-mastodon"
+icon = "fab fa-bluesky"
 
 [[social_icons]]
 id = "mastodon"

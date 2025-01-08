@@ -39,6 +39,21 @@ The second day will be dedicated to **invited contributions, presentations and a
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
+## Call for participation and contributions is now open
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
+
+We invite you to submit a long abstract (1250-1500 words) coherent with the theme of Open Access of Research information. The abstract will be peer-reviewed and, if selected, will be published as a conference paper with a dedicated DOI under the WOOC-2025 community on Zenodo. The organizing committee will decide if the selected submissions will involve either a talk of 15-minute duration, with a 5-minute discussion following, or a poster presentation accompanied by a 2-3 minute pitch talk, presented on May 29th. If you do not wish to submit a contribution, you can apply for participation only. 
+
+Application deadline (for participation and contributions): 13 January 2025
+
+More information and a link to the application form: https://workshop-oc.github.io/#cfp
+
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
 ## Organizing committee
 {{< rawhtml >}}
 <hr class="small">

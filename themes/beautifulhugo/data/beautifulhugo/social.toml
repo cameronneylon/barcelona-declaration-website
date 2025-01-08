@@ -1,4 +1,10 @@
 [[social_icons]]
+id = "bluesky"
+url = "https://bsky.app/profile/%s"
+title = "BlueSky"
+icon = "fab fa-mastodon"
+
+[[social_icons]]
 id = "mastodon"
 url = "https://%s"
 title = "Mastodon"

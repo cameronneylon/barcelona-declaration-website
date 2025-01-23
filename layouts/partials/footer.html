@@ -41,11 +41,11 @@
           {{ end }}
         </ul>
         <p class="credits copyright text-muted">
-          {{ if .Site.Author.name }}
-            {{ if .Site.Author.website }}
-              <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
+          {{ if.Site.Params.Author.name }}
+            {{ if.Site.Params.Author.website }}
+              <a href="{{.Site.Params.Author.website }}">{{.Site.Params.Author.name }}</a>
             {{ else }}
-              {{ .Site.Author.name }}
+              {{.Site.Params.Author.name }}
             {{ end }}
           {{ end }}
 

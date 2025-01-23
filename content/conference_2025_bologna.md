@@ -11,7 +11,9 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-The Workshop on Open Citations & Open Scholarly Metadata 2025 (WOOC 2025) will take place on May 28-29, 2025 at the University of Bologna, Italy.
+On May 28-29 2025 the Barcelona Declaration is co-organizing the 5th Workshop on Open Citations and Open Scholarly Metadata (WOOC2025) together with the University of Bologna and OpenCitations. 
+
+Registration fees for this meeting can be covered for signatory and supporting organizations of the Barcelona Declaration. 
 
 Full information on the workshop is available at https://workshop-oc.github.io/.
 
@@ -24,16 +26,13 @@ Full information on the workshop is available at https://workshop-oc.github.io/.
 <hr class="small">
 {{< /rawhtml >}}
 
-We invite to the Workshop Citations and Open Scholarly Metadata (WOOC) researchers, scholarly publishers, funders, policy makers, institutions, and open citations advocates, interested in the widespread adoption of practises for creation, sharing, reuse and improvement of open scholarly metadata.
+The first day of the meeting will be dedicated to the **Bologna Meeting on Open Research Information**. It aims to encourage discussion between the signatories and supporters of the Barcelona Declaration and other interested participants. 
 
-This year edition of the workshop will gravitate around the following theme:  
-***"Open Access of Research Information"***
+The second day of the meeting will be dedicated to *invited contributions, presentations and a poster session** on the topic of open scholarly metadata (comparable to previous editions of WOOC).
 
-In particular, the first day will be dedicated to the **Bologna Meeting on Open Research Information**, to encourage discussion between the signatories and supporters of the Barcelona Declaration and other interested bodies and collaboratively orient the common roadmap, thus allowing the articulation of the outcomes that have recently been discussed during the [Paris Conference on Open Research Information](/conference_2024_paris).
+The day dedicated to the Barcelona Declaration will have a workshop-like character and will be focused on the [actions in the roadmap](https://doi.org/10.5281/zenodo.14054244) that were collectively put together during the [Paris Conference on Open Research Information](/conference_2024_paris). It will also be an opportunity for the working groups that are currently being set up to present their plans and discuss these with other participants.
 
-The second day will be dedicated to **invited contributions, presentations and a poster session** selected among the participants in the call for contributions on the workshop theme.
-
-**Participation to both days of WOOC 2025 is open to everyone**. In particular OpenCitations and the WOOC organizing committee aim to welcome the signatories and supporters of the Barcelona Declaration, and anyone interested in Open Research Information in an interactive event that aspires to encourage the incubation of ideas to strategically orienting the development of practices in open research information.
+Participation in both days of WOOC2025 is open to everyone. The aim is to welcome the signatories and supporters of the Barcelona Declaration, and anyone interested in open research information, in an interactive event that aspires to encourage the incubation of ideas to strategically orient the development of open research information practices.
 
 
 {{< rawhtml >}}
@@ -44,28 +43,26 @@ The second day will be dedicated to **invited contributions, presentations and a
 <hr class="small">
 {{< /rawhtml >}}
 
-We invite you to submit a long abstract (1250-1500 words) coherent with the theme of Open Access of Research information. The abstract will be peer-reviewed and, if selected, will be published as a conference paper with a dedicated DOI under the WOOC-2025 community on Zenodo. The organizing committee will decide if the selected submissions will involve either a talk of 15-minute duration, with a 5-minute discussion following, or a poster presentation accompanied by a 2-3 minute pitch talk, presented on May 29th. If you do not wish to submit a contribution, you can apply for participation only. 
+Registration for the meeting (as well as the call for submissions of a contribution for day 2)  is open until **January 31, 2025**, using this form. 
 
-Application deadline (for participation and contributions): 13 January 2025
-
-More information and a link to the application form: https://workshop-oc.github.io/#cfp
+There is a maximum of 100 participants - in case of oversubscription, the organizers will evaluate applications and select attendees from among those who have applied. 
 
 
-{{< rawhtml >}}
-</br>
 {{< /rawhtml >}}
-## Organizing committee
+## Important notice
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
 
-* Silvio Peroni, OpenCitations | University of Bologna
-* Chiara Di Giambattista, OpenCitations | University of Bologna
-* Claudio Fabbri, OpenCitations | University of Bologna
-* Ivan Heibi, OpenCitations | University of Bologna
-* Ludo Waltman, Centre for Science and Technology Studies (CWTS), Leiden University
-* Bianca Kramer, Sesame Open Science
-* Cameron Neylon, COKI | Centre for Culture and Technology, Curtin University
+The registration fee for accepted participants will be approximately €200, covering both days of the event. This fee includes venue costs, coffee breaks and lunches, and the conference dinner on Day 1. 
+
+For Barcelona Declaration signatory and supporting organizations, the registration fee can be covered by the Barcelona Declaration for a maximum of 2 participants per organization. 
+
+If you want your registration fee to be covered by the Barcelona Declaration, please indicate so on the registration form. If you have already registered, registration fees can similarly be covered - we will contact you automatically when decisions on acceptance have been made. 
+
+We are also exploring options for remote participation on Day 1, and will share information about this at a later stage.
+
+
 
 {{< rawhtml >}}
 </br>

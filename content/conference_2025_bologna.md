@@ -73,3 +73,19 @@ We are also exploring options for remote participation on Day 1, and will share 
 {{< /rawhtml >}}
 
 Full information on the workshop is available at https://workshop-oc.github.io/.
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+## Organizing committee
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
+
+* Silvio Peroni, OpenCitations | University of Bologna
+* Chiara Di Giambattista, OpenCitations | University of Bologna
+* Claudio Fabbri, OpenCitations | University of Bologna
+* Ivan Heibi, OpenCitations | University of Bologna
+* Ludo Waltman, Centre for Science and Technology Studies (CWTS), Leiden University
+* Bianca Kramer, Sesame Open Science
+* Cameron Neylon, COKI | Centre for Culture and Technology, Curtin University

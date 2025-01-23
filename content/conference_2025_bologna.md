@@ -57,7 +57,7 @@ There is a maximum of 100 participants - in case of oversubscription, the organi
 
 The registration fee for accepted participants will be approximately €200, covering both days of the event. This fee includes venue costs, coffee breaks and lunches, and the conference dinner on Day 1. 
 
-For Barcelona Declaration signatory and supporting organizations, the registration fee can be covered by the Barcelona Declaration for a maximum of 2 participants per organization. 
+**For Barcelona Declaration signatory and supporting organizations, the registration fee can be covered by the Barcelona Declaration for a maximum of 2 participants per organization.** 
 
 If you want your registration fee to be covered by the Barcelona Declaration, please indicate so on the registration form. If you have already registered, registration fees can similarly be covered - we will contact you automatically when decisions on acceptance have been made. 
 

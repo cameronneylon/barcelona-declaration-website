@@ -97,4 +97,6 @@
   {{- end -}}
 
 {{- partial "head_custom.html" . }}
-
+{{- if not .Site.IsServer -}}
+  {{ template "_internal/google_analytics.html" . }}
+{{- end -}}

@@ -47,7 +47,8 @@ Registration for the meeting (as well as the call for submissions of a contribut
 
 There is a maximum of 100 participants - in case of oversubscription, the organizers will evaluate applications and select attendees from among those who have applied. 
 
-
+{{< rawhtml >}}
+</br>
 {{< /rawhtml >}}
 ## Important notice
 {{< rawhtml >}}

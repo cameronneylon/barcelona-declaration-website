@@ -43,7 +43,7 @@ Participation in both days of WOOC2025 is open to everyone. The aim is to welcom
 <hr class="small">
 {{< /rawhtml >}}
 
-Registration for the meeting (as well as the call for submissions of a contribution for day 2)  is open until **January 31, 2025**, using this form. 
+Registration for the meeting (as well as the call for submissions of a contribution for day 2)  is open until **January 31, 2025**, using [this form](https://forms.gle/Z7J36XSdPa9tkSop7). 
 
 There is a maximum of 100 participants - in case of oversubscription, the organizers will evaluate applications and select attendees from among those who have applied. 
 

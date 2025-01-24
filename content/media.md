@@ -58,6 +58,7 @@ Media coverage of the Declaration.
 * [Symplectic’s Support of the Barcelona Declaration on Open Research Information](https://www.symplectic.co.uk/symplectic-elements-support-of-the-barcelona-declaration-on-open-research-information/)
 * [Exploring Research Assessment and Open Infrastructures](https://graspos.eu/exploring-research-assessment-and-open-infrastructures-reflections)
 * [Shaping the Future of Open Research Information - Reflections from the National Open Science Festival](https://www.leidenmadtrics.nl/articles/shaping-the-future-of-open-research-information-reflections-from-the-national-open-science-festival)
+* [What Does the Barcelona Declaration on Open Research Information Mean for Research Libraries?](https://katinamagazine.org/content/article/open-knowledge/2025/qa-barceolna-declaration-on-open-research-information)
 
 ### Posts and releases from signatories
 

@@ -10,9 +10,9 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* Call for participation and contributions to the 5th Workshop on Open Citations & Open Scholarly Metadata (Bologna, 28-29 May 2025) is now open - [read more](/conference_2025_bologna/#call-for-participation-and-contributions-is-now-open)
+* Registration fees WOOC2025 (Bologna, May 28-29) can be covered for signatory and supporting organizations of the Barcelona Declaration.  - [read more](/conference_2025_bologna/)
 
-* Call for participation and coordination of working groups - [read more](/conference_2024_paris).
+* Interview on the Barcelona Declaration in Katina Magazine - [read more](https://katinamagazine.org/content/article/open-knowledge/2025/qa-barceolna-declaration-on-open-research-information).
 
 
 {{< rawhtml >}}

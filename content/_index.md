@@ -10,11 +10,10 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* Publication of the Paris Conference report - outlining the roadmap of collective actions - [read more](/conference_2024_paris).
+* Registration fees WOOC2025 (Bologna, May 28-29) can be covered for signatory and supporting organizations of the Barcelona Declaration.  - [read more](/conference_2025_bologna/)
 
-* Call for participation and coordination of working groups - [read more](/conference_2024_paris).
+* Interview on the Barcelona Declaration in Katina Magazine - [read more](https://katinamagazine.org/content/article/open-knowledge/2025/qa-barceolna-declaration-on-open-research-information).
 
-* Announcing Workshop on Open Citations & Open Scholarly Metadata 2025 (WOOC 2025) May 28-29 in Bologna, Italy - [read more](/conference_2025_bologna).
 
 {{< rawhtml >}}
 </br>

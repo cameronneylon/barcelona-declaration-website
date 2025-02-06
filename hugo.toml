@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 [author]
     mastodon = "mastodon.social/@BarcelonaDORI"
-    twitter = "BarcelonaDORI"
+    bluesky = "barcelonadori.bsky.social"
     linkedin = "barcelona-declaration/"
 
 [Params]
@@ -54,6 +54,12 @@ enableRobotsTXT = true
     url = "infographic/"
     parent = "declaration"
     weight = 5
+    
+[[menu.main]]
+    name = "Translations"
+    url = "translations/"
+    parent = "declaration"
+    weight = 5
 
 [[menu.main]]
     name = "Signatories"
@@ -61,8 +67,8 @@ enableRobotsTXT = true
     weight = 3
 
 [[menu.main]]
-    name = "Translations"
-    url = "translations/"
+    name = "Road map"
+    url = "roadmap/"
     weight = 4  
     
 [[menu.main]]

@@ -33,6 +33,7 @@ Organizations performing, funding or evaluating research
 * Hugo Grotius GmbH (Germany)
 * Ibn Tofaïl University (Morocco)
 * I-CERCA - Centres de Recerca de Catalunya (Spain)
+* Information Society Development Institute - IDSI (Republic of Moldova)
 * Institut Català d'Arqueologia Clàssica - ICAC-CERCA (Spain)
 * Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
 * Izmir Institute of Technology (Turkey)
@@ -40,8 +41,11 @@ Organizations performing, funding or evaluating research
 * Leibniz Association (Germany)
 * Leiden University (Netherlands)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
+* Museu de Ciències Naturals de Barcelona (Spain)
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Pattern Institute (Portugal)
+* Scholarly Communications Lab (Canada)
+* Simon Fraser University (Canada)
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)
 * Stockholm University (Sweden)
@@ -59,6 +63,7 @@ Organizations performing, funding or evaluating research
 * Universitat Autònoma de Barcelona (Spain)
 * Universitat de Barcelona (Spain)
 * Universitat de Girona (Spain)
+* Universitat Internacional de Catalunya (Spain)
 * Universitat Politècnica de Catalunya (Spain)
 * Universitat Pompeu Fabra Barcelona (Spain)
 * Universitat Ramon Llull (Spain)
@@ -70,6 +75,7 @@ Organizations performing, funding or evaluating research
 * Université Grenoble Alpes (France)
 * Université Le Havre Normandie (France)
 * Université Paris Saclay (France)
+* Université Toulouse 3 Paul Sabatier (France)
 * Universities of the Netherlands - UNL (Netherlands)
 * University of Bristol (United Kingdom)
 * University of Coimbra (Portugal)
@@ -129,7 +135,7 @@ Organizations performing, funding or evaluating research
 * SURF (Netherlands)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (United Kingdom)
-* West and Central African Research and Education Network - WACREN (International)
+* West and Central African Research and Education Network - WACREN (international)
 
 {{< rawhtml >}}
 <br>
@@ -166,6 +172,7 @@ Organizations providing data, services and infrastructure
 * Knowledge E
 * Latindex
 * Liberate Science GmbH
+* MoreBrains Cooperative
 * OAPEN Foundation
 * OA.Works
 * OpenAIRE

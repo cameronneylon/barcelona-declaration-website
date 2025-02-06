@@ -67,8 +67,8 @@ enableRobotsTXT = true
     weight = 3
 
 [[menu.main]]
-    name = "Translations"
-    url = "translations/"
+    name = "Road map"
+    url = "roadmap/"
     weight = 4  
     
 [[menu.main]]

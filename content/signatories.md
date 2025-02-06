@@ -172,6 +172,7 @@ Organizations providing data, services and infrastructure
 * Knowledge E
 * Latindex
 * Liberate Science GmbH
+* Matilda
 * MoreBrains Cooperative
 * OAPEN Foundation
 * OA.Works

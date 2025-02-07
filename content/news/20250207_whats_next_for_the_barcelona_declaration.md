@@ -67,14 +67,16 @@ For more information, please reach out to [contact@barcelona-declaration.org](ma
 
 We count on your continued involvement to bring about the transition to open research information! 
 
-
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
 
-Amélie Church, Sorbonne Université
-Bernardo Rondelli, SIRIS Foundation,
-Cameron Neylon, Curtin Open Knowledge Initiative (COKI), Curtin University
-Ginny Hendricks, Crossref
+Amélie Church, Sorbonne Université    
+Bernardo Rondelli, SIRIS Foundation   
+Cameron Neylon, Curtin Open Knowledge Initiative (COKI), Curtin University  
+Ginny Hendricks, Crossref  
 Ludo Waltman, Centre for Science and Technology Studies (CWTS), Leiden University
 

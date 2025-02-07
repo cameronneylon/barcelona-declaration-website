@@ -73,7 +73,7 @@ enableRobotsTXT = true
     
 [[menu.main]]
     identifier = "conference"  
-    name = "Conference"
+    name = "Conferences"
     url = "conference_parent/"
     weight = 5 
     

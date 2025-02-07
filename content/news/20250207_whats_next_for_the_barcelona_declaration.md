@@ -9,6 +9,12 @@ comments = false
 
 +++
 
+February 7, 2025
+
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
+
 After the successful launch of the Barcelona Declaration in April 2024, over 100 research performing and funding organizations from 26 countries have already signed the Declaration, and close to 50 data, service and infrastructure providers have formally expressed their support for the Declaration.
 
 In September 2024, signatories and supporters came together at the Paris Conference on Open Research Information, where they jointly designed a [road map with collective actions](https://barcelona-declaration.org/roadmap/) to bring about the transition to open research information. 

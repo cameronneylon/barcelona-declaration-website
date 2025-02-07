@@ -1,7 +1,7 @@
 +++
 title = 'What’s next for the Barcelona Declaration on Open Research Information?'
 date = 2025-02-07T10:51:15+08:00
-excerpt: The key to success in the goals of the Barcelona Declaration will be in effectively and efficiently coordinating collective actions and dissemination and outreach activities to expand the reach and impact of the Declaration. To do this in a well-organized and transparent way requires setting up support structures and governance mechanisms, and securing the necessary resources to support these activities. We are excited to share a number of important updates on these issues. 
+excerpt: The key to success in the goals of the Barcelona Declaration
 comments = false
 
 +++

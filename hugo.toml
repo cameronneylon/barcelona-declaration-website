@@ -73,7 +73,7 @@ enableRobotsTXT = true
     
 [[menu.main]]
     identifier = "conference"  
-    name = "Conference"
+    name = "Conferences"
     url = "conference_parent/"
     weight = 5 
     
@@ -89,10 +89,9 @@ enableRobotsTXT = true
     parent = "conference"
     weight = 2 
 
-
 [[menu.main]]
-    name = "Media"
-    url = "media/"
+    name = "News"
+    url = "news/"
     weight = 6
 
 [[menu.main]]
@@ -101,6 +100,19 @@ enableRobotsTXT = true
     weight = 7
 
 [[menu.main]]
+    identifier = "resources"  
     name = "Resources"
     url = "resources/"
     weight = 8
+
+[[menu.main]]
+    name = "Images"
+    url = "resources/"
+    parent = "resources"
+    weight = 1
+
+[[menu.main]]
+    name = "Media coverage"
+    url = "media/"
+    parent = "resources"
+    weight = 2

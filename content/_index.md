@@ -10,7 +10,7 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* Next steps in progressing the work of the Declaration: Executive Director, admin and funding support, and more!.  - [read more](/news/20250207_whats_next_for_the_barcelona_declaration/)
+* Next steps in progressing the work of the Declaration: Bianca Kramer appointed as Executive Director, admin and funding support secured  - [read more](/news/20250207_whats_next_for_the_barcelona_declaration/)
 
 * Interview on the Barcelona Declaration in Katina Magazine - [read more](https://katinamagazine.org/content/article/open-knowledge/2025/qa-barceolna-declaration-on-open-research-information).
 

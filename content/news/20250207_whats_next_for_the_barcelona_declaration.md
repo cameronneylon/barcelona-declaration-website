@@ -69,7 +69,6 @@ We count on your continued involvement to bring about the transition to open res
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
-## More information
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}

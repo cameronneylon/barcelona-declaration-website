@@ -10,7 +10,7 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-Social media and image resources for signatories and supporters are linked from this page.
+Image resources for signatories and supporters are linked from this page.
 
 ### Commitments
 

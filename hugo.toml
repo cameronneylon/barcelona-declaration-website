@@ -95,16 +95,24 @@ enableRobotsTXT = true
     weight = 6
 
 [[menu.main]]
-    name = "Media"
-    url = "media/"
+    name = "About"
+    url = "about/"
     weight = 7
 
 [[menu.main]]
-    name = "About"
-    url = "about/"
+    identifier = "resources"  
+    name = "Resources"
+    url = "resources/"
     weight = 8
 
 [[menu.main]]
-    name = "Resources"
+    name = "Images"
     url = "resources/"
-    weight = 9
+    parent = "resources"
+    weight = 1
+
+[[menu.main]]
+    name = "Media coverage"
+    url = "media/"
+    parent = "resources"
+    weight = 2

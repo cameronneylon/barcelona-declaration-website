@@ -5,7 +5,7 @@ comments = false
 
 +++
 
-# Resources
+# Social media and image resources
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}

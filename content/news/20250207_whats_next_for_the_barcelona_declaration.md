@@ -67,7 +67,6 @@ For more information, please reach out to [contact@barcelona-declaration.org](ma
 We count on your continued involvement to bring about the transition to open research information! 
 
 
-{{< /rawhtml >}}
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}

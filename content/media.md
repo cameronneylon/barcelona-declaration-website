@@ -100,6 +100,7 @@ Media coverage of the Declaration.
 * [Barcelona Declaration – OPERAS Announcement](https://operas.hypotheses.org/7243)
 * [Érudit - Barcelona Declaration Signing](https://apropos.erudit.org/barcelona-declaration/?lang=en) - in English, [en Français](https://apropos.erudit.org/declaration-barcelone/)
 * [Supporting the Barcelona Declaration - Coalition Publica (Érudit and PKP)](https://www.coalition-publi.ca/news-nouvelles/2024/8/5/barcelona-declaration) - in English, [en Français](https://www.coalition-publi.ca/news-nouvelles/2024/8/5/barcelona-declaration#:~:text=En%20signant)
+* [ORCID endorses the Barcelona Declaration](https://info.orcid.org/orcid-endorses-the-barcelona-declaration/)
 
 If we missed any media coverage, posts or commentary regarding the Barcelona Declaration, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
 

@@ -182,6 +182,7 @@ Organizations providing data, services and infrastructure
 * Open Book Collective
 * Open Research Knowledge Graph - ORKG
 * OPERAS
+* ORCID
 * OurResearch
 * Peer Community In - PCI
 * PLOS (Public Library of Science)

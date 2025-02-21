@@ -36,6 +36,7 @@ Organizations performing, funding or evaluating research
 * Information Society Development Institute - IDSI (Republic of Moldova)
 * Institut Català d'Arqueologia Clàssica - ICAC-CERCA (Spain)
 * Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
+* Instituto Interuniversitario de Investigación Avanzada sobre Evaluación de la Ciencia y la Universidad - INAECU (Spain)
 * Izmir Institute of Technology (Turkey)
 * Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
 * Leibniz Association (Germany)

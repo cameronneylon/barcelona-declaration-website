@@ -118,7 +118,7 @@ This role entails working across multiple time zones to provide support and coor
 
 **Remuneration and terms:** The Community Manager will be hired on a contract basis with a monthly compensation of €3900, depending on level of experience, location, and applicable local laws. We anticipate the role will need the equivalent of up to 32 hours per week. The arrangement is likely to be on a freelance/contracting basis, with an annual agreement renewed each year for three years and with specific arrangements, such as holidays, to depend on the laws of the candidate’s country. 
 
-Hiring and remuneration will be managed by Crossref as organization supporting the administration of the Barcelona Declaration Office.
+Hiring and remuneration will be managed by Crossref as an organization supporting the administration of the Barcelona Declaration Office.
 
 {{< rawhtml >}}
 </br>

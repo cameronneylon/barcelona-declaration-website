@@ -1,6 +1,6 @@
 +++
 title = 'Barcelona Declaration on Open Research Information'
-date = 2025-02-26T16:00:00+01:00
+date = 2025-02-27
 comments = false
 
 +++

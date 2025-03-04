@@ -41,6 +41,7 @@ Organizations performing, funding or evaluating research
 * Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
 * Leibniz Association (Germany)
 * Leiden University (Netherlands)
+* Loughborough University (United Kingdom)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
 * Museu de Ciències Naturals de Barcelona (Spain)
 * Otto-Friedrich-Universität Bamberg (Germany)

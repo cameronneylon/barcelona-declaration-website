@@ -132,3 +132,5 @@ Interested candidates should [apply online here](https://100hires.com/j/Dy6zRdy/
 
 The deadline for application is Thursday, March 20 2025, 23:59 AOE.
 
+
+*Please note: if you experience an error in the application form that prevents you from uploading your cover letter, you may also send your complete application (CV, cover letter and the answers to the questions on the application page) to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).* 

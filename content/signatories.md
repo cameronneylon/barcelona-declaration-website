@@ -51,6 +51,7 @@ Organizations performing, funding or evaluating research
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)
 * Stockholm University (Sweden)
+* The Netherlands Association of Universities of Applied Sciences - Vereniging Hogescholen (Netherlands)
 * Udice - French Research Universities (France)
 * UniLaSalle (France)
 * Universidad Autónoma Metropolitana (Mexico)

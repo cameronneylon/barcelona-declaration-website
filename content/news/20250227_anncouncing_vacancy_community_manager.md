@@ -29,4 +29,6 @@ The position is fully remote. Depending on the candidate’s level of experience
 For a full job description and application details see:  
 [Vacancy - Community Manager for the Barcelona Declaration](/vacancy_community_manager).  
 
-Deadline for application is Thursday, March 20 2025, 23:59 AOE
+The deadline for application has been extended to **Thursday, March 27 2025**, 23:59 AOE.
+
+*Please note: to encourage applications from a range of candidates that is as diverse as possible, the deadline for application has been extended to March 27, 2025.*

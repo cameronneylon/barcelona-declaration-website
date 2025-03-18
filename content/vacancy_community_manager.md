@@ -130,7 +130,6 @@ Hiring and remuneration will be managed by Crossref as an organization supportin
 
 Interested candidates should [apply online here](https://100hires.com/j/Dy6zRdy/apply) by submitting their CV and a cover letter outlining their suitability for the role. If you have any clarifying questions, please feel free to reach out to us via [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
 
-The deadline for application is Thursday, March 20 2025, 23:59 AOE.
+The deadline for application has been extended to **Thursday, March 27 2025**, 23:59 AOE.
 
-
-*Please note: if you experience an error in the application form that prevents you from uploading your cover letter, you may also send your complete application (CV, cover letter and the answers to the questions on the application page) to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).* 
+*Please note: to encourage applications from a range of candidates that is as diverse as possible, the deadline for application has been extended to March 27, 2025.*

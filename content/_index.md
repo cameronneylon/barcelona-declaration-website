@@ -13,7 +13,7 @@ comments = false
 * German signatories of the Barcelona Declaration present at Bibliothekskongress 2025 - [read more](/news/20250324_german_signatories_present_at_bibliothekskongress_2025/)
 
 
-* [**Deadline extended to March 27!**] We're hiring! Vacancy for a Community Manager for the Barcelona Declaration - [read more](/news/20250227_anncouncing_vacancy_community_manager/)
+* [**Deadline extended to March 27**] We're hiring! Vacancy for a Community Manager for the Barcelona Declaration - [read more](/news/20250227_anncouncing_vacancy_community_manager/)
 
 
 

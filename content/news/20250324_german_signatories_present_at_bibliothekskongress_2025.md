@@ -1,6 +1,6 @@
 +++
 title = "German signatories of the Barcelona Declaration present at Bibliothekskongress 2025"
-date = 2025-02-27
+date = 2025-03-24
 summary = 'Are you interested in discussing the role of libraries in the Barcelona Declaration? The German signatories look forward to meeting you in Bremen at the largest library convention in Germany.'
 comments = false
 aliases = ["/20250324_german_signatories_present_at_bibliothekskongress_2025"]

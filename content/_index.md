@@ -10,9 +10,10 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* We're hiring! Vacancy for a Community Manager for the Barcelona Declaration - [read more](/news/20250227_anncouncing_vacancy_community_manager/)
+* German signatories of the Barcelona Declaration present at Bibliothekskongress 2025 - [read more](/news/20250324_german_signatories_present_at_bibliothekskongress_2025/)
 
-* Next steps in progressing the work of the Declaration: Bianca Kramer appointed as Executive Director, admin and funding support secured  - [read more](/news/20250207_whats_next_for_the_barcelona_declaration/)
+
+* [**Deadline extended to March 27!**] We're hiring! Vacancy for a Community Manager for the Barcelona Declaration - [read more](/news/20250227_anncouncing_vacancy_community_manager/)
 
 
 

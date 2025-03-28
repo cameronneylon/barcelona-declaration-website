@@ -11,6 +11,8 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+**March 28, 2025: The application period has now closed.**
+
 This role offers a unique opportunity to contribute to the successful realization of the Barcelona Declaration’s vision by fostering collaboration, driving progress, and ensuring effective implementation of its road map.
 
 **Reporting to**: Executive Director of the Barcelona Declaration
@@ -128,8 +130,8 @@ Hiring and remuneration will be managed by Crossref as an organization supportin
 <hr class="small">
 {{< /rawhtml >}}
 
-Interested candidates should [apply online here](https://100hires.com/j/Dy6zRdy/apply) by submitting their CV and a cover letter outlining their suitability for the role. If you have any clarifying questions, please feel free to reach out to us via [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).
+**March 28, 2025:** 
 
-The deadline for application has been extended to **Thursday, March 27 2025**, 23:59 AOE.
-
-*Please note: to encourage applications from a range of candidates that is as diverse as possible, the deadline for application has been extended to March 27, 2025.*
+**The application period has now closed.**. 
+  
+We thank all applicants for their interest. Applicants will be contacted with more information about the next steps.

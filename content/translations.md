@@ -28,9 +28,10 @@ The official text of the Barcelona Declaration is in {{< download "/downloads/Ba
 * {{< download "/downloads/barcelonadeclaration_українська_мова.pdf" "українська мова" >}}
 * {{< download "/downloads/barcelonadeclaration_russian.pdf" "русский" >}}
 
-Coming soon:
+Expected:
 * Arabic
 * Irish
+* Japanese
 * Portuguese
 * Romanian
 * Slovak

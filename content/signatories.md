@@ -23,6 +23,7 @@ Organizations performing, funding or evaluating research
 **Universities and other research performing organizations**
 * Aix-Marseille Université (France)
 * Athena Research Center (Greece)
+* CaixaResearch Institute (Spain)
 * Charles University (Czech Republic)
 * Coimbra Group (international)
 * CREAF - Centre de Recerca Ecològica i Aplicacions Forestals (Spain)
@@ -109,6 +110,7 @@ Organizations performing, funding or evaluating research
 * French National Research Agency - ANR (France)
 * French Open Science Committee (France)
 * Fundació Internacional Josep Carreras (Spain)
+* Fundación "la Caixa" (Spain)
 * Fundación MenteClara Internacional (Argentina)
 * Région Normandie (France)
 * Regione Emilia-Romagna (Italy)

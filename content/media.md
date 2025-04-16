@@ -91,6 +91,7 @@ Media coverage of the Declaration.
 * [Ibict participa da Paris Conference on Open Research Information](https://www.gov.br/ibict/pt-br/central-de-conteudos/noticias/2024/setembro/ibict-participa-da-paris-conference-on-open-research-information)
 * [University of Göttingen supports the opening of research information](https://www.sub.uni-goettingen.de/en/news/details/the-georg-august-universitaet-goettingen-supports-the-opening-of-research-information/)
 * [LIBER Signs the Barcelona Declaration](https://libereurope.eu/article/liber-signs-the-barcelona-declaration/)
+* [Open research information is key to building a more transparent, inclusive, and impactful research ecosystem - why CaixaResearch Institute joined the Barcelona Declaration](https://www.linkedin.com/posts/caixaresearchinstitute_caixaresearchinstitute-fairdata-biomedicalresearch-activity-7315718401736294400-ivXq/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAVAE4UBLjYoJ9lqJ1LhIKIUAlpbPskXd7o)
 
 ### Posts and releases from supporters
 

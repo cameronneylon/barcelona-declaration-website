@@ -10,6 +10,9 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* One year ago, on April 16, 2024, the Barcelona Declaration on Open Research Information was launched. In this post, we want to highlight some of the developments during this past year - [read more](/news//20250416_barcelona_declaration_one_year_highlights"]
+/)
+
 * German signatories of the Barcelona Declaration present at Bibliothekskongress 2025 - [read more](/news/20250324_german_signatories_present_at_bibliothekskongress_2025/)
 
 

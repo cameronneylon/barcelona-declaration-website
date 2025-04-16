@@ -41,6 +41,7 @@ April 16, 2025
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
+
 One year ago, on April 16, 2024, the Barcelona Declaration on Open Research Information was launched. In this post, we want to highlight some of the developments during this past year, as the topic of open research information has gained attention and awareness, and a growing number of organizations are coming together to make the transition to open research information a reality.
 
 {{< rawhtml >}}

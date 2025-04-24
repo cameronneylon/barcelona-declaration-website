@@ -24,6 +24,7 @@ Organizations performing, funding or evaluating research
 * Aix-Marseille Université (France)
 * Athena Research Center (Greece)
 * CaixaResearch Institute (Spain)
+* California Digital Library - CDL (United States of America)
 * Charles University (Czech Republic)
 * Coimbra Group (international)
 * CREAF - Centre de Recerca Ecològica i Aplicacions Forestals (Spain)

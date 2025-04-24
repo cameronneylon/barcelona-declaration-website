@@ -1,9 +1,9 @@
 +++
 title = "California Digital Library signs Barcelona Declaration"
 date = 2025-04-24
-summary = 'One year ago, on April 16, 2024, the Barcelona Declaration on Open Research Information was launched. In this post, we want to highlight a number developments during this past year.'
+summary = 'California Digital Library (CDL) represents the first research performing organization from the United States to sign the Barcelona Declaration.'
 comments = false
-aliases = ["/20250416_barcelona_declaration_one_year_highlights"]
+aliases = ["/20250424_cdl_signs_barcelona_declaration"]
 
 +++
 

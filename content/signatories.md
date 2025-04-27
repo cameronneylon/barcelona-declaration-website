@@ -207,6 +207,7 @@ Organizations providing data, services and infrastructure
 * Thoth Open Metadata
 * Ubiquity
 * VIVO
+* World Data System
 
 {{< rawhtml >}}
 

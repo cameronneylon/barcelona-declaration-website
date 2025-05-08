@@ -13,8 +13,6 @@ comments = false
 
 On May 28-29 2025 the Barcelona Declaration is co-organizing the 5th Workshop on Open Citations and Open Scholarly Metadata (WOOC2025) together with the University of Bologna and OpenCitations. 
 
-Registration fees for this meeting can be covered for signatory and supporting organizations of the Barcelona Declaration. 
-
 Full information on the workshop is available at https://workshop-oc.github.io/.
 
 
@@ -38,14 +36,89 @@ Participation in both days of WOOC2025 is open to everyone. The aim is to welcom
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
-## Call for participation and contributions is now open
+## Programme
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
 
-Registration for the meeting (as well as the call for submissions of a contribution for day 2)  is open until **January 31, 2025**, using [this form](https://forms.gle/Z7J36XSdPa9tkSop7). 
+### DAY 1 | WEDNESDAY, MAY 28
+Bologna Meeting on Open Research Information   
+Venue: Room C, plesso Belmeloro
 
-There is a maximum of 100 participants - in case of oversubscription, the organizers will evaluate applications and select attendees from among those who have applied. 
+{{< rawhtml >}}
+                  <table>
+                    <tr>
+                    <td>9:30</td>
+                    <td>Registration</td></tr>
+                    <tr>
+                    <td>10:00</td>
+                    <td> Official welcome by Unibo - Raffaella Campaner, Vice Rector for International Relations<br>Welcome, housekeeping</td>
+                    </tr>
+                    <tr>
+                    <td>10:15</td>
+                    <td>Barcelona Declaration: Introduction & Where are we now</td>
+                    </tr>
+                    <tr>
+                    <td>10:45</td>
+                    <td>Short presentations by signatories (to be announced)</td>
+                    </tr>
+                    <tr><td >11:15</td>
+                    <td>Coffee break</td>
+                    </tr>
+                    <tr>
+                    <td >11:45</td>
+                    <td>Introduction working groups & break-out sessions</td>
+                    <tr>
+                    <tr>
+                    <td >12:00</td>
+                    <td>1st breakout session (3 working groups)</td>
+                    </tr>
+                    <tr >
+                    <td class="p-time">13:00</td>
+                    <td>Lunch break</td></tr>
+                    <tr>
+                    <td >14:30</td>
+                    <td>Reporting 1st breakout sessions</td>
+                    </tr>
+                    <tr><td ">15:00</td><td>2nd breakout session (3 working groups)</td></tr>
+                    <tr ><td >16:00</td><td>Coffee break</td></tr>
+                    <tr><td >16:30</td><td>Reporting 2nd breakout sessions</td></tr>
+                    <tr><td >17:00</td><td>Next steps for the Barcelona Declaration</td></tr>
+                  </table>
+              
+{{< /rawhtml >}}
+  
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}  
+### DAY 2 | THURSDAY, MAY 28
+Venue: Aula Prodi, Department of History, Cultures and Civilization  
+<font size="-1">
+*The detailed programme for this day (with all speakers and presentation titles) is available at https://workshop-oc.github.io/*
+</font>
+{{< rawhtml >}}
+
+                  <table>
+                    <tr><td>09:00</td><td>Welcome from the Organizing Committee</td></tr>
+                    <tr><td >09:15</td><td>Report from Bologna Meeting on Open Research Information</td></tr>
+                    <tr><td >09:45</td><td>[Invited talk] Katherine Skinner (IOI)</td></tr>
+                    <tr><td >10:15</td><td>Short Talk Session 1</td></tr>
+
+                    <tr ><td>11:15</td><td>Coffee break</td></tr>
+                    <tr><td>11:45</td><td>Short Talk Session 2</td></tr>
+
+                    <tr><td >12:30</td><td>2-min Pitch Poster Session</td></tr>
+
+                    <tr><td>13:00</td><td>Lunch Break</td></tr>
+                    <tr><td >14:30</td><td>Talk by OpenCitations</td></tr>
+                    <tr><td >15:00</td><td>Short Talk Session 3</td></tr>
+                    <tr ><td>16:00</td><td>Coffee break</td></tr>
+                    <tr><td >16:30</td><td>[Invited Talk] Arianna Becerril-García (Redalyc|AmeliCA)</td></tr>
+                    <tr><td >17:00</td><td>Short Talk Session 4</td></tr>
+                    <tr><td>18:00</td><td>Closing session</td></tr>
+                    
+              </table>
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
 </br>
@@ -55,13 +128,11 @@ There is a maximum of 100 participants - in case of oversubscription, the organi
 <hr class="small">
 {{< /rawhtml >}}
 
-The registration fee for accepted participants will be approximately €200, covering both days of the event. This fee includes venue costs, coffee breaks and lunches, and the conference dinner on Day 1. 
+Registration for the meeting is closed - there is a maximum of 100 participants.  
+We will be offering an option for remote participation on Day 1, and will share information about this shortly.
 
-**For Barcelona Declaration signatory and supporting organizations, the registration fee can be covered by the Barcelona Declaration for a maximum of 2 participants per organization.** 
 
-If you want your registration fee to be covered by the Barcelona Declaration, please indicate so on the registration form. If you have already registered, registration fees can similarly be covered - we will contact you automatically when decisions on acceptance have been made. 
-
-We are also exploring options for remote participation on Day 1, and will share information about this at a later stage.
+**For participants representing Barcelona Declaration signatory and supporting organizations, registration fees can be covered by the Barcelona Declaration for a maximum of 2 participants per organization.** 
 
 
 

@@ -10,9 +10,9 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* California Digital Library (CDL) represents the first research performing organization from the United States to sign the Barcelona Declaration - [read more](/news/20250424_cdl_signs_barcelona_declaration/)
+* Online participation in the Bologna Meeting on Open Research Information (May 28) now available, register for free - [read more](/conference_2025_bologna/)
 
-* One year ago, on April 16, 2024, the Barcelona Declaration on Open Research Information was launched. In this post, we want to highlight some of the developments during this past year - [read more](/news//20250416_barcelona_declaration_one_year_highlights/)
+* Update on the Barcelona Declaration working groups - [read more](/working_groups/)
 
 
 {{< rawhtml >}}

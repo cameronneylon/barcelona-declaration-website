@@ -11,6 +11,10 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+*Online participation is available for free, please [register here](https://forms.gle/VjsucNEQCzg7tgK88) before May 25.*  
+    
+*Registration for attending the meeting on location is closed*
+
 On May 28-29 2025 the Barcelona Declaration is co-organizing the 5th Workshop on Open Citations and Open Scholarly Metadata (WOOC2025) together with the University of Bologna and OpenCitations. 
 
 Full information on the workshop is available at https://workshop-oc.github.io/.
@@ -140,12 +144,12 @@ Venue: Aula Prodi, Department of History, Cultures and Civilization
 <hr class="small">
 {{< /rawhtml >}}
 
-Registration for the meeting is closed - there is a maximum of 100 participants.  
-We will be offering an option for remote participation on Day 1, and will share information about this shortly.
 
+**Online participation is available for free, please [register here](https://forms.gle/VjsucNEQCzg7tgK88) before May 25.**
 
-**For participants representing Barcelona Declaration signatory and supporting organizations, registration fees can be covered by the Barcelona Declaration for a maximum of 2 participants per organization.** 
+Registration for attending the meeting in person is closed, with a maximum of 100 participants on location.  
 
+For participants representing Barcelona Declaration signatory and supporting organizations, registration fees for in person attendance was made available from the Barcelona Declaration for a maximum of 2 participants per organization.
 
 
 {{< rawhtml >}}

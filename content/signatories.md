@@ -65,6 +65,7 @@ Organizations performing, funding or evaluating research
 * Universidad Distrital Francisco José de Caldas (Colombia)
 * Universidade do Minho (Portugal)
 * Universidade Federal Fluminense (Brazil)
+* Universidade Lusófona (Portugal)
 * Universidad Rey Juan Carlos (Spain)
 * Università di Bologna (Italy)
 * Universitat Autònoma de Barcelona (Spain)

@@ -1,7 +1,7 @@
 +++
 title = "Announcing our community manager"
 date = 2025-05-19
-summary = 'California Digital Library (CDL) represents the first research performing organization from the United States to sign the Barcelona Declaration.'
+summary = 'We are excited to welcome Bárbara Rivera López as community manager for the Barcelona Declaration.'
 comments = false
 aliases = ["/20250519_announcing_our_community_manager"]
 

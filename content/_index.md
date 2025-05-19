@@ -10,6 +10,8 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* We are excited to welcome Bárbara Rivera López as community manager for the Barcelona Declaration. [read more](/news/20250519_announcing_our_community_manager)
+
 * Online participation in the Bologna Meeting on Open Research Information (May 28) now available, register for free - [read more](/conference_2025_bologna/)
 
 * Update on the Barcelona Declaration working groups - [read more](/working_groups/)

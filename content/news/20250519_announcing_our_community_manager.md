@@ -15,7 +15,7 @@ May 19, 2025
 
 We are excited to welcome **Bárbara Rivera López** as community manager for the Barcelona Declaration.  
   
-As commmunity manager, Bárbara will have a pivotal role in the implementation of the road map for the Declaration and in supporting the Barcelona Declaration working groups. She will also have an important role in communication, and she will be the day-to-day contact point for the Barcelona Declaration.
+As commmunity manager, Bárbara will have a pivotal role in the implementation of the [road map](/roadmap) for the Declaration and in supporting the Barcelona Declaration [working groups](/working_groups). She will also have an important role in communication, and she will be the day-to-day contact point for the Barcelona Declaration.
 
 {{< rawhtml >}}
 </br>

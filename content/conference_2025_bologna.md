@@ -68,15 +68,15 @@ Venue: Room C, plesso Belmeloro
                     </tr>
                     <tr>
                     <td></td>
-                    <td><em>John Chodacki, California Digital Library</em></td>
-                    </tr>
-                    <tr>
-                    <td></td>
-                    <td><em>Ana Ranitovic, Dutch signatories of the Barcelona Declaration</em></td>
-                    </tr>
-                    <tr>
-                    <td></td>
                     <td><em>Carla Carbonell Cortés, Fundación “la Caixa”</em></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                     <td><em>John Chodacki, California Digital Library</em></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                     <td><em>Ana Ranitovic, Dutch signatories of the Barcelona Declaration</em></td>
                     </tr>
                     <tr><td >11:15</td>
                     <td>Coffee break</td>

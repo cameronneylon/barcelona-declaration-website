@@ -149,7 +149,7 @@ Venue: Aula Prodi, Department of History, Cultures and Civilization
 
 Registration for attending the meeting in person is closed, with a maximum of 100 participants on location.  
 
-For participants representing Barcelona Declaration signatory and supporting organizations, registration fees for in person attendance was made available from the Barcelona Declaration for a maximum of 2 participants per organization.
+For participants representing Barcelona Declaration signatory and supporting organizations, coverage of the registration fee for in person attendance was made available from the Barcelona Declaration for a maximum of 2 participants per organization.
 
 
 {{< rawhtml >}}

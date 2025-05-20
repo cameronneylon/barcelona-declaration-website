@@ -93,6 +93,7 @@ Organizations performing, funding or evaluating research
 * University of Milan (Italy)
 * University of Poitiers (France)
 * University of Ss. Cyril and Methodius in Trnava (Slovakia)
+* University of Tetova (North Macedonia)
 * University of the Azores (Portugal)
 * University of the Balearic Islands (Spain)
 * University of Turku (Finland)

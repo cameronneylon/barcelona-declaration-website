@@ -89,6 +89,18 @@ Venue: Room C, plesso Belmeloro
                     <td >12:00</td>
                     <td>1st breakout session (3 working groups)</td>
                     </tr>
+                    <tr>
+                    <td></td>
+                    <td><em>Working group 3 - Funding metadata </em></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                     <td><em>Working group 4 - Replacing closed systems</em></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                     <td><em>Working group 6 - Evaluating open data sources</em></td>
+                    </tr>
                     <tr >
                     <td class="p-time">13:00</td>
                     <td>Lunch break</td></tr>
@@ -97,6 +109,19 @@ Venue: Room C, plesso Belmeloro
                     <td>Reporting 1st breakout sessions</td>
                     </tr>
                     <tr><td ">15:00</td><td>2nd breakout session (3 working groups)</td></tr>
+                     <tr>
+                    <td></td>
+                    <td><em>Working group 1 - Journal article metadata and book metadata </em></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                     <td><em>Working group 2 - Metadata on research outputs in IRs, preprint and data repositories
+</em></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                     <td><em>Working group 7 - Evidence of benefits</em></td>
+                    </tr>
                     <tr ><td >16:00</td><td>Coffee break</td></tr>
                     <tr><td >16:30</td><td>Reporting 2nd breakout sessions</td></tr>
                     <tr><td >17:00</td><td>Next steps for the Barcelona Declaration</td></tr>

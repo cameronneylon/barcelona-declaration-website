@@ -124,7 +124,8 @@ Venue: Plesso Belmeloro, Via Beniamino Andreatta, 8, Room C.
                     </tr>
                     <tr ><td >16:00</td><td>Coffee break</td></tr>
                     <tr><td >16:30</td><td>Reporting 2nd breakout sessions</td></tr>
-                    <tr><td >17:00</td><td>Next steps for the Barcelona Declaration</td></tr>
+                    <tr><td >17:15</td><td>Next steps for the Barcelona Declaration</td></tr>
+                    <tr><td >18:00</td><td>End of Day 1</td></tr>
                   </table>
               
 {{< /rawhtml >}}

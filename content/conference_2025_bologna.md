@@ -108,7 +108,7 @@ Venue: Plesso Belmeloro, Via Beniamino Andreatta, 8, Room C.
                     <td >14:30</td>
                     <td>Reporting 1st breakout sessions</td>
                     </tr>
-                    <tr><td ">15:00</td><td>2nd breakout session (3 working groups)</td></tr>
+                    <tr><td>15:00</td><td>2nd breakout session (3 working groups)</td></tr>
                      <tr>
                     <td></td>
                     <td><em>Working group 1 - Journal article metadata and book metadata </em></td>

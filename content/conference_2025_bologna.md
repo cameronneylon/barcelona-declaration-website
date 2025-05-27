@@ -47,7 +47,7 @@ Participation in both days of WOOC2025 is open to everyone. The aim is to welcom
 
 ### DAY 1 | WEDNESDAY, MAY 28
 Bologna Meeting on Open Research Information   
-Venue: Room C, plesso Belmeloro
+Venue: Plesso Belmeloro, Via Beniamino Andreatta, 8, Room C.
 
 {{< rawhtml >}}
                   <table>
@@ -133,7 +133,7 @@ Venue: Room C, plesso Belmeloro
 </br>
 {{< /rawhtml >}}  
 ### DAY 2 | THURSDAY, MAY 28
-Venue: Aula Prodi, Department of History, Cultures and Civilization  
+Venue: Aula Prodi, Department of History, Cultures and Civilization, Piazza S. Giovanni in Monte 2  
 <font size="-1">
 *The detailed programme for this day (with all speakers and presentation titles) is available at https://workshop-oc.github.io/*
 </font>

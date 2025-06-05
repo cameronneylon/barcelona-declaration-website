@@ -134,6 +134,7 @@ Organizations performing, funding or evaluating research
 * EOSC Association (international)
 * Federation of Finnish Learned Societies  - TSV (Finland)
 * FIZ Karlsruhe - Leibniz Institute for Information Infrastructure (Germany)
+* Fundación Openlab Ecuador (Ecuador)  
 * GO FAIR Brazil Health (Brazil)
 * Good Clinical Practice Alliance - GCPA (international)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)

@@ -59,6 +59,7 @@ Media coverage of the Declaration.
 * [Exploring Research Assessment and Open Infrastructures](https://graspos.eu/exploring-research-assessment-and-open-infrastructures-reflections)
 * [Shaping the Future of Open Research Information - Reflections from the National Open Science Festival](https://www.leidenmadtrics.nl/articles/shaping-the-future-of-open-research-information-reflections-from-the-national-open-science-festival)
 * [What Does the Barcelona Declaration on Open Research Information Mean for Research Libraries?](https://katinamagazine.org/content/article/open-knowledge/2025/qa-barceolna-declaration-on-open-research-information)
+* [Report: Reclaiming academic ownership of the scholarly communication system - European Universities Association](https://www.eua.eu/publications/briefings/reclaiming-academic-ownership-of-the-scholarly-communication-system.html)
 
 ### Posts and releases from signatories
 

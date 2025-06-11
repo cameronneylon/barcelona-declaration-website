@@ -142,6 +142,7 @@ Organizations performing, funding or evaluating research
 * Leibniz Institute for Psychology - ZPID (Germany)
 * LIBER (international)
 * National Open Research Analytics, Technical University of Denmark (Denmark)
+* Open Knowledge Maps (international)
 * Sage Bionetworks (United States of America)
 * State Scientific and Technical Library of Ukraine (Ukraine)
 * SURF (Netherlands)

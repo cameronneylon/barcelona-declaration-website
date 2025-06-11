@@ -48,7 +48,7 @@ The focus of this working group is on improving the availability of funding meta
 
 This working group focuses on pathways for the adoption of open research information systems. This requires coordination of action, for instance with regard to canceling subscriptions to closed infrastructures. Capacity building and training is a further need to support a transition away from existing systems and expertises, which is often challenging in an institutional context. Actions of this working group include developing and distributing a survey to make an inventory of user stories and organizing access to required training to support the active use of open research information.
 
-**Working group 5 - Sustainability of infrastructures**  
+**Working group 5 - Sustaining infrastructures**  
 *Coordinator(s): to be finalized*
 
 Sustaining infrastructures over time is a long standing concern, with the need to bridge the interests of those expected to pay and those who need resourcing. There is substantial value seen in gathering a broader range of information on what resourcing is currently being deployed and to encourage signatories to commit to support in the medium to longer term. We want to think carefully about how this working group can have the most added value alongside other initiatives in this space, and are also looking for strong university leadership to make this happen.

@@ -11,9 +11,7 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-*Online participation is available for free, please [register here](https://forms.gle/VjsucNEQCzg7tgK88) before May 25.*  
-    
-*Registration for attending the meeting on location is closed*
+*Registration for attending the meeting on location / online is closed*
 
 On May 28-29 2025 the Barcelona Declaration is co-organizing the 5th Workshop on Open Citations and Open Scholarly Metadata (WOOC2025) together with the University of Bologna and OpenCitations. 
 
@@ -47,7 +45,7 @@ Participation in both days of WOOC2025 is open to everyone. The aim is to welcom
 
 ### DAY 1 | WEDNESDAY, MAY 28
 Bologna Meeting on Open Research Information   
-Venue: Room C, plesso Belmeloro
+Venue: Plesso Belmeloro, Via Beniamino Andreatta, 8, Room C.
 
 {{< rawhtml >}}
                   <table>
@@ -68,15 +66,15 @@ Venue: Room C, plesso Belmeloro
                     </tr>
                     <tr>
                     <td></td>
-                    <td><em>John Chodacki, California Digital Library</em></td>
-                    </tr>
-                    <tr>
-                    <td></td>
-                    <td><em>Ana Ranitovic, Dutch signatories of the Barcelona Declaration</em></td>
-                    </tr>
-                    <tr>
-                    <td></td>
                     <td><em>Carla Carbonell Cortés, Fundación “la Caixa”</em></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                     <td><em>John Chodacki, California Digital Library</em></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                     <td><em>Ana Ranitovic, Dutch signatories of the Barcelona Declaration</em></td>
                     </tr>
                     <tr><td >11:15</td>
                     <td>Coffee break</td>
@@ -89,6 +87,18 @@ Venue: Room C, plesso Belmeloro
                     <td >12:00</td>
                     <td>1st breakout session (3 working groups)</td>
                     </tr>
+                    <tr>
+                    <td></td>
+                    <td><em>Working group 3 - Funding metadata </em></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                     <td><em>Working group 4 - Replacing closed systems</em></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                     <td><em>Working group 6 - Evaluating open data sources</em></td>
+                    </tr>
                     <tr >
                     <td class="p-time">13:00</td>
                     <td>Lunch break</td></tr>
@@ -96,10 +106,24 @@ Venue: Room C, plesso Belmeloro
                     <td >14:30</td>
                     <td>Reporting 1st breakout sessions</td>
                     </tr>
-                    <tr><td ">15:00</td><td>2nd breakout session (3 working groups)</td></tr>
+                    <tr><td>15:00</td><td>2nd breakout session (3 working groups)</td></tr>
+                     <tr>
+                    <td></td>
+                    <td><em>Working group 1 - Journal article metadata and book metadata </em></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                     <td><em>Working group 2 - Metadata on research outputs in IRs, preprint and data repositories
+</em></td>
+                    </tr>
+                    <tr>
+                    <td></td>
+                     <td><em>Working group 7 - Evidence of benefits</em></td>
+                    </tr>
                     <tr ><td >16:00</td><td>Coffee break</td></tr>
                     <tr><td >16:30</td><td>Reporting 2nd breakout sessions</td></tr>
-                    <tr><td >17:00</td><td>Next steps for the Barcelona Declaration</td></tr>
+                    <tr><td >17:15</td><td>Next steps for the Barcelona Declaration</td></tr>
+                    <tr><td >18:00</td><td>End of Day 1</td></tr>
                   </table>
               
 {{< /rawhtml >}}
@@ -108,7 +132,7 @@ Venue: Room C, plesso Belmeloro
 </br>
 {{< /rawhtml >}}  
 ### DAY 2 | THURSDAY, MAY 28
-Venue: Aula Prodi, Department of History, Cultures and Civilization  
+Venue: Aula Prodi, Department of History, Cultures and Civilization, Piazza S. Giovanni in Monte 2  
 <font size="-1">
 *The detailed programme for this day (with all speakers and presentation titles) is available at https://workshop-oc.github.io/*
 </font>
@@ -149,7 +173,7 @@ Venue: Aula Prodi, Department of History, Cultures and Civilization
 
 Registration for attending the meeting in person is closed, with a maximum of 100 participants on location.  
 
-For participants representing Barcelona Declaration signatory and supporting organizations, registration fees for in person attendance was made available from the Barcelona Declaration for a maximum of 2 participants per organization.
+For participants representing Barcelona Declaration signatory and supporting organizations, coverage of the registration fee for in person attendance was made available from the Barcelona Declaration for a maximum of 2 participants per organization.
 
 
 {{< rawhtml >}}

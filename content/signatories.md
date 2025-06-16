@@ -146,6 +146,7 @@ Organizations performing, funding or evaluating research
 * Sage Bionetworks (United States of America)
 * State Scientific and Technical Library of Ukraine (Ukraine)
 * SURF (Netherlands)
+* Swiss Reproducibility Network - SwissRN (Switzerland)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (United Kingdom)
 * West and Central African Research and Education Network - WACREN (international)

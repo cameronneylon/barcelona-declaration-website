@@ -63,6 +63,7 @@ Organizations performing, funding or evaluating research
 * Universidad de Cádiz (Spain)
 * Universidad de Granada (Spain)
 * Universidad Distrital Francisco José de Caldas (Colombia)
+* Universidad Pablo de Olavide (Spain)
 * Universidade do Minho (Portugal)
 * Universidade Federal Fluminense (Brazil)
 * Universidade Lusófona (Portugal)

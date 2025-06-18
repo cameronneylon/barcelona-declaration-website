@@ -53,7 +53,7 @@ This working group focuses on pathways for the adoption of open research informa
 
 Sustaining infrastructures over time is a long standing concern, with the need to bridge the interests of those expected to pay and those who need resourcing. There is substantial value seen in gathering a broader range of information on what resourcing is currently being deployed and to encourage signatories to commit to support in the medium to longer term. We want to think carefully about how this working group can have the most added value alongside other initiatives in this space, and are also looking for strong university leadership to make this happen.
 
-**Working group 6 - Evaluating open data sources**  
+**Working group 6 - Evaluating open research information sources**  
 *Coordinator: Stefano Bolelli Gallevi (Università degli Studi di Milano)*
 
 This working group focuses on the quality and completeness of open research information sources, e.g. by developing and implementing monitoring frameworks and considering requirements and standards for the quality and completeness of (meta)data. Planned actions include identifying open research information sources, developing a set of criteria and supporting projects for their adoption and evaluation, and implementing evaluation tools and methods in a monitoring framework.

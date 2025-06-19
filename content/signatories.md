@@ -57,6 +57,7 @@ Organizations performing, funding or evaluating research
 * Stockholm University (Sweden)
 * The Netherlands Association of Universities of Applied Sciences - Vereniging Hogescholen (Netherlands)
 * Udice - French Research Universities (France)
+* UiT - The Artic University of Norway (Norway)
 * UniLaSalle (France)
 * Universidad Autónoma Metropolitana (Mexico)
 * Universidad de Antioquia (Colombia)

@@ -140,6 +140,7 @@ Organizations performing, funding or evaluating research
 * GO FAIR Brazil Health (Brazil)
 * Good Clinical Practice Alliance - GCPA (international)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
+* KB, National library of the Netherlands (Netherlands)
 * Latin American Council of Social Sciences - CLACSO (international)
 * Leibniz Institute for Psychology - ZPID (Germany)
 * LIBER (international)

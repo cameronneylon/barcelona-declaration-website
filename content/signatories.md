@@ -51,7 +51,7 @@ Organizations performing, funding or evaluating research
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Pattern Institute (Portugal)
 * Scholarly Communications Lab (Canada)
-* Scuola Normale Superiore -SNS (Italy)
+* Scuola Normale Superiore - SNS (Italy)
 * Simon Fraser University (Canada)
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)

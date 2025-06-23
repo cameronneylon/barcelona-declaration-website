@@ -51,12 +51,14 @@ Organizations performing, funding or evaluating research
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Pattern Institute (Portugal)
 * Scholarly Communications Lab (Canada)
+* Scuola Normale Superiore - SNS (Italy)
 * Simon Fraser University (Canada)
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)
 * Stockholm University (Sweden)
 * The Netherlands Association of Universities of Applied Sciences - Vereniging Hogescholen (Netherlands)
 * Udice - French Research Universities (France)
+* UiT - The Artic University of Norway (Norway)
 * UniLaSalle (France)
 * Universidad Autónoma Metropolitana (Mexico)
 * Universidad de Antioquia (Colombia)
@@ -139,11 +141,11 @@ Organizations performing, funding or evaluating research
 * GO FAIR Brazil Health (Brazil)
 * Good Clinical Practice Alliance - GCPA (international)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
+* KB, National library of the Netherlands (Netherlands)
 * Latin American Council of Social Sciences - CLACSO (international)
 * Leibniz Institute for Psychology - ZPID (Germany)
 * LIBER (international)
 * National Open Research Analytics, Technical University of Denmark (Denmark)
-* Open Knowledge Maps (international)
 * Sage Bionetworks (United States of America)
 * State Scientific and Technical Library of Ukraine (Ukraine)
 * SURF (Netherlands)
@@ -195,6 +197,7 @@ Organizations providing data, services and infrastructure
 * OpenCitations
 * Openventio Publishers
 * Open Book Collective
+* Open Knowledge Maps
 * Open Research Knowledge Graph - ORKG
 * OPERAS
 * ORCID

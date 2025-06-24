@@ -107,7 +107,7 @@ Contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-decla
 
 - Morning session recordings (coming soon on the Barcelona Declaration YouTube Channel)
 
-- [Meeting programme](conference_2025_bologna_programme) 
+- [Meeting programme](/conference_2025_bologna_programme) 
 
 
 

@@ -5,7 +5,7 @@ comments = false
 
 +++
 
-# Bologna Meeting on Open Research Information - Meeting Programme
+# Bologna Meeting on Open Research Information - Programme
 {{< rawhtml >}}
 <hr class="small">
 </br>

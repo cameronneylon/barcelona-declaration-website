@@ -11,7 +11,7 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-The Bologna Meeting on Open Research Information took place on May 28th, 2025 at the University of Bologna, Bologna, Italy in the context of the [5th Workshop on Open Citations and Open Scholarly Metadata (WOOC2025)](https://workshop-oc.github.io/).
+The Bologna Meeting on Open Research Information took place on May 28th, 2025 at the University of Bologna, Italy in the context of the [5th Workshop on Open Citations and Open Scholarly Metadata (WOOC2025)](https://workshop-oc.github.io/).
 
 {{< rawhtml >}}
 </br>
@@ -21,7 +21,7 @@ The Bologna Meeting on Open Research Information took place on May 28th, 2025 at
 <hr class="small">
 {{< /rawhtml >}}
 
-In May 2025, nearly 200 participants from 35 countries, including signatories, supporters, and other interested stakeholders of the Barcelona Declaration, gathered both online and in the room at the University of Bologna, Italy. The meeting was an opportunity to reflect on progress and share concrete steps being taken to implement the [road map](/roadmap) developed at the [Paris Conference on Open Research Information](/conference_2024_paris) in September 2024.  
+In May 2025, nearly 200 participants from 35 countries, including signatories, supporters, and other interested participants of the Barcelona Declaration, gathered both online and in the room at the University of Bologna, Italy. The meeting was an opportunity to reflect on progress and share concrete steps being taken to implement the [road map](/roadmap) developed at the [Paris Conference on Open Research Information](/conference_2024_paris) in September 2024.  
 
 Through interactive sessions and breakout discussions, signatories, supporters, and other interested participants engaged with the ongoing work of the Declaration. The program featured presentations from institutions already putting the Declaration into practice: funders, universities, and infrastructure providers, illustrating its broad relevance and adaptability. The Barcelona Declaration working groups also hosted collaborative workshops, offering a transparent view into current priorities and inviting feedback from the wider community. By opening up the “kitchen” of the Barcelona Declaration, the meeting reinforced its commitment to collective progress through openness and dialogue.
 

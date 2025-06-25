@@ -27,7 +27,8 @@ The Barcelona Declaration on Open Research Information was prepared by a group o
   <li>Amélie Church (Sorbonne Université)</li>
   <li>Bernardo Rondelli (SIRIS Foundation)</li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
+
 <h4>Coordination Team</h4>
 <p>
 Executive Director: Bianca Kramer<br>

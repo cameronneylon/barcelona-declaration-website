@@ -18,7 +18,8 @@ The Barcelona Declaration on Open Research Information was prepared by a group o
 </p>
 <p>
 <h3>Organization and Support</h3>
-<p></p>
+<p>
+</p>
 <h4>Steering Group</h4>
 <ul>
   <li>Cameron Neylon (Curtin Open Knowledge Initiative)</li>

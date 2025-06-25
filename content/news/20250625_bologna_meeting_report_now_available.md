@@ -44,6 +44,7 @@ We hope this report provides a valuable glimpse into the evolving work of the Ba
 <hr class="small">
 {{< /rawhtml >}}
 
-Read the full report on Zenodo: https://doi.org/10.5281/zenodo.15730917  
+Read the full report on Zenodo: https://doi.org/10.5281/zenodo.15730917 
+  
 Morning session recordings are coming soon on the new Barcelona Declaration YouTube Channel.
 

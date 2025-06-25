@@ -112,32 +112,10 @@ Bologna Meeting on Open Research Information
 </br>
 {{< /rawhtml >}}  
 ### DAY 2 | THURSDAY, MAY 29
-<font size="-1">
+
 *The detailed programme for this day (with all speakers and presentation titles) is available at the website of WOOC2025: https://workshop-oc.github.io/*
-</font>
-{{< rawhtml >}}
 
-                  <table>
-                    <tr><td>09:00</td><td>Welcome from the Organizing Committee</td></tr>
-                    <tr><td >09:15</td><td>Report from Bologna Meeting on Open Research Information</td></tr>
-                    <tr><td >09:45</td><td>[Invited talk] Katherine Skinner (IOI)</td></tr>
-                    <tr><td >10:15</td><td>Short Talk Session 1</td></tr>
 
-                    <tr ><td>11:15</td><td>Coffee break</td></tr>
-                    <tr><td>11:45</td><td>Short Talk Session 2</td></tr>
-
-                    <tr><td >12:30</td><td>2-min Pitch Poster Session</td></tr>
-
-                    <tr><td>13:00</td><td>Lunch Break</td></tr>
-                    <tr><td >14:30</td><td>Talk by OpenCitations</td></tr>
-                    <tr><td >15:00</td><td>Short Talk Session 3</td></tr>
-                    <tr ><td>16:00</td><td>Coffee break</td></tr>
-                    <tr><td >16:30</td><td>[Invited Talk] Arianna Becerril-García (Redalyc|AmeliCA)</td></tr>
-                    <tr><td >17:00</td><td>Short Talk Session 4</td></tr>
-                    <tr><td>18:00</td><td>Closing session</td></tr>
-                    
-              </table>
-{{< /rawhtml >}}
 
 
 {{< rawhtml >}}

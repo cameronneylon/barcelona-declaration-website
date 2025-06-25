@@ -12,6 +12,7 @@ comments = false
 
 {{< rawhtml >}}
 <div class="well about">
+<h3>Origins of the Barcelona Declaration</h3>
 <p>
 The Barcelona Declaration on Open Research Information was prepared by a group of over 25 research information experts, representing organizations that carry out, fund, and evaluate research, as well as organizations that provide research information infrastructures. The group met in Barcelona in November 2023 in a workshop hosted by SIRIS Foundation. The preparation of the Declaration was coordinated by Bianca Kramer (Sesame Open Science), Cameron Neylon (Curtin Open Knowledge Initiative, Curtin University), and Ludo Waltman (Centre for Science and Technology Studies, Leiden University). 
 </p>

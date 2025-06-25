@@ -85,7 +85,7 @@ The [Report on the Bologna Meeting on Open Research Information](https://doi.org
 
 Interested in contributing to the Barcelona Declaration? Join our growing community by:
 
-- Participating in a working group or taskforce
+- Participating in a working group
 
 - Sharing your institutional use case or implementation story
 

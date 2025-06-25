@@ -113,8 +113,8 @@ Bologna Meeting on Open Research Information
 {{< /rawhtml >}}  
 ### DAY 2 | THURSDAY, MAY 29
 
-*The detailed programme for this day (with all speakers and presentation titles) is available at the website of WOOC2025: https://workshop-oc.github.io/*
 
+*The detailed programme for this day (with all speakers and presentation titles) is available at the website of WOOC2025: https://workshop-oc.github.io/*
 
 
 

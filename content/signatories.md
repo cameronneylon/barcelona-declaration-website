@@ -124,6 +124,7 @@ Organizations performing, funding or evaluating research
 * Regione Emilia-Romagna (Italy)
 * Regione Toscana (Italy)
 * Taskforce for Applied Research SIA (Netherlands)
+* Wellcome Trust (United Kingdom)
 * ZonMw (Netherlands)
 
 {{< rawhtml >}}

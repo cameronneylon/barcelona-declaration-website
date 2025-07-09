@@ -10,11 +10,9 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* The Report of the Bologna Meeting on Open Research Information is now available [read more](/news/20250625_bologna_meeting_report_now_available)
-
-* We are excited to welcome Bárbara Rivera López as community manager for the Barcelona Declaration. [read more](/news/20250519_announcing_our_community_manager)
-
-* Update on the Barcelona Declaration working groups - [read more](/working_groups/)
+* A national workshop in Milan shows how distributed expertise and collaborative work can drive systemic change - [read more](/news/20250709_university_of_milan_workshop) 
+  
+* The Report of the Bologna Meeting on Open Research Information is now available - [read more](/news/20250625_bologna_meeting_report_now_available)
 
 
 {{< rawhtml >}}

@@ -35,7 +35,9 @@ The programme also featured in-depth presentations showcasing practical applicat
 {{< /rawhtml >}}
 
 Reflecting on the day’s discussions, **Paola Galimberti**, from the University of Milan -one of the signatories of the Barcelona Declaration- highlighted the importance of building on existing national capacity: 
-> *“What became clear was that in Italy we have distributed expertise and experience that could be shared in a scalable way without starting over each time. **Collaborative working is therefore the basis for moving forward on the road to open research information**.”* Her remarks resonated with the broader goals of the Declaration, pointing to the power of collaboration and local leadership in driving systemic change.
+> *“What became clear was that in Italy we have distributed expertise and experience that could be shared in a scalable way without starting over each time. **Collaborative working is therefore the basis for moving forward on the road to open research information**.”* 
+
+Her remarks resonated with the broader goals of the Declaration, pointing to the power of collaboration and local leadership in driving systemic change.
 
 Looking ahead, participants expressed interest in continuing the work sparked by the workshop on several fronts: deepening engagement with other Italian universities, initiating dialogue with national-level institutions, and exploring alignment with broader open science initiatives.
 

@@ -50,3 +50,4 @@ Looking ahead, participants expressed interest in continuing the work sparked by
 The Barcelona Declaration warmly congratulates the University of Milan, OpenAIRE and OpenCitations for hosting this successful initiative and extends its appreciation to all those involved in making it possible. **The workshop stands as a valuable reference for other institutions** looking to take practical steps toward advancing open research information.
 
 All presentations can be accessed here: https://openscience.unimi.it/informazioni-metadati-sulla-ricerca-la-scienza-aperta-deve-poter-contare-su-informazioni-aperte/
+

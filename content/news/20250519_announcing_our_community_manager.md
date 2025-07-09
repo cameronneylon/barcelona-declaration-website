@@ -27,16 +27,16 @@ As commmunity manager, Bárbara will have a pivotal role in the implementation o
 {{< rawhtml >}}
 <table border="0">
     <tr>
-        <td style="width:20%">
+        <td style="width:20%" border="0">
         </td>
-        <td style="width:60%">
+        <td style="width:60%" border="0">
             <a href="/images/barbara_rivera_lopez.jpg" target="_blank">
             <picture>
             <img src = "/images/barbara_rivera_lopez.jpg" alt = "A photo of Bárbara Rivera López, community manager for the Barcelona Declaration">
             </picture>
              </a>
         </td>
-        <td style="width:20%">
+        <td style="width:20%" border="0">
         </td>
     </tr>
 </table>

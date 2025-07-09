@@ -4,7 +4,6 @@ date = 2025-07-09
 summary = 'A national workshop in Milan shows how distributed expertise and collaborative work can drive systemic change.' 
 comments = false 
 aliases = ["/20250709_university_of_milan_workshop"]
-
 +++
 
 July 09, 2025

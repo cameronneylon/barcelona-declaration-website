@@ -36,8 +36,8 @@ In January 2025, CWTS, Crossref and SIRIS Foundation signed an <a href="https://
 <p></p>
 <h4>Coordination Team</h4>
 <p>
-Executive Director: Bianca Kramer<br>
-Community Manager: Bárbara Rivera López
+Executive Director: Bianca Kramer <a href="mailto:bianca.kramer@barcelona-declaration.org">(email)</a><br>
+Community Manager: Bárbara Rivera López <a href="mailto:barbara.rivera@barcelona-declaration.org">(email)</a>
 </p>
 </div>
 {{< /rawhtml >}}

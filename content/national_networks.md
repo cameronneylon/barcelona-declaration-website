@@ -37,7 +37,7 @@ Mailing list: https://www.listserv.dfn.de/sympa/info/dach-austausch-barcelona-de
 <br>
 {{< /rawhtml >}}
 
-### 1. Netherlands / Dutch Signatories of the Barcelona Declaration
+### 2. Netherlands / Dutch Signatories of the Barcelona Declaration
 
 
 Coordination among Dutch signatories of the Barcelona Declaration. More details to follow.

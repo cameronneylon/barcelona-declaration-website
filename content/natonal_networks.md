@@ -1,0 +1,53 @@
++++
+title = 'Barcelona Declaration on Open Research Information'
+date = 2025-07-22T10:51:15+08:00
+comments = false
+
++++
+
+# National networks
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
+
+As the Barcelona Declaration is being adopted by organisations around the world, some signatories have begun coordinating at the national level. These national networks serve as spaces for shared learning, joint implementation, and local adaptation of the Declaration’s commitments.
+
+If you are part of a national network aligned with the Barcelona Declaration and would like to be listed here, feel free to email us at contact@barcelona-declaration.org.
+
+Also, feel free to reach out to the contact persons of the national networks below to learn more about the activities of their network! 
+
+{{< rawhtml >}}
+<br>
+<hr class="small">
+{{< /rawhtml >}}
+
+## List of National Networks  
+{{< rawhtml >}}
+<br>
+{{< /rawhtml >}}
+
+### 1. Germany, Austria, and Switzerland / DACH-Austausch Barcelona Declaration
+  
+A network for dialogue and coordination around the Barcelona Declaration in the DACH region (Austria, Germany, and Switzerland). Open to representatives from signatory and supporter institutions — both current and prospective — the network provides a space to share practices and explore joint approaches.  
+  
+Contact: Marc Lange (Helmholtz Association) ([e-mail](mailto:marc.lange@os.helmholtz.de))  
+Mailing list: https://www.listserv.dfn.de/sympa/info/dach-austausch-barcelona-declaration
+
+{{< rawhtml >}}
+<br>
+{{< /rawhtml >}}
+
+### 1. Netherlands / Dutch Signatories of the Barcelona Declaration
+
+
+Coordination among Dutch signatories of the Barcelona Declaration. More details to follow.
+  
+Contact: Anna Ranitovic (University of Groningen) ([e-mail](a.ranitovic@rug.nl))
+
+{{< rawhtml >}}
+
+<button style="float:left" onclick="document.location='/infographic'">&larr; Infographic</button> 
+
+<button style="float:right" onclick="document.location='/translations'">Translations &rarr;</button> 
+
+{{< /rawhtml >}}

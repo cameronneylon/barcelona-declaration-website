@@ -42,7 +42,7 @@ Mailing list: https://www.listserv.dfn.de/sympa/info/dach-austausch-barcelona-de
 
 Coordination among Dutch signatories of the Barcelona Declaration. More details to follow.
   
-Contact: Anna Ranitovic (University of Groningen) ([e-mail](a.ranitovic@rug.nl))
+Contact: Ana Ranitovic (University of Groningen) ([e-mail](a.ranitovic@rug.nl))
 
 {{< rawhtml >}}
 

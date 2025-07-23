@@ -10,7 +10,7 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-As the Barcelona Declaration is being adopted by organisations around the world, some signatories have begun coordinating at the national level. These national networks serve as spaces for shared learning, joint implementation, and local adaptation of the Declaration’s commitments.
+As the Barcelona Declaration is being adopted by organizations around the world, some [signatories](/signatories) have begun coordinating at the national level. These national networks serve as spaces for shared learning, joint implementation, and local adaptation of the Declaration’s commitments.
 
 If you are part of a national network aligned with the Barcelona Declaration and would like to be listed here, feel free to email us at contact@barcelona-declaration.org.
 

@@ -30,7 +30,7 @@ Also, feel free to reach out to the contact persons of the national networks bel
   
 A network for dialogue and coordination around the Barcelona Declaration in the DACH region (Austria, Germany, and Switzerland). Open to representatives from signatory and supporter institutions — both current and prospective — the network provides a space to share practices and explore joint approaches.  
   
-Contact: Marc Lange (Helmholtz Open Science Office, Helmholtz Association) ([e-mail](mailto:marc.lange@os.helmholtz.de))  
+Contact: Marc Lange (Helmholtz Association, Helmholtz Open Science Office) ([e-mail](mailto:marc.lange@os.helmholtz.de))  
 Mailing list: https://www.listserv.dfn.de/sympa/info/dach-austausch-barcelona-declaration
 
 {{< rawhtml >}}

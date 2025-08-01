@@ -39,8 +39,7 @@ Mailing list: https://www.listserv.dfn.de/sympa/info/dach-austausch-barcelona-de
 
 ### 2. Netherlands / Dutch Signatories of the Barcelona Declaration
 
-
-Coordination among Dutch signatories of the Barcelona Declaration. More details to follow.
+Open to representatives from current and prospective signatory and supporter institutions in the Netherlands, the network provides a space to exchange experiences, align strategies, and explore opportunities for joint action. It brings together universities, research funders, infrastructure providers, and other key stakeholders committed to making research information openly available and responsibly used.
   
 Contact: Ana Ranitovic (University of Groningen) ([e-mail](a.ranitovic@rug.nl))
 

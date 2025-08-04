@@ -10,11 +10,11 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* We are excited to announce the launch of the Barcelona Declaration YouTube Channel - [read more](/news/20250729_yt_channel)
+* Wellcome becomes the first UK funder to sign the Barcelona Declaration - [read more](/news/20250804_wellcome_signs_bd)  
+
+* We are excited to announce the launch of the Barcelona Declaration YouTube Channel - [read more](/news/20250729_yt_channel)  
 
 * A national workshop in Milan shows how distributed expertise and collaborative work can drive systemic change - [read more](/news/20250709_university_of_milan_workshop) 
-  
-* The Report of the Bologna Meeting on Open Research Information is now available - [read more](/news/20250625_bologna_meeting_report_now_available)
 
 
 {{< rawhtml >}}

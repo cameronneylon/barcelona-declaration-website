@@ -17,7 +17,21 @@ On **30 June 2025**, Wellcome became the **first UK-based research funder** to s
 
 {{< rawhtml >}}
 </br>
-<hr class="small">
+<table border="0">
+    <tr>
+        <td style="width:15%" border="0">
+        </td>
+        <td style="width:70%" border="0">
+            <a href="/images/wellcome_bd_news.png" target="_blank">
+            <picture>
+            <img src = "/images/wellcome_bd_news.png" alt = "Graphic announcing that Wellcome has signed the Barcelona Declaration. Highlights include: openness as default, aligning policy with practice, and collaboration in Working Group 3. Includes logos of Wellcome and the Barcelona Declaration, with a link to read more.">
+            </picture>
+             </a>
+        </td>
+        <td style="width:15%" border="0">
+        </td>
+    </tr>
+</table>
 </br>
 {{< /rawhtml >}}
 
@@ -44,3 +58,5 @@ Across the Barcelona Declaration community, the importance of funder engagement 
 Wellcome’s example shows that this kind of alignment is already underway, and that funders can help lead the way.
 
 We warmly welcome Wellcome to the Barcelona Declaration community and hope this signature encourages other funding organizations to join our roadmap.
+
+

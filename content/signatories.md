@@ -25,6 +25,7 @@ Organizations performing, funding or evaluating research
 **Universities and other research performing organizations**
 * Aix-Marseille Université (France)
 * Athena Research Center (Greece)
+* Birkbeck, University of London (United Kingdom)
 * CaixaResearch Institute (Spain)
 * California Digital Library - CDL (United States of America)
 * Centre de Recerca Ecològica i Aplicacions Forestals - CREAF (Spain)

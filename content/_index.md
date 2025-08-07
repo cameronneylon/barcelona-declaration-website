@@ -10,11 +10,11 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* Introducing Barcelona Declaration National networks: community-led efforts at national or regional level to align strategies, support implementation, and amplify the impact of open research information practices - [read more](/national_networks)  
+
 * Wellcome becomes the first UK funder to sign the Barcelona Declaration - [read more](/news/20250804_wellcome_signs_bd)  
 
 * We are excited to announce the launch of the Barcelona Declaration YouTube Channel - [read more](/news/20250729_yt_channel)  
-
-* A national workshop in Milan shows how distributed expertise and collaborative work can drive systemic change - [read more](/news/20250709_university_of_milan_workshop) 
 
 
 {{< rawhtml >}}

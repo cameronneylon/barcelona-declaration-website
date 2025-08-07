@@ -62,9 +62,22 @@ enableRobotsTXT = true
     weight = 5
 
 [[menu.main]]
+    identifier = "community"
     name = "Signatories"
-    url = "signatories/"
+    url = "signatories_parent/"
     weight = 3
+
+[[menu.main]]
+    name = "Signatories and supporters"
+    url = "signatories/"
+    parent = "community"
+    weight = 1
+    
+[[menu.main]]
+    name = "National networks"
+    url = "national_networks/"
+    parent = "community"
+    weight = 2
 
 [[menu.main]]
     identifier = "roadmap"  

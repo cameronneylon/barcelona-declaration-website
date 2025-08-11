@@ -36,6 +36,7 @@ Expected:
 * Portuguese
 * Romanian
 * Swedish
+* Korean
 
 
 If you are interested in contributing a translation, please contact us at [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org).

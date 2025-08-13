@@ -101,6 +101,7 @@ Organizations performing, funding or evaluating research
 * University of the Azores (Portugal)
 * University of the Balearic Islands (Spain)
 * University of Turku (Finland)
+* University of Zurich (Switzerland)
 * University "St. Kliment Ohridski" (North Macedonia)
 * Utrecht University (Netherlands)
 * Vrije Universiteit Amsterdam (Netherlands)

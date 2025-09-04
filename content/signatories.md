@@ -50,6 +50,7 @@ Organizations performing, funding or evaluating research
 * Loughborough University (United Kingdom)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
 * Museu de Ciències Naturals de Barcelona (Spain)
+* Nantes Université (France) 
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Pattern Institute (Portugal)
 * Scholarly Communications Lab (Canada)

@@ -18,7 +18,8 @@ The Barcelona Declaration working groups were established to promote collective 
 
 Last year at the [Paris Conference on Open Research Information](/conference_2024_paris), signatories and supporters of the Barcelona Declaration came together to discuss areas where such collective action would be beneficial. This resulted in the [Roadmap on Open Research Information](/roadmap), which is included in full in the [conference report](https://doi.org/10.5281/zenodo.14054244). Following the conference, working groups were convened around each of the identified areas of interest. Working groups are coordinated by representatives of signatories of the Declaration. 
 
-Below we list the working groups that have been established. These working groups are currently in the process of developing a set of concrete actions and organizing their activities accordingly, in some cases in separate task forces.  All working groups will present themselves at the [Bologna Meeting on Open Research Information](/conference_2025_bologna/) on May 28th, where they will discuss their plans with the community. [Online participation](https://forms.gle/VjsucNEQCzg7tgK88) in the meeting is possible if you’d like to hear more! 
+Below we list the working groups that have been established. These working groups are currently in the process of developing a set of concrete actions and organizing their activities accordingly, in some cases in separate task forces.  All working groups presented themselves at the [Bologna Meeting on Open Research Information](/conference_2025_bologna/) in May 2025, where they discussed their plans with the community. See the [Report on the Bologna Meeting on Open Research Information](https://doi.org/10.5281/zenodo.15730917) for more details! 
+
 
 {{< rawhtml >}}
 </br>
@@ -31,7 +32,7 @@ Below we list the working groups that have been established. These working group
 **Working group 1 - Journal article metadata and book metadata**  
 *Coordinators: Ludo Waltman (Leiden University), Judith Naidorf, Mariangela Napoli (Consejo Latinoamericano de Ciencias Sociales - CLACSO)*
 
-This working group aims to ensure that key metadata are made openly available by publishers. As part of this, the working group also aims to develop a framework that describes key metadata elements. Actions of this working group include coordinating the inclusion of comprehensive open metadata in negotiations with publishers and creating affordable ways for poorly-resourced publishers to make metadata openly available.
+This working group aims to ensure that key metadata are made openly available by publishers. As part of this, the working group also aims to develop a framework that describes key metadata elements. Actions of this working group include coordinating the inclusion of comprehensive open metadata in negotiations with publishers (in a [joint task force with OA2020](https://oa2020.org/working-groups/#:~:text=OA2020%20is%20partnering%20with%20the%20Barcelona%20Declaration%20on%20Open%20Research%20Information)) and creating affordable ways for poorly-resourced publishers to make metadata openly available.
 
 **Working group 2 - Metadata for research outputs in institutional repositories, preprint repositories and data repositories**  
 *Coordinator: Bianca Kramer (Barcelona Declaration) - interim* 
@@ -94,8 +95,7 @@ In many cases, representatives of these initiatives are already participating in
 <hr class="small">
 {{< /rawhtml >}}
 
-All working groups will present themselves at the [Bologna Meeting on Open Research Information](/conference_2025_bologna/) on May 28th, where they will discuss their plans with the community.  
-Please [sign up here](https://forms.gle/VjsucNEQCzg7tgK88) if you're interested in attending the meeting online.
+All working groups presented themselves at the [Bologna Meeting on Open Research Information](/conference_2025_bologna/) in May 2025. The [Report on the Bologna Meeting on Open Research Information](https://doi.org/10.5281/zenodo.15730917) captures key outcomes of the meeting, highlights progress, priorities, and next steps across the Barcelona Declaration’s working groups. 
 
-Following the Bologna Meeting on Open Research Information, we also intend to publish a series of posts highlighting each Barcelona Declaration working group in turn, sharing more information about their plans for action and ways to be informed and involved. 
+We intend to publish a series of posts highlighting each Barcelona Declaration working group in turn, sharing more information about their plans for action and ways to be informed and involved. 
 

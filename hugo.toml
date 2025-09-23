@@ -5,14 +5,14 @@ contentdir = "content"
 theme = "beautifulhugo"
 enableRobotsTXT = true
 
-[author]
+[params]
+  selfHosted = true
+  favicon = "/favicon.jpg"
+
+[params.author]
     mastodon = "mastodon.social/@BarcelonaDORI"
     bluesky = "barcelonadori.bsky.social"
     linkedin = "barcelona-declaration/"
-
-[Params]
-  selfHosted = true
-  favicon = "/favicon.jpg"
 
 [[menu.main]]
     name = "Home"

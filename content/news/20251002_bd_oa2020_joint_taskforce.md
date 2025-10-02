@@ -13,6 +13,16 @@ October 02, 2025
 </br>
 {{< /rawhtml >}}
 
+We are excited to announce the launch of a **Joint Task Force on Negotiating Openness of Publication Metadata**, established in partnership between the **Barcelona Declaration on Open Research Information** and the **OA2020 Initiative**.  
+
+This Joint Task Force represents an important step in uniting efforts to bring **greater transparency to scholarly publication metadata**; an essential component of a fair, inclusive, and truly open research ecosystem.
+
+{{< rawhtml >}}
+</br>
+<hr class="small">
+</br>
+{{< /rawhtml >}}
+
 ### Why this matters
 Research information and analytics, such as **publication metadata, citation counts**, and **funding information**, are often locked behind paywalls, creating a “black box” that limits transparency, accountability, and academic sovereignty. These closed systems shape researcher careers and funding decisions without appropriate scrutiny or reproducibility.
 

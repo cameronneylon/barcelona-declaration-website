@@ -10,11 +10,9 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* Launch of a Joint Task Force on Negotiating Openness of Publication Metadata, established in partnership between the Barcelona Declaration on Open Research Information and the OA2020 Initiative - [read more](/news/20251002_bd_oa2020_joint_taskforce)  
+
 * Introducing Barcelona Declaration National networks: community-led efforts at national or regional level to align strategies, support implementation, and amplify the impact of open research information practices - [read more](/national_networks)  
-
-* Wellcome becomes the first UK funder to sign the Barcelona Declaration - [read more](/news/20250804_wellcome_signs_bd)  
-
-* We are excited to announce the launch of the Barcelona Declaration YouTube Channel - [read more](/news/20250729_yt_channel)  
 
 
 {{< rawhtml >}}

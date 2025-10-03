@@ -56,6 +56,7 @@ Contact: Paola Galimberti (University of Milan) ([e-mail](paola.galimberti@unimi
 {{< rawhtml >}}
 
 
+
 <button style="float:left" onclick="document.location='/infographic'">&larr; Infographic</button> 
 
 <button style="float:right" onclick="document.location='/translations'">Translations &rarr;</button> 

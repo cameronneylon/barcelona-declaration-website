@@ -39,7 +39,7 @@ Ludo Waltman (Leiden University, Barcelona Declaration) emphasizes the importanc
 
 ### What the Joint Task Force will do
 The Joint Task Force will focus initially on developing practical strategies for negotiators to embed openness of metadata into their agreements with publishers. Key activities include: 
-
+  
 - Developing a shared negotiation framework and model clauses
 
 - Creating practical tools and templates to support implementation
@@ -47,7 +47,7 @@ The Joint Task Force will focus initially on developing practical strategies for
 - Piloting and refining approaches in real-world negotiations
 
 - Promoting awareness and building capacity across the community 
-
+  
 Through these activities, the Joint Task Force aims to provide **concrete resources** that negotiators can use to advance openness of metadata step by step.
 
 Miranda Bennett (California Digital Library, OA2020) states:

@@ -140,6 +140,7 @@ Organizations performing, funding or evaluating research
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
 * Data Observatory Foundation (Chile)
 * Deutsche Initiative für Netzwerkinformation e. V. - DINI (Germany)
+* Digital Competence Center for Practice-Oriented Research - DCC-PO (Netherlands)
 * Dutch Reproducibility Network - NLRN (Netherlands)
 * EOSC Association (international)
 * Federation of Finnish Learned Societies  - TSV (Finland)

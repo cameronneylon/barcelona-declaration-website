@@ -44,6 +44,18 @@ Open to representatives from current and prospective signatory and supporter ins
 Contact: Ana Ranitovic (University of Groningen) ([e-mail](a.ranitovic@rug.nl))
 
 {{< rawhtml >}}
+<br>
+{{< /rawhtml >}}
+
+### 3. Italy / Italian Node of the Barcelona Declaration
+
+The Italian Node brings together universities, a regional government, and a cultural institution to advance the use of open research information. The group aims to share experiences, promote common projects, and foster mutual learning around open practices. Its first activity was a workshop at the University of Milan (July 2025), which marked the starting point for collaboration and community building in Italy.
+
+Contact: Paola Galimberti (University of Milan) ([e-mail](paola.galimberti@unimi.it))
+
+{{< rawhtml >}}
+
+
 
 <button style="float:left" onclick="document.location='/infographic'">&larr; Infographic</button> 
 

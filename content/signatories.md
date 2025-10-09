@@ -148,6 +148,7 @@ Organizations performing, funding or evaluating research
 * Fundación Openlab Ecuador (Ecuador)  
 * GO FAIR Brazil Health (Brazil)
 * Good Clinical Practice Alliance - GCPA (international)
+* Hellenic Academic Libraries Link (Greece)
 * KB, National library of the Netherlands (Netherlands)
 * Latin American Council of Social Sciences - CLACSO (international)
 * Leibniz Institute for Psychology - ZPID (Germany)

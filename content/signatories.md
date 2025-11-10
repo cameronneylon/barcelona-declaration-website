@@ -188,6 +188,7 @@ Organizations providing data, services and infrastructure
 * Directory of Open Access Journals - DOAJ
 * Dryad
 * Europe PMC
+* Edizioni Ca' Foscari - Venice University Press
 * eLife
 * Érudit
 * euroCRIS

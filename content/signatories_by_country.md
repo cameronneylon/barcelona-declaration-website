@@ -15,7 +15,7 @@ The {{< download "/downloads/barcelonadeclaration_signatories_supporters.csv" "l
 {{< /rawhtml >}}
 # Signatories
 
-Organizations by country
+Organizations performing, funding or evaluating research - by country
 
 {{< rawhtml >}}
 </br>

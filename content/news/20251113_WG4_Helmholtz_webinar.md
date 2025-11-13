@@ -1,7 +1,7 @@
 +++ 
 title = "Webinar: Open Research Information in Action. Institutional Journeys Toward Open Systems"
 date = 2025-11-13 
-summary = 'Four institutions from Europe and Latin America share how they use or are moving toward open, non-proprietary research-information systems. This webinar, co-organized by the Working Group 4 of the Barcelona Declaration and the Helmholtz Open Science Office, explores practical pathways, governance models, and lessons learned from their experiences.'
+summary = "Four institutions from Europe and Latin America share how they use or are moving toward open, non-proprietary research-information systems. This webinar, co-organized by the Working Group 4 of the Barcelona Declaration and the Helmholtz Open Science Office, explores practical pathways, governance models, and lessons learned from their experiences."
 comments = false 
 aliases = ["/20251113_WG4_Helmholtz_webinar"]
 +++

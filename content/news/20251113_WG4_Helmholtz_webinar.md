@@ -1,5 +1,5 @@
 +++ 
-title = "Webinar: Open Research Information in Action - Institutional Journeys Toward Open Systems"
+title = "Webinar: Open Research Information in Action. Institutional Journeys Toward Open Systems"
 date = 2025-11-13 
 summary = 'Four institutions from Europe and Latin America share how they use or are moving toward open, non-proprietary research-information systems. This webinar, co-organized by the Working Group 4 of the Barcelona Declaration and the Helmholtz Open Science Office, explores practical pathways, governance models, and lessons learned from their experiences.'
 comments = false 
@@ -34,7 +34,7 @@ Speakers will explain why they signed the Barcelona Declaration; how they use or
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
-**Registration**: Register here: https://us06web.zoom.us/webinar/register/WN_VoFe1NvAQim0MBMpLoTxFg)
+**Registration**: Register [here](https://us06web.zoom.us/webinar/register/WN_VoFe1NvAQim0MBMpLoTxFg)
 
 {{< rawhtml >}}
 <hr class="small">
@@ -75,7 +75,7 @@ Professionals involved with these tools and systems (librarians, IT departments,
 
 - Closing & next steps
 
-**Moderator**: Ignasi Labastida (Universitat de Barcelona, Spain & WG4 Coordinator)
+**Moderator**: Ignasi Labastida (Universitat de Barcelona & WG4 Coordinator)
 
 {{<  rawhtml >}}
 </br>

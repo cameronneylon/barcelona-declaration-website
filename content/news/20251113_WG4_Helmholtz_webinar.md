@@ -14,7 +14,7 @@ November 13, 2025
 {{< /rawhtml >}}
 
 ### Overview
-Organized by the **Barcelona Declaration’s Working Group on Replacing Closed Systems (WG4)** and the **[Helmholtz Open Science Office](https://os.helmholtz.de/en/)**, this webinar showcases four institutional journeys from Europe and Latin America that use (or are moving toward) open, non-proprietary systems for open research information**.
+Organized by the **Barcelona Declaration’s Working Group on Replacing Closed Systems (WG4)** and the **[Helmholtz Open Science Office](https://os.helmholtz.de/en/)**, this webinar showcases four institutional journeys from Europe and Latin America that **use (or are moving toward) open, non-proprietary systems for open research information**.
 
 Speakers will explain why they signed the Barcelona Declaration; how they use or are moving to open, non-proprietary systems; the governance considerations and technical steps taken; and the challenges and benefits. These cases offer practical pathways and actionable insights for institutions considering similar transformations.
 

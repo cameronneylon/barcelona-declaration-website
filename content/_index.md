@@ -10,7 +10,7 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* On October 2, 2025, funders, publishers, submission system providers and infrastructure organisations came together for a focused discussion on improving the collection and sharing of open funding metadata - [read more](/news/20251023_community_roundtable)  
+* Webinar: Open Research Information in Action - Institutional Journeys Toward Open Systems - December 4, 2025 15:00-1630 CET - [read more](/news/20251113_WG4_Helmholtz_webinar) 
 
 * Launch of a Joint Task Force on Negotiating Openness of Publication Metadata, established in partnership between the Barcelona Declaration on Open Research Information and the OA2020 Initiative - [read more](/news/20251002_bd_oa2020_joint_taskforce)  
 

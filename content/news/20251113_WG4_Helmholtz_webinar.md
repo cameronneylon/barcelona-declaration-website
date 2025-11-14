@@ -19,7 +19,7 @@ November 13, 2025
         <td style="width:100%" border="0">
             <a href="/images/wg4_webinar_invite.png" target="_blank">
             <picture>
-            <img src = "/images/wg4_webinar_invite.png" alt = "weinar announcement: "Open Research Information in Action>
+            <img src = "/images/wg4_webinar_invite.png" alt = "Webinar announcement with logo's of Barcelona Declaaration and Helmholtz Association. Text: Open Research Information in Action. Institutional Journeys Towards Open Systems. 4 Dec 2025 | 15:00-16:30 CET | Online event">
             </picture>
              </a>
         </td>

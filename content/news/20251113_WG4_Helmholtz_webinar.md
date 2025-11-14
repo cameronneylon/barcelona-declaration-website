@@ -13,6 +13,20 @@ November 13, 2025
 </br>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<table border="0">
+    <tr>
+        <td style="width:100%" border="0">
+            <a href="/images/wg4_webinar_invite.png" target="_blank">
+            <picture>
+            <img src = "/images/wg4_webinar_invite.png" alt = "weinar announcement: "Open Research Information in Action>
+            </picture>
+             </a>
+        </td>
+    </tr>
+</table>
+{{< /rawhtml >}}
+
 ### Overview
 Organized by the **Barcelona Declaration’s Working Group on Replacing Closed Systems (WG4)** and the **[Helmholtz Open Science Office](https://os.helmholtz.de/en/)**, this webinar showcases four institutional journeys from Europe and Latin America that use (or are moving toward) open, non-proprietary systems for open research information**.
 
@@ -84,5 +98,4 @@ Professionals involved with these tools and systems (librarians, IT departments,
 {{< /rawhtml >}}
 
 By bringing together institutions at different stages, this session underscores that there is no single path to openness. We look forward to seeing you and continuing the conversation on how to make research information openly available in practice.
-
 

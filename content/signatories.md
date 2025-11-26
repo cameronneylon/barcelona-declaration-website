@@ -116,6 +116,7 @@ Organizations performing, funding or evaluating research
 
 {{< /rawhtml >}}
 **Research funding organizations and governments**
+* ANRS MIE (France)
 * Austrian Science Fund - FWF (Austria)
 * Bill & Melinda Gates Foundation (United States of America)
 * Catalan Foundation for Research and Innovation - FCRI (Spain)

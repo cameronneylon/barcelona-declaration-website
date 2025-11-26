@@ -153,6 +153,7 @@ Organizations performing, funding or evaluating research
 * Latin American Council of Social Sciences - CLACSO (international)
 * Leibniz Institute for Psychology - ZPID (Germany)
 * LIBER (international)
+* Netherlands eScience Center (Netherlands)
 * National Open Research Analytics, Technical University of Denmark (Denmark)
 * Sage Bionetworks (United States of America)
 * State Scientific and Technical Library of Ukraine (Ukraine)

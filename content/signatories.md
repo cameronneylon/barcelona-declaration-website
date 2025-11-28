@@ -17,8 +17,8 @@ Organizations that wish to sign the Declaration are welcome to reach out to [con
 - Overview of [national networks](/national_networks)
 
 {{< rawhtml >}}
-</br>
 <hr class="small">
+</br>
 {{< /rawhtml >}}
 # Signatories
 

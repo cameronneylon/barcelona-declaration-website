@@ -74,10 +74,16 @@ enableRobotsTXT = true
     weight = 1
     
 [[menu.main]]
+    name = "Signatories by country"
+    url = "signatories_by_country/"
+    parent = "community"
+    weight = 2
+    
+[[menu.main]]
     name = "National networks"
     url = "national_networks/"
     parent = "community"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     identifier = "roadmap"  

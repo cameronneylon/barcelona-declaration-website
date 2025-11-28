@@ -8,8 +8,8 @@ comments = false
 Organizations that wish to sign the Declaration are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org").
 
 {{< rawhtml >}}
-</br>
 <hr class="small">
+</br>
 {{< /rawhtml >}}
 
 - [List of signatories by country](/signatories_by_country) 
@@ -17,8 +17,8 @@ Organizations that wish to sign the Declaration are welcome to reach out to [con
 - Overview of [national networks](/national_networks)
 
 {{< rawhtml >}}
-<hr class="small">
 </br>
+<hr class="small">
 {{< /rawhtml >}}
 # Signatories
 

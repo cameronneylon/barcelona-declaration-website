@@ -12,6 +12,8 @@ Organizations that wish to sign the Declaration are welcome to reach out to [con
 </br>
 {{< /rawhtml >}}
 
+To give a clearer picture of where the Declaration is having an impact, we offer different views of the community of signatories, supporters, and national networks:
+
 - [List of signatories and supporters by organization type](/signatories)   
 - {{< download "/downloads/barcelonadeclaration_signatories_supporters.csv" "List of signatories and supporters (with ROR IDs)" >}} in csv-format
 - Overview of [national networks](/national_networks)

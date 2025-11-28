@@ -5,7 +5,7 @@ comments = false
 
 +++
 
-Organizations that wish to sign the Declaration are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org").  
+Organizations that wish to sign the Declaration are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org").
 
 {{< rawhtml >}}
 </br>

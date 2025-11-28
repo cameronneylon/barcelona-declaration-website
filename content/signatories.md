@@ -7,8 +7,9 @@ comments = false
 
 Organizations that wish to sign the Declaration are welcome to reach out to [contact@barcelona-declaration.org](mailto:contact@barcelona-declaration.org "mailto:contact@barcelona-declaration.org").  
 
-[List of signatories by country](/signatories_by_country).  
-The {{< download "/downloads/barcelonadeclaration_signatories_supporters.csv" "list of signatories and supporters (with ROR IDs)" >}} is also available in csv-format.
+- [List of signatories by country](/signatories_by_country) 
+- {{< download "/downloads/barcelonadeclaration_signatories_supporters.csv" "List of signatories and supporters (with ROR IDs)" >}} in csv-format
+- Overview of [national networks](/national_networks)
 
 {{< rawhtml >}}
 </br>

@@ -97,117 +97,118 @@ Organizations performing, funding or evaluating research
 * University of Göttingen
 
 **Greece**
-* Athena Research Center (Greece)
-* Hellenic Academic Libraries Link (Greece)
+* Athena Research Center
+* Hellenic Academic Libraries Link
 
 **Italy**
-* Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
-* Scuola Normale Superiore - SNS (Italy)
-* Regione Emilia-Romagna (Italy)
-* Regione Toscana (Italy)
-* Università di Bologna (Italy)
-* University of Milan (Italy)
+* Museo Galileo. Istituto e Museo di Storia della Scienza
+* Scuola Normale Superiore - SNS
+* Regione Emilia-Romagna
+* Regione Toscana
+* Università di Bologna
+* University of Milan
 
 **Mexico**
-* Universidad Autónoma Metropolitana (Mexico)
+* Universidad Autónoma Metropolitana
 
 **Morocco**
-* Ibn Tofaïl University (Morocco)
+* Ibn Tofaïl University
 
 **Netherlands**
-* Delft University of Technology (Netherlands)
-* Digital Competence Center for Practice-Oriented Research - DCC-PO (Netherlands)
-* Dutch Reproducibility Network - NLRN (Netherlands)
-* Dutch Research Council - NWO (Netherlands)
-* KB, National library of the Netherlands (Netherlands)
-* Leiden University (Netherlands)
-* SURF (Netherlands)
-* Taskforce for Applied Research SIA (Netherlands)
-* The Netherlands Association of Universities of Applied Sciences - Vereniging Hogescholen (Netherlands)
-* Universities of the Netherlands - UNL (Netherlands)
-* University of Amsterdam (Netherlands)
-* University of Groningen (Netherlands)
-* Utrecht University (Netherlands)
-* Vrije Universiteit Amsterdam (Netherlands)
-* ZonMw (Netherlands)
+* Delft University of Technology
+* Digital Competence Center for Practice-Oriented Research - DCC-PO
+* Dutch Reproducibility Network - NLRN
+* Dutch Research Council - NWO
+* KB, National library of the Netherlands
+* Leiden University
+* Netherlands eScience Center
+* SURF
+* Taskforce for Applied Research SIA
+* The Netherlands Association of Universities of Applied Sciences - Vereniging Hogescholen
+* Universities of the Netherlands - UNL
+* University of Amsterdam
+* University of Groningen
+* Utrecht University
+* Vrije Universiteit Amsterdam
+* ZonMw
 
 **North Macedonia**
-* University of Tetova (North Macedonia)
-* University "St. Kliment Ohridski" (North Macedonia)
+* University of Tetova
+* University "St. Kliment Ohridski"
 
 **Norway**
-* UiT - The Arctic University of Norway (Norway)
+* UiT - The Arctic University of Norway
 
 **Portugal**
-* Pattern Institute (Portugal)
-* Universidade do Minho (Portugal)
-* Universidade Lusófona (Portugal)
-* University of Coimbra (Portugal)
-* University of the Azores (Portugal)
+* Pattern Institute
+* Universidade do Minho
+* Universidade Lusófona
+* University of Coimbra
+* University of the Azores
 
 **Republic of Moldova**
-* Information Society Development Institute - IDSI (Republic of Moldova)
+* Information Society Development Institute - IDSI
 
 **Slovakia**
-* University of Ss. Cyril and Methodius in Trnava (Slovakia)
+* University of Ss. Cyril and Methodius in Trnava
 
 **Slovenia**
-* University of Maribor (Slovenia)
+* University of Maribor
 
 **Spain**
-* CaixaResearch Institute (Spain)
-* Catalan Foundation for Research and Innovation - FCRI (Spain)
-* Centre de Recerca Ecològica i Aplicacions Forestals - CREAF (Spain)
-* Centres de Recerca de Catalunya - I-CERCA (Spain)
-* Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
-* Fundació Internacional Josep Carreras (Spain)
-* Fundación "la Caixa" (Spain)
-* Galicia Supercomputing Center (Spain)
-* Institut Català d'Arqueologia Clàssica - ICAC-CERCA (Spain)
-* Instituto Interuniversitario de Investigación Avanzada sobre Evaluación de la Ciencia y la Universidad - INAECU (Spain)
-* Museu de Ciències Naturals de Barcelona (Spain)
-* Spanish National Research Council - CSIC (Spain)
-* Universidad de Cádiz (Spain)
-* Universidad de Granada (Spain)
-* Universidad Pablo de Olavide (Spain)
-* Universidad Rey Juan Carlos (Spain)
-* Universitat Autònoma de Barcelona (Spain)
-* Universitat de Barcelona (Spain)
-* Universitat de Girona (Spain)
-* Universitat Internacional de Catalunya (Spain)
-* Universitat Politècnica de Catalunya (Spain)
-* Universitat Pompeu Fabra Barcelona (Spain)
-* Universitat Ramon Llull (Spain)
-* Universitat Rovira i Virgili (Spain)
-* Universitat de Vic-Universitat Central de Catalunya (Spain)
-* University of the Balearic Islands (Spain)
+* CaixaResearch Institute
+* Catalan Foundation for Research and Innovation - FCRI
+* Centre de Recerca Ecològica i Aplicacions Forestals - CREAF
+* Centres de Recerca de Catalunya - I-CERCA
+* Consorci de Serveis Universitaris de Catalunya - CSUC
+* Fundació Internacional Josep Carreras
+* Fundación "la Caixa"
+* Galicia Supercomputing Center
+* Institut Català d'Arqueologia Clàssica - ICAC-CERCA
+* Instituto Interuniversitario de Investigación Avanzada sobre Evaluación de la Ciencia y la Universidad - INAECU
+* Museu de Ciències Naturals de Barcelona
+* Spanish National Research Council - CSIC
+* Universidad de Cádiz
+* Universidad de Granada
+* Universidad Pablo de Olavide
+* Universidad Rey Juan Carlos
+* Universitat Autònoma de Barcelona
+* Universitat de Barcelona
+* Universitat de Girona
+* Universitat Internacional de Catalunya
+* Universitat Politècnica de Catalunya
+* Universitat Pompeu Fabra Barcelona
+* Universitat Ramon Llull
+* Universitat Rovira i Virgili
+* Universitat de Vic-Universitat Central de Catalunya
+* University of the Balearic Islands
 
 **Sweden**
-* Stockholm University (Sweden)
+* Stockholm University
 
 **Switzerland**
-* European Organization for Nuclear Research - CERN (Switzerland)
-* Swiss Reproducibility Network - SwissRN (Switzerland)
-* University of Zurich (Switzerland)
+* European Organization for Nuclear Research - CERN
+* Swiss Reproducibility Network - SwissRN
+* University of Zurich
 
 **Turkey**
-* Izmir Institute of Technology (Turkey)
+* Izmir Institute of Technology
 
 **Ukraine**
-* Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
-* State Scientific and Technical Library of Ukraine (Ukraine)
+* Institute of Higher Education of the National Academy of Educational Sciences of Ukraine
+* State Scientific and Technical Library of Ukraine
 
 **United Kingdom**
-* Birkbeck, University of London (United Kingdom)
-* Loughborough University (United Kingdom)
-* UK Reproducibility Network - UKRN (United Kingdom)
-* University of Bristol (United Kingdom)
-* Wellcome Trust (United Kingdom)
+* Birkbeck, University of London
+* Loughborough University
+* UK Reproducibility Network - UKRN
+* University of Bristol
+* Wellcome Trust
 
 **United States**
-* Bill & Melinda Gates Foundation (United States of America)
-* California Digital Library - CDL (United States of America)
-* Sage Bionetworks (United States of America)
+* Bill & Melinda Gates Foundation
+* California Digital Library - CDL
+* Sage Bionetworks
 
 {{< rawhtml >}}
 <br>

@@ -23,77 +23,78 @@ Organizations performing, funding or evaluating research
 {{< /rawhtml >}}
 
 **Regional/International**
-* Coimbra Group (international)
-* EOSC Association (international)
-* Good Clinical Practice Alliance - GCPA (international)
-* Latin American Council of Social Sciences - CLACSO (international)
-* LIBER (international)
-* West and Central African Research and Education Network - WACREN (international)
-* Young European Research Universities' Network - YERUN (international)
+* Coimbra Group
+* EOSC Association
+* Good Clinical Practice Alliance - GCPA
+* Latin American Council of Social Sciences - CLACSO
+* LIBER
+* West and Central African Research and Education Network - WACREN
+* Young European Research Universities' Network - YERUN
 
 **Argentina**
-* Fundación MenteClara Internacional (Argentina)
+* Fundación MenteClara Internacional
 
 **Austria**
-* Austrian Science Fund - FWF (Austria)
+* Austrian Science Fund - FWF
 
 **Brazil**
-* Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
-* Universidade Federal Fluminense (Brazil)
-* GO FAIR Brazil Health (Brazil)
+* Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict
+* Universidade Federal Fluminense
+* GO FAIR Brazil Health
 
 **Canada**
-* Scholarly Communications Lab (Canada)
+* Scholarly Communications Lab
 
 **Chile**
-* Data Observatory Foundation (Chile)
+* Data Observatory Foundation
 
 **Colombia**
-* Universidad de Antioquia (Colombia)
-* Universidad Distrital Francisco José de Caldas (Colombia)
+* Universidad de Antioquia
+* Universidad Distrital Francisco José de Caldas
 
 **Czech Republic**
-* Charles University (Czech Republic)
+* Charles University
 
 **Denmark**
-* National Open Research Analytics, Technical University of Denmark (Denmark)
+* National Open Research Analytics, Technical University of Denmark
 
 **Ecuador**
-* Fundación Openlab Ecuador (Ecuador)  
+* Fundación Openlab Ecuador 
 
 **Finland**
-* Federation of Finnish Learned Societies  - TSV (Finland)
-* University of Turku (Finland)
+* Federation of Finnish Learned Societies  - TSV
+* University of Turku
 
 **France**
-* Aix-Marseille Université (France)
-* French National Research Agency - ANR (France)
-* French Open Science Committee (France)
-* Nantes Université (France) 
-* Région Normandie (France)
-* Sorbonne Université (France)
-* Udice - French Research Universities (France)
-* UniLaSalle (France)
-* Université de Lorraine (France)
-* Université de Reims Champagne-Ardenne (France)
-* Université de Strasbourg (France)
-* Université Grenoble Alpes (France)
-* Université Le Havre Normandie (France)
-* Université Paris Saclay (France)
-* Université Toulouse 3 Paul Sabatier (France)
-* University of Poitiers (France)
+* Aix-Marseille Université
+* ANRS MIE
+* French National Research Agency - ANR
+* French Open Science Committee
+* Nantes Université
+* Région Normandie
+* Sorbonne Université
+* Udice - French Research Universities
+* UniLaSalle
+* Université de Lorraine
+* Université de Reims Champagne-Ardenne
+* Université de Strasbourg
+* Université Grenoble Alpes
+* Université Le Havre Normandie
+* Université Paris Saclay
+* Université Toulouse 3 Paul Sabatier
+* University of Poitiers
 
 **Germany**
-* Deutsche Initiative für Netzwerkinformation e. V. - DINI (Germany)
-* FIZ Karlsruhe - Leibniz Institute for Information Infrastructure (Germany)
-* Hamburg University of Technology (Germany)
-* Hugo Grotius GmbH (Germany)
-* Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
-* Leibniz Association (Germany)
-* Leibniz Institute for Psychology - ZPID (Germany)
-* Otto-Friedrich-Universität Bamberg (Germany)
-* TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
-* University of Göttingen (Germany)
+* Deutsche Initiative für Netzwerkinformation e. V. - DINI
+* FIZ Karlsruhe - Leibniz Institute for Information Infrastructure
+* Hamburg University of Technology
+* Hugo Grotius GmbH
+* Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences
+* Leibniz Association
+* Leibniz Institute for Psychology - ZPID
+* Otto-Friedrich-Universität Bamberg
+* TIB - Leibniz Information Centre for Science and Technology and University Library
+* University of Göttingen
 
 **Greece**
 * Athena Research Center (Greece)

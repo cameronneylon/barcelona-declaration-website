@@ -165,6 +165,7 @@ Organizations performing, funding or evaluating research
 * LIBER (international)
 * Netherlands eScience Center (Netherlands)
 * National Open Research Analytics, Technical University of Denmark (Denmark)
+* OSIRIS Solutions (Germany)
 * Sage Bionetworks (United States of America)
 * State Scientific and Technical Library of Ukraine (Ukraine)
 * SURF (Netherlands)

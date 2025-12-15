@@ -53,6 +53,7 @@ Organizations performing, funding or evaluating research
 
 **Canada**
 * Scholarly Communications Lab
+* Simon Fraser University
 
 **Chile**
 * Data Observatory Foundation

@@ -184,12 +184,12 @@ Organizations performing, funding or evaluating research
 * Universitat Autònoma de Barcelona
 * Universitat de Barcelona
 * Universitat de Girona
+* Universitat de Vic-Universitat Central de Catalunya
 * Universitat Internacional de Catalunya
 * Universitat Politècnica de Catalunya
 * Universitat Pompeu Fabra Barcelona
 * Universitat Ramon Llull
 * Universitat Rovira i Virgili
-* Universitat de Vic-Universitat Central de Catalunya
 * University of the Balearic Islands
 
 **Sweden**

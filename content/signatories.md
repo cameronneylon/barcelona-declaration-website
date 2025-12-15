@@ -221,6 +221,7 @@ Organizations providing data, services and infrastructure
 * Open Research Knowledge Graph - ORKG
 * OPERAS
 * ORCID
+* OSIRIS Solutions
 * OurResearch
 * Peer Community In - PCI
 * PLOS (Public Library of Science)

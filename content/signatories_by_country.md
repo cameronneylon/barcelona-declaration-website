@@ -159,6 +159,9 @@ Organizations performing, funding or evaluating research
 **Republic of Moldova**
 * Information Society Development Institute - IDSI
 
+**Serbia**
+* Institute of Economic Science
+
 **Slovakia**
 * University of Ss. Cyril and Methodius in Trnava
 

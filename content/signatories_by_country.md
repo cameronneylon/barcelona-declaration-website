@@ -109,6 +109,7 @@ Organizations performing, funding or evaluating research
 **Greece**
 * Athena Research Center
 * Hellenic Academic Libraries Link
+* Hellenic Mediterranean University
 
 **Italy**
 * Museo Galileo. Istituto e Museo di Storia della Scienza

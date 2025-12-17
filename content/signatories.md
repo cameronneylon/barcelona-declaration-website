@@ -49,6 +49,7 @@ Organizations performing, funding or evaluating research
 * Ibn Tofaïl University (Morocco)
 * Information Society Development Institute - IDSI (Republic of Moldova)
 * Institut Català d'Arqueologia Clàssica - ICAC-CERCA (Spain)
+* Institute of Economic Science (Serbia)
 * Institute of Higher Education of the National Academy of Educational Sciences of Ukraine (Ukraine)
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
 * Instituto Interuniversitario de Investigación Avanzada sobre Evaluación de la Ciencia y la Universidad - INAECU (Spain)

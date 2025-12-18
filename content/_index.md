@@ -10,7 +10,7 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-*Blog post: Open funder metadata is essential for true research transparency - [read more](/20251218_open_funder_metadata_is_essential_for_transparency) 
+* Blog post: Open funder metadata is essential for true research transparency - [read more](/20251218_open_funder_metadata_is_essential_for_transparency) 
 
 * Webinar: Open Research Information in Action - Institutional Journeys Toward Open Systems - December 4, 2025 15:00-1630 CET - [read more](/news/20251113_WG4_Helmholtz_webinar) 
 

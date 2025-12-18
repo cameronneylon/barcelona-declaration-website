@@ -10,9 +10,9 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* Webinar: Open Research Information in Action - Institutional Journeys Toward Open Systems - December 4, 2025 15:00-1630 CET - [read more](/news/20251113_WG4_Helmholtz_webinar) 
+*Blog post: Open funder metadata is essential for true research transparency - [read more](/20251218_open_funder_metadata_is_essential_for_transparency) 
 
-* Launch of a Joint Task Force on Negotiating Openness of Publication Metadata, established in partnership between the Barcelona Declaration on Open Research Information and the OA2020 Initiative - [read more](/news/20251002_bd_oa2020_joint_taskforce)  
+* Webinar: Open Research Information in Action - Institutional Journeys Toward Open Systems - December 4, 2025 15:00-1630 CET - [read more](/news/20251113_WG4_Helmholtz_webinar) 
 
 
 {{< rawhtml >}}

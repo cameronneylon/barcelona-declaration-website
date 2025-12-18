@@ -13,6 +13,7 @@ enableRobotsTXT = true
     mastodon = "mastodon.social/@BarcelonaDORI"
     bluesky = "barcelonadori.bsky.social"
     linkedin = "barcelona-declaration/"
+    youtube = "@BarcelonaDeclaration"
 
 [[menu.main]]
     name = "Home"

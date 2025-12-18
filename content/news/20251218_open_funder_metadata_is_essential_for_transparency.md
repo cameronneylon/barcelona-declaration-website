@@ -71,7 +71,7 @@ It’s disappointing that the enormous potential of this system remains insuffic
 <hr class="small">
 {{< /rawhtml >}}
 
-### Funding statements – more than just words Realising open funder metadata
+### Realising open funder metadata
 The COPE and ISC documents both make valuable contributions, highlighting the importance of funding transparency. Building on this, the scholarly communication community must recognise that including funding statements in articles, while necessary, is insufficient. Funding information as open metadata creates high value for the whole research community and for society at large. Publishers and infrastructure providers need to commit to depositing funding metadata with output metadata in Crossref as standard practice.
 
 The technology exists. The standards are being discussed as part of various initiatives, including the Barcelona Declaration. What’s needed now is widespread adoption and a recognition that true funding transparency requires open metadata.

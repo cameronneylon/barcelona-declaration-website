@@ -1,6 +1,6 @@
 +++ 
 title = "Open funder metadata is essential for true research transparency"
-date = 2025-10-23 
+date = 2025-12-18 
 summary = "The disclosure of who funds research is an important way of building trust in published findings. Commenting on recent interventions by The Committee on Publication Ethics and the International Science Council, Hans de Jonge, Katharina Rieck and Zoé Ancion argue that to be truly effective funder metadata should be made openly accessible to all beyond the level of individual publications."
 comments = false 
 aliases = ["/20251218_open_funder_metadata_is_essential_for_transparency"]

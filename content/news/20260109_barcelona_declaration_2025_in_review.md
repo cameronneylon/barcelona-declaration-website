@@ -13,35 +13,7 @@ January 9, 2026
 </br>
 {{< /rawhtml >}}
 
-As we step into the first days of 2026, we are taking a moment to reflect on what 2025 has meant for the Barcelona Declaration on Open Research Information. Spoiler alert: it has been a very significant year.
-
-{{< rawhtml >}}
-<head>
-<style>
-th, td {
-  border-style:solid;
-  border-color: white;
-}
-</style>
-</head>
-<body>
-<table border="0">
-    <tr>
-        <td style="width:20%" border="0">
-        </td>
-        <td style="width:60%" border="0">
-            <a href="/images/2025_in_review_desk.png" target="_blank">
-            <picture>
-            <img src = "/images/2025_in_review_desk.png" alt = "Illustration titled “2025 in review Building Open Research Information Together” for the Barcelona Declaration on Open Research Information. Three people sit around a table in conversation, using laptops and a notebook, with speech bubbles above them to represent collaboration. Calendar pages labeled with different months of 2025 appear in the background, suggesting activity throughout the year. At the bottom, a banner reads: As we begin 2026, we look forward to continuing this work together.">
-            </picture>
-             </a>
-        </td>
-        <td style="width:20%" border="0">
-        </td>
-    </tr>
-</table>
-</body>
-{{< /rawhtml >}}
+As we step into 2026, we are taking a moment to reflect on what 2025 has meant for the Barcelona Declaration on Open Research Information. Spoiler alert: it has been a very significant year.
 
 {{< rawhtml >}}
 </br>
@@ -65,31 +37,11 @@ Below, we highlight some of the key moments and developments from the past year.
 - We established the [Barcelona Declaration Coordination team](https://barcelona-declaration.org/about/), with Bianca Kramer as Executive Director and Bárbara Rivera López as Community Manager.
 - Our community grew in 2025, with 30 new signatories and 7 new supporters from 17 countries worldwide, across universities and research-performing organizations, funders and governments, and other organizations. Among new signatories are Wellcome Trust, California Digital Library, and Fundación “la Caixa”.
 {{< rawhtml >}}
-<head>
-<style>
-th, td {
-  border-style:solid;
-  border-color: white;
-}
-</style>
-</head>
-<body>
-<table border="0">
-    <tr>
-        <td style="width:10%" border="0">
-        </td>
-        <td style="width:80%" border="0">
-            <a href="/images/2025_in_review_map_cropped.png" target="_blank">
-            <picture>
-            <img src = "/images/2025_in_review_map_cropped.png" alt = "Illustration titled Growth in number of signatories in 2025. Horizontal bar graph showing growth in the number of Barcelona Declaration signatories in different world regions in 2025. A world map appears in the background.">
-            </picture>
-             </a>
-        </td>
-        <td style="width:10%" border="0">
-        </td>
-    </tr>
-</table>
-</body>
+<a href="/images/2025_in_review_map_cropped.png" target="_blank">
+<picture>
+<img src = "/images/2025_in_review_map_cropped.png" alt = "Illustration titled Growth in number of signatories in 2025. Horizontal bar graph showing growth in the number of Barcelona Declaration signatories in different world regions in 2025. A world map appears in the background.">
+</picture>
+</a>
 {{< /rawhtml >}}
 - In May, we gathered in person in Italy for the Bologna Meeting on Open Research Information, with the meeting's [Report](https://zenodo.org/records/15730917) published on Zenodo and the [morning session recording](https://www.youtube.com/watch?v=1USShJ5cO9U) available on our [YouTube channel](https://www.youtube.com/@BarcelonaDeclaration).
 - Community-led [National Networks](https://barcelona-declaration.org/national_networks/) emerged in 2025 as spaces for shared learning and local implementation of the Barcelona Declaration commitments, with networks established in the Netherlands, the German-speaking countries, and Italy, and France exploring next steps.

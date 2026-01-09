@@ -10,7 +10,7 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* As we step into 2026, we are taking a moment to reflect on what 2025 has meant for the Barcelona Declaration on Open Research Information. - [read more](/20260109_barcelona_declaration_2025_in_review) 
+* 2025 In Review - as we step into 2026, we are taking a moment to reflect on what 2025 has meant for the Barcelona Declaration on Open Research Information. - [read more](/20260109_barcelona_declaration_2025_in_review) 
 
 * Blog post: Open funder metadata is essential for true research transparency - [read more](/20251218_open_funder_metadata_is_essential_for_transparency) 
 

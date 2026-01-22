@@ -9,7 +9,7 @@ comments = false
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
-## Update May 2025
+## Overvief of working groups
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
@@ -18,7 +18,7 @@ The Barcelona Declaration working groups were established to promote collective 
 
 Last year at the [Paris Conference on Open Research Information](/conference_2024_paris), signatories and supporters of the Barcelona Declaration came together to discuss areas where such collective action would be beneficial. This resulted in the [Roadmap on Open Research Information](/roadmap), which is included in full in the [conference report](https://doi.org/10.5281/zenodo.14054244). Following the conference, working groups were convened around each of the identified areas of interest. Working groups are coordinated by representatives of signatories of the Declaration. 
 
-Below we list the working groups that have been established. These working groups are currently in the process of developing a set of concrete actions and organizing their activities accordingly, in some cases in separate task forces.  All working groups presented themselves at the [Bologna Meeting on Open Research Information](/conference_2025_bologna/) in May 2025, where they discussed their plans with the community. See the [Report on the Bologna Meeting on Open Research Information](https://doi.org/10.5281/zenodo.15730917) for more details! 
+Below we list the working groups that have been established. These working groups are developing a set of concrete actions and organizing their activities accordingly, in some cases in separate task forces.  All working groups presented themselves at the [Bologna Meeting on Open Research Information](/conference_2025_bologna/) in May 2025, where they discussed their plans with the community. See the [Report on the Bologna Meeting on Open Research Information](https://doi.org/10.5281/zenodo.15730917) for more details! 
 
 
 {{< rawhtml >}}

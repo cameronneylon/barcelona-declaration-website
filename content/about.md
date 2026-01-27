@@ -26,7 +26,7 @@ In January 2025, CWTS, Crossref and SIRIS Foundation signed an <a href="https://
 <p></p>
 <h4>Steering Group</h4>
 <ul>
-  <li>Cameron Neylon (Curtin Open Knowledge Initiative)</li>
+  <li>Cameron Neylon (independent)</li>
   <li>Ludo Waltman (Centre for Science and Technology Studies – CWTS, Leiden University)</li>
   <li>Ginny Hendricks (Crossref)</li>
   <li>Amélie Church (Sorbonne Université)</li>

@@ -209,6 +209,7 @@ Organizations providing data, services and infrastructure
 * International Interactive Computing Collaboration - 2i2c
 * Invest in Open Infrastructure - IOI
 * Knowledge E
+* LA Referencia
 * Latindex
 * Liberate Science GmbH
 * Matilda

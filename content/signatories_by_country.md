@@ -150,6 +150,9 @@ Organizations performing, funding or evaluating research
 **Norway**
 * UiT - The Arctic University of Norway
 
+**Poland**
+* Jagiellonian University in Kraków
+  
 **Portugal**
 * Pattern Institute
 * Universidade do Minho

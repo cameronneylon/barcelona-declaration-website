@@ -55,6 +55,7 @@ Organizations performing, funding or evaluating research
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict (Brazil)
 * Instituto Interuniversitario de Investigación Avanzada sobre Evaluación de la Ciencia y la Universidad - INAECU (Spain)
 * Izmir Institute of Technology (Turkey)
+* Jagiellonian University in Kraków (Poland)
 * Knowmad Institut - European Institute for Multidisciplinary Studies on Human Rights & Sciences (Germany)
 * Leibniz Association (Germany)
 * Leiden University (Netherlands)
@@ -209,6 +210,7 @@ Organizations providing data, services and infrastructure
 * International Interactive Computing Collaboration - 2i2c
 * Invest in Open Infrastructure - IOI
 * Knowledge E
+* LA Referencia
 * Latindex
 * Liberate Science GmbH
 * Matilda

@@ -1,9 +1,9 @@
 +++ 
-title = "LA Referencia joins the Barcelona Declaration as a Supporter"
+title = "LA Referencia joins the Barcelona Declaration as a supporter"
 date = 2026-02-04
-summary = "We are pleased to announce that LA Referencia has joined the Barcelona Declaration on Open Research Information as a Supporter, strengthening shared efforts to advance open, interoperable research information infrastructures across regions."
+summary = "We are pleased to announce that LA Referencia has joined the Barcelona Declaration on Open Research Information as a supporter, strengthening shared efforts to advance open, interoperable research information infrastructures across regions."
 comments = false 
-aliases = ["/20260129_barcelona_webinar_institutional_journeys"]
+aliases = ["/20260204_la_referencia_joins_barcelona_declaration_as_supporter"]
 +++
 
 February 4, 2026

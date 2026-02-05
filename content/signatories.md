@@ -79,6 +79,7 @@ Organizations performing, funding or evaluating research
 * Universidad de Antioquia (Colombia)
 * Universidad de Cádiz (Spain)
 * Universidad de Granada (Spain)
+* Universidad de Lleida (Spain)
 * Universidad Distrital Francisco José de Caldas (Colombia)
 * Universidad Pablo de Olavide (Spain)
 * Universidade do Minho (Portugal)

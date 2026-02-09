@@ -10,9 +10,9 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* We are pleased to announce that LA Referencia has joined the Barcelona Declaration on Open Research Information as a supporter - [read more](/20260204_la_referencia_joins_barcelona_declaration_as_supporter)
+* Public webinar 'Open Research Information in Action: Institutional Journeys Towards Open Systems' - recording now available  [read more](/20260208_barcelona_webinar_institutional_journeys) 
 
-* 2025 In Review - as we step into 2026, we are taking a moment to reflect on what 2025 has meant for the Barcelona Declaration on Open Research Information. - [read more](/20260109_barcelona_declaration_2025_in_review) 
+* We are pleased to announce that LA Referencia has joined the Barcelona Declaration on Open Research Information as a supporter - [read more](/20260204_la_referencia_joins_barcelona_declaration_as_supporter)
 
 
 

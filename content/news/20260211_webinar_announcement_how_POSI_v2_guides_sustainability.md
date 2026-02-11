@@ -63,7 +63,7 @@ Professionals involved with these tools and systems (librarians, IT departments,
 - Q&A
 - Closing & next steps
 
-Moderators: **Bianca Kramer** (Barcelona Declaration) and **Ginny Hendricks** (Barcelona Declaration Steering Group member and POSI Adopter)
+Moderators: **Bianca Kramer** (Executive Director, Barcelona Declaration) and **Ginny Hendricks** (Steering Group, Barcelona Declaration and POSI adopter, Crossref)
 
 {{< rawhtml >}}
 </br>

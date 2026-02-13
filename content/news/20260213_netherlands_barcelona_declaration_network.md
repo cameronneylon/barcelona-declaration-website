@@ -107,3 +107,25 @@ Although not all members can directly influence institutional ranking data pract
 ### Would you like to get involved?
 
 A recurring theme throughout the meeting was the value of learning from each other’s concrete implementation choices. While transitions are happening at different speeds and in different ways, the Barcelona Declaration network provides a space to share lessons learned and coordinate where appropriate.
+
+
+{{< rawhtml >}}
+<div class="well ">
+<p>
+If you would like to learn more and get involved, consider the following:
+</p>
+<ul>
+  <li><h4>Join the Netherlands Barcelona Declaration Network</h4>
+  If your institution is not yet a signatory but would benefit from participating, contact <a href="https://www.rug.nl/staff/a.ranitovic/?lang=en">Ana Ranitovic</a> to get involved.
+The Barcelona Declaration also has <a href="https://barcelona-declaration.org/national_networks/">National Networks</a> in Italy and the German speaking countries. 
+</li>
+  <li><h4>Discover the Dutch <a href="https://communities.surf.nl/en/open-research-information/article/from-pid-to-portal-strengthening-the-open-research-information">PID to Portal</a> project</h4>
+  Learn how our network contributes to this initiative by improving the monitoring of open research information and strengthening the governance of the Netherlands Research Portal.</li>
+  <li><h4>Contribute to the <a href="https://doi.org/10.5281/zenodo.14054244">Paris Roadmap to Open Research Information</a></h4>
+  Help shape the future of open research information by getting involved in the implementation of the international roadmap though the <a href = "https://barcelona-declaration.org/working_groups/">Barcelona Declaration working groups</a>.</li>
+  <li><h4>Explore the Dutch Strategic Plan for an Integrated Infrastructure for Open Science <a href ="https://www.universiteitenvannederland.nl/actueel/nieuws/denk-mee-over-de-nederlandse-open-science-infrastructuur">(SPII)</a></h4>
+  Read about SPII and <a hfef="https://www.surf.nl/nieuws/open-science-in-nederland-krijgt-flinke-boost-dankzij-financiering-voor-45-projecten">OSNL-funded open science infrastructure projects</a>, including Broccoli, the Dutch hub for healthy open research information.
+</li>
+</ul>
+</div>
+{{< /rawhtml >}}

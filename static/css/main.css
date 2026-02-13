@@ -75,6 +75,7 @@ button:hover {
 .well.home {
     background-color: #e8e6e4;
     text-align: left;
+    font-size: 14px;
 }
 
 @media (prefers-color-scheme: dark) {

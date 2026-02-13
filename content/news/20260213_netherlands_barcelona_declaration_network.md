@@ -1,6 +1,6 @@
 +++ 
 title = "Looking ahead to 2026: key priorities of the Netherlands Barcelona Declaration Network"
-date = 2026-02-11
+date = 2026-02-13
 summary = "In late 2025, the Netherlands Barcelona Declaration Network met in Leiden to reflect and set priorities for 2026. This blog outlines those priorities and highlights how the growing network of universities, funders, and research infrastructures advances open, community-governed research information."
 comments = false 
 aliases = ["/20260213_netherlands_barcelona_declaration_network"]

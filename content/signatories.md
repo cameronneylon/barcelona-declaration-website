@@ -152,6 +152,7 @@ Organizations performing, funding or evaluating research
 {{< /rawhtml >}}
 **Other organizations**
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
+* Consortium Couperin (France)  
 * Data Observatory Foundation (Chile)
 * Deutsche Initiative für Netzwerkinformation e. V. - DINI (Germany)
 * Digital Competence Center for Practice-Oriented Research - DCC-PO (Netherlands)

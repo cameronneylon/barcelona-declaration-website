@@ -78,6 +78,7 @@ Organizations performing, funding or evaluating research
 **France**
 * Aix-Marseille Université
 * ANRS MIE
+* Consortium Couperin
 * French National Research Agency - ANR
 * French Open Science Committee
 * Nantes Université

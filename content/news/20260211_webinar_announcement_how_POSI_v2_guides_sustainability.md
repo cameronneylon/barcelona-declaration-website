@@ -24,7 +24,7 @@ Speakers will reflect on how the principles support governance, funding, and lon
 {{< /rawhtml >}}
 
 * **Date**: Monday, 2 March 2026
-* **Time**: 14:00–15:15 CET
+* **Time**: 15:00–16:15 CET
 * **Format**: Online
 * **Registration**: https://us06web.zoom.us/meeting/register/Mfab2HcEQVqzDFdy4epbbA  
 

@@ -65,7 +65,7 @@ Rather than focusing on ideal models, the conversation centred on lived practice
 
 All webinar materials are openly available:
 
-🎥 Webinar recordings: [Barcelona Declaration YouTube channel](https://youtu.be/lKzPY_pjDCU) and TIB AV-Portal  
+🎥 Webinar recordings: [Barcelona Declaration YouTube channel](https://youtu.be/lKzPY_pjDCU) and [TIB AV-Portal](https://doi.org/10.5446/72340)  
 📄 Presenters’ slide decks: [Barcelona Declaration Zenodo community](https://doi.org/10.5281/zenodo.18405400)
 
 We warmly thank all speakers for their openness in sharing both progress and challenges, and all participants for contributing to a rich, engaged discussion. These exchanges are a core part of the collective learning process that underpins the transition towards open research information.

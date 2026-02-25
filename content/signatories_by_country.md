@@ -106,6 +106,7 @@ Organizations performing, funding or evaluating research
 * Otto-Friedrich-Universität Bamberg
 * TIB - Leibniz Information Centre for Science and Technology and University Library
 * University of Göttingen
+* University of Münster
 
 **Greece**
 * Athena Research Center

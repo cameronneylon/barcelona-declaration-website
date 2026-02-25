@@ -111,6 +111,7 @@ Organizations performing, funding or evaluating research
 * University of Groningen (Netherlands)
 * University of Maribor (Slovenia)
 * University of Milan (Italy)
+* University of Münster (Germany)
 * University of Poitiers (France)
 * University of Ss. Cyril and Methodius in Trnava (Slovakia)
 * University of Tetova (North Macedonia)

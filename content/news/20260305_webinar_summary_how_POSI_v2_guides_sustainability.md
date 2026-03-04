@@ -97,7 +97,7 @@ At the same time, POSI does not impose a single operational model. As **Lucy Ofi
 
 ### From values to decisions
 
-Speakers shared how POSI influences real organizational choices. **Matthew Buys (Executive Director, DataCite)** emphasized:
+Speakers shared how POSI influences real organizational choices. **Matt Buys (Executive Director, DataCite)** emphasized:
 
 >“POSI helps organizations more clearly demonstrate how they live the values of open scholarly infrastructure.”
 

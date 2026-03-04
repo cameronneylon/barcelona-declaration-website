@@ -72,6 +72,7 @@ Organizations performing, funding or evaluating research
 * Fundación Openlab Ecuador 
 
 **Finland**
+* CSC - IT Center for Science Ltd
 * Federation of Finnish Learned Societies  - TSV
 * University of Turku
 
@@ -106,6 +107,7 @@ Organizations performing, funding or evaluating research
 * Otto-Friedrich-Universität Bamberg
 * TIB - Leibniz Information Centre for Science and Technology and University Library
 * University of Göttingen
+* University of Münster
 
 **Greece**
 * Athena Research Center

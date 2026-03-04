@@ -111,6 +111,7 @@ Organizations performing, funding or evaluating research
 * University of Groningen (Netherlands)
 * University of Maribor (Slovenia)
 * University of Milan (Italy)
+* University of Münster (Germany)
 * University of Poitiers (France)
 * University of Ss. Cyril and Methodius in Trnava (Slovakia)
 * University of Tetova (North Macedonia)
@@ -152,7 +153,8 @@ Organizations performing, funding or evaluating research
 {{< /rawhtml >}}
 **Other organizations**
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
-* Consortium Couperin (France)  
+* Consortium Couperin (France)
+* CSC - IT Center for Science Ltd (Finland)
 * Data Observatory Foundation (Chile)
 * Deutsche Initiative für Netzwerkinformation e. V. - DINI (Germany)
 * Digital Competence Center for Practice-Oriented Research - DCC-PO (Netherlands)

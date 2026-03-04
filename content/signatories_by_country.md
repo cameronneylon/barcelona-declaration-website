@@ -72,6 +72,7 @@ Organizations performing, funding or evaluating research
 * Fundación Openlab Ecuador 
 
 **Finland**
+* CSC - IT Center for Science Ltd
 * Federation of Finnish Learned Societies  - TSV
 * University of Turku
 

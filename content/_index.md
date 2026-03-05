@@ -10,14 +10,9 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* Webinar summary (March 2 2026): How POSI v2 Guides the Sustainability of Open Infrastructure Organisations[read more](20260305_webinar_summary_how_POSI_v2_guides_sustainability)
+
 * Looking ahead to 2026: key priorities of the Netherlands Barcelona Declaration Network [read more](/20260213_netherlands_barcelona_declaration_network)
-
-* Webinar announcement (March 2 2026): How POSI v2 Guides the Sustainability of Open Infrastructure Organisations [read more](/20260211_webinar_announcement_how_POSI_v2_guides_sustainability)  
-
-* Public webinar 'Open Research Information in Action: Institutional Journeys Towards Open Systems' - recording now available  [read more](/20260208_barcelona_webinar_institutional_journeys) 
-
-* We are pleased to announce that LA Referencia has joined the Barcelona Declaration on Open Research Information as a supporter - [read more](/20260204_la_referencia_joins_barcelona_declaration_as_supporter)
-
 
 
 {{< rawhtml >}}

@@ -3,7 +3,7 @@ title = "From principles to practice: What POSI 2.0 means for sustainable open i
 date = 2026-03-05
 summary = "How do shared principles actually reshape governance, funding models, and everyday decisions inside open scholarly infrastructures? This question framed our recent webinar, organized in light of the Principles of Open Scholarly Infrastructure (POSI) 2.0."
 comments = false 
-aliases = ["/20260305_webinar_summary_how_POSI_v2_guides_sustainability"]
+aliases = ["/20260305_webinar_summary_how_POSI_v2_guides_sustainability", "/news/20260305_webinar_summary_how_POSI_v2_guides_sustainability/","/20260305_webinar_summary_how_POSI_v2_guides_sustainability/"]
 +++
 
 March 5, 2026

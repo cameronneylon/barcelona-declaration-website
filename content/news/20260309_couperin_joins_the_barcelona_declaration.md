@@ -13,7 +13,7 @@ March 9, 2026
 </br>
 {{< /rawhtml >}}
 
-We are pleased to welcome Couperin as a new signatory of the Barcelona Declaration on Open Research Information.
+We are pleased to welcome [Couperin](https://www.couperin.org/) as a new signatory of the Barcelona Declaration on Open Research Information.
 
 Couperin is a French consortium bringing together more than 250 higher education and research institutions. It coordinates national negotiations for access to scientific and technical digital resources and supports collaboration across its member institutions.
 

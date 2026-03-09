@@ -9,7 +9,24 @@ aliases = ["/20260309_couperin_joins_the_barcelona_declaration"]
 March 9, 2026
 
 {{< rawhtml >}}
-<hr class="small">
+<table border="0">
+    <tr>
+        <td style="width:25%" border="0">
+        </td>
+        <td style="width:50%" border="0">
+            <a href="/images/couperin_welcome.png" target="_blank">
+            <picture>
+            <img src = "/images/couperin_welcome.png" alt = "Light yellow background with line drawing of a handshake, showing two hands under the text 'Bonjour Couperin - Couperin is a signatory of the Barcelona Declaration on Open Research Information'. Underneath the image are the two logos of the Barcelona Declaration and Couperin.">
+            </picture>
+             </a>
+        </td>
+        <td style="width:25%" border="0">
+        </td>
+    </tr>
+</table>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
 

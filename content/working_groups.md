@@ -45,7 +45,7 @@ This topic represents an interest in the general program of expanding the set of
 The focus of this working group is on improving the availability of funding metadata. The group will organize a workshop with vendors, publishers and funders to discuss how submission and production systems can better support the registration of grant metadata and will produce a set of resources to show how funders are making grant metadata available for advocacy and for improving the use of standards.
 
 **Working group 4 - Replacing closed systems for research information**  
-*Coordinators: Amélie Church (Sorbonne Université) and Ignasi Labastida (Universitat de Barcelona)*
+*Coordinators: Ignasi Labastida (Universitat de Barcelona), Matthijs de Zwaan (Vrije Universiteit Amsterdam)*
 
 This working group focuses on pathways for the adoption of open research information systems. This requires coordination of action, for instance with regard to canceling subscriptions to closed infrastructures. Capacity building and training is a further need to support a transition away from existing systems and expertises, which is often challenging in an institutional context. Actions of this working group include developing and distributing a survey to make an inventory of user stories and organizing access to required training to support the active use of open research information.
 

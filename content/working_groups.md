@@ -9,7 +9,7 @@ comments = false
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}
-## Overvief of working groups
+## Overview of working groups
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}

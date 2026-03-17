@@ -45,6 +45,7 @@ Organizations performing, funding or evaluating research
 * European Organization for Nuclear Research - CERN (Switzerland)
 * Galicia Supercomputing Center (Spain)
 * Hamburg University of Technology (Germany)
+* Harokopio University of Athens (Greece)
 * Hellenic Mediterranean University (Greece)
 * Hugo Grotius GmbH (Germany)
 * Ibn Tofaïl University (Morocco)

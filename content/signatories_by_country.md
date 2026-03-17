@@ -111,6 +111,7 @@ Organizations performing, funding or evaluating research
 
 **Greece**
 * Athena Research Center
+* Harokopio University of Athens
 * Hellenic Academic Libraries Link
 * Hellenic Mediterranean University
 

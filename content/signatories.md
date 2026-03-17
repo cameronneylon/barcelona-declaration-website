@@ -106,6 +106,7 @@ Organizations performing, funding or evaluating research
 * Université Toulouse 3 Paul Sabatier (France)
 * Universities of the Netherlands - UNL (Netherlands)
 * University of Amsterdam (Netherlands)
+* University of Bern (Switzerland)
 * University of Bristol (United Kingdom)
 * University of Coimbra (Portugal)
 * University of Göttingen (Germany)

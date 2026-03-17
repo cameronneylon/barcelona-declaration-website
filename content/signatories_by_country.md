@@ -212,6 +212,7 @@ Organizations performing, funding or evaluating research
 * European Organization for Nuclear Research - CERN
 * Swiss Reproducibility Network - SwissRN
 * University of Zurich
+* University of Bern
 
 **Turkey**
 * Izmir Institute of Technology

@@ -111,6 +111,7 @@ Organizations performing, funding or evaluating research
 
 **Greece**
 * Athena Research Center
+* Harokopio University of Athens
 * Hellenic Academic Libraries Link
 * Hellenic Mediterranean University
 
@@ -211,6 +212,7 @@ Organizations performing, funding or evaluating research
 * European Organization for Nuclear Research - CERN
 * Swiss Reproducibility Network - SwissRN
 * University of Zurich
+* University of Bern
 
 **Turkey**
 * Izmir Institute of Technology

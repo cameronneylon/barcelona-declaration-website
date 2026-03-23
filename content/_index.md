@@ -10,11 +10,11 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* Barcelona Declaration working groups now have their own section on the Barcelona Declaration website [read more](https://working-groups.barcelona-declaration.org/)
+
 * We are pleased to welcome Couperin as a new signatory of the Barcelona Declaration on Open Research Information [read more](/20260309_couperin_joins_the_barcelona_declaration)
 
 * Webinar summary (March 2 2026): How POSI v2 Guides the Sustainability of Open Infrastructure Organisations [read more](/20260305_webinar_summary_how_POSI_v2_guides_sustainability)
-
-* Looking ahead to 2026: key priorities of the Netherlands Barcelona Declaration Network [read more](/20260213_netherlands_barcelona_declaration_network)
 
 
 {{< rawhtml >}}

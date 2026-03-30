@@ -48,6 +48,7 @@ Organizations performing, funding or evaluating research
 
 **Brazil**
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict
+* Universidade Federal de Goiás
 * Universidade Federal Fluminense
 * GO FAIR Brazil Health
 

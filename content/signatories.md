@@ -83,6 +83,7 @@ Organizations performing, funding or evaluating research
 * Universidad Distrital Francisco José de Caldas (Colombia)
 * Universidad Pablo de Olavide (Spain)
 * Universidade do Minho (Portugal)
+* Universidade Federal de Goiás (Brazil)
 * Universidade Federal Fluminense (Brazil)
 * Universidade Lusófona (Portugal)
 * Universidad Rey Juan Carlos (Spain)

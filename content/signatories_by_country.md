@@ -123,7 +123,10 @@ Organizations performing, funding or evaluating research
 * Regione Toscana
 * Università di Bologna
 * University of Milan
-
+  
+**Ireland**
+* University of Galway
+  
 **Mexico**
 * Universidad Autónoma Metropolitana
 

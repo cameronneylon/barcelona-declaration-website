@@ -248,6 +248,7 @@ Organizations providing data, services and infrastructure
 * Reviewer Credits
 * The Association of Lithuanian Serials
 * Thoth Open Metadata
+* TSOSI
 * Ubiquity
 * VIVO
 * World Data System

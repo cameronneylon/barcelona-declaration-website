@@ -14,8 +14,6 @@ comments = false
 
 * We are pleased to welcome Couperin as a new signatory of the Barcelona Declaration on Open Research Information [read more](/20260309_couperin_joins_the_barcelona_declaration)
 
-* Webinar summary (March 2 2026): How POSI v2 Guides the Sustainability of Open Infrastructure Organisations [read more](/20260305_webinar_summary_how_POSI_v2_guides_sustainability)
-
 
 {{< rawhtml >}}
 </br>

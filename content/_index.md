@@ -10,9 +10,9 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* Barcelona Declaration working groups now have their own section on the Barcelona Declaration website [read more](https://working-groups.barcelona-declaration.org/)
+* New report from Working Group 'Sustaining Infrastructures' [read more](/20260402_working_group_sustaining_infrastructures_report/)
 
-* We are pleased to welcome Couperin as a new signatory of the Barcelona Declaration on Open Research Information [read more](/20260309_couperin_joins_the_barcelona_declaration)
+* Barcelona Declaration working groups now have their own section on the Barcelona Declaration website [read more](https://working-groups.barcelona-declaration.org/)
 
 
 {{< rawhtml >}}

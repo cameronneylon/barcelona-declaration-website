@@ -48,6 +48,7 @@ Organizations performing, funding or evaluating research
 
 **Brazil**
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict
+* Universidade Federal de Goiás
 * Universidade Federal Fluminense
 * GO FAIR Brazil Health
 
@@ -122,7 +123,10 @@ Organizations performing, funding or evaluating research
 * Regione Toscana
 * Università di Bologna
 * University of Milan
-
+  
+**Ireland**
+* University of Galway
+  
 **Mexico**
 * Universidad Autónoma Metropolitana
 

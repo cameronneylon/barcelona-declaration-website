@@ -83,6 +83,7 @@ Organizations performing, funding or evaluating research
 * Universidad Distrital Francisco José de Caldas (Colombia)
 * Universidad Pablo de Olavide (Spain)
 * Universidade do Minho (Portugal)
+* Universidade Federal de Goiás (Brazil)
 * Universidade Federal Fluminense (Brazil)
 * Universidade Lusófona (Portugal)
 * Universidad Rey Juan Carlos (Spain)
@@ -109,6 +110,7 @@ Organizations performing, funding or evaluating research
 * University of Bern (Switzerland)
 * University of Bristol (United Kingdom)
 * University of Coimbra (Portugal)
+* University of Galway (Ireland)
 * University of Göttingen (Germany)
 * University of Groningen (Netherlands)
 * University of Maribor (Slovenia)
@@ -247,6 +249,7 @@ Organizations providing data, services and infrastructure
 * Reviewer Credits
 * The Association of Lithuanian Serials
 * Thoth Open Metadata
+* TSOSI
 * Ubiquity
 * VIVO
 * World Data System

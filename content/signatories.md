@@ -66,6 +66,7 @@ Organizations performing, funding or evaluating research
 * Nantes Université (France) 
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Pattern Institute (Portugal)
+* Royal Netherlands Academy of Arts and Sciences - KNAW (Netherlands)
 * Scholarly Communications Lab (Canada)
 * Scuola Normale Superiore - SNS (Italy)
 * Simon Fraser University (Canada)

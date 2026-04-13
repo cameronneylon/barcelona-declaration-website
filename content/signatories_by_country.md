@@ -141,6 +141,7 @@ Organizations performing, funding or evaluating research
 * KB, National library of the Netherlands
 * Leiden University
 * Netherlands eScience Center
+* Royal Netherlands Academy of Arts and Sciences - KNAW
 * SURF
 * Taskforce for Applied Research SIA
 * The Netherlands Association of Universities of Applied Sciences - Vereniging Hogescholen

@@ -191,6 +191,7 @@ Organizations performing, funding or evaluating research
 * Fundación "la Caixa"
 * Galicia Supercomputing Center
 * Institut Català d'Arqueologia Clàssica - ICAC-CERCA
+* Institut de Recerca Biomèdica de Lleida Fundació Dr. Pifarré - IRBLleida
 * Instituto Interuniversitario de Investigación Avanzada sobre Evaluación de la Ciencia y la Universidad - INAECU
 * Museu de Ciències Naturals de Barcelona
 * Spanish National Research Council - CSIC

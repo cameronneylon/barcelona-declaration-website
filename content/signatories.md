@@ -145,6 +145,7 @@ Organizations performing, funding or evaluating research
 * Fundació Internacional Josep Carreras (Spain)
 * Fundación "la Caixa" (Spain)
 * Fundación MenteClara Internacional (Argentina)
+* Institut de Recerca Biomèdica de Lleida Fundació Dr. Pifarré - IRBLleida (Spain)
 * Région Normandie (France)
 * Regione Emilia-Romagna (Italy)
 * Regione Toscana (Italy)

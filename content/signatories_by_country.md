@@ -63,6 +63,9 @@ Organizations performing, funding or evaluating research
 * Universidad de Antioquia
 * Universidad Distrital Francisco José de Caldas
 
+**Costa Rica**
+* Universidad Nacional
+
 **Czech Republic**
 * Charles University
 

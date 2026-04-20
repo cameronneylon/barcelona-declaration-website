@@ -63,6 +63,8 @@ The French national network of signatories to the Barcelona Declaration brings t
 
 Contact: Nicolas Alarcon (Sorbonne University) ([e-mail](nicolas.alarcon@sorbonne-universite.fr))
 
+{{< rawhtml >}}
+
 <button style="float:left" onclick="document.location='/infographic'">&larr; Infographic</button> 
 
 <button style="float:right" onclick="document.location='/translations'">Translations &rarr;</button> 

@@ -87,6 +87,7 @@ Organizations performing, funding or evaluating research
 * Universidade Federal de Goiás (Brazil)
 * Universidade Federal Fluminense (Brazil)
 * Universidade Lusófona (Portugal)
+* Universidad Nacional (Costa Rica)
 * Universidad Rey Juan Carlos (Spain)
 * Università di Bologna (Italy)
 * Universitat Autònoma de Barcelona (Spain)

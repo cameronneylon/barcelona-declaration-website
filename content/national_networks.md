@@ -54,8 +54,14 @@ The Italian Node brings together universities, a regional government, and a cult
 Contact: Paola Galimberti (University of Milan) ([e-mail](paola.galimberti@unimi.it))
 
 {{< rawhtml >}}
+<br>
+{{< /rawhtml >}}
 
+### 4. France / Barcelona Declaration French Signatories Network
 
+The French national network of signatories to the Barcelona Declaration brings together universities, regional and national funders, and other organizations involved in research to support the implementation of the Declaration's principles. It provides a space to exchange experiences, share practices, and coordinate efforts to advance the use of open research information. The network is open to both current and prospective signatories and meets at least twice a year.
+
+Contact: Nicolas Alarcon (Sorbonne University) ([e-mail](nicolas.alarcon@sorbonne-universite.fr))
 
 <button style="float:left" onclick="document.location='/infographic'">&larr; Infographic</button> 
 

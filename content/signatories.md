@@ -204,6 +204,7 @@ Organizations providing data, services and infrastructure
 * Academy of Science of South Africa - ASSAf
 * Africa PID Alliance
 * AmeliCA Ciencia Abierta
+* Anestezija Association
 * Capitolo italiano di Creative Commons
 * Confederation of Open Access Repositories - COAR
 * Crossref 

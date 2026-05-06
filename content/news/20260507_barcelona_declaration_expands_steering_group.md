@@ -19,7 +19,7 @@ Three new members have been appointed: **Daniela Perrotta** ([CLACSO](https://ww
 
 This expansion reflects the continued growth of the Barcelona Declaration and the need to bring together diverse perspectives to support its next phase.
 
-The Barcelona Declaration [Steering Group](https://barcelona-declaration.org/about/) plays a central role in guiding the strategic direction of the Declaration, supporting its development as a globally engaged initiative, and helping to shape priorities and coordinated efforts across the community.
+The [Barcelona Declaration Steering Group](https://barcelona-declaration.org/about/) plays a central role in guiding the strategic direction of the Declaration, supporting its development as a globally engaged initiative, and helping to shape priorities and coordinated efforts across the community.
 
 {{< rawhtml >}}
 </br>

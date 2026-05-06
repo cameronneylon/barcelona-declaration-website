@@ -219,6 +219,7 @@ Organizations performing, funding or evaluating research
 
 **Switzerland**
 * European Organization for Nuclear Research - CERN
+* St. Gallen University of Teacher Education
 * Swiss Reproducibility Network - SwissRN
 * University of Zurich
 * University of Bern

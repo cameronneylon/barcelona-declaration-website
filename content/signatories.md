@@ -74,6 +74,7 @@ Organizations performing, funding or evaluating research
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)
 * Stockholm University (Sweden)
+* St. Gallen University of Teacher Education (Switzerland)
 * The Netherlands Association of Universities of Applied Sciences - Vereniging Hogescholen (Netherlands)
 * Udice - French Research Universities (France)
 * UiT - The Arctic University of Norway (Norway)
@@ -203,6 +204,7 @@ Organizations providing data, services and infrastructure
 * Academy of Science of South Africa - ASSAf
 * Africa PID Alliance
 * AmeliCA Ciencia Abierta
+* Anestezija Association
 * Capitolo italiano di Creative Commons
 * Confederation of Open Access Repositories - COAR
 * Crossref 

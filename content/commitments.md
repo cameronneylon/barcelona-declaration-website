@@ -16,7 +16,7 @@ comments = false
 ## 1
 
 **We will make openness the default for the research information
-we use and produce**
+we use and produce.**
 
 * Openness will be the norm for the research information we use, for instance to assess researchers and institutions, to support strategic decision making, and to find relevant research outputs.
 

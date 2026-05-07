@@ -4,7 +4,7 @@ date = 2024-01-14T10:51:15+08:00
 comments = false
 +++
 
-# Latest updates
+# Latest updates.
 {{< rawhtml >}}
 <hr class="small">
 </br>

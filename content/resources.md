@@ -14,7 +14,7 @@ Image resources for signatories and supporters are linked from this page.
 
 ### Commitments
 
-Images containing the commitments
+Images containing the commitments.
 
 {{< rawhtml >}}
 <table>

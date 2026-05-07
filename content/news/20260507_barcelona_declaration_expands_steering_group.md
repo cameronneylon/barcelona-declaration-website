@@ -1,12 +1,12 @@
 +++ 
 title = "Barcelona Declaration expands its Steering Group"
-date = 2026-05-08
+date = 2026-05-07
 summary = "We are pleased to announce an expansion of the Steering Group of the Barcelona Declaration on Open Research Information."
 comments = false 
 aliases = ["/20260507_barcelona_declaration_expands_steering_group"]
 +++
 
-May 8, 2026
+May 7, 2026
 
 {{< rawhtml >}}
 <hr class="small">

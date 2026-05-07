@@ -62,8 +62,11 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        #uses: actions/upload-pages-artifact@v3
+        #replace with @v5 and add include_hidden_files tag
+        uses: actions/upload-pages-artifact@v5
         with:
+          include-hidden-files: true 
           path: ./public
 
   # Deployment job

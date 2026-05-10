@@ -26,11 +26,14 @@ In January 2025, CWTS, Crossref and SIRIS Foundation signed an <a href="https://
 <p></p>
 <h4>Steering Group</h4>
 <ul>
-  <li>Cameron Neylon (independent)</li>
-  <li>Ludo Waltman (Centre for Science and Technology Studies – CWTS, Leiden University)</li>
-  <li>Ginny Hendricks (Crossref)</li>
+  <li>Miranda Bennett (Calfornia Digital Library)</li>
+  <li>Beatrix Busse / Nicoleta Laura Popa (Coimbra Group)</li>
   <li>Amélie Church (Sorbonne Université)</li>
+  <li>Ginny Hendricks (Crossref)</li>
+  <li>Cameron Neylon (independent)</li>
   <li>Bernardo Rondelli (SIRIS Foundation)</li>
+  <li>Daniela Perrota (CLACSO)</li>
+  <li>Ludo Waltman (Centre for Science and Technology Studies – CWTS, Leiden University)</li>
 </ul>
 <p></p>
 <p></p>

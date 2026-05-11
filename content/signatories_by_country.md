@@ -236,6 +236,7 @@ Organizations performing, funding or evaluating research
 * Loughborough University
 * UK Reproducibility Network - UKRN
 * University of Bristol
+* University of Edinburgh
 * Wellcome Trust
 
 **United States**

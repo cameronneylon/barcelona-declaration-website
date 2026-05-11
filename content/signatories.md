@@ -114,6 +114,7 @@ Organizations performing, funding or evaluating research
 * University of Bern (Switzerland)
 * University of Bristol (United Kingdom)
 * University of Coimbra (Portugal)
+* University of Edinburgh (United Kingdom)
 * University of Galway (Ireland)
 * University of Göttingen (Germany)
 * University of Groningen (Netherlands)

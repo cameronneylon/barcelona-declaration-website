@@ -1,5 +1,5 @@
 +++ 
-title = "Exploring sustainability of open research infrastructures - report from Barcelona Declaration Working Group 'Sustaining Infrastructures"
+title = "Exploring sustainability of open research infrastructures - report from Barcelona Declaration Working Group 'Sustaining Infrastructures'"
 date = 2026-04-02
 summary = "A new publication from the Barcelona Declaration Working Group 'Sustaining Infrastructures' brings together insights from two stakeholder sessions focused on the sustainability of open research information infrastructures."
 comments = false 

@@ -11,6 +11,8 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* Expansion of the Steering Group of the Barcelona Declaration on Open Research Information [read more](/20260511_barcelona_declaration_expands_steering_group/)
+
 * New report from Working Group 'Sustaining Infrastructures' [read more](/20260402_working_group_sustaining_infrastructures_report/)
 
 * Barcelona Declaration working groups now have their own section on the Barcelona Declaration website [read more](https://working-groups.barcelona-declaration.org/)

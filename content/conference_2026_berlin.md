@@ -43,7 +43,7 @@ comments = false
 {{< /rawhtml >}}
 
 
-We are pleased to announce the **2026 Conference of the Barcelona Declaration on Open Research Information**, organized by the **Barcelona Declaration** together with the **Leibniz Association** and the **Helmholtz Open Science Office**.
+We are pleased to announce the **2026 Conference of the Barcelona Declaration on Open Research Information**, organized by the *Barcelona Declaration* together with the *Leibniz Association* and the *Helmholtz Open Science Office*.
 
 The conference will bring together the international community of signatories, supporters, and other stakeholders, creating a space to **advance open research information across institutional contexts** and **explore how to align policy and practical implementation**.
 

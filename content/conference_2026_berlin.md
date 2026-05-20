@@ -14,7 +14,7 @@ comments = false
 {{< /rawhtml >}}
 
 📅 24–25 November 2026  
-📍[Leibniz Association Headquarters](https://www.openstreetmap.org/node/3357928493), Chausseestraße 111, Berlin  
+📍[Leibniz Association Headquarters, Chausseestraße 111, Berlin](https://www.openstreetmap.org/node/3357928493)  
 👥 In person / online   
  
 {{< rawhtml >}}

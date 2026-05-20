@@ -9,6 +9,7 @@ aliases = ["/20260309_couperin_joins_the_barcelona_declaration"]
 March 9, 2026
 
 {{< rawhtml >}}
+<link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table border="0">
     <tr>
         <td style="width:25%" border="0">

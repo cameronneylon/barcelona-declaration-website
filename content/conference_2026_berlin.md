@@ -24,9 +24,9 @@ comments = false
 
 
 {{< rawhtml >}}
-<table border="0">
+<table border=n one>
     <tr>
-        <td style="width:25%" border=none>
+        <td style="width:25%" border= none>
         </td>
         <td style="width:50%" border=none>
             <a href="/images/bd_2026_conference_announcement.png" target="_blank">
@@ -35,7 +35,7 @@ comments = false
             </picture>
              </a>
         </td>
-        <td style="width:25%" border=none>
+        <td style="width:25%" border= none>
         </td>
     </tr>
 </table>

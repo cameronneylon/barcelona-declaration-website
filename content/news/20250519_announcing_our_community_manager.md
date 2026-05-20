@@ -25,6 +25,7 @@ As commmunity manager, Bárbara will have a pivotal role in the implementation o
 
 
 {{< rawhtml >}}
+<link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table border="0">
     <tr>
         <td style="width:20%" border="0">

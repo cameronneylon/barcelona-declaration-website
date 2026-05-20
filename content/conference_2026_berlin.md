@@ -24,7 +24,7 @@ comments = false
 
 
 {{< rawhtml >}}
-<table border= none>
+<table cellspacing="0" cellpadding="0" border= none>
     <tr>
         <td style="width:25%" border= none>
         </td>

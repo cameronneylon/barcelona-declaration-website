@@ -114,11 +114,17 @@ enableRobotsTXT = true
     name = "Paris Conference (Sept 2024)"
     url = "conference_2024_paris/"
     parent = "conference"
-    weight = 2
+    weight = 3
     
 [[menu.main]]
     name = "Bologna - WOOC 2025 (May 2025)"
     url = "conference_2025_bologna/"
+    parent = "conference"
+    weight = 2 
+    
+[[menu.main]]
+    name = "Berlin Conference (Nov 2026)"
+    url = "conference_2026_berlin/"
     parent = "conference"
     weight = 1 
 

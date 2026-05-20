@@ -26,16 +26,16 @@ comments = false
 {{< rawhtml >}}
 <table border="0">
     <tr>
-        <td style="width:25%" border="0">
+        <td style="width:25%" border=none>
         </td>
-        <td style="width:50%" border="0">
+        <td style="width:50%" border=none>
             <a href="/images/bd_2026_conference_announcement.png" target="_blank">
             <picture>
             <img src = "/images/bd_2026_conference_announcement.png" alt = "Announcement of Barcelona Declaration 2026 Conference 2026 in Berlin. Left half of the image Berlin cityscape in subdued color tone, right half announcement details on purple background. Text: 2026 Conference of the Barcelona Declaration on Open Research Information - Open Research Information in Practice: Implementation Across Contexts. 24-25 November 2026, Leibniz Association Headquarters, Berlin, in person / online. Underneath text, logo's of Barcelona Declaration, Leibniz Association and Helmholtz Open Science Office. ">
             </picture>
              </a>
         </td>
-        <td style="width:25%" border="0">
+        <td style="width:25%" border=none>
         </td>
     </tr>
 </table>

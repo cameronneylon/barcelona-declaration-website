@@ -26,7 +26,7 @@ In January 2025, CWTS, Crossref and SIRIS Foundation signed an <a href="https://
 <p></p>
 <h4>Steering Group</h4>
 <ul>
-  <li>Miranda Bennett (Calfornia Digital Library)</li>
+  <li>Miranda Bennett (California Digital Library)</li>
   <li>Beatrix Busse / Nicoleta Laura Popa (Coimbra Group)</li>
   <li>Amélie Church (Sorbonne Université)</li>
   <li>Ginny Hendricks (Crossref)</li>

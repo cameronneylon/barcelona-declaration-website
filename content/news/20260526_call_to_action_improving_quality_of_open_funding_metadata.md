@@ -1,7 +1,7 @@
 +++ 
 title = " Improving the Quality of Open Funding Metadata: A Call to Action"
 date = 2026-05-26
-summary = "The Working Group on Funding Metadata of the Barcelona Declaration on Open Research Information is pleased to share ‘*Improving the Quality of Open Funding Metadata: A Call to Action*’. The Call to Action outlines the importance of funding metadata, the key barriers affecting its quality and coverage, and a set of recommendations for stakeholders across the scholarly communication ecosystem: publishers, funders, institutions / libraries and infrastructure providers."
+summary = "The Working Group on Funding Metadata of the Barcelona Declaration on Open Research Information is pleased to share Improving the Quality of Open Funding Metadata: A Call to Action. The Call to Action outlines the importance of funding metadata, the key barriers affecting its quality and coverage, and a set of recommendations for stakeholders across the scholarly communication ecosystem: publishers, funders, institutions / libraries and infrastructure providers."
 comments = false 
 aliases = ["/20260526_call_to_action_improving_quality_of_open_funding_metadata"]
 +++

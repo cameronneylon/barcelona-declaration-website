@@ -1,7 +1,7 @@
 +++ 
 title = " Improving the Quality of Open Funding Metadata: A Call to Action"
 date = 2026-05-26
-summary = "The Working Group on Funding Metadata of the Barcelona Declaration on Open Research Information is pleased to share Improving the Quality of Open Funding Metadata: A Call to Action. The Call to Action outlines the importance of funding metadata, the key barriers affecting its quality and coverage, and a set of recommendations for stakeholders across the scholarly communication ecosystem: publishers, funders, institutions / libraries and infrastructure providers."
+summary = "The Working Group on Funding Metadata of the Barcelona Declaration on Open Research Information is pleased to share ‘*Improving the Quality of Open Funding Metadata: A Call to Action*’. The Call to Action outlines the importance of funding metadata, the key barriers affecting its quality and coverage, and a set of recommendations for stakeholders across the scholarly communication ecosystem: publishers, funders, institutions / libraries and infrastructure providers."
 comments = false 
 aliases = ["/20260526_call_to_action_improving_quality_of_open_funding_metadata"]
 +++
@@ -34,7 +34,7 @@ Accompanying the **Call to Action** is a [**background document**](https://doi.o
         <td style="width:50%">
             <a href="/images/call_to_action_funding_metadata.png" target="_blank">
             <picture>
-            <img src = "/images/call_to_action_funding_metadata.png" alt = "">
+            <img src = "/images/call_to_action_funding_metadata.png" alt = "Promotional graphic from the Barcelona Declaration Working Group on Funding Metadata announcing two new documents on open funding metadata. The image features the title ‘Open Funding Information – a Call to Action’ alongside a visual mockup of the publication cover. Supporting text explains that the documents identify key barriers and propose concrete actions for publishers, funders, institutions/libraries, and infrastructures. The design uses the Barcelona Declaration’s purple and yellow branding on a light beige background with abstract network graphics.">
             </picture>
              </a>
         </td>

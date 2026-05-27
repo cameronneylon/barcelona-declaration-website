@@ -87,7 +87,7 @@ As the **Call to Action** notes, meaningful progress does not need to wait for p
 
 - Improving the Quality of Open Funding Metadata: A Call to Action  
 https://doi.org/10.5281/zenodo.20190156  
-- Improving the Quality of Open Funding Metadata: A Call to Action. Background and Detailed Recommendation  
+- Improving the Quality of Open Funding Metadata: A Call to Action. Background and Detailed Recommendations  
 https://doi.org/10.5281/zenodo.20189998
 
 

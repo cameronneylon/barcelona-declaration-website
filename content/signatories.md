@@ -185,6 +185,7 @@ Organizations performing, funding or evaluating research
 * State Scientific and Technical Library of Ukraine (Ukraine)
 * SURF (Netherlands)
 * Swiss Reproducibility Network - SwissRN (Switzerland)
+* The Guild of European Research-Intensive Universities (international)
 * TIB - Leibniz Information Centre for Science and Technology and University Library (Germany)
 * UK Reproducibility Network - UKRN (United Kingdom)
 * West and Central African Research and Education Network - WACREN (international)

@@ -37,6 +37,7 @@ Organizations performing, funding or evaluating research
 * Good Clinical Practice Alliance - GCPA
 * Latin American Council of Social Sciences - CLACSO
 * LIBER
+* The Guild of European Research-Intensive Universities
 * West and Central African Research and Education Network - WACREN
 * Young European Research Universities' Network - YERUN
 

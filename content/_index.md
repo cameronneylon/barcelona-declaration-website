@@ -11,11 +11,11 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* The Guild joins the Barcelona Declaration on Open Research Information [read more](/20260528_the_guild_signs_barcelona_declaration/)
+
 * Improving the Quality of Open Funding Metadata: A Call to Action [read more](/20260526_call_to_action_improving_quality_of_open_funding_metadata/)
 
 * Expansion of the Steering Group of the Barcelona Declaration on Open Research Information [read more](/20260511_barcelona_declaration_expands_steering_group/)
-
-* New report from Working Group 'Sustaining Infrastructures' [read more](/20260402_working_group_sustaining_infrastructures_report/)
 
 
 {{< rawhtml >}}

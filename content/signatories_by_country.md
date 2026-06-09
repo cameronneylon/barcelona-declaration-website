@@ -144,6 +144,7 @@ Organizations performing, funding or evaluating research
 * Dutch Research Council - NWO
 * KB, National library of the Netherlands
 * Leiden University
+* Maastricht University
 * Netherlands eScience Center
 * Royal Netherlands Academy of Arts and Sciences - KNAW
 * SURF

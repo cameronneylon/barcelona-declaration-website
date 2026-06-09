@@ -62,6 +62,7 @@ Organizations performing, funding or evaluating research
 * Leibniz Association (Germany)
 * Leiden University (Netherlands)
 * Loughborough University (United Kingdom)
+* Maastricht University (Netherlands)
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
 * Museu de Ciències Naturals de Barcelona (Spain)
 * Nantes Université (France) 

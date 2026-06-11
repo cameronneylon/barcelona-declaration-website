@@ -53,5 +53,5 @@ The conference will bring together the international community of signatories, s
 <hr class="small">
 {{< /rawhtml >}}
 
-📌 Please save the date. More details will follow soon.
+📌 Please save the date. More information about participation and registration will follow soon.
 

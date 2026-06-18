@@ -48,6 +48,7 @@ Organizations performing, funding or evaluating research
 * Austrian Science Fund - FWF
 
 **Brazil**
+* Brazilian Reproducibility Network -BrRN
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict
 * Universidade Federal de Goiás
 * Universidade Federal Fluminense

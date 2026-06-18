@@ -163,6 +163,7 @@ Organizations performing, funding or evaluating research
 <hr class="small">
 {{< /rawhtml >}}
 **Other organizations**
+* Brazilian Reproducibility Network -BrRN (Brazil)
 * Consorci de Serveis Universitaris de Catalunya - CSUC (Spain)
 * Consortium Couperin (France)
 * CSC - IT Center for Science Ltd (Finland)

@@ -62,6 +62,11 @@ We particularly encourage submissions that address the interplay between policy 
 
 [**More information**](https://barcelona-declaration.org/conference_2026_berlin_cfp/) / [**Submission form**](https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1)
 
+{{< rawhtml >}}
+</br>
+<hr class="small">
+{{< /rawhtml >}}
+
 ### Important Dates
 - Call for proposals opens: 1 July  2026
 - Submission deadline: 1 September 2026
@@ -70,6 +75,11 @@ We particularly encourage submissions that address the interplay between policy 
 
 More information on registration will be provided closer to the registration date.  
 The conference will have a maximum capacity of 100 people in person and 300 people online. 
+
+{{< rawhtml >}}
+</br>
+<hr class="small">
+{{< /rawhtml >}}
 
 ### Satellite event
 A dedicated meeting for German-speaking and DACH-region participants is tentatively planned for 26 November 2026 at a separate venue in Berlin. Further details including title and location will be announced in due course.

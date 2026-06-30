@@ -18,7 +18,7 @@ comments = false
 
 - [Submission form](https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1) 
 - Deadline for submission: September 1, 2026
-- Conference dates:  24–25 November 2026  - Berlin (Germany) / online 
+- Conference date and location:  24–25 November 2026  - [Leibniz Association Headquarters, Chausseestraße 111, Berlin](https://www.openstreetmap.org/node/3357928493) / online  
  
 {{< rawhtml >}}
 <hr class="small">

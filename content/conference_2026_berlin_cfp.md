@@ -17,9 +17,8 @@ comments = false
 {{< /rawhtml >}}
 
 - 24–25 November 2026  - Berlin (Germany) / online  
-- Submission form: https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1 
+- [Submission form](https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1) 
 - Deadline for submission: September 1, 2026
-- x
  
 {{< rawhtml >}}
 <hr class="small">
@@ -35,7 +34,7 @@ comments = false
         <td style="width:50%">
             <a href="/images/bd_2026_conderence_cfp.png" target="_blank">
             <picture>
-            <img src = "/images/bd_2026_conference_cfp.png" alt = "Call for Proposals of Barcelona Declaration 2026 Conference 2026 in Berlin. Left half of the image Leibniz Assiociation Headquarters in subdued color tone, right half CfP details on purple background. Text: 2026 Conference of the Barcelona Declaration on Open Research Information Cal for Proposals. Aligning Policy and Practice. We particularly encourage submissions that address the interplay between policy and practice, and how they can reinforce one another in advancing the transition to open research information. Types of contributions: Presentations, Posters. Both may be presented in person and online. Deadline September 1. https://barcelona-declaration.org/conference_2026_berlin/cfp.
+            <img src = "/images/bd_2026_conference_cfp.png" alt = "Call for Proposals of Barcelona Declaration 2026 Conference 2026 in Berlin. Left half of the image Leibniz Assiociation Headquarters in subdued color tone, right half CfP details on purple background. Text: 2026 Conference of the Barcelona Declaration on Open Research Information Cal for Proposals. Aligning Policy and Practice. We particularly encourage submissions that address the interplay between policy and practice, and how they can reinforce one another in advancing the transition to open research information. Types of contributions: Presentations, Posters. Both may be presented in person and online. Deadline September 1. https://barcelona-declaration.org/conference_2026_berlin_cfp.
 24-25 November 2026, Leibniz Association Headquarters, Berlin. Underneath text, logo's of Barcelona Declaration, Leibniz Association and Helmholtz Open Science Office.The image alos contains a QR code leading to the url in the text.">
             </picture>
              </a>

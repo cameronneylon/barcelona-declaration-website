@@ -19,6 +19,7 @@ comments = false
 - 24–25 November 2026  - Berlin (Germany) / online  
 - Submission form: https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1 
 - Deadline for submission: September 1, 2026
+- x
  
 {{< rawhtml >}}
 <hr class="small">

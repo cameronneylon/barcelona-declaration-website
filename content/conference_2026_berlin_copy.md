@@ -60,7 +60,7 @@ We invite proposals for **presentations** and **posters** that share experiences
 
 We particularly encourage submissions that address the interplay between policy and practice, and how they can reinforce one another in advancing the transition to open research information.
 
-[**More information**](https://barcelona-declaration.org/conference_2026_berlin_cfp/) / [**Submission form**](Submission form)
+[**More information**](https://barcelona-declaration.org/conference_2026_berlin_cfp/) / [**Submission form**](https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1
 
 ### Important Dates
 - Call for proposals opens: 1 July  2026
@@ -68,7 +68,8 @@ We particularly encourage submissions that address the interplay between policy 
 - Notification of acceptance: 15 September 2026
 - Conference registration opens: 24 September 2026
 
-More information on registration will be provided closer to the registration date. The conference will have a maximum capacity of 100 people in person and 300 people online. 
+More information on registration will be provided closer to the registration date.  
+The conference will have a maximum capacity of 100 people in person and 300 people online. 
 
 ### Satellite event
 A dedicated meeting for German-speaking and DACH-region participants is tentatively planned for 26 November 2026 at a separate venue in Berlin. Further details including title and location will be announced in due course.

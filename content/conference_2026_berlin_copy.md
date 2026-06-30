@@ -82,4 +82,5 @@ The conference will have a maximum capacity of 100 people in person and 300 peop
 {{< /rawhtml >}}
 
 ### Satellite event
-A dedicated meeting for German-speaking and DACH-region participants is tentatively planned for 26 November 2026 at a separate venue in Berlin. Further details including title and location will be announced in due course.
+A dedicated meeting for German-speaking and DACH-region participants is tentatively planned for 26 November 2026 at a separate venue in Berlin.  
+Further details including title and location will be announced in due course.

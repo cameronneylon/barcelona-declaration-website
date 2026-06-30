@@ -13,11 +13,11 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-📣 *Call for proposals now open!* 
 
 📅 24–25 November 2026  
 📍[Leibniz Association Headquarters, Chausseestraße 111, Berlin](https://www.openstreetmap.org/node/3357928493)  
-👥 In person / online 
+👥 In person / online  
+📣 **Call for proposals now open!** 
  
 {{< rawhtml >}}
 <hr class="small">
@@ -60,7 +60,7 @@ We invite proposals for **presentations** and **posters** that share experiences
 
 We particularly encourage submissions that address the interplay between policy and practice, and how they can reinforce one another in advancing the transition to open research information.
 
-[More information]() / [Submission form]()
+[**More information**](https://barcelona-declaration.org/conference_2026_berlin_cfp/) / [**Submission form**](Submission form)
 
 ### Important Dates
 - Call for proposals opens: 1 July  2026
@@ -68,4 +68,7 @@ We particularly encourage submissions that address the interplay between policy 
 - Notification of acceptance: 15 September 2026
 - Conference registration opens: 24 September 2026
 
+More information on registration will be provided closer to the registration date. The conference will have a maximum capacity of 100 people in person and 300 people online. 
 
+### Satellite event
+A dedicated meeting for German-speaking and DACH-region participants is tentatively planned for 26 November 2026 at a separate venue in Berlin. Further details including title and location will be announced in due course.

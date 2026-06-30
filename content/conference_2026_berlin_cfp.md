@@ -16,9 +16,9 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-- 24–25 November 2026  - Berlin (Germany) / online  
 - [Submission form](https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1) 
 - Deadline for submission: September 1, 2026
+- Conference dates:  24–25 November 2026  - Berlin (Germany) / online 
  
 {{< rawhtml >}}
 <hr class="small">
@@ -59,7 +59,6 @@ The conference will bring together signatories and prospective signatories of th
 We invite proposals for presentations and posters that share experiences, lessons learned,, and reflections on both successes and setbacks related to the adoption and use of open research information across different institutional, national, regional, and international contexts.  
 
 We particularly encourage submissions that address the interplay between policy and practice, and how they can reinforce one another in advancing the transition to open research information.
-
 {{< rawhtml >}}
 </br>
 {{< /rawhtml >}}
@@ -80,16 +79,20 @@ We particularly encourage submissions that address the interplay between policy 
 {{< /rawhtml >}}
 
 ### Types of Contributions
-
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
 #### Presentations
 
-Presentations can be in person or online. Selected presentations will be scheduled as either lightning talks (10 min) or longer presentations (20 min) with additional time for audience questions. 
+Presentations can be in person or online. Selected presentations will be scheduled as either lightning talks (10 min) or longer presentations (20 min) with additional time for audience questions.  
+  
+We will prioritize presentations that address the interplay of policy and practice in the implementation of open research information.  
 
-We will prioritize presentations that address the interplay of policy and practice in the implementation of open research information.
-
-#### Posters
-
-Posters will be displayed at the conference venue and online. Authors will have the opportunity to present their poster in a short pitch session. 
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+#### Posters  
+Posters will be displayed at the conference venue and online. Authors will have the opportunity to present their poster in a short pitch session.  
 
 Posters can present projects, initiatives, experiences, tools, or emerging work related to the conference theme.
 
@@ -129,6 +132,11 @@ We welcome proposals from people and organizations working with or interested in
 
 We particularly encourage contributions reflecting diverse geographic, organizational, and regional perspectives.
 
-We look forward to receiving your proposals and to continuing the conversation on how policy and practice can work together to advance open research information.
+{{< rawhtml >}}
+</br>
+<hr class="small">
+{{< /rawhtml >}}
 
-All proposals will be evaluated based on their relevance to the conference themes, quality, and the overall balance of the program. ***Submission of a proposal does not guarantee acceptance or participation***. 
+*We look forward to receiving your proposals and to continuing the conversation on how policy and practice can work together to advance open research information.*
+
+*All proposals will be evaluated based on their relevance to the conference themes, quality, and the overall balance of the program. ***Submission of a proposal does not guarantee acceptance or participation***.* 

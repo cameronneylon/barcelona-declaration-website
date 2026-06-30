@@ -60,7 +60,7 @@ We invite proposals for **presentations** and **posters** that share experiences
 
 We particularly encourage submissions that address the interplay between policy and practice, and how they can reinforce one another in advancing the transition to open research information.
 
-[**More information**](https://barcelona-declaration.org/conference_2026_berlin_cfp/) / [**Submission form**](https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1
+[**More information**](https://barcelona-declaration.org/conference_2026_berlin_cfp/) / [**Submission form**](https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1)
 
 ### Important Dates
 - Call for proposals opens: 1 July  2026

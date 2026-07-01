@@ -71,7 +71,7 @@ We particularly encourage submissions that address the interplay between policy 
 - Call for proposals opens: 1 July  2026
 - Submission deadline: 1 September 2026
 - Notification of acceptance: 15 September 2026
-- Conference registration opens: 24 September 2026
+- Conference registration opens: 22 September 2026
 
 More information on registration will be provided closer to the registration date.  
 The conference will have a maximum capacity of 100 people in person and between 100-300 people online. 

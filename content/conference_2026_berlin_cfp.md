@@ -122,7 +122,7 @@ Submission form: https://opnform.com/forms/berlin-conference-call-for-proposals-
 - Call for proposals opens: 1 July  2026
 - Submission deadline: 1 September 2026
 - Notification of acceptance: 15 September 2026
-- Conference registration opens: 24 September 2026
+- Conference registration opens: 22 September 2026
 
 {{< rawhtml >}}
 </br>

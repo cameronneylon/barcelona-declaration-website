@@ -17,8 +17,8 @@ comments = false
 {{< /rawhtml >}}
 
 - [Submission form](https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1) 
-- Deadline for submission: September 1, 2026
-- Conference date and location:  24–25 November 2026  - [Leibniz Association Headquarters, Chausseestraße 111, Berlin](https://www.openstreetmap.org/node/3357928493) / online  
+- Deadline for submission: 1 September, 2026
+- Conference date and location:  24–25 November 2026  – [Leibniz Association Headquarters, Chausseestraße 111, Berlin](https://www.openstreetmap.org/node/3357928493) / online  
  
 {{< rawhtml >}}
 <hr class="small">
@@ -48,7 +48,7 @@ comments = false
 
 We are pleased to open the **Call for Proposals** for the [2026 Conference of the Barcelona Declaration on Open Research Information](https://barcelona-declaration.org/conference_2026_berlin/), organized by the Barcelona Declaration together with the Leibniz Association and the Helmholtz Open Science Office.  
 
-The conference will bring together signatories and prospective signatories of the Barcelona Declaration on Open Research Information, policymakers, and others working to advance open research information. It will provide a space to share experiences, discuss challenges, and explore how policy and practice can reinforce one another in supporting the transition to open research information.
+The conference, with the theme *'Aligning Policy and Practice'*, will bring together signatories and prospective signatories of the Barcelona Declaration on Open Research Information, policymakers, and others working to advance open research information. It will provide a space to share experiences, discuss challenges, and explore how policy and practice can reinforce one another in supporting the transition to open research information.
 
 {{< rawhtml >}}
 </br>
@@ -56,7 +56,7 @@ The conference will bring together signatories and prospective signatories of th
 {{< /rawhtml >}}
 
 ### Call for Proposals
-We invite proposals for presentations and posters that share experiences, lessons learned,, and reflections on both successes and setbacks related to the adoption and use of open research information across different institutional, national, regional, and international contexts.  
+We invite proposals for presentations and posters that share experiences, lessons learned, and reflections on both successes and setbacks related to the adoption and use of open research information across different institutional, national, regional, and international contexts.  
 
 We particularly encourage submissions that address the interplay between policy and practice, and how they can reinforce one another in advancing the transition to open research information.
 {{< rawhtml >}}

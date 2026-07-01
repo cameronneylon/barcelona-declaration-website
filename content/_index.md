@@ -11,11 +11,11 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* 2026 Conference of the Barcelona Declaration - Call for Proposals now open! [read more](/conference_2026_berlin_cfp/)
+
 * The Guild joins the Barcelona Declaration on Open Research Information [read more](/20260528_the_guild_signs_barcelona_declaration/)
 
 * Improving the Quality of Open Funding Metadata: A Call to Action [read more](/20260526_call_to_action_improving_quality_of_open_funding_metadata/)
-
-* Expansion of the Steering Group of the Barcelona Declaration on Open Research Information [read more](/20260511_barcelona_declaration_expands_steering_group/)
 
 
 {{< rawhtml >}}

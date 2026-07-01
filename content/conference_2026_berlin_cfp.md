@@ -48,7 +48,7 @@ comments = false
 
 We are pleased to open the **Call for Proposals** for the [2026 Conference of the Barcelona Declaration on Open Research Information](https://barcelona-declaration.org/conference_2026_berlin/), organized by the Barcelona Declaration together with the Leibniz Association and the Helmholtz Open Science Office.  
 
-The conference, with the theme *'Aligning Policy and Practice'*, will bring together signatories and prospective signatories of the Barcelona Declaration on Open Research Information, policymakers, and others working to advance open research information. It will provide a space to share experiences, discuss challenges, and explore how policy and practice can reinforce one another in supporting the transition to open research information.
+The conference, with the theme *'Aligning policy and practical implementation'*, will bring together signatories and prospective signatories of the Barcelona Declaration on Open Research Information, policymakers, and others working to advance open research information. It will provide a space to share experiences, discuss challenges, and explore how policy and practice can reinforce one another in supporting the transition to open research information.
 
 {{< rawhtml >}}
 </br>

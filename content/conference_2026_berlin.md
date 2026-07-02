@@ -56,7 +56,7 @@ The conference will bring together the international community of signatories, s
 {{< /rawhtml >}}
 
 ### Call for proposals
-We invite proposals for **presentations** and **posters** that share experiences, lessons learned,, and reflections on both successes and setbacks related to the adoption and use of open research information across different institutional, national, regional, and international contexts.  
+We invite proposals for **presentations** and **posters** that share experiences, lessons learned, and reflections on both successes and setbacks related to the adoption and use of open research information across different institutional, national, regional, and international contexts.  
 
 We particularly encourage submissions that address the interplay between policy and practice, and how they can reinforce one another in advancing the transition to open research information.
 

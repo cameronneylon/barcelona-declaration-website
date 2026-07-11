@@ -11,3 +11,5 @@ comments = false
 {{< /rawhtml >}}
 
 Test table display 
+
+{{< csv_to_table file="/data/hugo_test.csv" title="Table 1" >}}

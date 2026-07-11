@@ -5,7 +5,7 @@ comments = false
 
 +++
 
-# Preamble
+# Amazing table
 {{< rawhtml >}}
 <hr class="small">
 {{< /rawhtml >}}

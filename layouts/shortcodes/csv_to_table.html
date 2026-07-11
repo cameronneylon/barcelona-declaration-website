@@ -1,4 +1,5 @@
-<!-- source: https://discourse.gohugo.io/t/csv-to-html-table-shortcode/52530
+<!--  source: https://discourse.gohugo.io/t/csv-to-html-table-shortcode/52530
+      change delimiter to "," in line 24
 -->
 <!-- CSV to Table djibe Hugo shortcode
   CSV must use ; separator to preserve sentences where , can occur
@@ -20,7 +21,7 @@
   {{ end }}
 {{ with $file := .Get "file" }}
   {{ with resources.Get $file }}
-    {{ with . | transform.Unmarshal (dict "delimiter" ";") }}
+    {{ with . | transform.Unmarshal (dict "delimiter" ",") }}
 <table class="table {{ if $initializeClass }}{{ printf "%s" $initializeClass }}{{ end }} {{ if $extraClass }}{{ printf "%s" $extraClass }}{{ end }}" id="{{ if $id }}{{ printf "%s" $id }}{{ end }}" itemscope itemtype="https://schema.org/Table">
 {{ if $title }}<caption id="{{ printf "table-caption-%s" $id }}" itemprop="about"><b>Table.</b> {{ printf "%s" $title }}</caption>{{ end }}
 <thead>

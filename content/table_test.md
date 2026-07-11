@@ -12,4 +12,4 @@ comments = false
 
 Test table display 
 
-{{< csv_to_table file="/data/hugo_test.csv" title="Table 1" >}}
+{{< csv_to_table file="/data/hugo_test.csv" title="Working group 1" >}}

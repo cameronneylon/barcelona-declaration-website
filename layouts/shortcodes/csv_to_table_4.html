@@ -1,0 +1,198 @@
+{{- /* Last modified: 2025-04-25T11:05:22-07:00 */}}
+
+{{- /*
+Copyright 2025 Veriphor, LLC
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+*/}}
+
+{{- /*
+Renders an HTML table from a CSV file.
+
+This shortcode resolves internal paths by looking for a matching:
+
+  1. Page resource (a file in the current page bundle)
+  2. Section resource (a file in the current section)
+  3. Global resource (a file in the assets directory)
+
+It skips the section resource lookup if the current page is a leaf bundle, and
+captures external files as resources.
+
+You must place global resources in the assets directory. If you have placed
+your resources in the static directory, and you are unable or unwilling to move
+them, you must mount the static directory to the assets directory by including
+both of these entries in your site configuration:
+
+  [[module.mounts]]
+  source = 'assets'
+  target = 'assets'
+
+  [[module.mounts]]
+  source = 'static'
+  target = 'assets'
+
+@context {string} Inner The content between the opening and closing shortcode tags.
+@context {string} InnerDeindent The content between the opening and closing shortcode tags with indentation removed.
+@context {string} Name The file name of the shortcode template, excluding the extension.
+@context {int} Ordinal The zero-based ordinal of the shortcode on the page, or within its parent shortcode.
+@context {page} Page A reference to the page containing the shortcode.
+@context {map} Params The parameters specified in the opening shortcode tag.
+@context {hugolib.ShortcodeWithPage} Parent The context of the parent shortcode.
+@context {text.Position} Position The position of the shortcode within the page content.
+
+@method {any} Get Returns the parameter value for the given key (for named parameters) or position (for positional parameters).
+@mathod {bool} IsNamedParams Returns true if the shortcode is called with named instead of positional parameters.
+@method {maps.Scratch) Scratch Returns a writable Scratch to store and manipulate data.
+
+@param {string} Params.path The path to the CSV file.
+@param {string} [Params.caption] The table caption.
+@param {string} [Params.class] The class attribute of the table element.
+@param {string} [Params.delimiter=","] The delimiting character between the fields in each row.
+@param {bool} [Params.hasHeaderRow=true] Set to true if the CSV file has a header row.
+@param {string} [Params.id] The id attribute of the table element.
+
+@returns {template.html}
+
+@example {{< csv-to-table path="data.csv" >}}
+@example {{< csv-to-table path="data.csv" hasHeaderRow=false >}}
+@example {{< csv-to-table path="data.csv" caption="Annual rainfall by region" >}}
+*/}}
+
+{{- /* Verify minimum required version. */}}
+{{- $minHugoVersion := "0.147.0" }}
+{{- if lt hugo.Version $minHugoVersion }}
+  {{- errorf "The %q shortcode requires Hugo v%s or later." .Name $minHugoVersion }}
+{{- end }}
+
+{{- /* Get context. */}}
+{{- $name := .Name }}
+{{- $ordinal := .Ordinal }}
+{{- $position := .Position }}
+
+{{- /* Get parameters. */}}
+{{- $caption := or (.Get "caption") "" }}
+{{- $class := or (.Get "class") "" }}
+{{- $delimiter := or (.Get "delimiter") "," }}
+{{- $id := or (.Get "id") (printf "h-sc-%s-%d" $name $ordinal) }}
+{{- $path := .Get "path" }}
+{{- if not $path }}
+  {{- errorf "The %q shortcode requires a path parameter. See %s" $name $position }}
+{{- end }}
+{{- $hasHeaderRow := true }}
+{{- if isset .Params "hasHeaderRow" }}
+  {{- if in (slice false "false") (.Get "hasHeaderRow") }}
+    {{- $hasHeaderRow = false }}
+  {{- end }}
+{{- end }}
+
+{{- /* Define attributes map. */}}
+{{- $attrs := dict "class" $class "id" $id }}
+
+{{- /* Get resource. */}}
+{{- $r := "" }}
+{{- $u := urls.Parse $path }}
+{{- if $u.IsAbs }}
+  {{- with try (resources.GetRemote $u.String) }}
+    {{- with .Err }}
+      {{- errorf "%s" . }}
+    {{- else with .Value }}
+      {{- /* Path is a remote resource. */}}
+      {{- $r = . }}
+    {{- else }}
+      {{- errorf "The %q shortcode was unable to get %s. See %s" $.Name $u.String $.Position }}
+    {{- end }}
+  {{- end }}
+{{- else }}
+  {{- with .Page.Resources.Get (strings.TrimPrefix "./" $u.Path) }}
+    {{- /* Path is a page resource. */}}
+    {{- $r = . }}
+  {{- else }}
+    {{- with (and (ne .Page.BundleType "leaf") (.Page.CurrentSection.Resources.Get (strings.TrimPrefix "./" $u.Path))) }}
+      {{- /* Path is a section resource, and current page is not a leaf bundle. */}}
+      {{- $r = . }}
+    {{- else }}
+      {{- with resources.Get $u.Path }}
+        {{- /* Path is a global resource. */}}
+        {{- $r = . }}
+      {{- else }}
+        {{- errorf "The %q shortcode was unable to get %s. See %s" $.Name $u.String $u.Path }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- /* Unmarshal resource. */}}
+{{- $data := unmarshal (dict "delimiter" $delimiter) $r }}
+
+<!--- Part below to be replaced with part from 'simple' shortcode that has better layout  
+source: https://discourse.gohugo.io/t/csv-to-html-table-shortcode/52530 -->
+<!--
+{{- /* Render.*/}}
+<table
+  {{- range $k, $v := $attrs }}
+    {{- if $v }}
+      {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+    {{- end }}
+  {{- end -}}
+>
+{{- with $caption }}
+  <caption>{{ . }}</caption>
+{{- end }}
+{{- $rows := slice }}
+{{- if $hasHeaderRow }}
+  {{- $headerRow := index $data 0 }}
+  {{- $rows = after 1 $data }}
+  <thead>
+    <tr>
+      {{- range $headerRow }}
+        <th>{{ . }}</th>
+      {{- end }}
+    </tr>
+  </thead>
+{{- else }}
+  {{- $rows = $data }}
+{{- end }}
+<tbody>
+ {{- range $i, $row := $rows }}
+    <tr>
+      {{- range $row }}
+        <td>{{ . }}</td>
+      {{- end }}
+    </tr>
+  {{- end }}
+  </tbody>
+</table>
+-->
+
+<table class="table {{ if $initializeClass }}{{ printf "%s" $initializeClass }}{{ end }} {{ if $extraClass }}{{ printf "%s" $extraClass }}{{ end }}" id="{{ if $id }}{{ printf "%s" $id }}{{ end }}" itemscope itemtype="https://schema.org/Table">
+{{ if $title }}<caption id="{{ printf "table-caption-%s" $id }}" itemprop="about"><b>Table.</b> {{ printf "%s" $title }}</caption>{{ end }}
+<thead>
+<tr>
+{{ range index . 0 }}
+<th scope="col">{{ . }}</th>
+{{ end }}
+</tr>
+</thead>
+<tbody>
+{{ range after 1 . }}
+<tr>
+{{ range first 1 . }}
+<th scope="row">{{ . }}</th>
+{{ end }}
+{{ range after 1 . }}
+<td>{{ . }}</td>
+{{ end }}
+</tr>
+{{ end }}
+</tbody>
+</table>

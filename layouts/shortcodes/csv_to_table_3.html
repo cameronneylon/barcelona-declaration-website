@@ -49,7 +49,7 @@ both of these entries in your site configuration:
 <!-- add define path -->
 {{- $path := .Get "path" }}
 {{- if not $path }}
-  {{- errorf "The %q shortcode requires a path parameter. }}
+  {{- errorf "The %q shortcode requires a path parameter." }}
 {{- end }}
   
 <!--- Part below to be replaced with part that (also) gets external resources -->  

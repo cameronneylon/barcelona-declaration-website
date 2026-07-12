@@ -48,9 +48,11 @@ both of these entries in your site configuration:
   {{ end }}
   
 <!--- Part below to be replaced with part that (also) gets external resources -->  
-{{ with $file := .Get "file" }}
+<!-- 
+  {{ with $file := .Get "file" }}
   {{ with resources.Get $file }}
     {{ with . | transform.Unmarshal (dict "delimiter" ",") }}
+-->
 
 <!--- Replacement below -->
 {{- /* Get resource. */}}

@@ -16,4 +16,4 @@ Test table display
 
 Test table display 2
 
-{{< csv_to_table_2 file="/data/hugo_test_2.csv" title="Working group 2" >}}
+{{< csv_to_table_2 path="/data/hugo_test_2.csv" caption="Working group 2" >}}

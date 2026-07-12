@@ -11,6 +11,8 @@
 <!-- Adaption taken from https://www.veriphor.com/articles/working-with-csv-files/
 to enable capturing both internal and external sources
 
+Minimum required Hugo version: "0.147.0"
+
 This shortcode resolves internal paths by looking for a matching:
 
   1. Page resource (a file in the current page bundle)
@@ -46,6 +48,12 @@ both of these entries in your site configuration:
   {{ $id = printf "t-%s" $id}}
   {{ $initializeClass = "datatable-csv" }}
   {{ end }}
+
+<!-- get context-->
+{{- $name := .Name }}
+{{- $ordinal := .Ordinal }}
+{{- $position := .Position }}
+  
 <!-- add define path -->
 {{- $path := .Get "path" }}
 {{- if not $path }}

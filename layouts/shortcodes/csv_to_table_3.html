@@ -1,0 +1,122 @@
+<!--  source: https://discourse.gohugo.io/t/csv-to-html-table-shortcode/52530
+      change delimiter to "," in line 24
+-->
+<!-- CSV to Table djibe Hugo shortcode
+  CSV must use ; separator to preserve sentences where , can occur
+  Support arguments: id, class, title.
+  If no id provided: datatable-csv class is added for automatic initialization
+  Tech: table caption, table headers (th with scope attribute), schema.org
+-->
+
+<!-- Adaption taken from https://www.veriphor.com/articles/working-with-csv-files/
+to enable capturing both internal and external sources
+
+This shortcode resolves internal paths by looking for a matching:
+
+  1. Page resource (a file in the current page bundle)
+  2. Section resource (a file in the current section)
+  3. Global resource (a file in the assets directory)
+
+It skips the section resource lookup if the current page is a leaf bundle, and
+captures external files as resources.
+
+You must place global resources in the assets directory. If you have placed
+your resources in the static directory, and you are unable or unwilling to move
+them, you must mount the static directory to the assets directory by including
+both of these entries in your site configuration:
+
+  [[module.mounts]]
+  source = 'assets'
+  target = 'assets'
+
+  [[module.mounts]]
+  source = 'static'
+  target = 'assets'
+-->
+
+{{ $id := "" }}
+{{ $title := .Get "title" }}
+{{ $initializeClass := "" }}
+{{ $extraClass := .Get "class" }}
+  {{ with .Get "id" }}
+    {{ $id = . }}
+  {{ else }}
+  <!-- Generate a random id for the table (a11y purpose) -->
+  {{ $id = delimit (shuffle (seq 1 9)) "" }}
+  {{ $id = printf "t-%s" $id}}
+  {{ $initializeClass = "datatable-csv" }}
+  {{ end }}
+  
+<!--- Part below to be replaced with part that (also) gets external resources -->  
+{{ with $file := .Get "file" }}
+  {{ with resources.Get $file }}
+    {{ with . | transform.Unmarshal (dict "delimiter" ",") }}
+
+<!--- Replacement below -->
+{{- /* Get resource. */}}
+{{- $r := "" }}
+{{- $u := urls.Parse $path }}
+{{- if $u.IsAbs }}
+  {{- with try (resources.GetRemote $u.String) }}
+    {{- with .Err }}
+      {{- errorf "%s" . }}
+    {{- else with .Value }}
+      {{- /* Path is a remote resource. */}}
+      {{- $r = . }}
+    {{- else }}
+      {{- errorf "The %q shortcode was unable to get %s. See %s" $.Name $u.String $.Position }}
+    {{- end }}
+  {{- end }}
+{{- else }}
+  {{- with .Page.Resources.Get (strings.TrimPrefix "./" $u.Path) }}
+    {{- /* Path is a page resource. */}}
+    {{- $r = . }}
+  {{- else }}
+    {{- with (and (ne .Page.BundleType "leaf") (.Page.CurrentSection.Resources.Get (strings.TrimPrefix "./" $u.Path))) }}
+      {{- /* Path is a section resource, and current page is not a leaf bundle. */}}
+      {{- $r = . }}
+    {{- else }}
+      {{- with resources.Get $u.Path }}
+        {{- /* Path is a global resource. */}}
+        {{- $r = . }}
+      {{- else }}
+        {{- errorf "The %q shortcode was unable to get %s. See %s" $.Name $u.String $u.Path }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- /* Unmarshal resource. */}}
+{{- $data := unmarshal (dict "delimiter" ",") $r }}
+
+<!-- End replacement -->
+    
+<table class="table {{ if $initializeClass }}{{ printf "%s" $initializeClass }}{{ end }} {{ if $extraClass }}{{ printf "%s" $extraClass }}{{ end }}" id="{{ if $id }}{{ printf "%s" $id }}{{ end }}" itemscope itemtype="https://schema.org/Table">
+{{ if $title }}<caption id="{{ printf "table-caption-%s" $id }}" itemprop="about"><b>Table.</b> {{ printf "%s" $title }}</caption>{{ end }}
+<thead>
+<tr>
+{{ range index . 0 }}
+<th scope="col">{{ . }}</th>
+{{ end }}
+</tr>
+</thead>
+<tbody>
+{{ range after 1 . }}
+<tr>
+{{ range first 1 . }}
+<th scope="row">{{ . }}</th>
+{{ end }}
+{{ range after 1 . }}
+<td>{{ . }}</td>
+{{ end }}
+</tr>
+{{ end }}
+</tbody>
+</table>
+{{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $file $.Position }}
+{{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a file argument, the path to the CSV file relative to the assets directory. See %s" .Name .Position }}
+{{ end }}

@@ -73,8 +73,9 @@ We particularly encourage submissions that address the interplay between policy 
 - Notification of acceptance: 15 September 2026
 - Conference registration opens: 24 September 2026
 
-More information on registration will be provided closer to the registration date.  
-The conference will have a maximum capacity of 100 people in person and between 100-300 people online. 
+Registration will be free of charge for representatives of organizations that are signatories or supporters of the Barcelona Declaration.  
+In-person attendance will be limited to 100 participants, while online participation will accommodate between 100 and 300 attendees.  
+Further registration details will be provided closer to the opening date.
 
 {{< rawhtml >}}
 </br>

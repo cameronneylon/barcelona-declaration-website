@@ -68,6 +68,9 @@ Organizations performing, funding or evaluating research
 **Costa Rica**
 * Universidad Nacional
 
+**Curaçao**
+* Western State University
+  
 **Czech Republic**
 * Charles University
 

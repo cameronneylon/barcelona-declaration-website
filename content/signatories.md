@@ -133,6 +133,7 @@ Organizations performing, funding or evaluating research
 * University "St. Kliment Ohridski" (North Macedonia)
 * Utrecht University (Netherlands)
 * Vrije Universiteit Amsterdam (Netherlands)
+* Western State University (Curaçao)
 * Young European Research Universities' Network - YERUN (international)
 
 {{< rawhtml >}}

@@ -225,6 +225,7 @@ Organizations providing data, services and infrastructure
 * Érudit
 * euroCRIS
 * 4Science
+* Index Publishing S.L.
 * International Interactive Computing Collaboration - 2i2c
 * Invest in Open Infrastructure - IOI
 * Knowledge E

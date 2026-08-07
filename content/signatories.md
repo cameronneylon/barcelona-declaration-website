@@ -237,6 +237,7 @@ Organizations providing data, services and infrastructure
 * OAPEN Foundation
 * OA.Works
 * OpenAIRE
+* OpenAlex
 * OpenCitations
 * Openventio Publishers
 * Open Book Collective
@@ -245,7 +246,6 @@ Organizations providing data, services and infrastructure
 * OPERAS
 * ORCID
 * OSIRIS Solutions
-* OurResearch
 * Peer Community In - PCI
 * PLOS (Public Library of Science)
 * PREreview

@@ -255,6 +255,7 @@ Organizations providing data, services and infrastructure
 * Research Data Alliance Association - RDA Europe 
 * Redalyc
 * Research Organization Registry - ROR
+* Share Family
 * Science Colab
 * SPARC Europe
 * Reviewer Credits

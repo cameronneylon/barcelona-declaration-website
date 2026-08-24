@@ -240,6 +240,7 @@ Organizations performing, funding or evaluating research
 **United Kingdom**
 * Birkbeck, University of London
 * Loughborough University
+* Open Pharma
 * UK Reproducibility Network - UKRN
 * University of Bristol
 * University of Edinburgh

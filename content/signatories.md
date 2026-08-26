@@ -75,6 +75,7 @@ Organizations performing, funding or evaluating research
 * Simon Fraser University (Canada)
 * Sorbonne Université (France)
 * Spanish National Research Council - CSIC (Spain)
+* Stanford University Libraries
 * Stockholm University (Sweden)
 * St. Gallen University of Teacher Education (Switzerland)
 * The Guild of European Research-Intensive Universities (international)

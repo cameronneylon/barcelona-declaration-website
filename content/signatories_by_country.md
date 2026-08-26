@@ -250,6 +250,7 @@ Organizations performing, funding or evaluating research
 * Bill & Melinda Gates Foundation
 * California Digital Library - CDL
 * Sage Bionetworks
+* Stanford University Libraries
 
 {{< rawhtml >}}
 <br>

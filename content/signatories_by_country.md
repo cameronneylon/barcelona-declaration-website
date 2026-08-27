@@ -37,6 +37,7 @@ Organizations performing, funding or evaluating research
 * Good Clinical Practice Alliance - GCPA
 * Latin American Council of Social Sciences - CLACSO
 * LIBER
+* Open Pharma
 * The Guild of European Research-Intensive Universities
 * West and Central African Research and Education Network - WACREN
 * Young European Research Universities' Network - YERUN
@@ -240,7 +241,6 @@ Organizations performing, funding or evaluating research
 **United Kingdom**
 * Birkbeck, University of London
 * Loughborough University
-* Open Pharma
 * UK Reproducibility Network - UKRN
 * University of Bristol
 * University of Edinburgh

@@ -109,7 +109,7 @@ Please submit a proposal including:
 - Title
 - Author(s) and affiliation(s)
 - Preferred contribution type (Presentation or Poster)
-- Abstract (maximum 2000 characters)
+- Abstract (maximum 2000 characters - ca. 300 words)
 
 Submission form: https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1
 

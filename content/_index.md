@@ -11,6 +11,8 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* Open Pharma signs the Barcelona Declaration on Open Research Information [read more](/20260903_open_pharma_signs_barcelona_declaration/)
+
 * Stanford University Libraries (SUL) have signed the Barcelona Declaration on Open Research Information [read more](/20260826_stanford_libraries_sign_barcelona_declaration/)
 
 * 2026 Conference of the Barcelona Declaration - Call for Proposals open until Sept 1 [read more](/conference_2026_berlin_cfp/)

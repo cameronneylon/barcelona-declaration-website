@@ -17,7 +17,7 @@ comments = false
 📅 24–25 November 2026  
 📍[Leibniz Association Headquarters, Chausseestraße 111, Berlin](https://www.openstreetmap.org/node/3357928493)  
 👥 In person / online  
-📣 **Call for proposals now open!** 
+📣 Call for proposals closed - applicants will be notified on 15 September 2026
  
 {{< rawhtml >}}
 <hr class="small">
@@ -56,11 +56,9 @@ The conference will bring together the international community of signatories, s
 {{< /rawhtml >}}
 
 ### Call for proposals
-We invite proposals for **presentations** and **posters** that share experiences, lessons learned, and reflections on both successes and setbacks related to the adoption and use of open research information across different institutional, national, regional, and international contexts.  
+The Call for Proposals closed on 1 September 2026. Thank you to everyone who submitted a proposal and shared their experiences, lessons learned and reflections on advancing open research information. Applicants will be notified of the outcome by email on 15 September 2026.
 
-We particularly encourage submissions that address the interplay between policy and practice, and how they can reinforce one another in advancing the transition to open research information.
-
-[**More information**](https://barcelona-declaration.org/conference_2026_berlin_cfp/) / [**Submission form**](https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1)
+[**View the Call for Proposals**](https://barcelona-declaration.org/conference_2026_berlin_cfp/) 
 
 {{< rawhtml >}}
 </br>

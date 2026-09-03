@@ -17,7 +17,7 @@ The Call for Proposals closed on 1 September 2026. Thank you to everyone who sub
 <hr class="small">
 {{< /rawhtml >}}
 
-- Conference date and location:  24–25 November 2026  – [Leibniz Association Headquarters, Chausseestraße 111, Berlin](https://www.openstreetmap.org/node/3357928493) / online  
+Conference date and location:  24–25 November 2026  – [Leibniz Association Headquarters, Chausseestraße 111, Berlin](https://www.openstreetmap.org/node/3357928493) / online  
  
 {{< rawhtml >}}
 <hr class="small">
@@ -104,7 +104,7 @@ Posters can present projects, initiatives, experiences, tools, or emerging work 
 
 ### Submission Guidelines
 
-Please submit a proposal including:
+Submitted proposals were requested to include:
 - Title
 - Author(s) and affiliation(s)
 - Preferred contribution type (Presentation or Poster)

@@ -10,14 +10,13 @@ comments = false
 </br>
 {{< /rawhtml >}}
 # Call for Proposals
+The Call for Proposals closed on 1 September 2026. Thank you to everyone who submitted a proposal. Applicants will be notified of the outcome by email on 15 September 2026.
 
 {{< rawhtml >}}
 </br>
 <hr class="small">
 {{< /rawhtml >}}
 
-- [Submission form](https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1) 
-- Deadline for submission: 1 September, 2026
 - Conference date and location:  24–25 November 2026  – [Leibniz Association Headquarters, Chausseestraße 111, Berlin](https://www.openstreetmap.org/node/3357928493) / online  
  
 {{< rawhtml >}}
@@ -110,8 +109,6 @@ Please submit a proposal including:
 - Author(s) and affiliation(s)
 - Preferred contribution type (Presentation or Poster)
 - Abstract (maximum 2000 characters - ca. 300 words)
-
-Submission form: https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1
 
 {{< rawhtml >}}
 </br>

@@ -18,6 +18,7 @@ comments = false
 📍[Leibniz Association Headquarters, Chausseestraße 111, Berlin](https://www.openstreetmap.org/node/3357928493)  
 👥 In person / online  
 📣 Call for proposals closed - applicants will be notified on 15 September 2026
+🎟️ **Conference registration opens on 24 September 2026**
  
 {{< rawhtml >}}
 <hr class="small">

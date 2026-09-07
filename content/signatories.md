@@ -66,7 +66,7 @@ Organizations performing, funding or evaluating research
 * Museo Galileo. Istituto e Museo di Storia della Scienza (Italy)
 * Museu de Ciències Naturals de Barcelona (Spain)
 * Nantes Université (France)
-* Open Pharma (United Kingdom)
+* Open Pharma (international)
 * Otto-Friedrich-Universität Bamberg (Germany)
 * Pattern Institute (Portugal)
 * Royal Netherlands Academy of Arts and Sciences - KNAW (Netherlands)

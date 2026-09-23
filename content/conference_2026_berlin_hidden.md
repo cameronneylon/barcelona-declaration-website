@@ -1,7 +1,7 @@
-+++ title = 'Barcelona Declaration on Open Research Information' 
++++ 
+title = 'Barcelona Declaration on Open Research Information' 
 date = 2026-05-18 
 comments = false
-
 +++
 
 # 2026 Conference of the Barcelona Declaration on Open Research Information

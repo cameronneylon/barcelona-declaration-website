@@ -1,5 +1,6 @@
-+++ title = 'Barcelona Declaration on Open Research Information' date =
-2026-05-18 comments = false
++++ title = 'Barcelona Declaration on Open Research Information' 
+date = 2026-05-18 
+comments = false
 
 +++
 
@@ -12,14 +13,13 @@
 <hr class="small">
 {{< /rawhtml >}}
 
-📅 24–25 November 2026 ⏰ 9:00-17:00 CET 📍[Leibniz Association
-Headquarters, Chausseestraße 111,
+📅 24–25 November 2026\
+⏰ 9:00-17:00 CET\
+📍[Leibniz Association Headquarters, Chausseestraße 111,
 Berlin](https://www.openstreetmap.org/node/3357928493)\
 👥 In person / online\
-📣 **Expressions of interest for participation are now open**
-📝 [Registration
-form](https://opnform.com/forms/berlin-conference-speaker-confirmation-pdzqjz)
-(closes Oct 5 12:00 CEST)
+📝 [Register]() to express your interest in participation (closes Oct 5
+12:00 CEST)
 
 {{< rawhtml >}}
 <hr class="small">
@@ -46,15 +46,38 @@ form](https://opnform.com/forms/berlin-conference-speaker-confirmation-pdzqjz)
 </br>
 {{< /rawhtml >}}
 
-The **2026 Conference of the Barcelona Declaration on Open Research Information** will bring together the international community of
-signatories, supporters, and other stakeholders, creating a space to **advance open research information across institutional contexts** and
+The **2026 Conference of the Barcelona Declaration on Open Research
+Information** will bring together the international community of
+signatories, supporters, and other stakeholders, creating a space to
+**advance open research information across institutional contexts** and
 **explore how to align policy and practical implementation**.
 
-The confernence is organized by the *Barcelona Declaration* together with the *Leibniz Association* and the *Helmholtz Open Science Office*.
+The conference is organized by the *Barcelona Declaration* together with
+the *Leibniz Association* and the *Helmholtz Open Science Office*.
 
 {{< rawhtml >}}
 </br>
 <hr class="small">
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<table>
+    <tr >
+        <td style="width:25%">
+        </td>
+        <td style="width:50%">
+            <a href="/images/bd_2026_conference_registration.png" target="_blank">
+            <picture>
+            <img src = "/images/bd_2026_conference_registration.png" alt = "Announcement of Barcelona Declaration 2026 Conference 2026 in Berlin. Left half of the image Berlin cityscape in subdued color tone, right half announcement details on purple background. Text: 2026 Conference of the Barcelona Declaration on Open Research Information - Open Research Information in Practice: Implementation Across Contexts. 24-25 November 2026, Leibniz Association Headquarters, Berlin, in person / online. Underneath text, logo's of Barcelona Declaration, Leibniz Association and Helmholtz Open Science Office. ">
+            </picture>
+             </a>
+        </td>
+        <td style="width:25%">
+        </td>
+    </tr>
+</table>
+</br>
 {{< /rawhtml >}}
 
 ### Expressions of interest for participation are now open
@@ -79,10 +102,9 @@ interest and confirmed separately. Online participation is open to
 everyone who registers by the deadline.
 
 Express your interest in participating (either in person or online) via
-our [**registration
-form**](https://opnform.com/forms/berlin-conference-speaker-confirmation-pdzqjz)
-by **Monday 5 October 12:00 CEST**.
+our [**registration form**]().
 
+Registration closes on **Monday 5 October 12:00 CEST**.\
 We will confirm your participation and attendance format by **Thursday,
 8 October**.
 
@@ -104,9 +126,9 @@ fund will help ensure that the conference discussions benefit from a
 broader range of voices, perspectives, and experiences.
 
 We gratefully acknowledge the generous support confirmed to date from
-**Crossref**, **ROR**, **OPERAS**, **Austrian Science Fund (FWF)**,
-**Dutch Research Council (NWO)**, **VU Amsterdam** and **OSIRIS
-Solutions GmbH**. Their contributions make the 2026 Barcelona
+*Crossref*, *ROR*, *OPERAS*, *Austrian Science Fund (FWF)*, *Dutch
+Research Council NWO*, *Vrije Universiteit Amsterdam* and *OSIRIS
+Solutions GmbH*. Their contributions help make the 2026 Barcelona
 Declaration Conference more inclusive and internationally
 representative.
 
@@ -117,33 +139,62 @@ representative.
 
 ### Preliminary programme
 
-The conference will run from **9:00 to 17:00 CET** on both days. 
+The conference will run from **9:00 to 17:00 CET** on both days.
 
-The conference programme will bring together policy perspectives, institutional experiences, practical implementation, and emerging work from across the Barcelona Declaration community. Sessions will combine moderated panel discussions, short presentations and interactive discussions in smaller groups. The conference will also feature a poster exhibition showcasing projects, initiatives, and practical experiences related to open research information,  as well as outcomes from the Barcelona Declaration Working Groups.
+The conference programme will bring together policy perspectives,
+institutional experiences, practical implementation, and emerging work
+from across the Barcelona Declaration community. Sessions will combine
+moderated panel discussions, short presentations and interactive
+discussions in smaller groups. 
+
+The conference will also feature a poster
+exhibition showcasing projects, initiatives, and practical experiences
+related to open research information, as well as outcomes from the
+Barcelona Declaration Working Groups.
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
 
 #### Keynote panels
 
-Both conference days will start with a keynote panel discussion connecting policy perspectives, institutional priorities, and related international initiatives.
+Both conference days will start with a keynote panel discussion
+connecting policy perspectives, institutional priorities, and related
+international initiatives.
 
-- **High-level policy panel**
-This panel will bring together policy perspectives from different regions to discuss how research policy can support the transition to open research information, the challenges encountered across different contexts, and the conditions needed to move from commitments to implementation.
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
 
-- **Related initiatives panel**
-This panel will explore connections between international initiatives working to reform research assessment, improve research information, and advance openness. The discussion will consider areas of alignment, complementary approaches, and opportunities for closer collaboration.
+-   **High-level policy panel** This panel will bring together policy
+    perspectives from different regions to discuss how research policy
+    can support the transition to open research information, the
+    challenges encountered across different contexts, and the conditions
+    needed to move from commitments to implementation.
+
+-   **Related initiatives panel** This panel will explore connections
+    between international initiatives working to reform research
+    assessment, improve research information, and advance openness. The
+    discussion will consider areas of alignment, complementary
+    approaches, and opportunities for closer collaboration.
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
 
 #### Programme topics
 
-Other presentations at the conference will address the following areas:
-
-🏛️ Institutional implementation and links to open science policy
-🔄 Institutional use cases: replacing closed systems
-🏢 Research information infrastructure (institutional and non-institutional)
-💰 Funder perspectives
-📊 Monitoring and assessment
+Other presentations at the conference will address the following areas:\
+🏛️ Institutional implementation and links to open science policy\
+🔄 Institutional use cases: replacing closed systems\
+🏢 Research information infrastructure (institutional and
+non-institutional)\
+💰 Funder perspectives\
+📊 Monitoring and assessment\
 🔍 Critical reflections on open research information
 
-Further details about speakers and moderators will be announced as the programme is finalized
-
+Further details about speakers and moderators will be announced as the
+programme is finalized
 
 {{< rawhtml >}}
 </br>
@@ -154,6 +205,5 @@ Further details about speakers and moderators will be announced as the programme
 
 *PLACEHOLDER*
 
-Registration for the Barcelona Declaration Conference does not include registration for this side event. 
-
-
+Registration for the Barcelona Declaration Conference does not include
+registration for this side event.

@@ -15,7 +15,7 @@ comments = false
 
 * Stanford University Libraries (SUL) have signed the Barcelona Declaration on Open Research Information [read more](/20260826_stanford_libraries_sign_barcelona_declaration/)
 
-* 2026 Conference of the Barcelona Declaration - Call for Proposals open until Sept 1 [read more](/conference_2026_berlin_cfp/)
+* 2026 Conference of the Barcelona Declaration - Call for Proposals now closed [read more](/conference_2026_berlin_cfp/)
 
 {{< rawhtml >}}
 </br>

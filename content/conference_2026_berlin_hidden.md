@@ -52,8 +52,8 @@ signatories, supporters, and other stakeholders, creating a space to
 **advance open research information across institutional contexts** and
 **explore how to align policy and practical implementation**.
 
-The conference is organized by the *Barcelona Declaration* together with
-the *Leibniz Association* and the *Helmholtz Open Science Office*.
+The conference is organized by the [*Barcelona Declaration on Open Research Information*](https://barcelona-declaration.org) together with
+[*Leibniz Association*](https://www.leibniz-gemeinschaft.de/en/) and [*Helmholtz Open Science Office*](https://os.helmholtz.de/).
 
 {{< rawhtml >}}
 </br>

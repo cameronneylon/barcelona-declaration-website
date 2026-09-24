@@ -70,7 +70,7 @@ The conference is organized by the [*Barcelona Declaration on Open Research Info
         <td style="width:50%">
             <a href="/images/bd_2026_conference_registration.png" target="_blank">
             <picture>
-            <img src = "/images/bd_2026_conference_registration.png" alt = "Expression of interest for participation in Barcelona Declaration 2026 Conference 2026 in Berlin. Right half of the image Berlin cityscape in subdued color tone, right half announcement details on purple background.">
+            <img src = "/images/bd_2026_conference_registration.png" alt = "Promotional graphic for the 2026 Conference of the Barcelona Declaration on Open Research Information, “Aligning policy and practical implementation.” Expressions of interest in participating are now open until 5 October. The hybrid conference will take place in Berlin and online on 24–25 November 2026. The graphic includes a QR code, the conference webpage, a Berlin street scene, and the logos of the Barcelona Declaration, the Leibniz Association, and Helmholtz Open Science.">
             </picture>
              </a>
         </td>

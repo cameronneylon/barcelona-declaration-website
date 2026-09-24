@@ -223,9 +223,9 @@ programme is finalized
 </br>
 {{< /rawhtml >}}
 
-### German-language side event
+### German-language satellite event
 
-Following the conference, a German-language side event will take place the next day, November 26, also in Berlin.
+Following the conference, a German-language satellite event will take place the next day, November 26, also in Berlin.
 The event provides a forum for exchange and discussion on open research information in Germany and beyond. Invited are stakeholders, institutions, initiatives, and projects that work with research information systems, (open) research information, and metadata – both in practice and at the levels of leadership, administration, policy, and funding. The goal is to better connect the sometimes fragmented activities and communities and to advance open research information in German academia across institutional boundaries. 
 
 The event will take place at Humboldt-Universität zu Berlin and is an **in-person event conducted in German**. Stakeholders, institutions, initiatives, and projects from the entire German-speaking region (DACH) are also welcome to participate.

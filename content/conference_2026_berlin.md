@@ -212,7 +212,7 @@ programme is finalized
         <td style="width:50%">
             <a href="/images/bd_2026_conference_german_side_event.jpg" target="_blank">
             <picture>
-            <img src = "/images/bd_2026_conference_german_side_event.jpg" alt = "">
+            <img src = "/images/bd_2026_conference_german_side_event.jpg" alt = "visual for the event “Offene Forschungsinformationen in Deutschland – Vernetzungstreffen begleitend zur Barcelona Declaration Conference 2026” including the title, date, and location, as well as the logos of the organizing institutions (Working Group on Research Information & Systems of the German Initiative for Network Information e. V., Leibniz Association, Helmholtz Open Science Office, Humboldt-Universität zu Berlin)">
             </picture>
              </a>
         </td>

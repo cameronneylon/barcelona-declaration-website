@@ -203,7 +203,14 @@ programme is finalized
 
 ### German-language side event
 
-*PLACEHOLDER*
+Following the conference, a German-language side event will take place the next day, November 26, also in Berlin.
+The event provides a forum for exchange and discussion on open research information in Germany and beyond. Invited are stakeholders, institutions, initiatives, and projects that work with research information systems, (open) research information, and metadata – both in practice and at the levels of leadership, administration, policy, and funding. The goal is to better connect the sometimes fragmented activities and communities and to advance open research information in German academia across institutional boundaries. 
 
-Registration for the Barcelona Declaration Conference does not include
-registration for this side event.
+The event will take place at Humboldt-Universität zu Berlin and is an **in-person event conducted in German**. Stakeholders, institutions, initiatives, and projects from the entire German-speaking region (DACH) are also welcome to participate.
+
+The event is organized by the Research Information & Systems Working Group (AG FIS) of the German Initiative for Network Information e. V. (DINI) in cooperation with the Leibniz Association, the Helmholtz Open Science Office, and Humboldt-Universität zu Berlin.
+
+Find more information on the side event and registration here: https://events.hifis.net/event/4638/
+
+*Please note that the participation in the side event does not require attendance at the Barcelona Declaration Conference and vice versa, and both events require separate registration.*
+

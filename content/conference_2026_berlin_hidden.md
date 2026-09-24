@@ -18,7 +18,8 @@ comments = false
 📍[Leibniz Association Headquarters, Chausseestraße 111,
 Berlin](https://www.openstreetmap.org/node/3357928493)\
 👥 In person / online\
-📝 [Register]() to express your interest in participation (closes Oct 5
+📝 [Register](
+https://opnform.com/forms/berlin-conference-speaker-confirmation-pdzqjz) to express your interest in participation (closes Oct 5
 12:00 CEST)
 
 {{< rawhtml >}}
@@ -69,7 +70,7 @@ The conference is organized by the [*Barcelona Declaration on Open Research Info
         <td style="width:50%">
             <a href="/images/bd_2026_conference_registration.png" target="_blank">
             <picture>
-            <img src = "/images/bd_2026_conference_registration.png" alt = "Announcement of Barcelona Declaration 2026 Conference 2026 in Berlin. Left half of the image Berlin cityscape in subdued color tone, right half announcement details on purple background. Text: 2026 Conference of the Barcelona Declaration on Open Research Information - Open Research Information in Practice: Implementation Across Contexts. 24-25 November 2026, Leibniz Association Headquarters, Berlin, in person / online. Underneath text, logo's of Barcelona Declaration, Leibniz Association and Helmholtz Open Science Office. ">
+            <img src = "/images/bd_2026_conference_registration.png" alt = "Expression of interest for participation in Barcelona Declaration 2026 Conference 2026 in Berlin. Right half of the image Berlin cityscape in subdued color tone, right half announcement details on purple background.">
             </picture>
              </a>
         </td>
@@ -102,7 +103,8 @@ interest and confirmed separately. Online participation is open to
 everyone who registers by the deadline.
 
 Express your interest in participating (either in person or online) via
-our [**registration form**]().
+our [**registration form**](
+https://opnform.com/forms/berlin-conference-speaker-confirmation-pdzqjz).
 
 Registration closes on **Monday 5 October 12:00 CEST**.\
 We will confirm your participation and attendance format by **Thursday,

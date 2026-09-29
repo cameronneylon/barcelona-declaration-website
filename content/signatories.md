@@ -90,6 +90,7 @@ Organizations performing, funding or evaluating research
 * Universidad de Granada (Spain)
 * Universidad Distrital Francisco José de Caldas (Colombia)
 * Universidad Pablo de Olavide (Spain)
+* Universidad Tecnológica de El Salvador - UTEC (El Salvador) 
 * Universidade do Minho (Portugal)
 * Universidade Federal de Goiás (Brazil)
 * Universidade Federal Fluminense (Brazil)

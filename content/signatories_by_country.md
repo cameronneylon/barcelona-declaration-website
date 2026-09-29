@@ -50,6 +50,7 @@ Organizations performing, funding or evaluating research
 
 **Brazil**
 * Brazilian Reproducibility Network - BrRN
+* Fundação Oswaldo Cruz - Fiocruz
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict
 * Universidade Federal de Goiás
 * Universidade Federal Fluminense

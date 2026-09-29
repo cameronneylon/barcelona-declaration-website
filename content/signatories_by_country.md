@@ -106,6 +106,9 @@ Organizations performing, funding or evaluating research
 * Université Toulouse 3 Paul Sabatier
 * University of Poitiers
 
+**Georgia**
+* Georgian State University of Sports
+  
 **Germany**
 * Deutsche Initiative für Netzwerkinformation e. V. - DINI
 * FIZ Karlsruhe - Leibniz Institute for Information Infrastructure

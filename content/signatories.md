@@ -44,6 +44,7 @@ Organizations performing, funding or evaluating research
 * Delft University of Technology (Netherlands)
 * European Organization for Nuclear Research - CERN (Switzerland)
 * Galicia Supercomputing Center (Spain)
+* Georgian State University of Sports (Georgia)
 * Hamburg University of Technology (Germany)
 * Harokopio University of Athens (Greece)
 * Hellenic Mediterranean University (Greece)

@@ -43,6 +43,7 @@ Organizations performing, funding or evaluating research
 * Coimbra Group (international)
 * Delft University of Technology (Netherlands)
 * European Organization for Nuclear Research - CERN (Switzerland)
+* Fundação Oswaldo Cruz - Fiocruz (Brazil)
 * Galicia Supercomputing Center (Spain)
 * Georgian State University of Sports (Georgia)
 * Hamburg University of Technology (Germany)

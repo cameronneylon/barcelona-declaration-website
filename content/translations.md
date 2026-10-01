@@ -29,6 +29,8 @@ The official text of the Barcelona Declaration is in {{< download "/downloads/Ba
 * {{< download "/downloads/barcelonadeclaration_romanian.pdf" "Română" >}} (Romanian)
 * {{< download "/downloads/barcelonadeclaration_serbian.pdf" "српски" >}} (Serbian)
 * {{< download "/downloads/barcelonadeclaration_slovak.pdf" "slovenčina" >}} (Slovak)
+* {{< download "/downloads/barcelonadeclaration_slovenščina.pdf" "slovenščina" >}} (Slovenian)
+* {{< download "/downloads/barcelonadeclaration_slovenian.pdf" "slovenščina" >}} (Slovenian)
 * {{< download "/downloads/barcelonadeclaration_українська_мова.pdf" "українська мова" >}} (Ukranian)
 * {{< download "/downloads/barcelonadeclaration_russian.pdf" "русский" >}} (Russian)
 

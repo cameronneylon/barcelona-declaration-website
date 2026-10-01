@@ -50,6 +50,7 @@ Organizations performing, funding or evaluating research
 
 **Brazil**
 * Brazilian Reproducibility Network - BrRN
+* Fundação Oswaldo Cruz - Fiocruz
 * Instituto Brasileiro de Informação em Ciência e Tecnologia - Ibict
 * Universidade Federal de Goiás
 * Universidade Federal Fluminense
@@ -79,7 +80,10 @@ Organizations performing, funding or evaluating research
 * National Open Research Analytics, Technical University of Denmark
 
 **Ecuador**
-* Fundación Openlab Ecuador 
+* Fundación Openlab Ecuador
+
+**El Salvador**
+*Universidad Tecnológica de El Salvador - UTEC
 
 **Finland**
 * CSC - IT Center for Science Ltd
@@ -106,6 +110,9 @@ Organizations performing, funding or evaluating research
 * Université Toulouse 3 Paul Sabatier
 * University of Poitiers
 
+**Georgia**
+* Georgian State University of Sports
+  
 **Germany**
 * Deutsche Initiative für Netzwerkinformation e. V. - DINI
 * FIZ Karlsruhe - Leibniz Institute for Information Infrastructure

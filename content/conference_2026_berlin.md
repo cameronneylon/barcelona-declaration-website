@@ -81,6 +81,9 @@ https://opnform.com/forms/berlin-conference-speaker-confirmation-pdzqjz).
 
 ### Participation Support Fund
 
+**Applications for support through the Participation Support Fund 
+are now closed**
+
 To help make in-person participation possible for people who might
 otherwise face financial barriers to attending the conference in Berlin,
 we have established a Participation Support Fund. The fund will

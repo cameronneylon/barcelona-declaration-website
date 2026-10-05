@@ -19,8 +19,7 @@ comments = false
 Berlin](https://www.openstreetmap.org/node/3357928493)\
 👥 In person / online\
 📝 [Register](
-https://opnform.com/forms/berlin-conference-speaker-confirmation-pdzqjz) to express your interest in participation (closes Oct 5
-12:00 CEST)
+https://opnform.com/forms/berlin-conference-speaker-confirmation-pdzqjz) for online participation
 
 {{< rawhtml >}}
 <hr class="small">
@@ -61,54 +60,19 @@ The conference is organized by the [*Barcelona Declaration on Open Research Info
 <hr class="small">
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
-<table>
-    <tr >
-        <td style="width:25%">
-        </td>
-        <td style="width:50%">
-            <a href="/images/bd_2026_conference_registration.png" target="_blank">
-            <picture>
-            <img src = "/images/bd_2026_conference_registration.png" alt = "Promotional graphic for the 2026 Conference of the Barcelona Declaration on Open Research Information, “Aligning policy and practical implementation.” Expressions of interest in participating are now open until 5 October. The hybrid conference will take place in Berlin and online on 24–25 November 2026. The graphic includes a QR code, the conference webpage, a Berlin street scene, and the logos of the Barcelona Declaration, the Leibniz Association, and Helmholtz Open Science.">
-            </picture>
-             </a>
-        </td>
-        <td style="width:25%">
-        </td>
-    </tr>
-</table>
-</br>
-{{< /rawhtml >}}
+### Online registration remains open
 
-### Expressions of interest for participation are now open
-
-Join us in Berlin or online for two days of exchange on how policy and
+Join us online for two days of exchange on how policy and
 practical implementation can reinforce one another in advancing open
 research information. **Participation is free of charge**.
 
-Places at the Berlin venue are limited, and only a small number of
-in-person places are available through general registration. We
-nevertheless encourage anyone interested in attending in person to
-submit the form.
+Expressions of interest for in-person participation are now closed. Those
+who expressed an interest in attending in person will be notified of the 
+outcome by **Thursday, 8 October**. Registration for online participation remains
+open and is available to everyone.
 
-For in person participation, we will prioritize signatories and
-supporters of the Barcelona Declaration as space permits, with a maximum
-of 2 people per signatory organization (research performing and funding
-organizations) and 1 person per supporting organization (infrastructure,
-data and service providers).
-
-Requests to participate in person will be treated as expressions of
-interest and confirmed separately. Online participation is open to
-everyone who registers by the deadline.
-
-Express your interest in participating (either in person or online) via
-our [**registration form**](
+Register for online participation via our [**registration form**](
 https://opnform.com/forms/berlin-conference-speaker-confirmation-pdzqjz).
-
-Registration closes on **Monday 5 October 12:00 CEST**.\
-We will confirm your participation and attendance format by **Thursday,
-8 October**.
 
 {{< rawhtml >}}
 </br>

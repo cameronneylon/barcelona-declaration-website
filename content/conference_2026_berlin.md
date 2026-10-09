@@ -66,10 +66,8 @@ Join us online for two days of exchange on how policy and
 practical implementation can reinforce one another in advancing open
 research information. **Participation is free of charge**.
 
-Expressions of interest for in-person participation are now closed. Those
-who expressed an interest in attending in person will be notified of the 
-outcome by **Thursday, 8 October**. Registration for online participation remains
-open and is available to everyone.
+Expressions of interest for in-person participation are now closed. 
+**Registration for online participation remains open and is available to everyone**.
 
 Register for online participation via our [**registration form**](
 https://opnform.com/forms/berlin-conference-speaker-confirmation-pdzqjz).

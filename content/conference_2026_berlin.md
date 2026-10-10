@@ -19,7 +19,7 @@ comments = false
 Berlin](https://www.openstreetmap.org/node/3357928493)\
 👥 In person / online\
 📝 [Register](
-https://opnform.com/forms/berlin-conference-speaker-confirmation-pdzqjz) for online participation
+https://opnform.com/forms/berlin-conference-2026-registration-form-peugcq) for online participation
 
 {{< rawhtml >}}
 <hr class="small">
@@ -70,7 +70,7 @@ Expressions of interest for in-person participation are now closed.
 **Registration for online participation remains open and is available to everyone**.
 
 Register for online participation via our [**registration form**](
-https://opnform.com/forms/berlin-conference-speaker-confirmation-pdzqjz).
+https://opnform.com/forms/berlin-conference-2026-registration-form-peugcq).
 
 {{< rawhtml >}}
 </br>

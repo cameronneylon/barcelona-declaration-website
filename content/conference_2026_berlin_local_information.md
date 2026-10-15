@@ -6,8 +6,8 @@ comments = false
 
 # 2026 Conference of the Barcelona Declaration on Open Research Information
 
-## Venue & Travel Guide
-### Leibniz Association Headquarters, Berlin
+## *Venue & Travel Guide*
+### *Leibniz Association Headquarters, Berlin*
 
 
 {{< rawhtml >}}
@@ -37,6 +37,10 @@ comments = false
 {{< /rawhtml >}}
 
 ### 📍 Venue location and access
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
 
 - **Institution**: Leibniz Association Headquarters (*Geschäftsstelle der Leibniz-Gemeinschaft*)
 - **Address**: Chausseestraße 111, 10115 Berlin, Germany

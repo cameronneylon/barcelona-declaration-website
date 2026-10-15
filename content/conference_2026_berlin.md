@@ -93,7 +93,7 @@ fund will help ensure that the conference discussions benefit from a
 broader range of voices, perspectives, and experiences.
 
 We gratefully acknowledge the generous support confirmed to date from
-*Crossref*, *ROR*, *OPERAS*, *Austrian Science Fund (FWF)*, *Dutch
+*Crossref*, *ROR*, *OpenAIRE*, *OPERAS*, *Austrian Science Fund (FWF)*, *Dutch
 Research Council NWO*, *Vrije Universiteit Amsterdam*, *OSIRIS
 Solutions GmbH* and *4Science* Their contributions help make the 2026 Barcelona
 Declaration Conference more inclusive and internationally

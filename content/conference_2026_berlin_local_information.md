@@ -18,9 +18,9 @@ comments = false
         <td style="width:25%">
         </td>
         <td style="width:50%">
-            <a href="/images/bd_2026_conference_announcement.png" target="_blank">
+            <a href="/images/bd_berlin_local_information.png" target="_blank">
             <picture>
-            <img src = "/images/bd_2026_conference_announcement.png" alt = "Announcement of Barcelona Declaration 2026 Conference 2026 in Berlin. Left half of the image Berlin cityscape in subdued color tone, right half announcement details on purple background. Text: 2026 Conference of the Barcelona Declaration on Open Research Information - Open Research Information in Practice: Implementation Across Contexts. 24-25 November 2026, Leibniz Association Headquarters, Berlin, in person / online. Underneath text, logo's of Barcelona Declaration, Leibniz Association and Helmholtz Open Science Office. ">
+            <img src = "/images/bd_berlin_local_information.png" alt = "Local information for Barcelona Declaration 2026 Conference in Berlin. Left half of the image view of Leibniz Association Headquarters in subdued color tone with a tram in the foreground, right half local information topics on purple background with icons. Text: 2026 Conference of the Barcelona Declaration on Open Research Information - Leibniz Headquarters, Berlin. Venue Location, Public Transit, Getting to the Venue, Hotels, Restaurant. 24-25 November 2026, Leibniz Association Headquarters, Berlin, in person / online. Underneath text, logo's of Barcelona Declaration, Leibniz Association and Helmholtz Open Science Office. ">
             </picture>
              </a>
         </td>
@@ -46,6 +46,7 @@ comments = false
 - **Address**: Chausseestraße 111, 10115 Berlin, Germany
 - **Orientation**: Corner of Invalidenstraße & Chausseestraße
 - **Map**: View venue on [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.53071&mlon=13.38244#map=18/52.53071/13.38244) / [Google Maps](https://maps.app.goo.gl/5vznb7Ji6CqALp7v5)
+- **About the building**: [Historical overview](https://www.leibniz-gemeinschaft.de/en/about-us/history/chausseestrasse-111)
 
 {{< rawhtml >}}
 </br>

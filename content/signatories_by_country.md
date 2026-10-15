@@ -211,8 +211,8 @@ Organizations performing, funding or evaluating research
 * Institut de Recerca Biomèdica de Lleida Fundació Dr. Pifarré - IRBLleida
 * Instituto Interuniversitario de Investigación Avanzada sobre Evaluación de la Ciencia y la Universidad - INAECU
 * Museu de Ciències Naturals de Barcelona
-* Research State Agency of Spain
 * Spanish National Research Council - CSIC
+* Spanish Research State Agency
 * Universidad de Cádiz
 * Universidad de Granada
 * Universidad Pablo de Olavide

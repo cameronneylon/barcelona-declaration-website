@@ -160,7 +160,7 @@ Organizations performing, funding or evaluating research
 * Région Normandie (France)
 * Regione Emilia-Romagna (Italy)
 * Regione Toscana (Italy)
-* Research State Agency of Spain (Spain)
+* Spanish Research State Agency (Spain)
 * Taskforce for Applied Research SIA (Netherlands)
 * Wellcome Trust (United Kingdom)
 * ZonMw (Netherlands)

@@ -163,7 +163,13 @@ both of these entries in your site configuration:
  {{- range $i, $row := $rows }}
     <tr>
       {{- range $row }}
-        <td>{{ . }}</td>
+        <td>
+        {{/* Find all URLs and replace them globally with an HTML anchor tag */}}
+        {{ $parsedCell := replaceRE `(https?://[^\s<>"]+)` `<a href="$1" target="_blank" rel="noopener">$1</a>` . }}
+  
+        {{/* Render the output safely so Hugo doesn't escape the newly created HTML tags */}}
+        {{ $parsedCell | safeHTML }}
+        </td>
       {{- end }}
     </tr>
   {{- end }}

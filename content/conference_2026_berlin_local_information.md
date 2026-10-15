@@ -46,7 +46,7 @@ comments = false
 - **Address**: Chausseestraße 111, 10115 Berlin, Germany
 - **Orientation**: Corner of Invalidenstraße & Chausseestraße
 - **Map**: View venue on [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.53071&mlon=13.38244#map=18/52.53071/13.38244) / [Google Maps](https://maps.app.goo.gl/5vznb7Ji6CqALp7v5)
-- **About the building**: [Historical overview](https://www.leibniz-gemeinschaft.de/en/about-us/history/chausseestrasse-111)
+- **About the building**: [History](https://www.leibniz-gemeinschaft.de/en/about-us/history/chausseestrasse-111)
 
 {{< rawhtml >}}
 </br>

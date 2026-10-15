@@ -103,6 +103,10 @@ The venue is well connected across Berlin’s U-Bahn, S-Bahn, and tram network (
 
 {{< csv_to_table_advanced path="data/bd_berlin_transport_local_transit_tickets.csv" >}}
 
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
 **Important:** You can purchase digital tickets via the official apps **[BVG Fahrinfo](https://www.bvg.de/)**, **[Jelbi](https://www.jelbi.de/)** and **[DB Navigator](https://int.bahn.de/en/booking-information/db-navigator)** (offers country-wide, regional and local tickets).Paper tickets are also available at stations, in trams and at the bus drivers, but they must be stamped/validated (*entwertet*) at yellow/red validator boxes before boarding trains or inside buses/trams.
 
 

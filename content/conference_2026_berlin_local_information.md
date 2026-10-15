@@ -36,7 +36,7 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-### 📍 Venue location and access
+### 📍 Venue location
 
 {{< rawhtml >}}
 </br>

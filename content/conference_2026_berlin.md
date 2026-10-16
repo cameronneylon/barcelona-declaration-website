@@ -100,6 +100,92 @@ representative.
 
 {{< rawhtml >}}
 </br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<table>
+    <tr >
+        <td style="width:20%">
+          <a href="https://crossref.org/" target="_blank">
+          <picture>
+          <img src = "/images/bd_2026_conference_logo_crossref.png" alt = "logo Crossref">
+          </picture>
+          </a>
+        </td>
+        <td style="width:20%">
+          <a href="https://www.nwo.nl/en/" target="_blank">
+          <picture>
+          <img src = "/images/bd_2026_conference_logo_nwo.svg" alt = "logo NWO">
+          </picture>
+          </a>
+        </td>
+        <td style="width:20%">
+           <a href="https://www.fwf.ac.at/en/" target="_blank">
+          <picture>
+          <img src = "/images/bd_2026_conference_logo_fwf.svg" alt = "logo FWF">
+          </picture>
+          </a>
+        </td>
+        <td style="width:20%">
+          <a href="https://ror.org/" target="_blank">
+          <picture>
+          <img src = "/images/bd_2026_conference_logo_ror.svg" alt = "logo ROR">
+          </picture>
+          </a>
+        </td>
+        <td style="width:20%">
+          <a href="https://openaire.eu/" target="_blank">
+          <picture>
+          <img src = "/images/bd_2026_conference_logo_openaire.svg" alt = "logo OpenAIRE">
+          </picture>
+          </a>
+        </td>
+</table>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<table>
+     <tr >
+        <td style="width:10%">
+        </td>
+        <td style="width:20%">
+            <a href="https://operas-eu.org/" target="_blank">
+            <picture>
+            <img src = "/images/bd_2026_conference_logo_operas.png" alt = "logo OPERAS">
+            </picture>
+            </a>
+        </td>
+        <td style="width:20%">
+          <a href="https://vu.nl/en" target="_blank">
+          <picture>
+          <img src = "/images/bd_2026_conference_logo_vu.svg" alt = "logo Vrije Universiteit Amsterdam">
+          </picture>
+          </a>
+        </td>
+        <td style="width:20%"> 
+           <a href="https://osiris-solutions.de/en/" target="_blank">
+          <picture>
+          <img src = "/images/bd_2026_conference_logo_osiris.svg" alt = "logo OSIRIS Solutions GmbH">
+          </picture>
+          </a>
+        </td>
+        <td style="width:20%">
+          <a href="https://osiris-solutions.de/en/" target="_blank">
+          <picture>
+          <img src = "/images/bd_2026_conference_logo_4science.svg" alt = "logo 4Science">
+          </picture>
+          </a>
+        </td>
+        <td style="width:10%">
+        </td>
+    </tr>
+</table>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+</br>
 <hr class="small">
 {{< /rawhtml >}}
 

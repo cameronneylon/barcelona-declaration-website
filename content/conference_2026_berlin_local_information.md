@@ -34,6 +34,7 @@ comments = false
 {{< rawhtml >}}
 </br>
 <hr class="small">
+</br>
 {{< /rawhtml >}}
 
 ### 📍 Venue location
@@ -51,6 +52,7 @@ comments = false
 {{< rawhtml >}}
 </br>
 <hr class="small">
+</br>
 {{< /rawhtml >}}
 
 ### 🚊 Public Transit Hubs Nearby
@@ -62,6 +64,7 @@ The venue is well connected across Berlin’s U-Bahn, S-Bahn, and tram network (
 {{< rawhtml >}}
 </br>
 <hr class="small">
+</br>
 {{< /rawhtml >}}
 
 
@@ -97,6 +100,7 @@ The venue is well connected across Berlin’s U-Bahn, S-Bahn, and tram network (
 {{< rawhtml >}}
 </br>
 <hr class="small">
+</br>
 {{< /rawhtml >}}
 
 
@@ -114,6 +118,7 @@ The venue is well connected across Berlin’s U-Bahn, S-Bahn, and tram network (
 {{< rawhtml >}}
 </br>
 <hr class="small">
+</br>
 {{< /rawhtml >}}
 
 
@@ -142,6 +147,7 @@ These hotels do not offer special rates associated with the conference.
 {{< rawhtml >}}
 </br>
 <hr class="small">
+</br>
 {{< /rawhtml >}}
 
 

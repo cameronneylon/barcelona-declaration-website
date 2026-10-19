@@ -140,9 +140,25 @@ These hotels do not offer special rates associated with the conference.
 </br>
 {{< /rawhtml >}}
 
-#### Titanic Chaussee Berlin
+#### H+ Hotel Berlin Mitte
 
 {{< csv_to_table_advanced path="data/bd_berlin_hotel_2.csv" >}}
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
+#### Titanic Chaussee Berlin
+
+{{< csv_to_table_advanced path="data/bd_berlin_hotel_3.csv" >}}
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
+#### INNSiDE by Meliá Berlin Mitte
+
+{{< csv_to_table_advanced path="data/bd_berlin_hotel_4.csv" >}}
 
 {{< rawhtml >}}
 </br>

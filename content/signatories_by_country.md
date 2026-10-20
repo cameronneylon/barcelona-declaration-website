@@ -101,6 +101,7 @@ Organizations performing, funding or evaluating research
 * Sorbonne Université
 * Udice - French Research Universities
 * UniLaSalle
+* Université d'Angers
 * Université de Lorraine
 * Université de Reims Champagne-Ardenne
 * Université de Strasbourg

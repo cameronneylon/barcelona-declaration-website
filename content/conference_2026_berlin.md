@@ -60,14 +60,22 @@ The conference is organized by the [*Barcelona Declaration on Open Research Info
 <hr class="small">
 {{< /rawhtml >}}
 
+### Venue and travel guide
+
+Are you joining us **in person** in Berlin? Find more information about the venue, local transportation and nearby hotels and restaurants [here](/conference_2026_berlin_local_information/).
+
+Please note: Expressions of interest for in-person participation are now closed. 
+
+{{< rawhtml >}}
+</br>
+<hr class="small">
+{{< /rawhtml >}}
+
 ### Online registration remains open
 
 Join us online for two days of exchange on how policy and
 practical implementation can reinforce one another in advancing open
 research information. **Participation is free of charge**.
-
-Expressions of interest for in-person participation are now closed. 
-**Registration for online participation remains open and is available to everyone**.
 
 Register for online participation via our [**registration form**](
 https://opnform.com/forms/berlin-conference-2026-registration-form-peugcq).

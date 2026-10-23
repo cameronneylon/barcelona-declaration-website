@@ -62,7 +62,7 @@ The conference is organized by the [*Barcelona Declaration on Open Research Info
 
 ### Venue and travel guide
 
-Are you joining us **in person** in Berlin? Find more information about the venue, local transportation and nearby hotels and restaurants [here](/conference_2026_berlin_local_information/).
+Are you joining us **in person** in Berlin? Find more information about the venue, local transportation and nearby hotels and restaurants [**here**](/conference_2026_berlin_local_information/).
 
 Please note: Expressions of interest for in-person participation are now closed. 
 

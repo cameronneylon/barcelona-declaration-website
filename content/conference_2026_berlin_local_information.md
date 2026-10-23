@@ -93,7 +93,7 @@ The venue is well connected across Berlin’s U-Bahn, S-Bahn, and tram network (
 {{< /rawhtml >}}
 
 #### From Train Station Friedrichstraße
-*Travel time: approx. xx minutes*
+*Travel time: approx. 10 minutes*
 
 {{< csv_to_table_advanced path="data/bd_berlin_to_the_venue_3.csv" >}}
 

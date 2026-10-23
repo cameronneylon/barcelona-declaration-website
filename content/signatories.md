@@ -108,6 +108,7 @@ Organizations performing, funding or evaluating research
 * Universitat Pompeu Fabra Barcelona (Spain)
 * Universitat Ramon Llull (Spain)
 * Universitat Rovira i Virgili (Spain)
+* Université d'Angers (France)
 * Université de Lorraine (France)
 * Université de Reims Champagne-Ardenne (France)
 * Université de Strasbourg (France)

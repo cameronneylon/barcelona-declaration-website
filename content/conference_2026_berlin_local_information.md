@@ -9,6 +9,23 @@ comments = false
 ## *Venue & Travel Guide*
 ### *Leibniz Association Headquarters, Berlin*
 
+{{< rawhtml >}}
+</br>
+<hr class="small">
+{{< /rawhtml >}}
+
+📍  [Venue location](#venue_location)  
+🚊  [Public transit hubs nearby](#public_transit_hubs_nearby)  
+✈🚆 [Getting to the venue](#getting_to_the_venue)  
+🎫  [Local transit tickets (BVG)](#local_transit_tickets_bvg)  
+🏨  [Hotels](#hotels)  
+🍽️  [Restaurants](#restaurants)
+
+{{< rawhtml >}}
+<hr class="small">
+</br>
+{{< /rawhtml >}}
+
 
 {{< rawhtml >}}
 </br>
@@ -37,7 +54,7 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-### 📍 Venue location
+### 📍 Venue Location {#venue_location}
 
 {{< rawhtml >}}
 </br>
@@ -55,7 +72,7 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-### 🚊 Public Transit Hubs Nearby
+### 🚊 Public Transit Hubs Nearby {#public_transit_hubs_nearby}
 
 The venue is well connected across Berlin’s U-Bahn, S-Bahn, and tram network (BVG):
 
@@ -68,7 +85,7 @@ The venue is well connected across Berlin’s U-Bahn, S-Bahn, and tram network (
 {{< /rawhtml >}}
 
 
-### ✈️ 🚆 Getting to the Venue
+### ✈️ 🚆 Getting to the Venue {#getting_to_the_venue} 
 
 {{< rawhtml >}}
 </br>
@@ -104,7 +121,7 @@ The venue is well connected across Berlin’s U-Bahn, S-Bahn, and tram network (
 {{< /rawhtml >}}
 
 
-### 🎫 Local Transit Tickets (BVG)
+### 🎫 Local Transit Tickets (BVG)  {#local_transit_tickets_bvg}
 
 {{< csv_to_table_advanced path="data/bd_berlin_transport_local_transit_tickets.csv" >}}
 
@@ -122,7 +139,7 @@ The venue is well connected across Berlin’s U-Bahn, S-Bahn, and tram network (
 {{< /rawhtml >}}
 
 
-### 🏨 Hotels
+### 🏨 Hotels {#hotels}  
 
 Berlin has a wide variety of hotels and other accommodations in all price ranges.
 Below is a selection of recommended hotels that are all within a 1 to 4-minute walk from the venue.
@@ -167,7 +184,7 @@ These hotels do not offer special rates associated with the conference.
 {{< /rawhtml >}}
 
 
-### 🍽️ Restaurants
+### 🍽️ Restaurants {#restaurants} 
 
 Here is a hand-picked selection of nearby restaurants:
 

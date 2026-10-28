@@ -6,7 +6,7 @@ comments = false
 
 # 2026 Conference of the Barcelona Declaration on Open Research Information
 
-## *Programme*
+## *Programme* !
 
 {{< rawhtml >}}
 </br>

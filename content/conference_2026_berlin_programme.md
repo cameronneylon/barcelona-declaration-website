@@ -13,16 +13,16 @@ comments = false
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
     <tr >
-        <td style="width:25%">
+        <td style="width:20%">
         </td>
-        <td style="width:50%">
+        <td style="width:60%">
             <a href="/images/bd_2026_conference_programme.png" target="_blank">
             <picture>
             <img src = "/images/bd_2026_conference_programme.png" alt = "Programme hightlights for Barcelona Declaration 2026 Conference in Berlin. Text in white and yellow on purple background with icons. Text: 2026 Conference of the Barcelona Declaration on Open Research Information - Programme highlights. [text] Underneath text, logo's of Barcelona Declaration, Leibniz Association and Helmholtz Open Science Office. ">
             </picture>
              </a>
         </td>
-        <td style="width:25%">
+        <td style="width:20%">
         </td>
     </tr>
 </table>

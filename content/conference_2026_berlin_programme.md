@@ -8,6 +8,9 @@ comments = false
 
 ## *Programme*
 
+*Please note the programme may be subject to some changes between now and the event itself.*
+*Details on individual sessions will be added soon.*
+
 {{< rawhtml >}}
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
@@ -18,7 +21,7 @@ comments = false
         <td style="width:60%">
             <a href="/images/bd_2026_conference_programme.png" target="_blank">
             <picture>
-            <img src = "/images/bd_2026_conference_programme.png" alt = "Programme hightlights for Barcelona Declaration 2026 Conference in Berlin. Text in white and yellow on purple background with icons. Text: 2026 Conference of the Barcelona Declaration on Open Research Information - Programme highlights. [text] Underneath text, logo's of Barcelona Declaration, Leibniz Association and Helmholtz Open Science Office. ">
+            <img src = "/images/bd_2026_conference_programme.png" alt = "Programme hightlights for Barcelona Declaration 2026 Conference in Berlin. Text in white and yellow on purple background with icons. Text: 2026 Conference of the Barcelona Declaration on Open Research Information - Programme highlights. Aligning policy & practical implementation. High-level panels · institutional experiences, Institutional Journeys and Implementation, Policy Perspectives and International Initiatives, Working Group Outcomes & Mutual Learning, Funder Perspectives & Research Infrastructures, Posters · shared directions for open research information. 24-25 November 2026 · Berlin & Online. Underneath text, logo's of Barcelona Declaration, Leibniz Association and Helmholtz Open Science Office. ">
             </picture>
              </a>
         </td>

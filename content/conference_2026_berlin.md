@@ -19,7 +19,7 @@ comments = false
 Berlin](https://www.openstreetmap.org/node/3357928493)\
 👥 In person / online ([register](
 https://opnform.com/forms/berlin-conference-2026-registration-form-peugcq) for online participation)  
-📝 Conference [programme](/berlin-conference-2026-programme)
+📝 Conference [programme](/conference_2026_berlin_programme)
 
 {{< rawhtml >}}
 <hr class="small">
@@ -260,7 +260,7 @@ non-institutional)\
 📊 Monitoring and assessment\
 🔍 Critical reflections on open research information
 
-The [programme schedule](/berlin-conference-2026-programme) is now available.  
+The [programme schedule](/conference_2026_berlin_programme) is now available.  
 Please note the programme may be subject to some changes between now and the event itself.
 
 {{< rawhtml >}}

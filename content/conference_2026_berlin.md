@@ -62,7 +62,7 @@ The conference is organized by the [*Barcelona Declaration on Open Research Info
 
 ### Programme
 
-The [programme schedule](/berlin-conference-2026-programme) is now available.  
+The [programme schedule](/conference_2026_berlin_programme) is now available.  
 Please note the programme may be subject to some changes between now and the event itself.
 
 {{< rawhtml >}}

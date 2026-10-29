@@ -42,7 +42,7 @@ comments = false
 {{< /rawhtml >}}
 
 
-### *Wednesday Nov 25 - Day 1* 
+### *Wednesday Nov 25 - Day 2* 
 
 {{< rawhtml >}}
 <hr class="small">

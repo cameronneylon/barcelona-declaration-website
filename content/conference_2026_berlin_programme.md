@@ -8,9 +8,6 @@ comments = false
 
 ## *Programme*
 
-*Please note the programme may be subject to some changes between now and the event itself.*
-*Details on individual sessions will be added soon.*
-
 {{< rawhtml >}}
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
@@ -31,6 +28,9 @@ comments = false
 </table>
 </br>
 {{< /rawhtml >}}
+
+*Please note the programme may be subject to some changes between now and the event itself.*
+*Details on individual sessions will be added soon.*
 
 ### *Tuesday Nov 24 - Day 1*
 

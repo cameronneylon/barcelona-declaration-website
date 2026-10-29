@@ -11,9 +11,9 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* We are pleased to welcome the Spanish Research State Agency (Agencia Estatal de Investigación, AEI) as a signatory of the Barcelona Declaration [read more](/20261015_aei_joins_barcelona_declaration/)
+* 2026 Conference of the Barcelona Declaration - programme schedule now online!  [read more](/conference_2026_berlin_programme/)
 
-* 2026 Conference of the Barcelona Declaration - Preliminary programme and registration for online attendance [read more](/conference_2026_berlin/)
+* We are pleased to welcome the Spanish Research State Agency (Agencia Estatal de Investigación, AEI) as a signatory of the Barcelona Declaration [read more](/20261015_aei_joins_barcelona_declaration/)
 
 * Open Pharma signs the Barcelona Declaration on Open Research Information [read more](/20260903_open_pharma_signs_barcelona_declaration/)
 

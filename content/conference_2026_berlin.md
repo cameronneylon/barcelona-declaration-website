@@ -17,9 +17,9 @@ comments = false
 ⏰ 9:00-17:00 CET\
 📍[Leibniz Association Headquarters, Chausseestraße 111,
 Berlin](https://www.openstreetmap.org/node/3357928493)\
-👥 In person / online\
-📝 [Register](
-https://opnform.com/forms/berlin-conference-2026-registration-form-peugcq) for online participation
+👥 In person / online ([register](
+https://opnform.com/forms/berlin-conference-2026-registration-form-peugcq) for online participation)  
+📝 Conference [programme](/berlin-conference-2026-programme)
 
 {{< rawhtml >}}
 <hr class="small">
@@ -54,6 +54,16 @@ signatories, supporters, and other stakeholders, creating a space to
 
 The conference is organized by the [*Barcelona Declaration on Open Research Information*](https://barcelona-declaration.org) together with
 [*Leibniz Association*](https://www.leibniz-gemeinschaft.de/en/) and [*Helmholtz Open Science Office*](https://os.helmholtz.de/).
+
+{{< rawhtml >}}
+</br>
+<hr class="small">
+{{< /rawhtml >}}
+
+### Programme
+
+The [programme schedule](/berlin-conference-2026-programme) is now available.  
+Please note the programme may be subject to some changes between now and the event itself.
 
 {{< rawhtml >}}
 </br>
@@ -194,7 +204,7 @@ Declaration Conference more inclusive and internationally representative.
 <hr class="small">
 {{< /rawhtml >}}
 
-### Preliminary programme
+### Programme overview
 
 The conference will run from **9:00 to 17:00 CET** on both days.
 
@@ -250,8 +260,8 @@ non-institutional)\
 📊 Monitoring and assessment\
 🔍 Critical reflections on open research information
 
-Further details about speakers and moderators will be announced as the
-programme is finalized
+The [programme schedule](/berlin-conference-2026-programme) is now available.  
+Please note the programme may be subject to some changes between now and the event itself.
 
 {{< rawhtml >}}
 </br>

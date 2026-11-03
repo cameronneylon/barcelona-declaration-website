@@ -11,11 +11,9 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* Barcelona Declaration and COAR launch joint survey on repository metadata practices  [read more](/20261103_joint_bd_coar_survey_on_repository_metadata_practices/)
+
 * 2026 Conference of the Barcelona Declaration - programme schedule now online!  [read more](/conference_2026_berlin_programme/)
-
-* We are pleased to welcome the Spanish Research State Agency (Agencia Estatal de Investigación, AEI) as a signatory of the Barcelona Declaration [read more](/20261015_aei_joins_barcelona_declaration/)
-
-* Open Pharma signs the Barcelona Declaration on Open Research Information [read more](/20260903_open_pharma_signs_barcelona_declaration/)
 
 
 {{< rawhtml >}}

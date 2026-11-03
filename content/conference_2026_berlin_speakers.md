@@ -149,7 +149,7 @@ comments = false
         <td style="width:47.5%" vertical-align:middle>
             <a href="/images/bd_berlin_oliver_gunther_850_567.jpeg" target="_blank">
             <picture>
-            <img src = "/images/bd_berlin_oliver_gunther_850_567.jpeg" alt = "photo Oliver Günther>
+            <img src = "/images/bd_berlin_oliver_gunther_850_567.jpeg" alt = "photo Oliver Günther">
             </picture>
              </a>
         </td>

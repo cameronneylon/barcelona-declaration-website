@@ -104,7 +104,7 @@ comments = false
     </tr>
     <tr >
         <td style="width:47.5%">
-        IDRC - International Development Research Centre
+        International Development Research Centre (IDRC)
         </td>
         <td style="width:5%">
         </td>
@@ -140,7 +140,7 @@ comments = false
         <td style="width:47.5%" vertical-align:middle>
             <a href="/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" target="_blank">
             <picture>
-            <img src = "/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" alt = "photo Matthew Wallace">
+            <img src = "/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" alt = "photo Nicolas Fressengeas">
             </picture>
             </a>
         </td>
@@ -149,9 +149,9 @@ comments = false
         <td style="width:47.5%" vertical-align:middle>
             <a href="/images/bd_berlin_oliver_gunther_850_567.jpeg" target="_blank">
             <picture>
-            <img src = "/images/bd_berlin_oliver_gunther_850_567.jpeg" alt = "photo Zeynep Varoglu">
+            <img src = "/images/bd_berlin_oliver_gunther_850_567.jpeg" alt = "photo Oliver Günther">
             </picture>
-             </a>
+            </a>
         </td>
     </tr>
     <tr >

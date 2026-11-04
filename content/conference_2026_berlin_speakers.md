@@ -29,9 +29,9 @@ comments = false
         <td style="width:5%">
         </td>
         <td style="width:47.5%" vertical-align:middle>
-            <a href="/images/bd_berlin_lin_zhang_850_567.jpeg" target="_blank">
+            <a href="/images/bd_berlin_zeynep_varoglu_850_567.jpeg" target="_blank">
             <picture>
-            <img src = "/images/bd_berlin_lin_zhang_850_567.jpeg" alt = "photo Lin Zhang">
+            <img src = "/images/bd_berlin_zeynep_varoglu_850_567.jpeg" alt = "photo Zeynep Varoglu">
             </picture>
              </a>
         </td>
@@ -43,7 +43,7 @@ comments = false
         <td style="width:5%">
         </td>
         <td style="width:47.5%">
-         <strong>Lin Zhang </strong>
+         <strong>Zeynep Varoglu </strong>
         </td>
     </tr>
     <tr >
@@ -53,7 +53,7 @@ comments = false
         <td style="width:5%">
         </td>
         <td style="width:47.5%">
-        Wuhan University
+        UNESCO Open Solutions
         </td>
     </tr>
     <tr >
@@ -85,9 +85,9 @@ comments = false
         <td style="width:5%">
         </td>
         <td style="width:47.5%" vertical-align:middle>
-            <a href="/images/bd_berlin_zeynep_varoglu_850_567.jpeg" target="_blank">
+             <a href="/images/bd_berlin_lin_zhang_850_567.jpeg" target="_blank">
             <picture>
-            <img src = "/images/bd_berlin_zeynep_varoglu_850_567.jpeg" alt = "photo Zeynep Varoglu">
+            <img src = "/images/bd_berlin_lin_zhang_850_567.jpeg" alt = "photo Lin Zhang">
             </picture>
              </a>
         </td>
@@ -99,17 +99,17 @@ comments = false
         <td style="width:5%">
         </td>
         <td style="width:47.5%">
-         <strong>Zeynep Varoglu </strong>
+         <strong>Lin Zhang </strong>
         </td>
     </tr>
     <tr >
         <td style="width:47.5%">
-        IDRC - International Development Research Centre
+        International Development Research Centre (IDRC)
         </td>
         <td style="width:5%">
         </td>
         <td style="width:47.5%">
-        UNESCO Open Solutions
+        Wuhan University
         </td>
     </tr>
     <tr >
@@ -138,40 +138,41 @@ comments = false
 <table>
     <tr >
         <td style="width:47.5%" vertical-align:middle>
-            <a href="/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" target="_blank">
+            <a href="/images/bd_berlin_sandra_bendiscioli_850_567.jpeg" target="_blank">
             <picture>
-            <img src = "/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" alt = "photo Nicoloas Fressengeas">
+            <img src = "/images/bd_berlin_sandra_bendiscioli_850_567.jpeg" alt = "photo Sandra Bendiscioli">
             </picture>
             </a>
         </td>
         <td style="width:5%">
         </td>
         <td style="width:47.5%" vertical-align:middle>
-            <a href="/images/bd_berlin_oliver_gunther_850_567.jpeg" target="_blank">
+            <a href="/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" target="_blank">
             <picture>
-            <img src = "/images/bd_berlin_oliver_gunther_850_567.jpeg" alt = "photo Oliver Günther">
+            <img src = "/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" alt = "photo Nicoloas Fressengeas">
             </picture>
-             </a>
+            </a>
         </td>
     </tr>
     <tr >
         <td style="width:47.5%">
-        <strong>Nicolas Fressengeas</strong>
+        <strong>Sandra Bendiscioli </strong>
         </td>
         <td style="width:5%">
         </td>
         <td style="width:47.5%">
-         <strong>Oliver Günther</strong>
+         <strong>Nicolas Fressengeas </strong>
         </td>
     </tr>
     <tr >
         <td style="width:47.5%">
+        EMBO / DORA Executive Board
         French Ministry of Higher Education and Research / Université de Lorraine / OSMI Steering Board
         </td>
         <td style="width:5%">
         </td>
         <td style="width:47.5%">
-        University of Potsdam / CoARA Steering Board
+        French Ministry of Higher Education and Research / Université de Lorraine / OSMI Steering Board
         </td>
     </tr>
     <tr >
@@ -194,11 +195,11 @@ comments = false
 <table>
     <tr >
         <td style="width:47.5%" vertical-align:middle>
-            <a href="/images/bd_berlin_sandra_bendiscioli_850_567.jpeg" target="_blank">
+            <a href="/images/bd_berlin_oliver_gunther_850_567.jpeg" target="_blank">
             <picture>
-            <img src = "/images/bd_berlin_sandra_bendiscioli_850_567.jpeg" alt = "photo Sandra Bendiscioli">
+            <img src = "/images/bd_berlin_oliver_gunther_850_567.jpeg" alt = "photo Oliver Günther">
             </picture>
-            </a>
+             </a>
         </td>
         <td style="width:5%">
         </td>
@@ -207,7 +208,7 @@ comments = false
     </tr>
     <tr >
         <td style="width:47.5%">
-        <strong>Sandra Bendiscioli</strong>
+        <strong>Oliver Günther </strong>
         </td>
         <td style="width:5%">
         </td>
@@ -217,7 +218,7 @@ comments = false
     </tr>
     <tr >
         <td style="width:47.5%">
-        EMBO / DORA Executive Board
+        University of Potsdam / CoARA Steering Board
         </td>
         <td style="width:5%">
         </td>

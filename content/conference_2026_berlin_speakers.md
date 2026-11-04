@@ -58,12 +58,12 @@ comments = false
     </tr>
     <tr >
         <td style="width:47.5%">
-        more [link]
+        <a href="/conference_2026_berlin_speaker_bios#speaker_ek" title="speaker bio Emanuel Kulczycki" target="_blank">speaker bio</a>
         </td>
         <td style="width:5%">
         </td>
         <td style="width:47.5%">
-        more [link]
+        <a href="/conference_2026_berlin_speaker_bios#speaker_zv" title="speaker bio Zeynep Varoglu" target="_blank">speaker bio</a>
         </td>
     </tr>
 </table>
@@ -114,12 +114,12 @@ comments = false
     </tr>
     <tr >
         <td style="width:47.5%">
-        more [link]
+        <a href="/conference_2026_berlin_speaker_bios#speaker_mw" title="speaker bio Matthew Wallace" target="_blank">speaker bio</a>
         </td>
         <td style="width:5%">
         </td>
         <td style="width:47.5%">
-        more [link]
+        <a href="/conference_2026_berlin_speaker_bios#speaker_lz" title="speaker bio Lin Zhang" target="_blank">speaker bio</a>
         </td>
     </tr>
 </table>
@@ -167,7 +167,6 @@ comments = false
     <tr >
         <td style="width:47.5%">
         EMBO / DORA Executive Board
-        French Ministry of Higher Education and Research / Université de Lorraine / OSMI Steering Board
         </td>
         <td style="width:5%">
         </td>
@@ -177,12 +176,12 @@ comments = false
     </tr>
     <tr >
         <td style="width:47.5%">
-        more [link]
+        <a href="/conference_2026_berlin_speaker_bios#speaker_sb" title="speaker bio Sandra Bendiscioli" target="_blank">speaker bio</a>
         </td>
         <td style="width:5%">
         </td>
         <td style="width:47.5%">
-        more [link]
+        <a href="/conference_2026_berlin_speaker_bios#speaker_nf" title="speaker bio Nicolas Fressengeas" target="_blank">speaker bio</a>
         </td>
     </tr>
 </table>
@@ -227,7 +226,7 @@ comments = false
     </tr>
     <tr >
         <td style="width:47.5%">
-        more [link]
+        <a href="/conference_2026_berlin_speaker_bios#speaker_og" title="speaker bio Oliver Günther target="_blank">speaker bio</a>
         </td>
         <td style="width:5%">
         </td>

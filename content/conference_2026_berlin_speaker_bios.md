@@ -18,7 +18,7 @@ comments = false
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
-    <tr >
+    <tr id="speaker_ek" >
         <td style="width:30%"  valign="top">
             <a href="/images/bd_berlin_emanuel_kulczycki_850_567.jpeg" target="_blank">
             <picture>
@@ -41,7 +41,7 @@ comments = false
 <table>
     <tr >
         <td style="width:30%" valign="top">
-            <a href="/images/bd_berlin_zeynep_varoglu_850_567.jpeg" target="_blank">
+            <a href="/images/bd_berlin_zeynep_varoglu_850_567.jpeg" target="_blank" name = "speaker_zv">
             <picture>
             <img src = "/images/bd_berlin_zeynep_varoglu_850_567.jpeg" alt = "photo Zeynep Varoglu">
             </picture>
@@ -62,7 +62,7 @@ comments = false
 <table>
     <tr >
         <td style="width:30%" valign="top">
-            <a href="/images/bd_berlin_matthew_wallace_850_567.jpeg" target="_blank">
+            <a href="/images/bd_berlin_matthew_wallace_850_567.jpeg" target="_blank" name = "speaker_mw">
             <picture>
             <img src = "/images/bd_berlin_matthew_wallace_850_567.jpeg" alt = "photo Matthew Wallace">
             </picture>
@@ -83,7 +83,7 @@ comments = false
 <table>
     <tr >
         <td style="width:30%" valign="top">
-            <a href="/images/bd_berlin_lin_zhang_850_567.jpeg" target="_blank">
+            <a href="/images/bd_berlin_lin_zhang_850_567.jpeg" target="_blank" name = "speaker_lz">
             <picture>
             <img src = "/images/bd_berlin_lin_zhang_850_567.jpeg" alt = "photo Lin Zhang">
             </picture>
@@ -111,7 +111,7 @@ comments = false
 <table>
     <tr >
         <td style="width:30%"  valign="top">
-            <a href="/images/bd_berlin_sandra_bendiscioli_850_567.jpeg" target="_blank">
+            <a href="/images/bd_berlin_sandra_bendiscioli_850_567.jpeg" target="_blank" name = "speaker_sb">
             <picture>
             <img src = "/images/bd_berlin_sandra_bendiscioli_850_567.jpeg" alt = "photo Sandra Bendiscioli">
             </picture>
@@ -132,7 +132,7 @@ comments = false
 <table>
     <tr >
         <td style="width:30%" valign="top">
-           <a href="/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" target="_blank">
+           <a href="/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" target="_blank" name = "speaker_nf">
             <picture>
             <img src = "/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" alt = "photo Nicolas Fressengeas">
             </picture>
@@ -151,7 +151,7 @@ comments = false
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
-    <tr >
+    <tr>
         <td style="width:30%" valign="top">
             <a href="/images/bd_berlin_oliver_gunther_850_567.jpeg" target="_blank">
             <picture>

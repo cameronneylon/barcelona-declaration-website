@@ -98,7 +98,7 @@ comments = false
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
     <tr >
-        <td style="width:16.75%">
+        <td style="width:16.75%" rowspan="4">
         </td>
         <td style="width:33%" vertical-align:middle>
             <a href="/images/bd_berlin_matthew_wallace_850_567.jpeg" target="_blank">
@@ -116,12 +116,10 @@ comments = false
             </picture>
              </a>
         </td>
-        <td style="width:16.75%">
+        <td style="width:16.75%"  rowspan="4">
         </td>
     </tr>
     <tr >
-        <td style="width:16.75%">
-        </td>
         <td style="width:33%">
         <strong>Matthew Wallace</strong>
         </td>
@@ -130,12 +128,8 @@ comments = false
         <td style="width:33%">
          <strong>Lin Zhang </strong>
         </td>
-        <td style="width:16.75%">
-        </td>
     </tr>
     <tr >
-        <td style="width:16.75%">
-        </td>
         <td style="width:33%">
         International Development Research Centre (IDRC)
         </td>
@@ -144,12 +138,8 @@ comments = false
         <td style="width:33%">
         Wuhan University
         </td>
-        <td style="width:16.75%">
-        </td>
     </tr>
     <tr >
-        <td style="width:16.75%">
-        </td>
         <td style="width:33%">
         <a href="/conference_2026_berlin_speaker_bios#speaker_mw" title="speaker bio Matthew Wallace" target="_blank">speaker bio</a>
         </td>
@@ -157,8 +147,6 @@ comments = false
         </td>
         <td style="width:33%">
         <a href="/conference_2026_berlin_speaker_bios#speaker_lz" title="speaker bio Lin Zhang" target="_blank">speaker bio</a>
-        </td>
-        <td style="width:16.75%">
         </td>
     </tr>
 </table>
@@ -176,7 +164,7 @@ comments = false
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
     <tr >
-        <td style="width:16.75%">
+        <td style="width:16.75%" rowspan="4">
         </td>
         <td style="width:33%" vertical-align:middle>
             <a href="/images/bd_berlin_sandra_bendiscioli_850_567.jpeg" target="_blank">
@@ -194,12 +182,10 @@ comments = false
             </picture>
             </a>
         </td>
-        <td style="width:16.75%">
+        <td style="width:16.75%"  rowspan="4">
         </td>
     </tr>
     <tr >
-        <td style="width:16.75%">
-        </td>
         <td style="width:33%">
         <strong>Sandra Bendiscioli </strong>
         </td>
@@ -208,12 +194,8 @@ comments = false
         <td style="width:33%">
          <strong>Miranda Bennett </strong>
         </td>
-        <td style="width:16.75%">
-        </td>
     </tr>
     <tr >
-        <td style="width:16.75%">
-        </td>
         <td style="width:33%">
         EMBO / DORA Executive Board
         </td>
@@ -222,12 +204,8 @@ comments = false
         <td style="width:33%">
         California Digital Library / Barcelona Declaration Steering Group
         </td>
-        <td style="width:16.75%">
-        </td>
     </tr>
     <tr >
-        <td style="width:16.75%">
-        </td>
         <td style="width:33%">
         <a href="/conference_2026_berlin_speaker_bios#speaker_sb" title="speaker bio Sandra Bendiscioli" target="_blank">speaker bio</a>
         </td>
@@ -235,8 +213,6 @@ comments = false
         </td>
         <td style="width:33%">
         <a href="/conference_2026_berlin_speaker_bios#speaker_nf" title="speaker bio Nicolas Fressengeas" target="_blank">speaker bio</a>
-        </td>
-        <td style="width:16.75%">
         </td>
     </tr>
 </table>
@@ -248,7 +224,7 @@ comments = false
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
     <tr >
-        <td style="width:16.75%">
+        <td style="width:16.75%"  rowspan="4">
         </td>
         <td style="width:33%" vertical-align:middle>
             <a href="/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" target="_blank">
@@ -266,12 +242,10 @@ comments = false
             </picture>
              </a>
         </td>
-        <td style="width:16.75%">
+        <td style="width:16.75%"  rowspan="4">
         </td>
     </tr>
     <tr >
-        <td style="width:16.75%">
-        </td>
         <td style="width:33%">
        <strong>Nicolas Fressengeas </strong>
         </td>
@@ -280,12 +254,8 @@ comments = false
         <td style="width:33%">
         <strong>Oliver Günther </strong>
         </td>
-        <td style="width:16.75%">
-        </td>
     </tr>
     <tr >
-        <td style="width:16.75%">
-        </td>
         <td style="width:33%">
         French Ministry of Higher Education and Research / Université de Lorraine / OSMI Steering Board
         </td>
@@ -294,12 +264,8 @@ comments = false
          <td style="width:33%">
          University of Potsdam / CoARA Steering Board
         </td>
-        <td style="width:16.75%">
-        </td>
     </tr>
     <tr >
-        <td style="width:16.75%">
-        </td>
         <td style="width:33%">
         <a href="/conference_2026_berlin_speaker_bios#speaker_og" title="speaker bio Oliver Günther target="_blank">speaker bio</a>
         </td>
@@ -307,8 +273,6 @@ comments = false
         </td>
          <td style="width:33%">
         <a href="/conference_2026_berlin_speaker_bios#speaker_nf" title="speaker bio Nicolas Fressengeas" target="_blank">speaker bio</a>
-        </td>
-        <td style="width:16.75%">
         </td>
     </tr>
 </table>

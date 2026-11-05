@@ -6,7 +6,7 @@ comments = false
 
 # 2026 Conference of the Barcelona Declaration on Open Research Information
 
-## *Speaker bio's*
+## *Speakers*
 
 ### Panel I - High-level policy
 

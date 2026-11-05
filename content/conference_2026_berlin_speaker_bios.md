@@ -18,6 +18,27 @@ comments = false
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
+    <tr id="speaker_lh" >
+        <td style="width:30%"  valign="top">
+            <a href="/images/bd_berlin_lee_harris_850_567.jpeg" target="_blank">
+            <picture>
+            <img src = "/images/bd_berlin_lee_harris_850_567.jpeg" alt = "photo Lee Harris">
+            </picture>
+            </a>
+        </td>
+        <td style="width:70%"  valign="top">
+        <strong>Lee Harris</strong> is a Director at the Australian Research Council (ARC), leading work across national research evaluation, research intelligence and research data policy. With more than 14 years’ experience in research policy, programs and infrastructure, he leads the development of the ARC’s Research Insights Capability (RIC), a new approach to understanding the excellence, impact and depth of Australian research and identifying national strengths, connections, capability gaps and emerging opportunities.</br></br>
+        His work spans responsible research assessment, open research data, Persistent Identifiers, Open Access and FAIR data, with a focus on building a more connected and evidence-informed research system. Through RIC, Lee is helping shift national research evaluation beyond periodic assessment and narrow metrics towards richer, more timely insights that can inform policy, investment and strategic decision-making.
+        </td>
+    </tr>
+</table>
+</br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+</br>
+<link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<table>
     <tr id="speaker_ek" >
         <td style="width:30%"  valign="top">
             <a href="/images/bd_berlin_emanuel_kulczycki_850_567.jpeg" target="_blank">
@@ -39,9 +60,9 @@ comments = false
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
-    <tr >
+    <tr id = "speaker_zv">
         <td style="width:30%" valign="top">
-            <a href="/images/bd_berlin_zeynep_varoglu_850_567.jpeg" target="_blank" name = "speaker_zv">
+            <a href="/images/bd_berlin_zeynep_varoglu_850_567.jpeg" target="_blank">
             <picture>
             <img src = "/images/bd_berlin_zeynep_varoglu_850_567.jpeg" alt = "photo Zeynep Varoglu">
             </picture>
@@ -60,9 +81,9 @@ comments = false
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
-    <tr >
+    <tr id = "speaker_mw">
         <td style="width:30%" valign="top">
-            <a href="/images/bd_berlin_matthew_wallace_850_567.jpeg" target="_blank" name = "speaker_mw">
+            <a href="/images/bd_berlin_matthew_wallace_850_567.jpeg" target="_blank">
             <picture>
             <img src = "/images/bd_berlin_matthew_wallace_850_567.jpeg" alt = "photo Matthew Wallace">
             </picture>
@@ -81,9 +102,9 @@ comments = false
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
-    <tr >
+    <tr id = "speaker_lz">
         <td style="width:30%" valign="top">
-            <a href="/images/bd_berlin_lin_zhang_850_567.jpeg" target="_blank" name = "speaker_lz">
+            <a href="/images/bd_berlin_lin_zhang_850_567.jpeg" target="_blank">
             <picture>
             <img src = "/images/bd_berlin_lin_zhang_850_567.jpeg" alt = "photo Lin Zhang">
             </picture>
@@ -109,9 +130,9 @@ comments = false
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
-    <tr >
+    <tr id = "speaker_sb">
         <td style="width:30%"  valign="top">
-            <a href="/images/bd_berlin_sandra_bendiscioli_850_567.jpeg" target="_blank" name = "speaker_sb">
+            <a href="/images/bd_berlin_sandra_bendiscioli_850_567.jpeg" target="_blank">
             <picture>
             <img src = "/images/bd_berlin_sandra_bendiscioli_850_567.jpeg" alt = "photo Sandra Bendiscioli">
             </picture>
@@ -130,9 +151,30 @@ comments = false
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
-    <tr >
+    <tr id = "speaker_mb">
+        <td style="width:30%"  valign="top">
+            <a href="/images/bd_berlin_miranda_bennett_850_567.jpg" target="_blank">
+            <picture>
+            <img src = "/images/bd_berlin_miranda_bennett_850_567.jpg" alt = "photo Miranda Bennett">
+            </picture>
+            </a>
+        </td>
+        <td style="width:70%"  valign="top">
+        With over twenty years of experience in libraries, <strong>Miranda Bennett</strong> has served since 2022 as Director of Shared Collections at California Digital Library, part of the University of California System. Her portfolio includes systemwide licensing, open publishing agreements, and shared print, and she works with other members of the CDL leadership team in areas such as scholarly communications outreach, research data support infrastructure, and the UC Libraries integrated library system.</br></br>
+        She is a member of the Barcelona Declaration Steering Group and co-chairs the Barcelona Declaration/OA Forward Joint Task Force on Negotiating Openness of Publication Metadata
+        </td>
+    </tr>
+</table>
+</br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+</br>
+<link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<table>
+    <tr id = "speaker_nf">
         <td style="width:30%" valign="top">
-           <a href="/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" target="_blank" name = "speaker_nf">
+           <a href="/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" target="_blank">
             <picture>
             <img src = "/images/bd_berlin_nicolas_fressengeas_850_567.jpeg" alt = "photo Nicolas Fressengeas">
             </picture>
@@ -151,7 +193,7 @@ comments = false
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
 <table>
-    <tr>
+    <tr id = "speaker_og">
         <td style="width:30%" valign="top">
             <a href="/images/bd_berlin_oliver_gunther_850_567.jpeg" target="_blank">
             <picture>

@@ -8,7 +8,7 @@ comments = false
 
 ## *Speakers*
 
-### Panel I - High level policy
+### Panel I - High-level policy
 
 {{< rawhtml >}}
 <hr class="small">

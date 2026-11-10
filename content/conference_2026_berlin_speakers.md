@@ -170,10 +170,14 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
+
 ### Panel II - Related international initiatives
 
 {{< rawhtml >}}
-<hr class="small">
+<id = "panel_2"">
 {{< /rawhtml >}}
 
 {{< rawhtml >}}

@@ -46,8 +46,11 @@ comments = false
         <td style="width:20%" valign="top">
         08:15 - 09:00
         </td>
-        <td style="width:80%"  valign="top">
+        <td style="width:70%"  valign="top">
         <em>Registration, coffee</em>
+        </td>
+        <td style="width:10%"  valign="top">
+        Anteroom
         </td>
     </tr>
     <tr>
@@ -57,8 +60,11 @@ comments = false
         <td style="width:80%"  valign="top">
         <strong>Welcome, housekeeping</strong>
         </td>
+         <td style="width:10%"  valign="middle" rowspan="3">
+        Room Hannover
+        </td>
     </tr>
-    <tr>
+    <tr> 
     <td style="width:20%" valign="top">
         09:15 - 09:30
         </td>
@@ -88,6 +94,9 @@ comments = false
         </td>
         <td style="width:80%"  valign="top">
         <em>Coffee</em>
+         <td style="width:10%"  valign="top">
+        Anteroom
+        </td>
         </td>
     </tr>
     <tr>
@@ -96,6 +105,9 @@ comments = false
         </td>
         <td style="width:80%"  valign="top">
           <strong>Barcelona Declaration - where are we now</strong>
+        </td>
+         <td style="width:10%"  valign="middle" rowspan="2">
+        Room Hannover
         </td>
     </tr>
     <tr>
@@ -112,6 +124,9 @@ comments = false
       </td>
       <td style="width:80%"  valign="top">
         <em>Lunch and posters</em>
+         <td style="width:10%"  valign="top">
+       Atrium
+        </td>
       </td>
     </tr>
     <tr>
@@ -128,6 +143,9 @@ comments = false
         Adeline Rege	(Université de Strasbourg / Couperin consortium)</br></br> 
         Moderator: Mathijs Vleugel (Helmholtz Open Science Office)</br> 
       </td>
+      <td style="width:10%"  valign="top">
+        Room Hannover
+        </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
@@ -142,6 +160,9 @@ comments = false
         Dominic Mitchell	(DOAJ)</br></br> 
         Moderator: Matthias Goeritz (Leibniz Association) 
       </td>
+      <td style="width:10%"  valign="top">
+        Room Berlin
+        </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
@@ -149,6 +170,8 @@ comments = false
       </td>
       <td style="width:80%"  valign="top">
       <em>Room transitions</em>
+      <td style="width:10%"  valign="top">
+        </td>
       </td>
     </tr>
     <tr>
@@ -168,6 +191,9 @@ comments = false
         Moderators:</br>Zoé Ancion (Agence National de la Recherche - ANR)</br>
         Bianca Kramer (Barcelona Declaration)
       </td>
+      <td style="width:10%"  valign="top">
+        Room Berlin
+        </td>
     </tr>
      <tr>
       <td style="width:20%" valign="top">
@@ -184,6 +210,9 @@ comments = false
         Emma Booth, Mike Nason	(Thoth Open Metadata) </br></br>
         Moderator:</br>Marc Lange (Helmholtz Open Science Office)</br>
       </td>
+      <td style="width:10%"  valign="top">
+        Room Hannover
+        </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
@@ -191,6 +220,9 @@ comments = false
       </td>
       <td style="width:80%"  valign="top">
       <em>Tea and posters</em>
+      <td style="width:10%"  valign="top">
+       Anteroom
+      </td>
       </td>
     </tr>
     <tr>
@@ -205,6 +237,9 @@ comments = false
         [to be confirmed]	(Centro de Ciências da Administração e Socioeconômicas - ESAG, da Universidade do Estado de Santa Catarina - UDESC) online</br></br>
         Moderator:</br>Aida Ćumurović (Leibniz Association)</br>
       </td>
+      <td style="width:10%"  valign="top">
+       Room Berlin
+      </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
@@ -218,6 +253,9 @@ comments = false
         Eileen Waegemaekers (SURF)</br></br>
         Moderator:</br>Bárbara Rivera López (Barcelona Declaration)</br>
       </td>
+      <td style="width:10%"  valign="top">
+       Room Hannover
+      </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
@@ -225,6 +263,8 @@ comments = false
       </td>
       <td style="width:80%"  valign="top">
         <em>Room transitions</em>
+      </td>
+      <td style="width:10%"  valign="top">
       </td>
     </tr>
     <tr>
@@ -234,13 +274,18 @@ comments = false
       <td style="width:80%"  valign="top">
       <strong>Wrap up & introduction day 2</strong>
       </td>
+      <td style="width:10%"  valign="top" >
+       Room Hannover
+      </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
       17:30	
       </td>
       <td style="width:80%"  valign="top">
-      <strong>Closing day 1</strong>	
+      <em>Closing day 1</em>	
+      </td>
+      <td style="width:10%"  valign="top">
       </td>
     </tr>
     <tr>
@@ -250,13 +295,19 @@ comments = false
       <td style="width:80%"  valign="top">
       <em>Reception and posters (drinks and light food)</em>	
       </td>
+      <td style="width:10%"  valign="top">
+      Atrium
+      </td>
     </tr>
      <tr>
       <td style="width:20%" valign="top">
       19:00 - 21:00
       </td>
       <td style="width:80%"  valign="top">
-      <em>Dinner at Dieselhaus (optional, self paid upon registration)</em>
+      <em>Dinner (optional, self paid upon registration)</em>
+      <td style="width:10%"  valign="top">
+      Restaurant Dieselhaus
+      </td>
       </td>
     </tr>
 </table>
@@ -286,6 +337,9 @@ comments = false
         <td style="width:80%"  valign="top">
         <em>Coffee</em>
         </td>
+        <td style="width:10%"  valign="top">
+       Anteroom
+      </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
@@ -294,6 +348,9 @@ comments = false
         <td style="width:80%"  valign="top">
         <strong>Welcome and opening day 2</strong> </br>
         <strong>Lightning talk - Helmholtz Open Science Office</strong>
+        </td>
+        <td style="width:10%"  valign="middle" rowspan="3">
+          Room Hannover
         </td>
     </tr>
     <tr>
@@ -326,6 +383,9 @@ comments = false
       <td style="width:80%"  valign="top">
         <em>Coffee and posters</em>
       </td>
+       <td style="width:10%"  valign="top">
+         Anteroom
+        </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
@@ -335,13 +395,16 @@ comments = false
         <strong>Barcelona Declaration Working groups - part 2</strong>  </br>
         (presenting activities and outcomes)
       </td>
+       <td style="width:10%"  valign="middle" rowspan="2">
+        Room Hannover
+        </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
         12:15 - 12:30	
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Introducion mutual learning sessions</strong>
+        <strong>Introduction mutual learning sessions</strong>
       </td>
     </tr>
     <tr>
@@ -351,6 +414,9 @@ comments = false
       <td style="width:80%"  valign="top">
        <em>Lunch and posters</em>
       </td>
+      <td style="width:10%"  valign="top">
+       Atrium
+        </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
@@ -359,6 +425,9 @@ comments = false
       <td style="width:80%"  valign="top">
         <strong>Mutual learning sessions - group and room assignments</strong>
       </td>
+      <td style="width:10%"  valign="top">
+        Room Hannover
+        </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
@@ -367,6 +436,8 @@ comments = false
       <td style="width:80%"  valign="top">
       <em>Room transitions</em>
       </td>
+      <td style="width:10%"  valign="top">
+        </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
@@ -374,6 +445,15 @@ comments = false
       </td>
       <td style="width:80%"  valign="top">
       <strong>Mutual learning sessions</strong>
+      <td style="width:10%"  valign="top">
+        Rooms</br>
+        Hannover</br>
+        Berlin </br>
+        Wolfenbüttel </br>
+        Leipzig </br>
+        Anteroom </br>
+        Atrium </br>
+        </td>
       </td>
     </tr>
     <tr>
@@ -382,6 +462,9 @@ comments = false
       </td>
       <td style="width:80%"  valign="top">
       <em>Tea and reflection</em>
+      <td style="width:10%"  valign="top">
+       Anteroom
+        </td>
       </td>
     </tr>
     <tr>
@@ -390,6 +473,9 @@ comments = false
       </td>
       <td style="width:80%"  valign="top">
         <strong>Reflections German stakeholders</strong>
+        <td style="width:10%"  valign="middle" rowspan="3">
+        Room Hannover
+        </td>
       </td>
     </tr>
     <tr>
@@ -413,7 +499,9 @@ comments = false
       17:30	
       </td>
       <td style="width:80%"  valign="top">
-      <strong>Closing day 2</strong>
+      <em>Closing day 2</em>
+      <td style="width:10%"  valign="top">
+        </td>
       </td>
     </tr>
 </table>

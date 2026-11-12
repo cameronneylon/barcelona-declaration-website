@@ -9,7 +9,7 @@ comments = false
 ## *Programme*
 
 *Please note the programme may be subject to some changes between now and the event itself.*
-*Details on individual sessions will be added soon.*
+*Information on titles and abstracts of individual presentions and on posters will be added soon.*
 
 {{< rawhtml >}}
 </br>
@@ -79,8 +79,7 @@ comments = false
        Zeynep Varoglu - (UNESCO - Open Solutions)</br> 
        Matthew Wallace (IDRC)</br> 
        Lin Zhang (Wuhan University) online</br></br>
-       Moderator: Ludo Waltman (CWTS, Leiden University / 
-       </br>Barcelona Declaration)</br> 
+       Moderator: Ludo Waltman (CWTS, Leiden University / Barcelona Declaration)</br> 
       </td>
     </tr>
     <tr>
@@ -120,8 +119,14 @@ comments = false
       13:00 - 14:00 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Session 1 - Institutional implementation and links with open science policy</strong> </br>
-      (panel)</br></br>
+        <strong>Session 1 - Institutional implementation and links with open science policy</strong> (panel)</br></br>
+        Manuel Llano	(University of Amsterdam)</br>
+        Anita Sbalzarini, Melanie Röthlisberger	(University of Zürich) online</br>
+        Debora do Nascimento (Universidade Federal Fluminense)</br> 
+        Rochelle Lundy, Tom Cramer	(Stanford University Libraries)</br> 
+        Cillian Joy	(University of Galway)</br>
+        Adeline Rege	(Université de Strasbourg / Couperin consortium)</br></br> 
+        Moderator: Mathijs Vleugel (Helmholtz Open Science Office)</br> 
       </td>
     </tr>
     <tr>
@@ -129,8 +134,13 @@ comments = false
       13:00 - 14:00 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Session 2 - Institutional use cases: replacing closed systems</strong> </br>
-      (presentations)</br></br>
+        <strong>Session 2 - Institutional use cases: replacing closed systems</strong> (presentations)</br></br>
+        Ana Ranitovic, Jeroen Bosman	(University of Groningen, Utrecht University)</br>
+        Gabriel Vélez (Cuartas	Universidad de Antioquia)	online</br></br>
+        Chiara Di Giambattista	(OpenCitations)</br> 
+        Maxence Larrieu	(TSOSI)</br> 
+        Dominic Mitchell	(DOAJ)</br></br> 
+        Moderator: Matthias Goeritz (Leibniz Association) 
       </td>
     </tr>
     <tr>
@@ -146,8 +156,17 @@ comments = false
         14:15 - 15:30 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-       <strong>Session 3 - Perspectives on funding metadata</strong> </br>
-      (panel)</br></br>
+       <strong>Session 3 - Perspectives on funding metadata</strong> (panel) </br></br>
+        Elisabetta Maini	(Regione Emilia-Romagna)</br>
+        Anja Görnitz, Matthias Goeritz	(Leibniz Association)</br>
+        Montserrat Capdevila, Paola Isetta	("la Caixa" Foundation)</br> 
+        Robert Nuske	(Volkswagen Foundation)</br> 
+        Hannah Hope	(Wellcome)</br></br>
+        Rosaria Roddie	(EuropePMC)</br> 
+        Maria Levchenko	(DataCite)</br> 
+        Ginny Hendricks	(Crossref)</br></br> 
+        Moderators:</br>Zoé Ancion (Agence National de la Recherche - ANR)</br>
+        Bianca Kramer (Barcelona Declaration)
       </td>
     </tr>
      <tr>
@@ -155,8 +174,15 @@ comments = false
       14:15 - 15:30 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Session 4 - Research information infrastructure (institutional and non-institutional)</strong> </br>
-      (presentations)</br></br>
+        <strong>Session 4 - Research information infrastructure (institutional and non-institutional)</strong> (presentations)</br></br>
+        José Luis Ortega	(Institute for Advanced Social Studies - IESA-CSIC)</br>
+        Christian Hauschke	(TIB – Leibniz Information Centre for Science and Technology)</br>
+        Rochelle Lundy, Tom Cramer	(Stanford University Libraries)</br> 
+        Sofiia Zherebchuk, Iryna Tsybenko (State Scientific and Technical Library of Ukraine) online</br> 
+        Bernarda Korez	(University of Maribor Library)</br></br>
+        Julia Koblitz	(OSIRIS Solutions GmbH)</br>
+        Emma Booth, Mike Nason	(Thoth Open Metadata) </br></br>
+        Moderator:</br>Marc Lange (Helmholtz Open Science Office)</br>
       </td>
     </tr>
     <tr>
@@ -172,8 +198,12 @@ comments = false
       16:00 - 16:45 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Session 5 - Monitoring and assessment</strong> </br>
-      (presentations)</br></br>
+        <strong>Session 5 - Monitoring and assessment</strong> (presentations)</br></br>
+        Anna Caellas-Camprubí	(Universitat Ramon Llull & Universitat de Barcelona)</br>
+        Bernhard Mittermaier	(Forschungszentrum Jülich)</br>
+        Natalia Manola	(OpenAIRE AMKE)</br> 
+        [to be confirmed]	(Centro de Ciências da Administração e Socioeconômicas - ESAG, da Universidade do Estado de Santa Catarina - UDESC) online</br></br>
+        Moderator:</br>Aida Ćumurović (Leibniz Association)</br>
       </td>
     </tr>
     <tr>
@@ -181,8 +211,12 @@ comments = false
       16:00 - 16:45 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Session 6 - Critical reflections on open research information)</strong> </br>
-      (presentations)</br></br>
+        <strong>Session 6 - Critical reflections on open research information)</strong> (presentations)</br></br>
+        Bayor Joseph Odelami	(WACREN/LIBSENSE, Federal University of Health Sciences)</br>
+        Rodrigo Roa	(Data Observatory Foundation)</br>
+        Domi Smithson	(Sheffield Hallam University) online</br> 
+        Eileen Waegemaekers (SURF)</br></br>
+        Moderator:</br>Bárbara Rivera López (Barcelona Declaration)</br>
       </td>
     </tr>
     <tr>

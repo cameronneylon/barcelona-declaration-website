@@ -47,7 +47,7 @@ comments = false
         08:15 - 09:00
         </td>
         <td style="width:80%"  valign="top">
-        Registration, coffee
+        <em>Registration, coffee</em>
         </td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@ comments = false
         09:00 - 09:15
         </td>
         <td style="width:80%"  valign="top">
-        Welcome, housekeeping
+        <strong>Welcome, housekeeping</strong>
         </td>
     </tr>
     <tr>
@@ -63,8 +63,8 @@ comments = false
         09:15 - 09:30
         </td>
         <td style="width:80%"  valign="top">
-       Official welcome Leibniz Association</br>
-       Opening lightning talk - Leibniz Association
+          <strong>Official welcome Leibniz Association</strong></br>
+          <strong>Opening lightning talk - Leibniz Association</strong>
         </td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@ comments = false
         09:30 - 10:30
       </td>
       <td style="width:80%"  valign="top">
-       Panel I - High-level policy</br> </br>
+       <strong>Keynote panel 1 - High-level policy</strong></br> </br>
        <a href="https://barcelona-declaration.org/conference_2026_berlin_speakers/#:~:text=Panel%20I%20%2D%20High%2Dlevel%20policy">Panelists:</a></br> 
        Lee Harris (ARC) online, prerecorded</br>
        Emanuel Kulczycki (DZHW / Humboldt University)</br>
@@ -88,15 +88,15 @@ comments = false
         10:30 - 11:00
         </td>
         <td style="width:80%"  valign="top">
-        Coffee
+        <em>Coffee</em>
         </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
-        10:30 - 11:00
+          10:30 - 11:00
         </td>
         <td style="width:80%"  valign="top">
-        Barcelona Declaration - where are we now
+          <strong>Barcelona Declaration - where are we now</strong>
         </td>
     </tr>
     <tr>
@@ -104,43 +104,59 @@ comments = false
       11:30 - 12:00
       </td>
       <td style="width:80%"  valign="top">
-      Poster lightning talks
+        <strong>Poster lightning talks</strong>
       </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
-      12:00 - 13:00
+        12:00 - 13:00
       </td>
       <td style="width:80%"  valign="top">
-       Lunch and posters
+        <em>Lunch and posters</em>
       </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
-      13:00 - 14:00
+      13:00 - 14:00 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-      Presentations / panels I (2 parallel sessions)</br></br> 
-      - Institutional implementation and links with open science policy</br>
-      - Institutional use cases: replacing closed systems
+        <strong>Session 1 - Institutional implementation and links with open science policy</strong> </br>
+      (panel)</br></br>
       </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
-      14:00 - 14:15
+      13:00 - 14:00 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-      Room transitions
+        <strong>Session 2 - Institutional use cases: replacing closed systems</strong> </br>
+      (presentations)</br></br>
       </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
-      14:15 - 15:30
+      14:00 - 14:15 
       </td>
       <td style="width:80%"  valign="top">
-      Presentations / panels II (2 parallel sessions)</br></br> 
-      - Perspectives on funding metadata</br>
-      - Research information infrastructure (institutional and non-institutional)
+      <em>Room transitions</em>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        14:15 - 15:30 (parallel sessions)
+      </td>
+      <td style="width:80%"  valign="top">
+       <strong>Session 3 - Perspectives on funding metadata</strong> </br>
+      (panel)</br></br>
+      </td>
+    </tr>
+     <tr>
+      <td style="width:20%" valign="top">
+      14:15 - 15:30 (parallel sessions)
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Session 4 - Research information infrastructure (institutional and non-institutional)</strong> </br>
+      (presentations)</br></br>
       </td>
     </tr>
     <tr>
@@ -148,17 +164,25 @@ comments = false
       15:30 - 16:00
       </td>
       <td style="width:80%"  valign="top">
-      Tea and posters
+      <em>Tea and posters</em>
       </td>
     </tr>
     <tr>
       <td style="width:20%" valign="top">
-      16:00 - 16:45
+      16:00 - 16:45 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-      Presentations / panels III (2 parallel sessions)</br></br> 
-       Monitoring and assessment</br>
--     Critical reflections on open research information
+        <strong>Session 5 - Monitoring and assessment</strong> </br>
+      (presentations)</br></br>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      16:00 - 16:45 (parallel sessions)
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Session 6 - Critical reflections on open research information)</strong> </br>
+      (presentations)</br></br>
       </td>
     </tr>
     <tr>
@@ -166,7 +190,7 @@ comments = false
       16:45 - 17:00
       </td>
       <td style="width:80%"  valign="top">
-      room transitions
+        <em>Room transitions</em>
       </td>
     </tr>
     <tr>
@@ -174,7 +198,7 @@ comments = false
       17:00 - 17:30	
       </td>
       <td style="width:80%"  valign="top">
-      Wrap up & introduction day 2
+      <strong>Wrap up & introduction day 2</strong>
       </td>
     </tr>
     <tr>
@@ -182,7 +206,7 @@ comments = false
       17:30	
       </td>
       <td style="width:80%"  valign="top">
-      Closing day 1	
+      <strong>Closing day 1</strong>	
       </td>
     </tr>
     <tr>
@@ -190,7 +214,7 @@ comments = false
       17:30 - 18:30	
       </td>
       <td style="width:80%"  valign="top">
-      Reception and posters (drinks and light food)	
+      <em>Reception and posters (drinks and light food)</em>	
       </td>
     </tr>
      <tr>
@@ -198,7 +222,7 @@ comments = false
       19:00 - 21:00
       </td>
       <td style="width:80%"  valign="top">
-      Dinner at Dieselhaus (optional, self paid upon registration)	
+      <em>Dinner at Dieselhaus (optional, self paid upon registration)</em>
       </td>
     </tr>
 </table>
@@ -226,7 +250,7 @@ comments = false
         08:15 - 09:00
         </td>
         <td style="width:80%"  valign="top">
-        Coffee
+        <em>Coffee</em>
         </td>
     </tr>
     <tr>
@@ -234,8 +258,8 @@ comments = false
         09:00 - 09:15
         </td>
         <td style="width:80%"  valign="top">
-        Welcome and opening day 2 </br>
-        Lightning talk - Helmholtz Open Science Office"
+        <strong>Welcome and opening day 2</strong> </br>
+        <strong>Lightning talk - Helmholtz Open Science Office</strong>
         </td>
     </tr>
     <tr>
@@ -243,7 +267,7 @@ comments = false
         09:15 - 10:15
       </td>
       <td style="width:80%"  valign="top">
-       Panel II - Related international initiatives</br></br>
+       <strong>Keynote panel 2 - Related international initiatives</strong></br></br>
         <a href="https://barcelona-declaration.org/conference_2026_berlin_speakers/#:~:text=Panel%20II%20%2D%20Related%20international%20initiatives">Panelists:</a>  </br>
         Sandra Bendiscioli (EMBO / DORA) </br>
         Miranda Bennett (California Digital Library / Barcelona Declaration) </br>
@@ -257,7 +281,7 @@ comments = false
        10:15 - 11:00	
         </td>
         <td style="width:80%"  valign="top">
-       "Barcelona Declaration Working groups I  </br>
+       <strong>Barcelona Declaration Working groups - part 1</strong>  </br>
         (presenting activities and outcomes)"
         </td>
     </tr>
@@ -266,7 +290,7 @@ comments = false
         11:00 - 11:30
       </td>
       <td style="width:80%"  valign="top">
-        Coffee and posters
+        <em>Coffee and posters</em>
       </td>
     </tr>
     <tr>
@@ -274,7 +298,7 @@ comments = false
         11:30 - 12:15
       </td>
       <td style="width:80%"  valign="top">
-        Barcelona Declaration Working groups II  </br>
+        <strong>Barcelona Declaration Working groups - part 2</strong>  </br>
         (presenting activities and outcomes)
       </td>
     </tr>
@@ -283,7 +307,7 @@ comments = false
         12:15 - 12:30	
       </td>
       <td style="width:80%"  valign="top">
-        Introduce mutual learning sessions
+        <strong>Introducion mutual learning sessions</strong>
       </td>
     </tr>
     <tr>
@@ -291,7 +315,7 @@ comments = false
       12:30 - 13:30
       </td>
       <td style="width:80%"  valign="top">
-       Lunch and posters
+       <em>Lunch and posters</em>
       </td>
     </tr>
     <tr>
@@ -299,7 +323,7 @@ comments = false
         13:30 - 13:45
       </td>
       <td style="width:80%"  valign="top">
-        Mutual learning sessions - group and room assignments
+        <strong>Mutual learning sessions - group and room assignments</strong>
       </td>
     </tr>
     <tr>
@@ -307,7 +331,7 @@ comments = false
       13:45 - 14:00
       </td>
       <td style="width:80%"  valign="top">
-      Room transitions
+      <em>Room transitions</em>
       </td>
     </tr>
     <tr>
@@ -315,7 +339,7 @@ comments = false
       14:00 - 15:00
       </td>
       <td style="width:80%"  valign="top">
-      Mutual learning sessions
+      <strong>Mutual learning sessions</strong>
       </td>
     </tr>
     <tr>
@@ -323,7 +347,7 @@ comments = false
       15:00 - 15:30
       </td>
       <td style="width:80%"  valign="top">
-      Tea and reflection
+      <em>Tea and reflection</em>
       </td>
     </tr>
     <tr>
@@ -331,7 +355,7 @@ comments = false
         15:30 - 16:00
       </td>
       <td style="width:80%"  valign="top">
-        Reflections German stakeholders
+        <strong>Reflections German stakeholders</strong>
       </td>
     </tr>
     <tr>
@@ -339,7 +363,7 @@ comments = false
         16:00 - 16:45
       </td>
       <td style="width:80%"  valign="top">
-        Barcelona Declaration - 2027 and beyond
+        <strong>Barcelona Declaration - 2027 and beyond</strong>
       </td>
     </tr>
     <tr>
@@ -347,7 +371,7 @@ comments = false
       16:45 - 17:00
       </td>
       <td style="width:80%"  valign="top">
-      Conference wrap up
+      <strong>Conference wrap up</strong>
       </td>
     </tr>
     <tr>
@@ -355,7 +379,7 @@ comments = false
       17:30	
       </td>
       <td style="width:80%"  valign="top">
-      Closing day 2	
+      <strong>Closing day 2</strong>
       </td>
     </tr>
 </table>

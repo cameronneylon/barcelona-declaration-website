@@ -444,7 +444,9 @@ comments = false
       14:00 - 15:00
       </td>
       <td style="width:80%"  valign="top">
-      <strong>Mutual learning sessions</strong>
+      <strong>Mutual learning sessions</strong></br></br>
+      Participants will meet in small groups (in person or online) to discuss a topic of interest.</br></br>
+      The session is an opportunity to: exchange experiences on implementing open research information, learn from approaches in other organizations and identify what is needed in terms of policy, resources and support, both within organizations and at system level.
       <td style="width:10%"  valign="top">
         Rooms</br>
         Hannover</br>

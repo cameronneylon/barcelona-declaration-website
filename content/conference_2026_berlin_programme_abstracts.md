@@ -404,6 +404,9 @@ In this lightning talk we illustrate how the commons approach encourages reinfor
 >
 >Policy and practice within a commons framework are realised through collective action. By working with the community we co‑define how we organise all elements needed for an ORI commons (GORC model). The SURF ORI projects (MORIS, Broccoli, and DURF) act as live testbeds where policy specifications (e.g., open licences, standard adoption, completeness of metadata) are put into practice, monitored, and continuously improved by researchers, librarians, funders, and policymakers together. This iterative feedback loop shows how policy shapes practice and, in turn, how practice informs and refines.
 
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
 ### *Posters*
 Presenters are indicated with an asterisk.
 {{< rawhtml >}}
@@ -414,7 +417,7 @@ Presenters are indicated with an asterisk.
 {{< rawhtml >}}
 <div id="p1p1"></div>
 {{< /rawhtml >}}
-**Open Science Policies as a Basis for Open Research Information: How Well Are They Aligned?** 
+**Open Science Policies as a Basis for Open Research Information: How Well Are They Aligned?**   
 Tamara Heck* / Christoph Schindler (DIPF | Leibniz Institute for Research and Information in Education, Germany) / Philipp Mayr / Ahsan Shahid: (GESIS - Leibniz Institute for the Social Sciences, Germany)
 >Making research information openly available requires sustainable processes for creating and curating high-quality information, particularly when multiple actors jointly contribute to an information infrastructure. This is the case for the German Education Index (FIS Bildung), where more than 30 partner institutions curate educational research literature.  Citation information for this literature is not yet comprehensively available in open research information infrastructures. This particularly affects a field characterised by heterogeneous publication practices and a substantial share of publication types beyond journal articles. With the goal of making citation information from this literature openly available and improving its representation, the OFFZIB project has started to integrate automated reference extraction from open access publications into the existing infrastructure. The project thereby combines automated extraction with established processes of professional metadata curation. The resulting citation information will be offered at the German Research Education Portal and will be provided to OpenCitations for open reuse.  The contribution presents OFFZIB as a practical case of implementing the commitments of the Barcelona Declaration within an established cooperative information infrastructure. It focuses on the challenges that emerge when a technical solution is embedded into existing cooperative structures and workflows: How can common processes for metadata be established across the partner network?  
 Drawing on the experiences of the ongoing implementation, we present the solutions developed within OFFZIB and discuss where further development is required. The case demonstrates how existing information infrastructures and established forms of cooperation can be extended towards open research information, hile also revealing the practical conditions that need to be addressed in this transition.

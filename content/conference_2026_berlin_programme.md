@@ -9,7 +9,11 @@ comments = false
 ## *Programme*
 
 *Please note the programme may be subject to some changes between now and the event itself.*
-*Information on titles and abstracts of individual presentions and on posters will be added soon.*
+
+For more detailed information on sessions and posters see:
+- [Session details](../conference_2026_berlin_programme_details#s0)
+- [Posters](../conference_2026_berlin_programme_details#p1)
+
 
 {{< rawhtml >}}
 </br>

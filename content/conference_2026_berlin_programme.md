@@ -136,7 +136,7 @@ comments = false
       <td style="width:80%"  valign="top">
         <strong>Session 1 - Institutional implementation and links with open science policy</strong> (panel)</br></br>
         Manuel Llano	(University of Amsterdam)</br>
-        Anita Sbalzarini, Melanie Röthlisberger	(University of Zürich) online</br>
+        Anita Sbalzarini, Melanie Röthlisberger	(University of Zurich) online</br>
         Debora do Nascimento (Universidade Federal Fluminense)</br> 
         Rochelle Lundy, Tom Cramer	(Stanford University Libraries)</br> 
         Cillian Joy	(University of Galway)</br>
@@ -155,8 +155,8 @@ comments = false
         <strong>Session 2 - Institutional use cases: replacing closed systems</strong> (presentations)</br></br>
         Ana Ranitovic, Jeroen Bosman	(University of Groningen, Utrecht University)</br>
         Gabriel Vélez (Cuartas	Universidad de Antioquia)	online</br></br>
-        Chiara Di Giambattista	(OpenCitations)</br> 
-        Maxence Larrieu	(TSOSI)</br> 
+        Chiara Di Giambattista	(OpenCitations / University of Bologna)</br> 
+        Maxence Larrieu	(TSOSI / Université Grenoble Alpes)</br> 
         Dominic Mitchell	(DOAJ)</br></br> 
         Moderator: Matthias Goeritz (Leibniz Association) 
       </td>
@@ -181,14 +181,14 @@ comments = false
       <td style="width:80%"  valign="top">
        <strong>Session 3 - Perspectives on funding metadata</strong> (panel) </br></br>
         Elisabetta Maini	(Regione Emilia-Romagna)</br>
-        Anja Görnitz, Matthias Goeritz	(Leibniz Association)</br>
-        Montserrat Capdevila, Paola Isetta	("la Caixa" Foundation)</br> 
+        Anja Görnitz or Matthias Goeritz	(Leibniz Association)</br>
+        Paola Isetta	("la Caixa" Foundation)</br> 
         Robert Nuske	(Volkswagen Foundation)</br> 
-        Hannah Hope	(Wellcome)</br></br>
+        Hannah Hope	(Wellcome Trust)</br></br>
         Rosaria Roddie	(EuropePMC)</br> 
         Maria Levchenko	(DataCite)</br> 
         Ginny Hendricks	(Crossref)</br></br> 
-        Moderators:</br>Zoé Ancion (Agence National de la Recherche - ANR)</br>
+        Moderators:</br>Zoé Ancion (French National Research Agency - ANR)</br>
         Bianca Kramer (Barcelona Declaration)
       </td>
       <td style="width:10%"  valign="top">
@@ -205,7 +205,7 @@ comments = false
         Christian Hauschke	(TIB – Leibniz Information Centre for Science and Technology)</br>
         Rochelle Lundy, Tom Cramer	(Stanford University Libraries)</br> 
         Sofiia Zherebchuk, Iryna Tsybenko (State Scientific and Technical Library of Ukraine) online</br> 
-        Bernarda Korez	(University of Maribor Library)</br></br>
+        Jerneja Grašič, Bernarda Korez	(University of Maribor)</br></br>
         Julia Koblitz	(OSIRIS Solutions GmbH)</br>
         Emma Booth, Mike Nason	(Thoth Open Metadata) </br></br>
         Moderator:</br>Marc Lange (Helmholtz Open Science Office)</br>
@@ -231,7 +231,7 @@ comments = false
       </td>
       <td style="width:80%"  valign="top">
         <strong>Session 5 - Monitoring and assessment</strong> (presentations)</br></br>
-        Anna Caellas-Camprubí	(Universitat Ramon Llull & Universitat de Barcelona)</br>
+        Anna Caellas-Camprubí	(Universitat Ramon Llull / Universitat de Barcelona)</br>
         Bernhard Mittermaier	(Forschungszentrum Jülich)</br>
         Natalia Manola	(OpenAIRE AMKE)</br> 
         [to be confirmed]	(Centro de Ciências da Administração e Socioeconômicas - ESAG, da Universidade do Estado de Santa Catarina - UDESC) online</br></br>
@@ -246,9 +246,9 @@ comments = false
       16:00 - 16:45 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Session 6 - Critical reflections on open research information)</strong> (presentations)</br></br>
+        <strong>Session 6 - Critical reflections on open research information</strong> (presentations)</br></br>
         Bayor Joseph Odelami	(WACREN/LIBSENSE, Federal University of Health Sciences)</br>
-        Rodrigo Roa	(Data Observatory Foundation)</br>
+        Rodrigo Roa López de Heredia	(Data Observatory Foundation)</br>
         Domi Smithson	(Sheffield Hallam University) online</br> 
         Eileen Waegemaekers (SURF)</br></br>
         Moderator:</br>Bárbara Rivera López (Barcelona Declaration)</br>
@@ -474,7 +474,11 @@ comments = false
         15:30 - 16:00
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Reflections German stakeholders</strong>
+        <strong>Reflections German stakeholders</strong></br>
+        Tonia Bieber (Federal Ministry of Education and Research - BMFTR)</br>
+        Matthias Kiesselbach (German Research Foundation - DFG)</br>
+        Sophie Biesenbender (Commission for Research Information in Germany - KFiD)</br>
+        Bernhard Mittermaier (Forschungszentrum Jülich)</br>
         <td style="width:10%"  valign="middle" rowspan="3">
         Room Hannover
         </td>

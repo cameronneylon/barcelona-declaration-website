@@ -83,7 +83,7 @@ Organizations performing, funding or evaluating research
 * Fundación Openlab Ecuador
 
 **El Salvador**
-*Universidad Tecnológica de El Salvador - UTEC
+* Universidad Tecnológica de El Salvador - UTEC
 
 **Finland**
 * CSC - IT Center for Science Ltd
@@ -101,6 +101,7 @@ Organizations performing, funding or evaluating research
 * Sorbonne Université
 * Udice - French Research Universities
 * UniLaSalle
+* Université d’Angers
 * Université de Lorraine
 * Université de Reims Champagne-Ardenne
 * Université de Strasbourg

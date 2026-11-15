@@ -474,7 +474,7 @@ comments = false
         15:30 - 16:00
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Reflections German stakeholders</strong></br>
+        <strong>Reflections German stakeholders</strong></br></br>
         Tonia Bieber (Federal Ministry of Education and Research - BMFTR)</br>
         Matthias Kiesselbach (German Research Foundation - DFG)</br>
         Sophie Biesenbender (Commission for Research Information in Germany - KFiD)</br>

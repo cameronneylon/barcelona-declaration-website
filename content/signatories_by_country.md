@@ -83,7 +83,7 @@ Organizations performing, funding or evaluating research
 * Fundación Openlab Ecuador
 
 **El Salvador**
-*Universidad Tecnológica de El Salvador - UTEC
+* Universidad Tecnológica de El Salvador - UTEC
 
 **Finland**
 * CSC - IT Center for Science Ltd

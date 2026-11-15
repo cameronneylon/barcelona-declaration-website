@@ -61,7 +61,7 @@ comments = false
     </tr>
     <tr>
         <td style="width:30%">
-         <strong>Anita Sbalzarini*, Melanie Röthlisberger* </strong></br>(University of Zurich) 
+         <strong>Anita Sbalzarini, Melanie Röthlisberger </strong></br>(University of Zurich) 
         </td>
         <td style="width:60%">
         From commitment to implementation: Context, considerations and next steps for the University of Zurich

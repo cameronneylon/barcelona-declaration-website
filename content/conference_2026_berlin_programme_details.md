@@ -285,7 +285,7 @@ comments = false
         <strong>Ginny Hendricks</strong></br>(Crossref)
         </td>
         <td style="width:60%">
-        PIDs are not enough: the need for a holistic approach in research infrastructure policy
+        Building a connected research nexus of funding metadata and other relationships
         </td>
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#s3p8" target="_blank">Abstract</a>

@@ -230,13 +230,9 @@ Maria Levchenko* (DataCite)
 {{< rawhtml >}}
 <div id="s3p8"></div>
 {{< /rawhtml >}}
-**PIDs are not enough: the need for a holistic approach in research infrastructure policy**  
+**Building a connected research nexus of funding metadata and other relationships” **  
 Ginny Hendricks* (Crossref)
->Persistent identifiers (PIDs) have become central to national and international open research strategies, but identifiers alone—however well-designed—cannot deliver the connected, open record that research depends on. In the recent position paper, Crossref emphasizes that effective research infrastructure rests on three interdependent elements: open, persistent identifiers; rich, open, and linked metadata; and the sustainable governance and operation of the organisations involved. In this talk, Ginny Hendricks will discuss Crossref’s recommendations for policy-makers related to taking a holistic approach in considerations and decisions that aim to shape lasting infrastructures that underpin open research. She will talk about recognising these three aspects of infrastructure in practice, discuss POSI as a framework for evaluation of their governance and sustainability, and open the floor for reflections and questions from the audience.
->
->Crossref has a rich experience in providing open scholarly infrastructure that evolves with the needs of the community, in supporting other infrastructures, and co-creating standards with the community, in order to build a healthy ecosystem for research information.
-We published recommendations on holistic approaches to open research infrastructure for policy and strategic decisions in this area. In this talk we will discuss these recommendations, emphasizing ways of recognising the three key aspects of infrastructure in decision-making through the lens of purpose, services, and frameworks.
-
+> [to be added]
 
 {{< rawhtml >}}
 </br>

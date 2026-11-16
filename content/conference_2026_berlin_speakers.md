@@ -122,7 +122,7 @@ comments = false
         </td>
         <td style="width:70%"  valign="top" rowspan="3">
         <strong>Matthew Wallace</strong> has been working in the field of science policy for almost 20 years. As a Senior Program Specialist at Canada’s International Development Research Centre, he manages a portfolio of projects to support inclusive science and innovation systems across the Global South. He previously worked at UNESCO, managing a program on science for sustainable development in sub-Saharan Africa. He has also worked as an advisor and evaluator at Canadian science-based federal departments and funding agencies.</br></br>
-        He holds a Masters’ degree in Physics and a Ph.D. in the History of Science. He has published extensively on topics such as social innovation, research evaluation, the societal impacts of research and the dynamics of scientific disciplines.
+        He holds a Master's degree in Physics and a Ph.D. in the History of Science. He has published extensively on topics such as social innovation, research evaluation, the societal impacts of research and the dynamics of scientific disciplines.
         </td>
     </tr>
     <tr>
@@ -226,7 +226,7 @@ comments = false
         </td>
        <td style="width:70%"  valign="top" rowspan="3">
         With over twenty years of experience in libraries, <strong>Miranda Bennett</strong> has served since 2022 as Director of Shared Collections at California Digital Library, part of the University of California System. Her portfolio includes systemwide licensing, open publishing agreements, and shared print, and she works with other members of the CDL leadership team in areas such as scholarly communications outreach, research data support infrastructure, and the UC Libraries integrated library system.</br></br>
-        She is a member of the Barcelona Declaration Steering Group and co-chairs the Barcelona Declaration/OA Forward Joint Task Force on Negotiating Openness of Publication Metadata
+        She is a member of the Barcelona Declaration Steering Group and co-chairs the Barcelona Declaration/OA Forward Joint Task Force on Negotiating Openness of Publication Metadata.
         </td>
     </tr>
     <tr>
@@ -257,7 +257,7 @@ comments = false
         </td>
         <td style="width:70%"  valign="top" rowspan="3">
         <strong>Nicolas Fressengeas</strong> is a physicist and professor at Université de Lorraine, of which he is his vice president in charge of the digital, data and open science policies. </br></br>
-        He is missionned by the French Ministry of Higher Education, Research and Space to represent it (i) in the Open Science Monitoring Intitiative governance, in which he his board chair ; (ii) in ORCID governance, in which he is board member and chair of the Membership and Fees committe ; (iii) to help steering the French CoARA national chapter.
+        He is missionned by the French Ministry of Higher Education, Research and Space to represent it (i) in the Open Science Monitoring Initiative governance, in which he his board chair ; (ii) in ORCID governance, in which he is board member and chair of the Membership and Fees committe ; (iii) to help steering the French CoARA national chapter.
     </td>
     </tr>
     <tr>

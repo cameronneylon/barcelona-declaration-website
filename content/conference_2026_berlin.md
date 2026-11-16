@@ -63,7 +63,19 @@ The conference is organized by the [*Barcelona Declaration on Open Research Info
 
 ### Programme
 
-The [programme schedule](/conference_2026_berlin_programme) is now available.  
+The conference programme will bring together policy perspectives, institutional experiences, practical implementation, and emerging work from across the Barcelona Declaration community. Sessions will combine moderated panel discussions, short presentations and interactive discussions in smaller groups.   
+
+The conference will also feature a poster exhibition showcasing projects, initiatives, and practical experiences related to open research information, as well as outcomes from the Barcelona Declaration Working Groups.
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
+- [**Programme schedule**](../conference_2026_berlin_programme)
+- [**Keynote panels - speakers**](../conference_2026_berlin_speakers)
+- [**Session details**](../conference_2026_berlin_programme_details#s0)
+- [**Posters**](../conference_2026_berlin_programme_details#p1)
+
 Please note the programme may be subject to some changes between now and the event itself.
 
 {{< rawhtml >}}
@@ -73,9 +85,7 @@ Please note the programme may be subject to some changes between now and the eve
 
 ### Venue and travel guide
 
-Are you joining us **in person** in Berlin? Find more information about the venue, local transportation and nearby hotels and restaurants [**here**](/conference_2026_berlin_local_information/).
-
-Please note: Expressions of interest for in-person participation are now closed. 
+Are you joining us **in person** in Berlin? Find more information about the venue, local transportation and nearby hotels and restaurants in our [**Venue and travel guide**](/conference_2026_berlin_local_information/).
 
 {{< rawhtml >}}
 </br>
@@ -90,6 +100,8 @@ research information. **Participation is free of charge**.
 
 Register for online participation via our [**registration form**](
 https://opnform.com/forms/berlin-conference-2026-registration-form-peugcq).
+
+**Registration for in person participation is now closed**.
 
 {{< rawhtml >}}
 </br>
@@ -205,69 +217,9 @@ Declaration Conference more inclusive and internationally representative.
 <hr class="small">
 {{< /rawhtml >}}
 
-### Programme overview
+### German-language satellite event
 
-The conference will run from **9:00 to 17:00 CET** on both days.
-
-The conference programme will bring together policy perspectives,
-institutional experiences, practical implementation, and emerging work
-from across the Barcelona Declaration community. Sessions will combine
-moderated panel discussions, short presentations and interactive
-discussions in smaller groups. 
-
-The conference will also feature a poster
-exhibition showcasing projects, initiatives, and practical experiences
-related to open research information, as well as outcomes from the
-Barcelona Declaration Working Groups.
-
-{{< rawhtml >}}
-</br>
-{{< /rawhtml >}}
-
-#### Keynote panels
-
-Both conference days will start with a keynote panel discussion
-connecting policy perspectives, institutional priorities, and related
-international initiatives.
-
-{{< rawhtml >}}
-</br>
-{{< /rawhtml >}}
-
--   **High-level policy panel** This panel will bring together policy
-    perspectives from different regions to discuss how research policy
-    can support the transition to open research information, the
-    challenges encountered across different contexts, and the conditions
-    needed to move from commitments to implementation.
-
--   **Related initiatives panel** This panel will explore connections
-    between international initiatives working to reform research
-    assessment, improve research information, and advance openness. The
-    discussion will consider areas of alignment, complementary
-    approaches, and opportunities for closer collaboration.
-
-{{< rawhtml >}}
-</br>
-{{< /rawhtml >}}
-
-#### Programme topics
-
-Other presentations at the conference will address the following areas:\
-🏛️ Institutional implementation and links to open science policy\
-🔄 Institutional use cases: replacing closed systems\
-🏢 Research information infrastructure (institutional and
-non-institutional)\
-💰 Funder perspectives\
-📊 Monitoring and assessment\
-🔍 Critical reflections on open research information
-
-The [programme schedule](/conference_2026_berlin_programme) is now available.  
-Please note the programme may be subject to some changes between now and the event itself.
-
-{{< rawhtml >}}
-</br>
-<hr class="small">
-{{< /rawhtml >}}
+Following the conference, a German-language satellite event will take place the next day, November 26, also in Berlin.
 
 {{< rawhtml >}}
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
@@ -289,9 +241,6 @@ Please note the programme may be subject to some changes between now and the eve
 </br>
 {{< /rawhtml >}}
 
-### German-language satellite event
-
-Following the conference, a German-language satellite event will take place the next day, November 26, also in Berlin.
 The event provides a forum for exchange and discussion on open research information in Germany and beyond. Invited are stakeholders, institutions, initiatives, and projects that work with research information systems, (open) research information, and metadata – both in practice and at the levels of leadership, administration, policy, and funding. The goal is to better connect the sometimes fragmented activities and communities and to advance open research information in German academia across institutional boundaries. 
 
 The event will take place at Humboldt-Universität zu Berlin and is an **in-person event conducted in German**. Stakeholders, institutions, initiatives, and projects from the entire German-speaking region (DACH) are also welcome to participate.

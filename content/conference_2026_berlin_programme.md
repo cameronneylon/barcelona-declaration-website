@@ -85,6 +85,7 @@ comments = false
       </td>
       <td style="width:80%"  valign="top">
        <strong>Keynote panel 1 - High-level policy</strong></br> </br>
+       This panel will bring together policy perspectives from different regions to discuss how research policy can support the transition to open research information, the challenges encountered across different contexts, and the conditions needed to move from commitments to implementation.</br> </br>
        <a href="https://barcelona-declaration.org/conference_2026_berlin_speakers/#:~:text=Panel%20I%20%2D%20High%2Dlevel%20policy">Panelists:</a></br> 
        Lee Harris (ARC) online, prerecorded</br>
        Emanuel Kulczycki (DZHW / Humboldt University)</br>
@@ -365,6 +366,7 @@ comments = false
       </td>
       <td style="width:80%"  valign="top">
        <strong>Keynote panel 2 - Related international initiatives</strong></br></br>
+       This panel will explore connections between international initiatives working to reform research assessment, improve research information, and advance openness. The discussion will consider areas of alignment, complementary approaches, and opportunities for closer collaboration.</br></br>
         <a href="https://barcelona-declaration.org/conference_2026_berlin_speakers/#:~:text=Panel%20II%20%2D%20Related%20international%20initiatives">Panelists:</a>  </br>
         Sandra Bendiscioli (EMBO / DORA) </br>
         Miranda Bennett (California Digital Library / Barcelona Declaration) </br>

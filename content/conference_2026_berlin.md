@@ -19,7 +19,8 @@ comments = false
 Berlin](https://www.openstreetmap.org/node/3357928493)\
 👥 In person / online ([register](
 https://opnform.com/forms/berlin-conference-2026-registration-form-peugcq) for online participation)  
-📝 Conference [programme](/conference_2026_berlin_programme)
+📝 [Conference programme](/conference_2026_berlin_programme)  
+🏙 [Venue and travel guide](/conference_2026_berlin_local_information)
 
 {{< rawhtml >}}
 <hr class="small">

@@ -124,7 +124,7 @@ comments = false
 #### Session 2: Institutional use cases: replacing closed systems
 {{< rawhtml >}}
 <font size="-0.5">
-<em>Tuesday November 24, 12:00-13:00, room Berlinr</em>
+<em>Tuesday November 24, 12:00-13:00, room Berlin</em>
 </br></br>
 {{< /rawhtml >}}
 
@@ -332,7 +332,7 @@ comments = false
     </tr>
     <tr>
         <td style="width:30%">
-       <strong>Rochelle Lundy, Tom Cramer</strong></br>(Stanford University Libraries)<
+       <strong>Rochelle Lundy, Tom Cramer</strong></br>(Stanford University Libraries)
         </td>
         <td style="width:60%">
         Research Intelligence at Stanford University: Lessons Learned in Balancing Open and Proprietary Sources
@@ -354,7 +354,7 @@ comments = false
     </tr>
     <tr>
         <td style="width:30%">
-        <strong>Jerneja Grašič, Bernarda Korez</strong></br>(University of Maribor Library)<
+        <strong>Jerneja Grašič, Bernarda Korez</strong></br>(University of Maribor Library)
         </td>
         <td style="width:60%">
         University of Maribor Library (UKM) and the Accessibility of Open Research Information

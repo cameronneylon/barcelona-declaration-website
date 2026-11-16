@@ -10,10 +10,10 @@ comments = false
 
 *Please note the programme may be subject to some changes between now and the event itself.*
 
-For more detailed information on sessions and posters see:
-- [Session details](../conference_2026_berlin_programme_details#s0)
-- [Posters](../conference_2026_berlin_programme_details#p1)
-
+*For more detailed information on different parts of the programme see:*
+- [*Keynote panels - speakers*](../conference_2026_berlin_speakers)
+- [*Session details*](../conference_2026_berlin_programme_details#s0)
+- [*Posters*](../conference_2026_berlin_programme_details#p1)
 
 {{< rawhtml >}}
 </br>
@@ -119,7 +119,7 @@ For more detailed information on sessions and posters see:
       11:30 - 12:00
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Poster lightning talks</strong>
+        <strong>Poster lightning talks</strong> - <a href="../conference_2026_berlin_programme_details#p1" target="_blank">list of posters</a></br>
       </td>
     </tr>
     <tr>
@@ -127,7 +127,7 @@ For more detailed information on sessions and posters see:
         12:00 - 13:00
       </td>
       <td style="width:80%"  valign="top">
-        <em>Lunch and posters</em>
+        <em>Lunch and <a href="../conference_2026_berlin_programme_details#p1" target="_blank">posters</a></em>
          <td style="width:10%"  valign="top">
        Atrium
         </td>
@@ -138,14 +138,14 @@ For more detailed information on sessions and posters see:
       13:00 - 14:00 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Session 1 - Institutional implementation and links with open science policy</strong> (panel)</br></br>
+        <strong>Session 1 - Institutional implementation and links with open science policy</strong> (panel) - <a href="../conference_2026_berlin_programme_details#s1" target="_blank"> session details</a></br></br>
         Manuel Llano	(University of Amsterdam)</br>
         Anita Sbalzarini, Melanie Röthlisberger	(University of Zurich) online</br>
         Debora do Nascimento (Universidade Federal Fluminense)</br> 
         Rochelle Lundy, Tom Cramer	(Stanford University Libraries)</br> 
         Cillian Joy	(University of Galway)</br>
         Adeline Rege	(Université de Strasbourg / Couperin consortium)</br></br> 
-        Moderator: Mathijs Vleugel (Helmholtz Open Science Office)</br> 
+        Moderator: Mathijs Vleugel (Helmholtz Open Science Office)</br>
       </td>
       <td style="width:10%"  valign="top">
         Room Hannover
@@ -156,7 +156,7 @@ For more detailed information on sessions and posters see:
       13:00 - 14:00 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Session 2 - Institutional use cases: replacing closed systems</strong> (presentations)</br></br>
+        <strong>Session 2 - Institutional use cases: replacing closed systems</strong> (presentations) - <a href="../conference_2026_berlin_programme_details#s3" target="_blank"> session details</a></br></br>
         Ana Ranitovic, Jeroen Bosman	(University of Groningen, Utrecht University)</br>
         Gabriel Vélez (Cuartas	Universidad de Antioquia)	online</br></br>
         Chiara Di Giambattista	(OpenCitations / University of Bologna)</br> 
@@ -183,7 +183,7 @@ For more detailed information on sessions and posters see:
         14:15 - 15:30 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-       <strong>Session 3 - Perspectives on funding metadata</strong> (panel) </br></br>
+       <strong>Session 3 - Perspectives on funding metadata</strong> (panel) - <a href="../conference_2026_berlin_programme_details#s3" target="_blank"> session details</a></br></br>
         Elisabetta Maini	(Regione Emilia-Romagna)</br>
         Anja Görnitz or Matthias Goeritz	(Leibniz Association)</br>
         Paola Isetta	("la Caixa" Foundation)</br> 
@@ -204,7 +204,7 @@ For more detailed information on sessions and posters see:
       14:15 - 15:30 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Session 4 - Research information infrastructure (institutional and non-institutional)</strong> (presentations)</br></br>
+        <strong>Session 4 - Research information infrastructure (institutional and non-institutional)</strong> (presentations) - <a href="../conference_2026_berlin_programme_details#s4" target="_blank"> session details</a></br></br>
         José Luis Ortega	(Institute for Advanced Social Studies - IESA-CSIC)</br>
         Christian Hauschke	(TIB – Leibniz Information Centre for Science and Technology)</br>
         Rochelle Lundy, Tom Cramer	(Stanford University Libraries)</br> 
@@ -223,7 +223,7 @@ For more detailed information on sessions and posters see:
       15:30 - 16:00
       </td>
       <td style="width:80%"  valign="top">
-      <em>Tea and posters</em>
+      <em>Tea and <a href="../conference_2026_berlin_programme_details#p1" target="_blank">posters</a></em>
       <td style="width:10%"  valign="top">
        Anteroom
       </td>
@@ -234,7 +234,7 @@ For more detailed information on sessions and posters see:
       16:00 - 16:45 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Session 5 - Monitoring and assessment</strong> (presentations)</br></br>
+        <strong>Session 5 - Monitoring and assessment</strong> (presentations) - <a href="../conference_2026_berlin_programme_details#s5" target="_blank"> session details</a></br></br>
         Anna Caellas-Camprubí	(Universitat Ramon Llull / Universitat de Barcelona)</br>
         Bernhard Mittermaier	(Forschungszentrum Jülich)</br>
         Natalia Manola	(OpenAIRE AMKE)</br> 
@@ -250,7 +250,7 @@ For more detailed information on sessions and posters see:
       16:00 - 16:45 (parallel sessions)
       </td>
       <td style="width:80%"  valign="top">
-        <strong>Session 6 - Critical reflections on open research information</strong> (presentations)</br></br>
+        <strong>Session 6 - Critical reflections on open research information</strong> (presentations) - <a href="../conference_2026_berlin_programme_details#s6" target="_blank"> session details</a></br></br>
         Bayor Joseph Odelami	(WACREN/LIBSENSE, Federal University of Health Sciences)</br>
         Rodrigo Roa López de Heredia	(Data Observatory Foundation)</br>
         Domi Smithson	(Sheffield Hallam University) online</br> 
@@ -297,7 +297,7 @@ For more detailed information on sessions and posters see:
       17:30 - 18:30	
       </td>
       <td style="width:80%"  valign="top">
-      <em>Reception and posters (drinks and light food)</em>	
+      <em>Reception and <a href="../conference_2026_berlin_programme_details#p1" target="_blank">posters</a> (drinks and light food)</em>	
       </td>
       <td style="width:10%"  valign="top">
       Atrium
@@ -385,7 +385,7 @@ For more detailed information on sessions and posters see:
         11:00 - 11:30
       </td>
       <td style="width:80%"  valign="top">
-        <em>Coffee and posters</em>
+        <em>Coffee and <a href="../conference_2026_berlin_programme_details#p1" target="_blank">posters</a></em>
       </td>
        <td style="width:10%"  valign="top">
          Anteroom
@@ -416,7 +416,7 @@ For more detailed information on sessions and posters see:
       12:30 - 13:30
       </td>
       <td style="width:80%"  valign="top">
-       <em>Lunch and posters</em>
+       <em>Lunch and <a href="../conference_2026_berlin_programme_details#p1" target="_blank">posters</a></em>
       </td>
       <td style="width:10%"  valign="top">
        Atrium

@@ -10,7 +10,7 @@ comments = false
 
 *Please note the programme may be subject to some changes between now and the event itself.*
 
-*For more detailed information on different parts of the programme see:*
+*For more detailed information on various parts of the programme see:*
 - [*Keynote panels - speakers*](../conference_2026_berlin_speakers)
 - [*Session details*](../conference_2026_berlin_programme_details#s0)
 - [*Posters*](../conference_2026_berlin_programme_details#p1)
@@ -36,6 +36,8 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+
+<a id="programme"></a>
 ### *Tuesday Nov 24 - Day 1*
 
 {{< rawhtml >}}

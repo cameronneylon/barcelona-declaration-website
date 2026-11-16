@@ -1,6 +1,7 @@
 +++ 
 title = 'Barcelona Declaration on Open Research Information' 
-date = 2026-10-28 
+date = 2026-10-28
+alias = "/conference_2026_berlin_speaker_bios"
 comments = false
 +++
 

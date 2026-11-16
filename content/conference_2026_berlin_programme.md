@@ -161,7 +161,7 @@ comments = false
       <td style="width:80%"  valign="top">
         <strong>Session 2 - Institutional use cases: replacing closed systems</strong> (presentations) - <a href="../conference_2026_berlin_programme_details#s3" target="_blank"> session details</a></br></br>
         Ana Ranitovic, Jeroen Bosman	(University of Groningen, Utrecht University)</br>
-        Gabriel Vélez (Cuartas	Universidad de Antioquia)	online</br></br>
+        Gabriel Vélez-Cuartas	(Universidad de Antioquia)	online</br></br>
         Chiara Di Giambattista	(OpenCitations / University of Bologna)</br> 
         Maxence Larrieu	(TSOSI / Université Grenoble Alpes)</br> 
         Dominic Mitchell	(DOAJ)</br></br> 
@@ -353,7 +353,7 @@ comments = false
         09:00 - 09:15
         </td>
         <td style="width:80%"  valign="top">
-        <strong>Welcome and opening day 2</strong> </br>
+        <strong>Welcome and opening Day 2</strong> </br>
         <strong>Lightning talk - Helmholtz Open Science Office</strong>
         </td>
         <td style="width:10%"  valign="middle" rowspan="3">
@@ -371,7 +371,7 @@ comments = false
         Sandra Bendiscioli (EMBO / DORA) </br>
         Miranda Bennett (California Digital Library / Barcelona Declaration) </br>
         Nicolas Fressengeas (Ministry of  Higher Education and Research /  University of Lorraine / OSMI) </br>
-        Oliver Günther (University of Postdam / CoARA)  </br></br>
+        Oliver Günther (University of Potsdam / CoARA)  </br></br>
         Moderator: Cameron Neylon (independent / CoARA / Barcelona Declaration)
       </td>
     </tr>
@@ -381,7 +381,7 @@ comments = false
         </td>
         <td style="width:80%"  valign="top">
        <strong>Barcelona Declaration Working groups - part 1</strong>  </br>
-        (presenting activities and outcomes)"
+        (presenting activities and outcomes)
         </td>
     </tr>
     <tr>

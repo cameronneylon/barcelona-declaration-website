@@ -19,7 +19,8 @@ comments = false
 ✈🚆 [Getting to the venue](#getting_to_the_venue)  
 🎫  [Local transit tickets (BVG)](#local_transit_tickets_bvg)  
 🏨  [Hotels](#hotels)  
-🍽️  [Restaurants](#restaurants)
+🍽️ [Restaurants](#restaurants)  
+🎄 [Christmas markets](#christmas_markets)
 
 {{< rawhtml >}}
 <hr class="small">
@@ -231,3 +232,42 @@ Here is a hand-picked selection of nearby restaurants:
 {{< csv_to_table_advanced path="data/bd_berlin_restaurant_4.csv" >}}
 
 
+{{< rawhtml >}}
+</br>
+<hr class="small">
+</br>
+{{< /rawhtml >}}
+
+### 🎄 Christmas markets {#christmas_markets}
+
+Christmas markets are one of the most famous and beloved traditions for the festive winter season in Germany. With the conference taking place at the end of November, we’re just in time for the first Christmas markets opening. The following ones are nearby the conference venue location:
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
+#### Winter market at Humboldt-Forum
+
+{{< csv_to_table_advanced path="data/bd_berlin_christmas_markets_1.csv" >}}
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
+#### Christmas market at Berlin City Hall
+
+{{< csv_to_table_advanced path="data/bd_berlin_christmas_markets_2.csv" >}}
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
+#### Christmas market on Gendarmenmarkt
+
+{{< csv_to_table_advanced path="data/bd_berlin_christmas_markets_3.csv" >}}
+
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
+Berlin offers a wide variety of Christmas markets all over the city. [Check this website](https://www.berlin.de/en/christmas-markets/) to find all of them (pay attention to the opening dates, as many start later or are only taking place on certain weekends).

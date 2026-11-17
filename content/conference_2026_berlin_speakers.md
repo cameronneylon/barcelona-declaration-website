@@ -9,7 +9,7 @@ comments = false
 
 ## *Speakers*
 
-### Panel I - High-level policy
+### Panel I - High-level policy {#panel_1}
 
 {{< rawhtml >}}
 <hr class="small">
@@ -175,7 +175,7 @@ comments = false
 <hr class="small">
 {{< /rawhtml >}}
 
-### Panel II - Related international initiatives
+### Panel II - Related international initiatives {#panel_2}
 
 {{< rawhtml >}}
 <id = "panel_2"">

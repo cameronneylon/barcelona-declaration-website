@@ -199,7 +199,7 @@ comments = false
         Bianca Kramer (Barcelona Declaration)
       </td>
       <td style="width:10%"  valign="top">
-        Room Berlin
+        Room Hannover
         </td>
     </tr>
      <tr>
@@ -218,7 +218,7 @@ comments = false
         Moderator:</br>Marc Lange (Helmholtz Open Science Office)</br>
       </td>
       <td style="width:10%"  valign="top">
-        Room Hannover
+        Room Berlin
         </td>
     </tr>
     <tr>

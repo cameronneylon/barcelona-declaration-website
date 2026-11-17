@@ -196,7 +196,7 @@ comments = false
 #### Session 3: Perspectives on funding metadata
 {{< rawhtml >}}
 <font size="-0.5">
-<em>Tuesday November 24, 14:15-15:30, room Berlin</em>
+<em>Tuesday November 24, 14:15-15:30, room Hannover</em>
 </br></br>
 {{< /rawhtml >}}
 
@@ -301,7 +301,7 @@ comments = false
 #### Session 4: Research information infrastructure (institutional and non-institutional)
 {{< rawhtml >}}
 <font size="-0.5">
-<em>Tuesday November 24, 14:15-15:30, room Hannover</em>
+<em>Tuesday November 24, 14:15-15:30, room Berlin</em>
 </br></br>
 {{< /rawhtml >}}
 

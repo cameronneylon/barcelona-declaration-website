@@ -241,7 +241,7 @@ comments = false
         Anna Caellas-Camprubí	(Universitat Ramon Llull / Universitat de Barcelona)</br>
         Bernhard Mittermaier	(Forschungszentrum Jülich)</br>
         Natalia Manola	(OpenAIRE AMKE)</br> 
-        [to be confirmed]	(Centro de Ciências da Administração e Socioeconômicas - ESAG, da Universidade do Estado de Santa Catarina - UDESC) online</br></br>
+        José Francisco Salm Junior (UDESC/ESAG and ISCTE) online</br></br>
         Moderator:</br>Aida Ćumurović (Leibniz Association)</br>
       </td>
       <td style="width:10%"  valign="top">

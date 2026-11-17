@@ -437,7 +437,7 @@ comments = false
     </tr>
     <tr>
         <td style="width:30%">
-         [to be confirmed]</br>(Centro de Ciências da Administração e Socioeconômicas - ESAG, da Universidade do Estado de Santa Catarina - UDESC) 
+        José Francisco Salm Junior	(UDESC/ESAG and ISCTE) 
         </td>
         <td style="width:60%">
         Building the Narrative CV using NeuroSymbolic AI, Narratology and Bibliometric Narratives approach with Open Scholarly Data Graphs

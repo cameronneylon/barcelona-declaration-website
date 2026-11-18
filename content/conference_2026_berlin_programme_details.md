@@ -676,7 +676,7 @@ comments = false
     </tr>
     <tr>
         <td style="width:30%">
-       <strong>Murielle Serlet</strong></br>(Centre Mersenne - CNRS)
+       <strong>Murielle Serlet</strong></br>(centre Mersenne - CNRS)
         </td>
         <td style="width:60%">
        From Cedram to Centre Mersenne: A 15-Year Journey of Growth with open metadata

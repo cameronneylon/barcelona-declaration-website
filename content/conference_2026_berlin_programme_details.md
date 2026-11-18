@@ -124,7 +124,7 @@ comments = false
 #### Session 2: Institutional use cases: replacing closed systems
 {{< rawhtml >}}
 <font size="-0.5">
-<em>Tuesday November 24, 12:00-13:00, room Berlin</em>
+<em>Tuesday November 24, 13:00-14:00, room Berlin</em>
 </br></br>
 {{< /rawhtml >}}
 

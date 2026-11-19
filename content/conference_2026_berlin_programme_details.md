@@ -144,7 +144,7 @@ comments = false
     </tr>
      <tr>
         <td style="width:30%">
-        <strong>Gabriel Vélez</strong></br>(Cuartas	Universidad de Antioquia)
+        <strong>Gabriel Vélez-Cuartas </strong></br>(Universidad de Antioquia)
         </td>
         <td style="width:60%">
         Who Orients Science? Territorial Layers and Specialised Functions in the Open Research Information Ecosystem
@@ -260,7 +260,7 @@ comments = false
     </tr>
      <tr>
         <td style="width:30%">
-        <strong>Rosaria Roddie</strong></br>(EuropePMC) 
+        <strong>Rosaria Roddie</strong></br>(Europe PMC) 
         </td>
         <td style="width:60%">
         From UK policy to an open, interactive dashboard: MRC and Europe PMC build a clearer picture of UK health research funding
@@ -437,7 +437,7 @@ comments = false
     </tr>
     <tr>
         <td style="width:30%">
-        José Francisco Salm Junior	(UDESC/ESAG and ISCTE) 
+        <strong>José Francisco Salm Junior</strong></br>(UDESC/ESAG and ISCTE) 
         </td>
         <td style="width:60%">
         Building the Narrative CV using NeuroSymbolic AI, Narratology and Bibliometric Narratives approach with Open Scholarly Data Graphs

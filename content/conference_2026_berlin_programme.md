@@ -145,7 +145,7 @@ comments = false
         Manuel Llano	(University of Amsterdam)</br>
         Anita Sbalzarini, Melanie Röthlisberger	(University of Zurich) online</br>
         Debora do Nascimento (Universidade Federal Fluminense)</br> 
-        Rochelle Lundy, Tom Cramer	(Stanford University Libraries)</br> 
+        Rochelle Lundy, Tom Cramer	(Stanford University Libraries) online</br> 
         Cillian Joy	(University of Galway)</br>
         Adeline Rege	(Université de Strasbourg / Couperin consortium)</br></br> 
         Moderator: Mathijs Vleugel (Helmholtz Open Science Office)</br>
@@ -210,7 +210,7 @@ comments = false
         <strong>Session 4 - Research information infrastructure (institutional and non-institutional)</strong> (presentations) - <a href="../conference_2026_berlin_programme_details#s4" target="_blank"> session details</a></br></br>
         José Luis Ortega	(Institute for Advanced Social Studies - IESA-CSIC)</br>
         Christian Hauschke	(TIB – Leibniz Information Centre for Science and Technology)</br>
-        Rochelle Lundy, Tom Cramer	(Stanford University Libraries)</br> 
+        Rochelle Lundy, Tom Cramer	(Stanford University Libraries) online</br> 
         Sofiia Zherebchuk, Iryna Tsybenko (State Scientific and Technical Library of Ukraine) online</br> 
         Jerneja Grašič, Bernarda Korez	(University of Maribor)</br></br>
         Julia Koblitz	(OSIRIS Solutions GmbH)</br>

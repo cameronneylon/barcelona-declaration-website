@@ -252,7 +252,7 @@ comments = false
         <strong>Hannah Hope</strong></br>(Wellcome Trust)
         </td>
         <td style="width:60%">
-        [to be added]
+        Mapping Global Research Funding: Building Open Infrastructure to support funding decision making
         </td>
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#s3p5" target="_blank">Abstract</a>

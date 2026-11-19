@@ -204,9 +204,11 @@ nature of identifier collection, which limits coverage by design; the lasting co
 {{< rawhtml >}}
 <div id="s3p5"></div>
 {{< /rawhtml >}}
-**[to be added]**  
+**Mapping Global Research Funding: Building Open Infrastructure to support funding decision making**  
 Hannah Hope* (Wellcome Trust, United States)
+>Understanding how research funding flows globally is essential for identifying research gaps, informing investment decisions, creating partnerships and supporting a more equitable research ecosystem. However, the lack of comprehensive, openly accessible funding data has historically limited our ability to understand who funds what, where and with whom. To address this challenge, Wellcome invested £3 million over three years in OurResearch to expand the coverage of research grants within OpenAlex.
 >
+>This contribution explores the progress, challenges and lessons emerging from this investment, alongside priorities for further development based on our engagements with the community at a workshop held in April 2026. Highlighting improvements in global coverage to date, the absence of institutional funding data, challenges in capturing complex funding relationships, and ambitions to strengthen the usability of funding information for research planning and analysis through additional investments.
 
 {{< rawhtml >}}
 <div id="s3p6"></div>

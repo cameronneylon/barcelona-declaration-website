@@ -577,7 +577,7 @@ comments = false
     </tr>
     <tr>
         <td style="width:30%">
-       <strong>Rob Speekenbrink</strong></br>(SURF)
+       <strong>Kevin Ike</strong></br>(SURF)
         </td>
         <td style="width:60%">
         Developing MORIS (Modular Open Research Information System) system of engagement; used, managed and owned by the community
@@ -610,24 +610,13 @@ comments = false
     </tr>
      <tr>
         <td style="width:30%">
-       <strong>Emily Bongiovanni</strong></br>(Carnegie Mellon University)
-        </td>
-        <td style="width:60%">
-        Bridging Open Data: An Open Research Data Aggregator for Institutions
-        </td>
-        <td style="width:10%">
-        <a href="../conference_2026_berlin_programme_abstracts#p1p8" target="_blank">Abstract</a>
-        </td>
-    </tr>
-     <tr>
-        <td style="width:30%">
        <strong>Maurice Vanderfeesten</strong></br>(SURF)
         </td>
         <td style="width:60%">
         ORI Quality Monitoring: Lessons from Monitoring and Improving the Quality of Dutch Open Research Information
         </td>
         <td style="width:10%">
-        <a href="../conference_2026_berlin_programme_abstracts#p1p9" target="_blank">Abstract</a>
+        <a href="../conference_2026_berlin_programme_abstracts#p1p8" target="_blank">Abstract</a>
         </td>
     </tr>
      <tr>
@@ -638,7 +627,7 @@ comments = false
         Examining the Link Between APC-Paying Institutions and Author Position
         </td>
         <td style="width:10%">
-        <a href="../conference_2026_berlin_programme_abstracts#p1p10" target="_blank">Abstract</a>
+        <a href="../conference_2026_berlin_programme_abstracts#p1p9" target="_blank">Abstract</a>
         </td>
     </tr>
      <tr>
@@ -649,7 +638,7 @@ comments = false
         From open metadata policy to publishing practice: making openness the default for small journals
         </td>
        <td style="width:10%">
-        <a href="../conference_2026_berlin_programme_abstracts#p1p11" target="_blank">Abstract</a>
+        <a href="../conference_2026_berlin_programme_abstracts#p1p10" target="_blank">Abstract</a>
         </td>
     </tr>
     <tr>
@@ -660,7 +649,7 @@ comments = false
         Shadow Libraries as a Mirror of the Open Research Information Ecosystem: What Can We Learn from Anna’s Archive?
         </td>
         <td style="width:10%">
-        <a href="../conference_2026_berlin_programme_abstracts#p1p12" target="_blank">Abstract</a>
+        <a href="../conference_2026_berlin_programme_abstracts#p1p11" target="_blank">Abstract</a>
         </td>
     </tr>
     <tr>
@@ -671,7 +660,7 @@ comments = false
         From Discovery to Certification: Connecting Infrastructure for Diamond Open Access
         </td>
       <td style="width:10%">
-        <a href="../conference_2026_berlin_programme_abstracts#p1p13" target="_blank">Abstract</a>
+        <a href="../conference_2026_berlin_programme_abstracts#p1p12" target="_blank">Abstract</a>
         </td>
     </tr>
     <tr>
@@ -682,7 +671,18 @@ comments = false
        From Cedram to Centre Mersenne: A 15-Year Journey of Growth with open metadata
         </td>
         <td style="width:10%">
-        <a href="../conference_2026_berlin_programme_abstracts/#p1p14" target="_blank">Abstract</a>
+        <a href="../conference_2026_berlin_programme_abstracts/#p1p13" target="_blank">Abstract</a>
+        </td>
+    </tr>
+      <tr>
+        <td style="width:30%">
+       <strong>Emily Bongiovanni</strong></br>(Carnegie Mellon University)
+        </td>
+        <td style="width:60%">
+        Bridging Open Data: An Open Research Data Aggregator for Institutions
+        </td>
+        <td style="width:10%">
+        <a href="../conference_2026_berlin_programme_abstracts#p1p14" target="_blank">Abstract</a>
         </td>
     </tr>
 </table>` 

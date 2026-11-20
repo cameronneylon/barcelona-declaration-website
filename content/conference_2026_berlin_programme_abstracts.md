@@ -454,7 +454,7 @@ In particular, the AIR publications repository is assigning a licence to all ope
 <div id="p1p5"></div>
 {{< /rawhtml >}}
 **Developing MORIS  (Modular Open Research Information System) system of engagement; used, managed and owned by the community** 
-Rob Speekenbrink* (SURF, The Netherlands)
+Kevin Ike* (SURF, The Netherlands)
 >The Barcelona Declaration on Open Research Information and the principles of Open Science are prompting a fundamental reconsideration of Current Research Information Systems (CRIS). Research information can no longer be treated as a static reporting layer; it must become an integral, interoperable, and open component of the research process itself. Together with the Dutch universities of applied sciences (UAS), SURF is developing MORIS (Modular Open Research Information System): a flexible, modular and open system for managing and sharing research information, designed to enhance the visibility of practice-oriented research, facilitate sector-wide sharing, and promote digital sovereignty. MORIS redefines the CRIS role, from a retrospective "system of records" to a modular, open "system of engagement and records" combined, based on the principle that research information should flow naturally as a by-product of research, not an administrative afterthought. This poster introduces the MORIS pilot, developed for and by the sector, funded by all UAS, running until September 2027 with three UAS: Amsterdam, Windesheim, and Iselinge. Other UAS take part in sessions that feed both pilot and its further development. Taking the research project as the starting point, MORIS embeds up-to-date information within the primary process. It records past, current and future research and brings together projects, organisations, individuals and outputs (e.g. publications, datasets, software) from various source systems: "create once, reuse often". Our aim is a practice-grounded contribution to making open research information infrastructure. The pilot lets us examine how collective, sector-level commitments translate into governance choice, institutional adoption, interoperability and open metadata. MORIS is part of our goal to position research information as a commons; used, managed and owned by the community. We invite others to exchange their thoughts and advance Open Science.
 >
 >The sector joined forces to develop a system that both helps the researcher doing research and creates an opportunity to open up research information at the same time. By aligning MORIS to the principles of Open Science and the Barcelona Declaration on Open Research Information we enhance the visibility of practice-oriented research, facilitate sector-wide sharing, and promote digital sovereignty.
@@ -482,15 +482,6 @@ This integration was accompanied by intensive metadata enrichment, combining ROR
 {{< rawhtml >}}
 <div id="p1p8"></div>
 {{< /rawhtml >}}
-**Bridging Open Data: An Open Research Data Aggregator for Institutions**  
-Emily Bongiovanni* / Kristen Scotti / Jonathan Kiritharan / Erin Higgins (Carnegie Mellon University, United States)
->Carnegie Mellon University Libraries has developed a prototype metadata aggregator for open research datasets. This project is inspired by the OA Switchboard model, which serves as a hub for standardized Open Access publication metadata records, shared at the institutional member level. This open data connector serves as a central hub for collecting research data metadata records across repositories and segments it at the institutional level. By delivering the metadata at the institution level, this prototype enables organizations to track and link to externally hosted research data. Carnegie Mellon University Libraries uses this metadata to generate local institutional repository records that point directly to external host repositories. This eliminates collecting and storage demands for the Libraries, while still capturing a more comprehensive and holistic picture of the university's scientific footprint. Scaled globally, this prototype will offer a streamlined, automated method for institutions and funders to assess compliance with data-sharing mandates. This poster demonstrates the functional prototype design, outlines its technical framework, and invites community feedback and collaboration from stakeholders seeking to support or use the platform.
->
->This project commits to open research information via a practical open-source tool. It ensures metadata is decentralized, interoperable, and immediately usable by participating institutions. Funders and institutions increasingly mandate open data sharing, but tracking compliance across hundreds of external repositories is manually unsustainable. This prototype automates that pipeline, converting high-level policy expectations into actionable, trackable metadata feeds.
-
-{{< rawhtml >}}
-<div id="p1p9"></div>
-{{< /rawhtml >}}
 **ORI Quality Monitoring: Lessons from Monitoring and Improving the Quality of Dutch Open Research Information**  
 Maurice Vanderfeesten* (SURF, The Netherlands)
 >The PID-to-Portal project has built a dashboard that Dutch Barcelona Declaration signatories start to use to set concrete, institution-level goals for improving their open research information. This turns monitoring into something practical, not just something you talk about in a policy paper. What is different is how it was built. Instead of defining metrics top down, the monitor was co-designed together with Dutch Barcelona Declaration signatories, so what gets measured reflects both the use cases where better metadata brings real value (findability, reporting, research assessment) and the actual effort it takes to close those gaps. Because the metrics are grounded in benefit and effort, the monitor connects policy directly to practice: it shows institutions not only where they fall short of the Barcelona Declaration commitments, but also where it makes sense to act. Behind the dashboard is a fully open data infrastructure stack: a public, queryable data lake combining OpenAlex, OpenAIRE, CRIS and OpenAPC, built entirely on open tooling. The data is fully descriptive for both humans and ai, and comes with an ai toolset of skills and an mcp-server, letting non-technical people build transparent, auditable reports and dashboards. In this session we show how the project moved from consultation to metrics to dashboard, give concrete examples on coverage (e.g. OpenAlex vs CRIS), completeness (e.g. missing ORCIDs), accuracy (e.g. wrong ROR affiliations) and reflect on what worked, what did not, and how the project continues towards long-term governance. Attendees learn about monitoring and improving ORI quality on an institutional level at national scale.
@@ -498,7 +489,7 @@ Maurice Vanderfeesten* (SURF, The Netherlands)
 >The monitor was co-designed with Dutch Barcelona Declaration signatories, so the metrics reflect both the value institutions get from better metadata and the real effort needed to improve it. This turns policy commitments into something institutions can actually act on, not just comply with. The dashboard has been tested with key users and goes into production in September, with a national onboarding session in October, so by the conference signatories will already be using it to set concrete improvement goals.
 
 {{< rawhtml >}}
-<div id="p1p10"></div>
+<div id="p1p9"></div>
 {{< /rawhtml >}}
 **Examining the Link Between APC-Paying Institutions and Author Position**  
 Sophia Dörner*, Najko Jahn (Göttingen State and University Library, Germany)
@@ -507,7 +498,7 @@ Sophia Dörner*, Najko Jahn (Göttingen State and University Library, Germany)
 >The poster directly addresses the conference theme ‘Aligning policy and practical implementation’ by using open research information to test, in practice, the policy assumption that APCs are paid for by the corresponding author’s institution.
 
 {{< rawhtml >}}
-<div id="p1p11"></div>
+<div id="p1p10"></div>
 {{< /rawhtml >}}
 **From open metadata policy to publishing practice: making openness the default for small journals**  
 Carme Roig Canal, Bernat Kun Masvidal* (Index Publishing, Spain)
@@ -517,7 +508,7 @@ Our central argument is that open metadata policies need an accessible implement
 >The Barcelona Declaration calls on publishing services to make research information open by default. Our proposal shows how this principle can be embedded in the everyday production workflows of small journals: metadata are structured upstream, references and DOI information are validated through Crossref, and reusable outputs are generated for open infrastructures. It also addresses practical limitations and the continued need for human editorial curation.
 
 {{< rawhtml >}}
-<div id="p1p12"></div>
+<div id="p1p11"></div>
 {{< /rawhtml >}}
 **Shadow Libraries as a Mirror of the Open Research Information Ecosystem: What Can We Learn from Anna’s Archive?**  
 Vincas Grigas* (Vilnius University, Lithuania)
@@ -526,7 +517,7 @@ Vincas Grigas* (Vilnius University, Lithuania)
 >This presentation examines how the popularity of large-scale shadow library ecosystems reveals persistent gaps between policy ambitions and scholarly practice, particularly in the discovery and accessibility of scholarly books. Focusing on metadata aggregation rather than copyright issues, the talk discusses how open metadata, identifiers, and interoperable infrastructures can better align policy objectives with researcher behavior, and what lessons legitimate open research information initiatives.
 
 {{< rawhtml >}}
-<div id="p1p13"></div>
+<div id="p1p12"></div>
 {{< /rawhtml >}}
 **From Discovery to Certification: Connecting Infrastructure for Diamond Open Access**  
 Athina Papadopoulou, Johan Rooryck* (OPERAS, Belgium)
@@ -536,7 +527,7 @@ This poster will explore the European Diamond Capacity Hub (EDCH) as an example 
 >The proposal examines how policy ambitions for a more equitable and sustainable scholarly communication landscape can be translated into practical infrastructure and tools for Diamond Open Access. The EDCH provides a concrete example of how this can be achieved via its services and the AEGIS-OA certification framework supporting quality and recognition. By connecting these elements, the presentation explores how open research information can support the implementation while evidence from publishing practice can, in turn, inform future policy development.
 
 {{< rawhtml >}}
-<div id="p1p14"></div>
+<div id="p1p13"></div>
 {{< /rawhtml >}}
 **From Cedram to Centre Mersenne: A 15-Year Journey of Growth with open metadata**  
 Murielle Serlet* (centre Mersenne - CNRS, France)
@@ -544,3 +535,12 @@ Murielle Serlet* (centre Mersenne - CNRS, France)
 In 2018, we integrated Crossref’s API to match references, improving data quality and reproducibility. Since 2021, the Cited-by feature has enabled hosted journals to track scholarly impact. The centre Mersenne also uses ORCID identifiers to enrich all its references. The use of open metadata is crucial for indexing publications. We use the OAI-PMH protocol to transmit our data to scientific databases. In addition, we also develop tools to improve indexing. For example, we developed a custom tool based on open metadata to identify articles missing from NASA ADS, ensuring that our journals are included in key databases.These tools not only enhance our services but also strengthen the scholarly open ecosystem by making connections between publications more transparent. By adopting and enriching open metadata, we have increased our visibility and, thanks to the quality of our indexing, contributed to the reliability of these databases.
 >
 >Our evolution exemplifies how practical adoption of open metadata standards aligns with policy goals of the Barcelona Declaration on Open Research Information. Indeed, we are implementing open standards (DOI, ORCID, OAI-PMH), that are key requirements of Open Science policies. We are also applying metadata enrichment for open, interoperable and reusable research information. Our tools (Cited-by, OJS, custom tools) operationalize the open policies. This demonstrates how technical implementation supports policy objectives, replacing proprietary dependencies with open, reusable infrastructure.
+
+{{< rawhtml >}}
+<div id="p1p14"></div>
+{{< /rawhtml >}}
+**Bridging Open Data: An Open Research Data Aggregator for Institutions**  
+Emily Bongiovanni* / Kristen Scotti / Jonathan Kiritharan / Erin Higgins (Carnegie Mellon University, United States)
+>Carnegie Mellon University Libraries has developed a prototype metadata aggregator for open research datasets. This project is inspired by the OA Switchboard model, which serves as a hub for standardized Open Access publication metadata records, shared at the institutional member level. This open data connector serves as a central hub for collecting research data metadata records across repositories and segments it at the institutional level. By delivering the metadata at the institution level, this prototype enables organizations to track and link to externally hosted research data. Carnegie Mellon University Libraries uses this metadata to generate local institutional repository records that point directly to external host repositories. This eliminates collecting and storage demands for the Libraries, while still capturing a more comprehensive and holistic picture of the university's scientific footprint. Scaled globally, this prototype will offer a streamlined, automated method for institutions and funders to assess compliance with data-sharing mandates. This poster demonstrates the functional prototype design, outlines its technical framework, and invites community feedback and collaboration from stakeholders seeking to support or use the platform.
+>
+>This project commits to open research information via a practical open-source tool. It ensures metadata is decentralized, interoperable, and immediately usable by participating institutions. Funders and institutions increasingly mandate open data sharing, but tracking compliance across hundreds of external repositories is manually unsustainable. This prototype automates that pipeline, converting high-level policy expectations into actionable, trackable metadata feeds.

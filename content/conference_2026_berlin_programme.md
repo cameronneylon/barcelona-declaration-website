@@ -510,7 +510,7 @@ comments = false
     </tr>
     <tr>
       <td style="width:20%" valign="top">
-      17:30	
+      17:00
       </td>
       <td style="width:80%"  valign="top">
       <em>Closing day 2</em>

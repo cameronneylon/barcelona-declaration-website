@@ -535,155 +535,169 @@ comments = false
         <td style="width:30%">
         <strong>Tamara Heck</strong></br>(DIPF | Leibniz Institute for Research and Information in Education) 
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
         Open Science Policies as a Basis for Open Research Information: How Well Are They Aligned?
         </td>
        <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p1" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>01</td>
     </tr>
     <tr>
         <td style="width:30%">
         <strong>Dorothea Strecker</strong></br>(Berlin School of Information Science, Humboldt-Universität zu Berlin) 
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
        Putting policy into practice – the use of open research information at German research performing organizations
         </td>
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p2" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>02</td>
     </tr>
     <tr>
         <td style="width:30%">
         <strong>Laetitia Bracco</strong></br>(Université de Lorraine) 
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
        Breaking free from proprietary databases: Yes, We Can!
         </td>
        <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p3" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>03</td>
     </tr>
     <tr>
         <td style="width:30%">
        <strong>Stefano Bolelli Gallevi</strong></br>(University of Milan) 
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
         Increasing open metadata at the University of Milan: repositories and University Press
         </td>
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p4" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>04</td>
     </tr>
     <tr>
         <td style="width:30%">
        <strong>Kevin Ike</strong></br>(SURF)
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
         Developing MORIS (Modular Open Research Information System) system of engagement; used, managed and owned by the community
         </td>
        <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p5" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>05</td>
     </tr>
      <tr>
         <td style="width:30%">
        <strong>Silvia Lupi</strong></br>(University of Ferrara)
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
         Drop out Bibliometrics: From the Tyranny  of Outputs to Process Transparency
         </td>
        <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p6" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>06</td>
     </tr>
      <tr>
         <td style="width:30%">
       <strong>Peter Aspeslagh</strong></br>(Centre for Research & Development Monitoring (ECOOM), University of Antwerp)
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
         The Flemish Organization Registry. Towards a comprehensive organization identification in national research ecosystems.
         </td>
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p7" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>07</td>
     </tr>
      <tr>
         <td style="width:30%">
        <strong>Maurice Vanderfeesten</strong></br>(SURF)
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
         ORI Quality Monitoring: Lessons from Monitoring and Improving the Quality of Dutch Open Research Information
         </td>
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p8" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>08</td>
     </tr>
      <tr>
         <td style="width:30%">
        <strong>Sophia Dörner</strong></br>(Göttingen State and University Library)
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
         Examining the Link Between APC-Paying Institutions and Author Position
         </td>
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p9" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>09</td>
     </tr>
      <tr>
         <td style="width:30%">
        <strong>Bernat Kun Masvidal</strong></br>(Index Publishing)
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
         From open metadata policy to publishing practice: making openness the default for small journals
         </td>
        <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p10" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>10</td>
     </tr>
     <tr>
         <td style="width:30%">
        <strong>Vincas Grigas</strong></br>(Vilnius University)
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
         Shadow Libraries as a Mirror of the Open Research Information Ecosystem: What Can We Learn from Anna’s Archive?
         </td>
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p11" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>11</td>
     </tr>
     <tr>
         <td style="width:30%">
        <strong>Johan Rooryck</strong></br>(OPERAS)
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
         From Discovery to Certification: Connecting Infrastructure for Diamond Open Access
         </td>
       <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p12" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>12</td>
     </tr>
     <tr>
         <td style="width:30%">
        <strong>Murielle Serlet</strong></br>(centre Mersenne - CNRS)
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
        From Cedram to Centre Mersenne: A 15-Year Journey of Growth with open metadata
         </td>
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts/#p1p13" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>13</td>
     </tr>
       <tr>
         <td style="width:30%">
        <strong>Emily Bongiovanni</strong></br>(Carnegie Mellon University)
         </td>
-        <td style="width:60%">
+        <td style="width:55%">
         Bridging Open Data: An Open Research Data Aggregator for Institutions
         </td>
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p14" target="_blank">Abstract</a>
         </td>
+        <td style="width:5%">poster</br>14</td>
     </tr>
 </table>` 
 {{< /rawhtml >}}

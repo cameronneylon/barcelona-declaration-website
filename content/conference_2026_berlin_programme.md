@@ -108,7 +108,7 @@ comments = false
     </tr>
     <tr>
       <td style="width:20%" valign="top">
-          10:30 - 11:00
+          11:00 - 11:30
         </td>
         <td style="width:80%"  valign="top">
           <strong>Barcelona Declaration - where are we now</strong>

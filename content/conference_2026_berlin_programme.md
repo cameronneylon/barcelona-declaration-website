@@ -214,7 +214,7 @@ comments = false
         Sofiia Zherebchuk, Iryna Tsybenko (State Scientific and Technical Library of Ukraine) online</br> 
         Jerneja Grašič, Bernarda Korez	(University of Maribor)</br></br>
         Julia Koblitz	(OSIRIS Solutions GmbH)</br>
-        Emma Booth, Mike Nason	(Thoth Open Metadata) </br></br>
+        Emma Booth (University of Manchester), Mike Nason (University of New Brunswick)	(Thoth Open Metadata) </br></br>
         Moderator:</br>Marc Lange (Helmholtz Open Science Office)</br>
       </td>
       <td style="width:10%"  valign="top">

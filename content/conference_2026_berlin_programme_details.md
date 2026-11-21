@@ -376,7 +376,7 @@ comments = false
     </tr>
      <tr>
         <td style="width:30%">
-        <strong>Emma Booth, Mike Nason</strong></br>(Thoth Open Metadata)
+        <strong>Emma Booth, Mike Nason</strong></br>(University of Manchester (EB), University of New Brunswick (MN) /  Thoth Open Metadata)
         </td>
         <td style="width:60%">
         The Complexities of Liberating Metadata for Books and Chapters: Prevalent Barriers and Practical Steps Towards Institutional Adoption of Open Metadata in Long-Form Publishing

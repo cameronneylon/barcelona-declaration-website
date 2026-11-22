@@ -11,11 +11,11 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* Full prgramme 2026 Conference of the Barcelona Declaration - programme schedule now available  [read more](/conference_2026_berlin_programme/) 
+
 * New Barcelona Declaration report, Open Scholarly Metadata Across Publication Formats: A Literature Review [read more](/20261110_literature_review_open_scholarly_metadata_across_publication_formats/)
 
 * Barcelona Declaration and COAR launch joint survey on repository metadata practices  [read more](/20261103_joint_bd_coar_survey_on_repository_metadata_practices/)
-
-* 2026 Conference of the Barcelona Declaration - programme schedule now online!  [read more](/conference_2026_berlin_programme/)
 
 
 {{< rawhtml >}}

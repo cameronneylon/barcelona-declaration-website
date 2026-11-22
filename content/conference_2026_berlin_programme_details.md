@@ -528,7 +528,14 @@ comments = false
 </br></br>
 {{< /rawhtml >}}
 
+#### Participant posters
 {{< rawhtml >}}
+<a href="../conference_2026_berlin_posters#posters_1" target="_blank">View all posters</a>
+<br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<br>
 <font size="-0.5">
 <table>
     <tr>
@@ -541,7 +548,9 @@ comments = false
        <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p1" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>01</td>
+        <td style="width:5%">
+         <a href="../conference_2026_berlin_posters#p1p1" target="_blank">Poster</br>01</a>
+         </td>
     </tr>
     <tr>
         <td style="width:30%">
@@ -553,7 +562,9 @@ comments = false
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p2" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>02</td>
+         <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p2" target="_blank">Poster</br>02</a>
+        </td>
     </tr>
     <tr>
         <td style="width:30%">
@@ -565,7 +576,9 @@ comments = false
        <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p3" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>03</td>
+        <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p3" target="_blank">Poster</br>03</a>
+        </td>
     </tr>
     <tr>
         <td style="width:30%">
@@ -577,7 +590,9 @@ comments = false
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p4" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>04</td>
+        <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p4" target="_blank">Poster</br>04</a>
+        </td>
     </tr>
     <tr>
         <td style="width:30%">
@@ -589,7 +604,9 @@ comments = false
        <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p5" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>05</td>
+        <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p5" target="_blank">Poster</br>05</a>
+        </td>
     </tr>
      <tr>
         <td style="width:30%">
@@ -601,7 +618,9 @@ comments = false
        <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p6" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>06</td>
+        <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p6" target="_blank">Poster</br>06</a>
+        </td>
     </tr>
      <tr>
         <td style="width:30%">
@@ -613,7 +632,9 @@ comments = false
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p7" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>07</td>
+        <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p7" target="_blank">Poster</br>07</a>
+        </td>
     </tr>
      <tr>
         <td style="width:30%">
@@ -625,7 +646,9 @@ comments = false
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p8" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>08</td>
+        <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p8" target="_blank">Poster</br>08</a>
+        </td>
     </tr>
      <tr>
         <td style="width:30%">
@@ -637,7 +660,9 @@ comments = false
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p9" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>09</td>
+        <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p9" target="_blank">Poster</br>09</a>
+        </td>
     </tr>
      <tr>
         <td style="width:30%">
@@ -649,7 +674,9 @@ comments = false
        <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p10" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>10</td>
+       <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p10" target="_blank">Poster</br>10</a>
+        </td>
     </tr>
     <tr>
         <td style="width:30%">
@@ -661,7 +688,9 @@ comments = false
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p11" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>11</td>
+       <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p11" target="_blank">Poster</br>11</a>
+        </td>
     </tr>
     <tr>
         <td style="width:30%">
@@ -673,7 +702,9 @@ comments = false
       <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p12" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>12</td>
+       <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p12" target="_blank">Poster</br>12</a>
+        </td>
     </tr>
     <tr>
         <td style="width:30%">
@@ -685,7 +716,9 @@ comments = false
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts/#p1p13" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>13</td>
+       <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p13" target="_blank">Poster</br>13</a>
+        </td>
     </tr>
       <tr>
         <td style="width:30%">
@@ -697,7 +730,89 @@ comments = false
         <td style="width:10%">
         <a href="../conference_2026_berlin_programme_abstracts#p1p14" target="_blank">Abstract</a>
         </td>
-        <td style="width:5%">poster</br>14</td>
+        <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p1p14" target="_blank">Poster</br>14</a>
+        </td>
+    </tr>
+</table>` 
+<br><br>
+{{< /rawhtml >}}
+
+#### Working group posters
+{{< rawhtml >}}
+<a href="../conference_2026_berlin_posters#posters_2" target="_blank">View all posters</a>
+<br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<br>
+<font size="-0.5">
+<table>
+    <tr>
+        <td style="width:40%">
+        <strong>WG Metadata of research outputs in repositories</strong></br>TF Metadata collection and curation in repositories
+        </td>
+        <td style="width:55%">
+        Asking the Community: How Do  Repositories Collect and Curate Metadata?
+        </td>
+       <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p2p1" target="_blank">Poster</a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width:40%">
+        <strong>WG Funding metadata</strong></br>TF Grant metadata sharing by funders 
+        </td>
+        <td style="width:55%">
+        Funder Readiness and Barriers to  Open Funding Metadata - survey results
+        </td>
+        <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p2p2" target="_blank">Poster</a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width:40%">
+        <strong>WG Funding metadata</strong></br>TF Entity-relationship model
+        </td>
+        <td style="width:55%">
+        Improving Funding Metadata: An Entity-Relationship  Framework and Collaborative Responsibilities
+        </td>
+       <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p2p3" target="_blank">Poster</a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width:40%">
+       <strong>WG Replacing closed systems</strong>
+        </td>
+        <td style="width:55%">
+        From proprietary to open scholarly infrastructures: How are institutions navigating the transition?
+        </td>
+        <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p2p4" target="_blank">Poster</a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width:40%">
+       <strong>WG Sustaining infrastructures</strong>
+        </td>
+        <td style="width:55%">
+        What does it take to sustain an open scholarly infrastructure?
+        </td>
+       <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p2p5" target="_blank">Poster</a>
+        </td>
+    </tr>
+     <tr>
+        <td style="width:40%">
+       <strong>WG Evaluating sources of open research information</strong>
+        </td>
+        <td style="width:55%">
+        Criteria for open research information sources - what is important to you?
+        </td>
+       <td style="width:5%">
+        <a href="../conference_2026_berlin_posters#p2p6" target="_blank">Poster</a>
+        </td>
     </tr>
 </table>` 
 {{< /rawhtml >}}

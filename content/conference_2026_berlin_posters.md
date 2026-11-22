@@ -7,7 +7,11 @@ comments = false
 
 # 2026 Conference of the Barcelona Declaration on Open Research Information
 
-## *Posters*
+## *Posters*  {#posters_0}
+{{< rawhtml >}}
+<a href="../conference_2026_berlin_programme_details#p1" target="_blank">View list of all posters</a>
+<br>
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <br>
@@ -23,6 +27,7 @@ Click on each poster for a larger view
 {{< rawhtml >}}
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<font size="-0.5">
 <table>
     <tr >
         <td style="width:30%"  valign="top" id="p1p1">
@@ -58,8 +63,8 @@ Click on each poster for a larger view
       </td>
       <td style="width:5%></td>
        <td style="width:30%"  valign="top">
-        <strong>03 - Laetitia Bracco</strong>
-      </td>
+        <strong>03 - Laetitia Bracco</strong></br>(online)
+        </td>
     </tr>
     <tr>
       <td style="width:30%"  valign="top">DIPF | Leibniz Institute for Research and Information in Education</td>
@@ -86,6 +91,7 @@ Click on each poster for a larger view
 {{< rawhtml >}}
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<font size="-0.5">
 <table>
     <tr>
         <td style="width:30%"  valign="top" id="p1p4" >
@@ -121,7 +127,7 @@ Click on each poster for a larger view
       </td>
       <td style="width:5%></td>
        <td style="width:30%"  valign="top">
-        <strong>06 - Silvia Lupi</strong>
+        <strong>06 - Silvia Lupi</strong></br>(online)
       </td>
     </tr>
     <tr>
@@ -149,6 +155,7 @@ Click on each poster for a larger view
 {{< rawhtml >}}
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<font size="-0.5">
 <table>
     <tr  >
         <td style="width:30%"  valign="top" id="p1p7">
@@ -180,7 +187,7 @@ Click on each poster for a larger view
       </td>
       <td style="width:5%></td>
        <td style="width:30%"  valign="top">
-        <strong>08 - Maurice Vanderfeesten</strong>
+        <strong>08 - Maurice Vanderfeesten</strong></br>(online)
       </td>
       <td style="width:5%></td>
        <td style="width:30%"  valign="top">
@@ -212,6 +219,7 @@ Click on each poster for a larger view
 {{< rawhtml >}}
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<font size="-0.5">
 <table>
     <tr  >
         <td style="width:30%"  valign="top" id="p1p10">
@@ -239,7 +247,7 @@ Click on each poster for a larger view
     </tr>
     <tr>
       <td style="width:30%"  valign="top">
-        <strong>10 - Bernat Kun Masvidal</strong>
+        <strong>10 - Bernat Kun Masvidal</strong></br>(online)
       </td>
       <td style="width:5%></td>
        <td style="width:30%"  valign="top">
@@ -276,6 +284,7 @@ Click on each poster for a larger view
 {{< rawhtml >}}
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<font size="-0.5">
 <table>
     <tr  >
         <td style="width:30%"  valign="top" id="p1p10">
@@ -298,11 +307,11 @@ Click on each poster for a larger view
     </tr>
     <tr>
       <td style="width:30%"  valign="top">
-        <strong>13 - Murielle Serle</strong>
+        <strong>13 - Murielle Serle</strong></br>(online)
       </td>
       <td style="width:5%></td>
        <td style="width:30%"  valign="top">
-        <strong>14 - Emily Bongiovanni</strong>
+        <strong>14 - Emily Bongiovanni</strong></br>(online)
       </td>
       <td style="width:5%></td>
        <td style="width:30%"  valign="top">
@@ -347,6 +356,7 @@ Click on each poster for a larger view
 {{< rawhtml >}}
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<font size="-0.5">
 <table>
     <tr  >
         <td style="width:30%"  valign="top" id="p2p1">
@@ -416,6 +426,7 @@ Click on each poster for a larger view
 {{< rawhtml >}}
 </br>
 <link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<font size="-0.5">
 <table>
     <tr  >
         <td style="width:30%"  valign="top" id="p2p4">

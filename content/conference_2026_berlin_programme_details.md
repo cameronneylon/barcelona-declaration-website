@@ -530,7 +530,7 @@ comments = false
 
 #### Participant posters
 {{< rawhtml >}}
-<a href="../conference_2026_berlin_posters#posters_1" target="_blank">View all posters</a>
+<a href="../conference_2026_berlin_posters#posters_0" target="_blank">View all posters</a>
 <br>
 {{< /rawhtml >}}
 

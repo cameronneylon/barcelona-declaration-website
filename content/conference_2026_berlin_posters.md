@@ -400,13 +400,13 @@ Click on each poster for a larger view
     </tr>
     <tr>
      <td style="width:30%"  valign="top">
-      <a href="https://doi.org/10.5281/zenodo.24341695">pdf on Zenodo</a>
+      <!--<a href="https://doi.org/10.5281/zenodo.24341695">pdf on Zenodo</a>-->
       </td>
       <td style="width:30%"  valign="top">
-      <a href="https://doi.org/10.5281/zenodo.24341747">pdf on Zenodo</a>
+      <!--<a href="https://doi.org/10.5281/zenodo.24341747">pdf on Zenodo</a>-->
       </td>
       <td style="width:30%"  valign="top">
-      <a href="https://doi.org/10.5281/zenodo.24341561">pdf on Zenodo</a>
+      <!--<a href="https://doi.org/10.5281/zenodo.24341561">pdf on Zenodo</a>-->
       </td>
     </tr>
 </table>
@@ -466,13 +466,13 @@ Click on each poster for a larger view
     </tr>
     <tr>
       <td style="width:30%"  valign="top">
-      <a href="https://doi.org/10.5281/zenodo.24341805">pdf on Zenodo</a>
+      <!--<a href="https://doi.org/10.5281/zenodo.24341805">pdf on Zenodo</a>-->
       </td>
       <td style="width:30%"  valign="top">
-      <a href="https://doi.org/10.5281/zenodo.24341872">pdf on Zenodo</a>
+      <!--<a href="https://doi.org/10.5281/zenodo.24341872">pdf on Zenodo</a>-->
       </td>
       <td style="width:30%"  valign="top">
-      <a href="https://doi.org/10.5281/zenodo.24341842">pdf on Zenodo</a>
+      <!--<a href="https://doi.org/10.5281/zenodo.24341842">pdf on Zenodo</a>-->
       </td>
     </tr>
 </table>

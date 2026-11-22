@@ -8,7 +8,7 @@ comments = false
 # 2026 Conference of the Barcelona Declaration on Open Research Information
 
 ## *Programme details - sessions and posters*
-{< rawhtml >}}
+{{< rawhtml >}}
 <a href="../conference_2026_berlin_programm" target="_blank">Back to programme overview</a>
 {{< /rawhtml >}}
 

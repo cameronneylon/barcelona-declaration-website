@@ -354,7 +354,7 @@ comments = false
         </td>
         <td style="width:80%"  valign="top">
         <strong>Welcome and opening Day 2</strong> </br>
-        <strong>Lightning talk - Mathijs Vluegel (Helmholtz Open Science Office)</strong>
+        <strong>Lightning talk - Mathijs Veugel (Helmholtz Open Science Office)</strong>
         </td>
         <td style="width:10%"  valign="middle" rowspan="3">
           Room Hannover

@@ -40,7 +40,7 @@ comments = false
 {{< rawhtml >}}
 <hr class="small">
 </br>
-<div id="plenary"></div>
+<div id="l0"></div>
 {{< /rawhtml >}}
 
 #### Dag 1 Lightning talk 
@@ -61,7 +61,7 @@ comments = false
         Research Information Sucks! Why Nobody Loves It — and Why Openness Is the Only Way Out!
         </td>
         <td style="width:10%">
-        <a href="../conference_2026_berlin_programme_abstracts#s1p1" target="_blank">Abstract</a>
+        <a href="../conference_2026_berlin_programme_abstracts#l1" target="_blank">Abstract</a>
         </td>
     </tr>
     </table>` 

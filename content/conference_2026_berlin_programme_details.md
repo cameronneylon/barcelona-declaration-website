@@ -35,6 +35,38 @@ comments = false
 <a href="../conference_2026_berlin_programme" target="_blank">Back to programme overview</a>
 {{< /rawhtml >}}
 
+### *Plenary*
+
+{{< rawhtml >}}
+<hr class="small">
+</br>
+<div id="plenary"></div>
+{{< /rawhtml >}}
+
+#### Dag 1 Lightning talk 
+{{< rawhtml >}}
+<font size="-0.5">
+<em>Tuesday November 24, 9:15-09:30, room Hannover</em>
+</br></br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<font size="-0.5">
+<table>
+    <tr>
+        <td style="width:30%">
+        <strong>Philipp Steglich</strong></br>(Leibniz Association) 
+        </td>
+        <td style="width:60%">
+        Research Information Sucks! Why Nobody Loves It — and Why Openness Is the Only Way Out!
+        </td>
+        <td style="width:10%">
+        <a href="../conference_2026_berlin_programme_abstracts#s1p1" target="_blank">Abstract</a>
+        </td>
+    </tr>
+    </table>` 
+{{< /rawhtml >}}
+
 ### *Sessions*
 
 {{< rawhtml >}}

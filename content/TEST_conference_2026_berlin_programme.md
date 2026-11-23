@@ -1,0 +1,529 @@
++++ 
+title = 'Barcelona Declaration on Open Research Information' 
+date = 2026-10-28 
+comments = false
++++
+
+# 2026 Conference of the Barcelona Declaration on Open Research Information
+
+## *Programme*
+
+*Please note the programme may be subject to some changes between now and the event itself.*
+
+*For more detailed information on various parts of the programme see:*
+- [*Keynote panels - speakers*](../conference_2026_berlin_speakers)
+- [*Session details*](../conference_2026_berlin_programme_details#s0)
+- [*Posters*](../conference_2026_berlin_programme_details#p1)
+
+{{< rawhtml >}}
+</br>
+<link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<table>
+    <tr >
+        <td style="width:20%">
+        </td>
+        <td style="width:60%">
+            <a href="/images/bd_2026_conference_programme.png" target="_blank">
+            <picture>
+            <img src = "/images/bd_2026_conference_programme.png" alt = "Programme hightlights for Barcelona Declaration 2026 Conference in Berlin. Text in white and yellow on purple background with icons. Text: 2026 Conference of the Barcelona Declaration on Open Research Information - Programme highlights. Aligning policy & practical implementation. High-level panels · institutional experiences, Institutional Journeys and Implementation, Policy Perspectives and International Initiatives, Working Group Outcomes & Mutual Learning, Funder Perspectives & Research Infrastructures, Posters · shared directions for open research information. 24-25 November 2026 · Berlin & Online. Underneath text, logo's of Barcelona Declaration, Leibniz Association and Helmholtz Open Science Office. ">
+            </picture>
+             </a>
+        </td>
+        <td style="width:20%">
+        </td>
+    </tr>
+</table>
+</br>
+{{< /rawhtml >}}
+
+
+<a id="programme"></a>
+### *Tuesday Nov 24 - Day 1*
+
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+</br>
+<link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<table id = "programme_day_1">
+    <tr>
+        <td style="width:20%" valign="top">
+        08:15 - 09:00
+        </td>
+        <td style="width:70%"  valign="top">
+        <em>Registration, coffee</em>
+        </td>
+        <td style="width:10%"  valign="top">
+        Anteroom
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        09:00 - 09:15
+        </td>
+        <td style="width:80%"  valign="top">
+        <strong>Welcome, housekeeping</strong>
+        </td>
+         <td style="width:10%"  valign="middle" rowspan="3">
+        Room Hannover
+        </td>
+    </tr>
+    <tr> 
+    <td style="width:20%" valign="top">
+        09:15 - 09:30
+        </td>
+        <td style="width:80%"  valign="top">
+          <strong>Official welcome Leibniz Association</strong></br>
+          <strong>Opening lightning talk - Leibniz Association</strong>
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        09:30 - 10:30
+      </td>
+      <td style="width:80%"  valign="top">
+       <strong>Keynote panel 1 - High-level policy</strong></br> </br>
+       This panel will bring together policy perspectives from different regions to discuss how research policy can support the transition to open research information, the challenges encountered across different contexts, and the conditions needed to move from commitments to implementation.</br> </br>
+       <a href="https://barcelona-declaration.org/conference_2026_berlin_speakers/#:~:text=Panel%20I%20%2D%20High%2Dlevel%20policy">Panelists:</a></br> 
+       Lee Harris (ARC) online, prerecorded</br>
+       Emanuel Kulczycki (DZHW / Humboldt University)</br>
+       Zeynep Varoglu - (UNESCO - Open Solutions)</br> 
+       Matthew Wallace (IDRC)</br> 
+       Lin Zhang (Wuhan University) online</br></br>
+       Moderator: Ludo Waltman (CWTS, Leiden University / Barcelona Declaration)</br> 
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        10:30 - 11:00
+        </td>
+        <td style="width:80%"  valign="top">
+        <em>Coffee</em>
+         <td style="width:10%"  valign="top">
+        Anteroom
+        </td>
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+          11:00 - 11:30
+        </td>
+        <td style="width:80%"  valign="top">
+          <strong>Barcelona Declaration - where are we now</strong>
+        </td>
+         <td style="width:10%"  valign="middle" rowspan="2">
+        Room Hannover
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      11:30 - 12:00
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Poster lightning talks</strong> - <a href="../conference_2026_berlin_programme_details#p1" target="_blank">list of posters</a></br>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        12:00 - 13:00
+      </td>
+      <td style="width:80%"  valign="top">
+        <em>Lunch and <a href="../conference_2026_berlin_programme_details#p1" target="_blank">posters</a></em>
+         <td style="width:10%"  valign="top">
+       Atrium
+        </td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      13:00 - 14:00 (parallel sessions)
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Session 1 - Institutional implementation and links with open science policy</strong> (panel) - <a href="../conference_2026_berlin_programme_details#s1" target="_blank"> session details</a></br></br>
+        Manuel Llano	(University of Amsterdam)</br>
+        Anita Sbalzarini, Melanie Röthlisberger	(University of Zurich) online</br>
+        Debora do Nascimento (Universidade Federal Fluminense)</br> 
+        Rochelle Lundy, Tom Cramer	(Stanford University Libraries) online</br> 
+        Cillian Joy	(University of Galway)</br>
+        Adeline Rege	(Université de Strasbourg / Couperin consortium)</br></br> 
+        Moderator: Mathijs Vleugel (Helmholtz Open Science Office)</br>
+      </td>
+      <td style="width:10%"  valign="top">
+        Room Hannover
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      13:00 - 14:00 (parallel sessions)
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Session 2 - Institutional use cases: replacing closed systems</strong> (presentations) - <a href="../conference_2026_berlin_programme_details#s3" target="_blank"> session details</a></br></br>
+        Ana Ranitovic, Jeroen Bosman	(University of Groningen, Utrecht University)</br>
+        Gabriel Vélez-Cuartas	(Universidad de Antioquia)	online</br></br>
+        Chiara Di Giambattista	(OpenCitations / University of Bologna)</br> 
+        Maxence Larrieu	(TSOSI / Université Grenoble Alpes)</br> 
+        Dominic Mitchell	(DOAJ)</br></br> 
+        Moderator: Matthias Goeritz (Leibniz Association) 
+      </td>
+      <td style="width:10%"  valign="top">
+        Room Berlin
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      14:00 - 14:15 
+      </td>
+      <td style="width:80%"  valign="top">
+      <em>Room transitions</em>
+      <td style="width:10%"  valign="top">
+        </td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        14:15 - 15:30 (parallel sessions)
+      </td>
+      <td style="width:80%"  valign="top">
+       <strong>Session 3 - Perspectives on funding metadata</strong> (panel) - <a href="../conference_2026_berlin_programme_details#s3" target="_blank"> session details</a></br></br>
+        Elisabetta Maini	(Regione Emilia-Romagna)</br>
+        Anja Görnitz or Matthias Goeritz	(Leibniz Association)</br>
+        Paola Isetta	("la Caixa" Foundation)</br> 
+        Robert Nuske	(Volkswagen Foundation)</br> 
+        Hannah Hope	(Wellcome Trust)</br></br>
+        Rosaria Roddie	(EuropePMC)</br> 
+        Maria Levchenko	(DataCite)</br> 
+        Ginny Hendricks	(Crossref)</br></br> 
+        Moderators:</br>Zoé Ancion (French National Research Agency - ANR)</br>
+        Bianca Kramer (Barcelona Declaration)
+      </td>
+      <td style="width:10%"  valign="top">
+        Room Hannover
+        </td>
+    </tr>
+     <tr>
+      <td style="width:20%" valign="top">
+      14:15 - 15:30 (parallel sessions)
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Session 4 - Research information infrastructure (institutional and non-institutional)</strong> (presentations) - <a href="../conference_2026_berlin_programme_details#s4" target="_blank"> session details</a></br></br>
+        José Luis Ortega	(Institute for Advanced Social Studies - IESA-CSIC)</br>
+        Christian Hauschke	(TIB – Leibniz Information Centre for Science and Technology)</br>
+        Rochelle Lundy, Tom Cramer	(Stanford University Libraries) online</br> 
+        Sofiia Zherebchuk, Iryna Tsybenko (State Scientific and Technical Library of Ukraine) online</br> 
+        Jerneja Grašič, Bernarda Korez	(University of Maribor)</br></br>
+        Julia Koblitz	(OSIRIS Solutions GmbH)</br>
+        Emma Booth (University of Manchester), Mike Nason (University of New Brunswick)	(Thoth Open Metadata) </br></br>
+        Moderator:</br>Marc Lange (Helmholtz Open Science Office)</br>
+      </td>
+      <td style="width:10%"  valign="top">
+        Room Berlin
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      15:30 - 16:00
+      </td>
+      <td style="width:80%"  valign="top">
+      <em>Tea and <a href="../conference_2026_berlin_programme_details#p1" target="_blank">posters</a></em>
+      <td style="width:10%"  valign="top">
+       Anteroom
+      </td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      16:00 - 16:45 (parallel sessions)
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Session 5 - Monitoring and assessment</strong> (presentations) - <a href="../conference_2026_berlin_programme_details#s5" target="_blank"> session details</a></br></br>
+        Anna Caellas-Camprubí	(Universitat Ramon Llull / Universitat de Barcelona)</br>
+        Bernhard Mittermaier	(Forschungszentrum Jülich)</br>
+        Natalia Manola	(OpenAIRE AMKE)</br> 
+        José Francisco Salm Junior (UDESC/ESAG and ISCTE) online</br></br>
+        Moderator:</br>Aida Ćumurović (Leibniz Association)</br>
+      </td>
+      <td style="width:10%"  valign="top">
+       Room Berlin
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      16:00 - 16:45 (parallel sessions)
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Session 6 - Critical reflections on open research information</strong> (presentations) - <a href="../conference_2026_berlin_programme_details#s6" target="_blank"> session details</a></br></br>
+        Bayor Joseph Odelami	(WACREN/LIBSENSE, Federal University of Health Sciences)</br>
+        Rodrigo Roa López de Heredia	(Data Observatory Foundation)</br>
+        Domi Smithson	(Sheffield Hallam University) online</br> 
+        Eileen Waegemaekers (SURF)</br></br>
+        Moderator:</br>Bárbara Rivera López (Barcelona Declaration)</br>
+      </td>
+      <td style="width:10%"  valign="top">
+       Room Hannover
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      16:45 - 17:00
+      </td>
+      <td style="width:80%"  valign="top">
+        <em>Room transitions</em>
+      </td>
+      <td style="width:10%"  valign="top">
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      17:00 - 17:30	
+      </td>
+      <td style="width:80%"  valign="top">
+      <strong>Wrap up & introduction day 2</strong>
+      </td>
+      <td style="width:10%"  valign="top" >
+       Room Hannover
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      17:30	
+      </td>
+      <td style="width:80%"  valign="top">
+      <em>Closing day 1</em>	
+      </td>
+      <td style="width:10%"  valign="top">
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      17:30 - 18:30	
+      </td>
+      <td style="width:80%"  valign="top">
+      <em>Reception and <a href="../conference_2026_berlin_programme_details#p1" target="_blank">posters</a> (drinks and light food)</em>	
+      </td>
+      <td style="width:10%"  valign="top">
+      Atrium
+      </td>
+    </tr>
+     <tr>
+      <td style="width:20%" valign="top">
+      19:00 - 21:00
+      </td>
+      <td style="width:80%"  valign="top">
+      <em>Dinner (optional, self paid upon registration)</em>
+      <td style="width:10%"  valign="top">
+      Restaurant Dieselhaus
+      </td>
+      </td>
+    </tr>
+</table>
+</br>
+{{< /rawhtml >}}
+
+    
+{{< rawhtml >}}
+</br>
+{{< /rawhtml >}}
+
+
+### *Wednesday Nov 25 - Day 2* 
+
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+</br>
+<link rel=stylesheet href= "https://barcelona-declaration.org/css/main.css">
+<table id = "programme_day_2">
+    <tr>
+        <td style="width:20%" valign="top">
+        08:15 - 09:00
+        </td>
+        <td style="width:80%"  valign="top">
+        <em>Coffee</em>
+        </td>
+        <td style="width:10%"  valign="top">
+       Anteroom
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        09:00 - 09:15
+        </td>
+        <td style="width:80%"  valign="top">
+        <strong>Welcome and opening Day 2</strong> </br>
+        <strong>Lightning talk - Helmholtz Open Science Office</strong>
+        </td>
+        <td style="width:10%"  valign="middle" rowspan="3">
+          Room Hannover
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        09:15 - 10:15
+      </td>
+      <td style="width:80%"  valign="top">
+       <strong>Keynote panel 2 - Related international initiatives</strong></br></br>
+       This panel will explore connections between international initiatives working to reform research assessment, improve research information, and advance openness. The discussion will consider areas of alignment, complementary approaches, and opportunities for closer collaboration.</br></br>
+        <a href="https://barcelona-declaration.org/conference_2026_berlin_speakers/#:~:text=Panel%20II%20%2D%20Related%20international%20initiatives">Panelists:</a>  </br>
+        Sandra Bendiscioli (EMBO / DORA) </br>
+        Miranda Bennett (California Digital Library / Barcelona Declaration) </br>
+        Nicolas Fressengeas (Ministry of  Higher Education and Research /  University of Lorraine / OSMI) </br>
+        Oliver Günther (University of Potsdam / CoARA)  </br></br>
+        Moderator: Cameron Neylon (independent / CoARA / Barcelona Declaration)
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+       10:15 - 11:00	
+        </td>
+        <td style="width:80%"  valign="top">
+       <strong>Barcelona Declaration Working groups - part 1</strong>  </br>
+        (presenting activities and outcomes)
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        11:00 - 11:30
+      </td>
+      <td style="width:80%"  valign="top">
+        <em>Coffee and <a href="../conference_2026_berlin_programme_details#p1" target="_blank">posters</a></em>
+      </td>
+       <td style="width:10%"  valign="top">
+         Anteroom
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        11:30 - 12:15
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Barcelona Declaration Working groups - part 2</strong>  </br>
+        (presenting activities and outcomes)
+      </td>
+       <td style="width:10%"  valign="middle" rowspan="2">
+        Room Hannover
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        12:15 - 12:30	
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Introduction mutual learning sessions</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      12:30 - 13:30
+      </td>
+      <td style="width:80%"  valign="top">
+       <em>Lunch and <a href="../conference_2026_berlin_programme_details#p1" target="_blank">posters</a></em>
+      </td>
+      <td style="width:10%"  valign="top">
+       Atrium
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        13:30 - 13:45
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Mutual learning sessions - group and room assignments</strong>
+      </td>
+      <td style="width:10%"  valign="top">
+        Room Hannover
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      13:45 - 14:00
+      </td>
+      <td style="width:80%"  valign="top">
+      <em>Room transitions</em>
+      </td>
+      <td style="width:10%"  valign="top">
+        </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      14:00 - 15:00
+      </td>
+      <td style="width:80%"  valign="top">
+      <strong>Mutual learning sessions</strong></br></br>
+      Participants will meet in small groups (in person or online) to discuss a topic of interest.</br></br>
+      The session is an opportunity to: exchange experiences on implementing open research information, learn from approaches in other organizations and identify what is needed in terms of policy, resources and support, both within organizations and at system level.
+      <td style="width:10%"  valign="top">
+        Rooms</br>
+        Hannover</br>
+        Berlin </br>
+        Wolfenbüttel </br>
+        Leipzig </br>
+        Anteroom </br>
+        Atrium </br>
+        </td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      15:00 - 15:30
+      </td>
+      <td style="width:80%"  valign="top">
+      <em>Tea and reflection</em>
+      <td style="width:10%"  valign="top">
+       Anteroom
+        </td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        15:30 - 16:00
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Reflections German stakeholders</strong></br></br>
+        Tonia Bieber (Federal Ministry of Education and Research - BMFTR)</br>
+        Matthias Kiesselbach (German Research Foundation - DFG)</br>
+        Sophie Biesenbender (Commission for Research Information in Germany - KFiD)</br>
+        Bernhard Mittermaier (Forschungszentrum Jülich)</br>
+        <td style="width:10%"  valign="middle" rowspan="3">
+        Room Hannover
+        </td>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+        16:00 - 16:45
+      </td>
+      <td style="width:80%"  valign="top">
+        <strong>Barcelona Declaration - 2027 and beyond</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      16:45 - 17:00
+      </td>
+      <td style="width:80%"  valign="top">
+      <strong>Conference wrap up</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="width:20%" valign="top">
+      17:00
+      </td>
+      <td style="width:80%"  valign="top">
+      <em>Closing day 2</em>
+      <td style="width:10%"  valign="top">
+        </td>
+      </td>
+    </tr>
+</table>
+</br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+</br>
+<hr class="small">
+</br>
+{{< /rawhtml >}}

@@ -75,8 +75,8 @@ comments = false
         09:15 - 09:30
         </td>
         <td style="width:80%"  valign="top">
-          <strong>Official welcome Leibniz Association</strong></br>
-          <strong>Opening lightning talk - Leibniz Association</strong>
+          <strong>Official welcome - Bettina Böhm, secretary general (Leibniz Association)</strong></br>
+          <strong>Lightning talk - Philipp Steglich (Leibniz Association)</strong>
         </td>
     </tr>
     <tr>
@@ -354,7 +354,7 @@ comments = false
         </td>
         <td style="width:80%"  valign="top">
         <strong>Welcome and opening Day 2</strong> </br>
-        <strong>Lightning talk - Helmholtz Open Science Office</strong>
+        <strong>Lightning talk - Mathijs Vluegel (Helmholtz Open Science Office)</strong>
         </td>
         <td style="width:10%"  valign="middle" rowspan="3">
           Room Hannover

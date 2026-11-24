@@ -75,8 +75,8 @@ comments = false
         09:15 - 09:30
         </td>
         <td style="width:80%"  valign="top">
-          <strong>Official welcome - Bettina Böhm, secretary general (Leibniz Association)</strong></br>
-          <strong>Lightning talk - Philipp Steglich (Leibniz Association)</strong>
+          <strong>Official welcome Leibniz Association</strong> - Bettina Böhm, secretary general</br>
+          <strong>Lightning talk</strong> Philipp Steglich (Leibniz Association)</strong>
         </td>
     </tr>
     <tr>

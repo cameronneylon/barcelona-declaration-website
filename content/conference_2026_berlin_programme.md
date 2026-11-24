@@ -77,6 +77,7 @@ comments = false
         <td style="width:80%"  valign="top">
           <strong>Official welcome Leibniz Association</strong><br>Bettina Böhm, secretary general</br></br>
           <strong>Lightning talk</strong> Philipp Steglich (Leibniz Association)</strong>
+          <a href="../conference_2026_berlin_programme_details#l0" target="_blank"> (details)</a></br>
         </td>
     </tr>
     <tr>

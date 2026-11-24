@@ -38,7 +38,7 @@ comments = false
 {{< rawhtml >}}
 <div id="l1"></div>
 {{< /rawhtml >}}
-**Pathways to Implementation: Practical Lessons from the University of Amsterdam**  
+**Research Information Sucks! Why Nobody Loves It — and Why Openness Is the Only Way Out!**  
 Philipp Steglich*	Leibniz Association)
 >Research information is unpopular across the board — but not for the same reasons. Researchers see it as bureaucratic overhead. Organisations struggle with fragmented systems and unclear responsibilities. Policy actors view it as a governance tool, yet do little to enforce binding standards. The real common denominator: every stakeholder group sees only its own slice of research information — its own systems, its own use cases. A connecting overall picture, and a shared understanding of the value of high-quality open research information, exist almost nowhere. If nobody fully understands the object and nobody recognises a benefit in it for themselves, nobody takes responsibility for it either. 
 While case studies documenting institutional implementation give important insights, this talk asks: why are these efforts so fragile and unevenly distributed? Half-hearted openness has not solved this. Voluntary commitments and partial standards have normalised fragmentation and lock-in to proprietary systems. Only radical openness, full metadata transparency, interoperability, open infrastructures and collective governance can break the cycle. In the age of AI, where machine-readable information determines visibility and reputation, this is no longer normative preference but strategic necessity. Open infrastructures are preconditions for open, democratic societies.

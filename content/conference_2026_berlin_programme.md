@@ -246,7 +246,7 @@ comments = false
         Moderator:</br>Aida Ćumurović (Leibniz Association)</br>
       </td>
       <td style="width:10%"  valign="top">
-       Room Berlin
+       Room Hannover
       </td>
     </tr>
     <tr>
@@ -262,7 +262,7 @@ comments = false
         Moderator:</br>Bárbara Rivera López (Barcelona Declaration)</br>
       </td>
       <td style="width:10%"  valign="top">
-       Room Hannover
+       Room Berlin
       </td>
     </tr>
     <tr>

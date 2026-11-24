@@ -30,13 +30,32 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+#### Opening lighning talk 
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div id="l1"></div>
+{{< /rawhtml >}}
+**Pathways to Implementation: Practical Lessons from the University of Amsterdam**  
+Philipp Steglich*	Leibniz Association)
+>Research information is unpopular across the board — but not for the same reasons. Researchers see it as bureaucratic overhead. Organisations struggle with fragmented systems and unclear responsibilities. Policy actors view it as a governance tool, yet do little to enforce binding standards. The real common denominator: every stakeholder group sees only its own slice of research information — its own systems, its own use cases. A connecting overall picture, and a shared understanding of the value of high-quality open research information, exist almost nowhere. If nobody fully understands the object and nobody recognises a benefit in it for themselves, nobody takes responsibility for it either. 
+While case studies documenting institutional implementation give important insights, this talk asks: why are these efforts so fragile and unevenly distributed? Half-hearted openness has not solved this. Voluntary commitments and partial standards have normalised fragmentation and lock-in to proprietary systems. Only radical openness, full metadata transparency, interoperability, open infrastructures and collective governance can break the cycle. In the age of AI, where machine-readable information determines visibility and reputation, this is no longer normative preference but strategic necessity. Open infrastructures are preconditions for open, democratic societies.
+Drawing on experience from the German research system, particularly non-university research, the talk closes with a concrete claim: the real unresolved bottleneck is not technology but persuasion. Research information must be treated as a governance question, not an IT problem — requiring all stakeholders, from researchers to institutions, funders and policy-makers, to genuinely adopt open, interoperable research information rather than merely regard it as an unavoidable burden. A declaration only turns into actual practice once each of these groups understands what they concretely gain from doing so.
+>
+>This talk reframes policy-practice alignment as a persuasion problem, not a technical one. Declarations like Barcelona set the norm, but actors with functioning isolated data holdings have no inherent reason to open up. Practice only follows once every stakeholder group — researchers, institutions, funders, policy-makers — sees a concrete benefit: visibility, reduced duplicate reporting, comparability, evidence-based steering.
+
+{{< rawhtml >}}
+<hr class="small">
+{{< /rawhtml >}}
+
 ### *Session abstracts*
 Presenters are indicated with an asterisk.
 
 {{< rawhtml >}}
 <hr class="small">
 </br>
-
 {{< /rawhtml >}}
 
 #### Session 1 - Institutional implementation and links with open science policy 

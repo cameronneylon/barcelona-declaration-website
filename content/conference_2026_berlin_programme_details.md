@@ -43,7 +43,7 @@ comments = false
 <div id="l0"></div>
 {{< /rawhtml >}}
 
-#### Dag 1 Lightning talk 
+#### Day 1 Lightning talk 
 {{< rawhtml >}}
 <font size="-0.5">
 <em>Tuesday November 24, 9:15-09:30, room Hannover</em>

@@ -17,8 +17,7 @@ comments = false
 ⏰ 9:00-17:00 CET\
 📍[Leibniz Association Headquarters, Chausseestraße 111,
 Berlin](https://www.openstreetmap.org/node/3357928493)\
-👥 In person / online ([register](
-https://opnform.com/forms/berlin-conference-2026-registration-form-peugcq) for online participation)  
+👥 In person / online (registration has closed)  
 📝 [Conference programme](/conference_2026_berlin_programme)  
 🏙 [Venue and travel guide](/conference_2026_berlin_local_information)
 
@@ -92,16 +91,13 @@ Are you joining us **in person** in Berlin? Find more information about the venu
 <hr class="small">
 {{< /rawhtml >}}
 
-### Online registration remains open
+### Online registration now closed
 
 Join us online for two days of exchange on how policy and
 practical implementation can reinforce one another in advancing open
 research information. **Participation is free of charge**.
 
-Register for online participation via our [**registration form**](
-https://opnform.com/forms/berlin-conference-2026-registration-form-peugcq).
-
-**Registration for in person participation is now closed**.
+**Registration for in person and online participation is now closed**.
 
 {{< rawhtml >}}
 </br>

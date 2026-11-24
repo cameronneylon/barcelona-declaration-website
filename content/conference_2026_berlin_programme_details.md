@@ -431,7 +431,7 @@ comments = false
 #### Session 5: Monitoring and assessment
 {{< rawhtml >}}
 <font size="-0.5">
-<em>Tuesday November 24, 16:00-16:45, room Berlin</em>
+<em>Tuesday November 24, 16:00-16:45, room Hannover</em>
 </br></br>
 {{< /rawhtml >}}
 
@@ -492,7 +492,7 @@ comments = false
 #### Session 6: Critical reflections on open research information
 {{< rawhtml >}}
 <font size="-0.5">
-<em>Tuesday November 24, 16:00-16:45, room Hannover</em>
+<em>Tuesday November 24, 16:00-16:45, room Berlin</em>
 </br></br>
 {{< /rawhtml >}}
 

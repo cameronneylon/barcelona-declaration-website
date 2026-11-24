@@ -11,7 +11,7 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* Full prgramme 2026 Conference of the Barcelona Declaration - programme schedule now available  [read more](/conference_2026_berlin_programme/) 
+* Full prgramme 2026 Conference of the Barcelona Declaration - programme schedule now available  [read more](/conference_2026_berlin/) 
 
 * New Barcelona Declaration report, Open Scholarly Metadata Across Publication Formats: A Literature Review [read more](/20261110_literature_review_open_scholarly_metadata_across_publication_formats/)
 

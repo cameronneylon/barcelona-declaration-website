@@ -86,17 +86,6 @@ Please note the programme may be subject to some changes between now and the eve
 
 Are you joining us **in person** in Berlin? Find more information about the venue, local transportation and nearby hotels and restaurants in our [**Venue and travel guide**](/conference_2026_berlin_local_information/).
 
-{{< rawhtml >}}
-</br>
-<hr class="small">
-{{< /rawhtml >}}
-
-### Online registration now closed
-
-Join us online for two days of exchange on how policy and
-practical implementation can reinforce one another in advancing open
-research information. **Participation is free of charge**.
-
 **Registration for in person and online participation is now closed**.
 
 {{< rawhtml >}}

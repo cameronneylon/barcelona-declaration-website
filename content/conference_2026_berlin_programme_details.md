@@ -82,7 +82,7 @@ comments = false
         <strong>Mathijs Vleugel</strong></br>(Leibniz Association) 
         </td>
         <td style="width:60%">
-        [to be added]
+        Safeguarding Open Research Information in Geopolitically Contested Times
         </td>
         <td style="width:10%">
         </td>

@@ -354,9 +354,10 @@ comments = false
         09:00 - 09:15
         </td>
         <td style="width:80%"  valign="top">
-        <strong>Welcome and opening Day 2</strong> </br>
+        <strong>Welcome and opening Day 2</strong> </br><br>
         <strong>Lightning talk</strong></br>
         Mathijs Veugel (Helmholtz Open Science Office)
+       <a href="../conference_2026_berlin_programme_details#l0" target="_blank"> (details)</a></br>
         </td>
         <td style="width:10%"  valign="middle" rowspan="3">
           Room Hannover

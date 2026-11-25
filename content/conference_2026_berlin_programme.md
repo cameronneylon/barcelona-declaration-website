@@ -486,7 +486,7 @@ comments = false
       </td>
       <td style="width:80%"  valign="top">
         <strong>Reflections German stakeholders</strong></br></br>
-        Tonia Bieber (Federal Ministry of Education and Research - BMFTR)</br>
+        Tonia Bieber (Federal Ministry of Research, Technology and Space - BMFTR)</br>
         Matthias Kiesselbach (German Research Foundation - DFG)</br>
         Sophie Biesenbender (Commission for Research Information in Germany - KFiD)</br>
         Bernhard Mittermaier (Forschungszentrum Jülich)</br>

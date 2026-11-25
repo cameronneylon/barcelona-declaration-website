@@ -67,6 +67,29 @@ comments = false
     </table>` 
 {{< /rawhtml >}}
 
+#### Day 2 Lightning talk 
+{{< rawhtml >}}
+<font size="-0.5">
+<em>Wednesday November 25, 9:00-09:15, room Hannover</em>
+</br></br>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<font size="-0.5">
+<table>
+    <tr>
+        <td style="width:30%">
+        <strong>Mathijs Vleugel</strong></br>(Leibniz Association) 
+        </td>
+        <td style="width:60%">
+        [to be added]
+        </td>
+        <td style="width:10%">
+        </td>
+    </tr>
+    </table>` 
+{{< /rawhtml >}}
+
 ### *Sessions*
 
 {{< rawhtml >}}
